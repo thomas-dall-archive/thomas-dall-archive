@@ -1,0 +1,13 @@
+remote_theme: pages-themes/midnight@v0.2.0
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Search Engine Verification
+google_site_verification: WI3tT7ohP2_0U5k1ynd52HSD-kZ2SASAKZsuzoMSAZ8
+
+# Site Metadata
+title: "Thomas Dall / Tim Dooley Archive"
+description: "Public documentation of the history and personas of Thomas Dall."
