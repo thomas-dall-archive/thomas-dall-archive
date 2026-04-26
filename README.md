@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This is a repository set up to document the Public Figure known as Thomas Dall who changed his Identity into Tim Dooley, a potato.
 <!--
 **thomas-dall-archive/thomas-dall-archive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
