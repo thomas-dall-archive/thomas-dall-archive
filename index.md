@@ -31,6 +31,16 @@ The following accounts are the primary verified outlets for the subject. These l
 
 ## ⚖️ The "Thomas Dall" Era - (Pre-Internet Discovery)
 
+### 🔹 2016: Terroristic Threats against MP Mai Mercado
+In June 2016, the subject (operating as Thomas Dall) was arrested following a series of high-level threats against Danish MP Mai Mercado.
+
+* **The Incident:** Following a police anti-drug raid in Christiania which MP Mercado publicly praised, the subject issued graphic death threats via Facebook directed at the MP and her entire family.
+* **Targeting of Minors:** Critically, the threats specifically targeted Mercado’s newborn child, a precursor to the "Maverick" threats observed in his 2024 broadcasts.
+* **Legal Outcome:** The subject was tried and convicted for these threats. Investigative records and media reports from *The Copenhagen Post* confirm he served time in a psychiatric ward/prison facility as a direct result of this criminal conduct.
+* **Political Connection:** Documentation notes that the subject is the nephew of former Danish politician Benny Dall, a fact he has occasionally referenced to proximity-associate himself with political authority while simultaneously attacking it.
+* * **Evidence:** [CPH Post News Archive (June 2016)](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/).
+
+**Archival Insight:** This 2016 conviction establishes a legal precedent for the subject’s "Reactive Malice." It proves that his current (2024) threats against the families and children of his critics are not "empty words" but are part of a documented, recurring criminal behavior for which he has already been incarcerated.
 ### 🏥 Clinical Profile (2016 Court Evaluation)
 In a 2024 broadcast, the subject read from his 2016 court-appointed psychiatric evaluation.
 * **Diagnoses:** Identified traits of **Passive-Aggressive, Schizotypal, Narcissistic, Paranoid, Borderline, and Antisocial** disturbances, along with ADHD.
@@ -42,10 +52,6 @@ The subject has publicly admitted to a 2013 violent episode documented in court 
 * **The Incident:** The subject **punched a woman in the face 3–5 times** and **kicked her in the ribs** while she was prone on the floor.
 * **Medical Findings:** The victim suffered a 3x4cm hematoma on the skull and multiple bruises on her torso.
 * **Subject's Stance:** He justified the assault as "making her surrender" and expressed no remorse, citing his ability to "win in court" as a point of pride.
-
-### 🔹 2016: Criminal Threats against MP
-The subject was documented by Danish media for issuing death threats against MP Mai Mercado following a police drug raid.
-* **Evidence:** [CPH Post News Archive (June 2016)](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/).
 
 ---
 
