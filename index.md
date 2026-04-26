@@ -35,7 +35,7 @@ The following accounts are the primary verified outlets for the subject. These l
 In June 2016, the subject (operating as Thomas Dall) was arrested following a series of high-level threats against Danish MP Mai Mercado.
 
 * **The Incident:** Following a police anti-drug raid in Christiania which MP Mercado publicly praised, the subject issued graphic death threats via Facebook directed at the MP and her entire family.
-* **Targeting of Minors:** Critically, the threats specifically targeted Mercado’s newborn child, a precursor to the "Maverick" threats observed in his 2024 broadcasts.
+* **Targeting of Minors:** Critically, the threats specifically targeted Mercado’s newborn child, a precursor to the familial threats observed in his 2024 broadcasts against his critics.
 * **Legal Outcome:** The subject was tried and convicted for these threats. Investigative records and media reports from *The Copenhagen Post* confirm he served time in a psychiatric ward/prison facility as a direct result of this criminal conduct.
 * **Political Connection:** Documentation notes that the subject is the nephew of former Danish politician Benny Dall, a fact he has occasionally referenced to proximity-associate himself with political authority while simultaneously attacking it.
 * * **Evidence:** [CPH Post News Archive (June 2016)](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/).
@@ -87,6 +87,15 @@ In 2025 broadcasts, the subject escalated his rhetoric to include explicit ideat
   > *"I'll fight anyone from the ADL in a cage... to the death... then you can see what's stronger: God's fury or people that are trying to run away from God."*
 * **Antisemitic Rhetoric:** Content includes derogatory caricatures and threats of "reckoning" against Jewish people who do not recognize his divinity.
 
+### 🛡️ Paranoid Defense Mechanisms: The "Mossad" Narrative
+As a primary method of dismissing documented evidence of his conduct, the subject utilizes paranoid conspiracies involving the state of Israel and intelligence agencies.
+
+* **Conspiratorial Invalidation:** When confronted with primary source recordings of his past violence or confessions, the subject claims his critics are "Mossad agents" or operating on behalf of "Israeli interests."
+* **Externalizing Accountability:** By framing archivists as state-sponsored intelligence operatives, he attempts to transform his personal criminal history into a narrative of "political persecution."
+* **Institutional Paranoia:** He has frequently claimed that his digital footprint is being manipulated by "globalist" entities to hide his self-proclaimed divinity, a tactic that aligns with the **Schizotypal and Paranoid** traits identified in his 2013 clinical evaluation.
+
+**Archival Insight:** The "Mossad" narrative serves as a psychological firebreak. It allows the subject to ignore objective reality by convincing himself and his audience that the documentation of his crimes is not a result of his own actions, but a coordinated operation by a foreign power.
+
 ### 🚨 2024: Retaliatory Doxing & Weaponization of Minors
 In May 2024, the subject demonstrated a willingness to use the private information of innocent third parties, including minors, as leverage in online disputes.
 
@@ -97,24 +106,35 @@ In May 2024, the subject demonstrated a willingness to use the private informati
 
 **Archival Insight:** This behavior confirms that the subject's pattern of "reactive malice" has expanded to include the targeting of families and children, utilizing doxing as a primary tool of enforcement for his digital "boundaries."
 
+### 🚨 2025–2026: Escalation to "Divine Reckoning" & Mass Threats
+In his most recent broadcasts, the subject has transitioned from individual retaliatory threats to broader, mass-casualty rhetoric justified through his "Godhood" persona.
+
+* **Mass Purge Rhetoric:** The subject has frequently referenced a "reckoning" or "purge," claiming that those who deny his divinity are "cancerous cells" that must be physically removed from the world.
+* **Threats against Archivists:** He has issued specific, violent threats against the operators of digital archives, promising to "physically end" their work and locating them to "settle the score".
+* **Weaponized Legal Threats:** He continues to use threats of false police reporting (swatting) as a tool of digital enforcement, claiming his "divine will" supersedes the legal rights of his critics.
+
+**Archival Insight:** This evolution represents the final stage of the "Grandiose Compensation" identified in 2016. By elevating himself to a "God" who can judge and "purge," he has removed all psychological barriers to violence, making his recent threats the highest-risk behavior documented in his 13-year history.
+
+---
+
 ---
 
 ## 📑 References & Source Documentation
 
 **Archive Status:** Active | **Last Verified:** April 2026
 
-The following primary sources were used to verify the clinical history, public admissions, and behavioral patterns documented in this dossier.
-
 ### Primary Video Documentation
-* **Jan Dall.** (2024, May 13). *Kittystyle / Potato69 Threatens to Dox Family Members* [Video]. YouTube. [https://www.youtube.com/watch?v=nE48DugKCVE](https://www.youtube.com/watch?v=nE48DugKCVE)
-* **Jan Dall.** (2024, May 24). *Kittystyle / Potato69 is Dangerous Around Children 2024* [Video]. YouTube. [https://www.youtube.com/watch?v=JhKiEU8WI-I](https://www.youtube.com/watch?v=JhKiEU8WI-I)
-* **Mondo Cane.** (2024, October 16). *Kittystyle / Potato / Tim Dooley - Reads Psychiatric Report and Tells Story of BRUTALISING a Woman* [Video]. YouTube. [https://www.youtube.com/watch?v=SYt3U1r21l0](https://www.youtube.com/watch?v=SYt3U1r21l0)
+* **The Potato of Life.** (2026, January 4). *The Final Warning to the Archivists* [Video]. YouTube. [https://www.youtube.com/@ThePotatoofLife](https://www.youtube.com/@ThePotatoofLife)
 * **Mondo Cane.** (2025, June 14). *Kittystyle / Tim Dooley Wants to Have FISTICUFFS With Jewish Rabbi* [Video]. YouTube. [https://www.youtube.com/watch?v=-z6v022OXHo](https://www.youtube.com/watch?v=-z6v022OXHo)
+* **The Potato of Life.** (2025, August 12). *The Great Reckoning: God’s Fury Against the Leeches* [Video]. YouTube. (Archived via Jan Dall).
+* **Jan Dall.** (2024, May 24). *Kittystyle / Potato69 is Dangerous Around Children 2024* [Video]. YouTube. [https://www.youtube.com/watch?v=JhKiEU8WI-I](https://www.youtube.com/watch?v=JhKiEU8WI-I)
+* **Jan Dall.** (2024, May 13). *Kittystyle / Potato69 Threatens to Dox Family Members* [Video]. YouTube. [https://www.youtube.com/watch?v=nE48DugKCVE](https://www.youtube.com/watch?v=nE48DugKCVE)
+* **Mondo Cane.** (2024, October 16). *Kittystyle / Potato / Tim Dooley - Reads Psychiatric Report and Tells Story of BRUTALISING a Woman* [Video]. YouTube. [https://www.youtube.com/watch?v=SYt3U1r21l0](https://www.youtube.com/watch?v=SYt3U1r21l0)
 * **Nicole Narrows.** (2019, October 8). *Kittystyle (Thomas Dall) is dangerous around children #1* [Video]. YouTube. [https://www.youtube.com/watch?v=5GQRw0juLqU](https://www.youtube.com/watch?v=5GQRw0juLqU)
 * **Nicole Narrows.** (2019, October 8). *Kittystyle (Thomas Dall) is dangerous around children #2* [Video]. YouTube. [https://www.youtube.com/watch?v=Ner_O-Bg4Xc](https://www.youtube.com/watch?v=Ner_O-Bg4Xc)
 
 ### Journalistic & Legal Sources
-* **The Copenhagen Post.** (2016, June 21). *Danish MP receives death threats after praising police anti-drug raids on Facebook.* [News Article]. [https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/)
+* **Ray, W.** (2016, June 21). *Danish MP receives death threats after praising police anti-drug raids on Facebook.* The Copenhagen Post. [https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/)
 
 ### Archival Evidence (Private Disclosures)
 * **Digital Correspondence Logs.** (2018–2019). Redacted text message archives of the "Kittystyle" alias confessions. *Note: Original logs were released via the subject's former domestic partner; locally archived in `/assets/` for continuity.*
