@@ -29,10 +29,10 @@ The following accounts are the primary verified outlets for the subject. These l
 
 ---
 
-## ⚖️ The "Thomas Dall" Era (Denmark)
+## ⚖️ The "Thomas Dall" Era - (Pre-Internet Discovery)
 
-### 🏥 Clinical Profile (2013 Court Evaluation)
-In a 2024 broadcast, the subject read from his 2013 court-appointed psychiatric evaluation.
+### 🏥 Clinical Profile (2016 Court Evaluation)
+In a 2024 broadcast, the subject read from his 2016 court-appointed psychiatric evaluation.
 * **Diagnoses:** Identified traits of **Passive-Aggressive, Schizotypal, Narcissistic, Paranoid, Borderline, and Antisocial** disturbances, along with ADHD.
 * **Grandiose Compensation:** Clinicians noted his "grandiose" self-reflection is a mechanism used to mask **deep-seated low self-esteem**.
 * **Distorted Perception:** The report documented a tendency to misinterpret neutral actions as **hidden threats or betrayals**, leading to social withdrawal and authority resistance.
