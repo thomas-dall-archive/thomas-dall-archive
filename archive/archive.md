@@ -13,6 +13,7 @@ title: Video Evidence Archive
   fetch('./archive.json')
     .then(res => res.json())
     .then(data => {
+      console.log("Archive Load Success! Videos found:", data.length);
       const container = document.getElementById('video-gallery');
       data.reverse().forEach(v => {
         container.innerHTML += `
