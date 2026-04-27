@@ -14,7 +14,21 @@ jobs:
           sudo chmod a+rx /usr/local/bin/yt-dlp
           
       - name: Run Global Sync
+        env:
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
         run: |
+         # Create a temporary cookies file from the secret
+         echo "$YT_COOKIES" > cookies.txt
+         
+         cd archive
+         python update_archive.py
+         cd ..
+         
+         cd transcripts
+         # Move the cookies file into the transcripts folder so the script can see it
+         mv ../cookies.txt .
+         python update_transcripts.py
+         cd ..run: |
          # 1. Sync Video Evidence Archive (Mirrors)
          cd archive
          python update_archive.py
