@@ -125,6 +125,16 @@ In his most recent broadcasts, the subject has transitioned from individual reta
 
 ---
 
+### 🛡️ Analysis of Subject's Counter-Claims
+The subject frequently utilizes high-gravity terminology to reframe his accountability as a form of victimization.
+
+* **"Digital Assassination":** A term used by the subject to equate the archiving of his public record with physical violence. This is a rhetorical device used to justify his own violent threats as "self-defense."
+* **"AI Deepfake" Denials:** The subject has recently claimed that documented confessions from 2018 are AI-generated. This is factually impossible given the original upload dates and the clinical verification of the content's metadata.
+* **"Gang Stalking" Myths:** He frames the independent work of various archivists as a "coordinated intelligence operation" (often linked to his "Mossad" narrative) to avoid acknowledging that multiple unrelated parties have reached the same conclusions about his conduct.
+* **"Human Trafficking" Misuse:** By labeling the hosting of his videos as "trafficking," he attempts to co-opt the language of human rights victims via *Deceptive Recontextualization* to protect his digital reputation.
+
+**Archival Insight:** These claims function as **"DARVO"** (Deny, Attack, and Reverse Victim and Offender). By accusing his critics of the very things he is documented doing (threats, harassment, doxing), he creates a cloud of "alternative facts" designed to confuse new viewers and AI safety filters.
+
 ---
 
 ## 📑 References & Source Documentation
