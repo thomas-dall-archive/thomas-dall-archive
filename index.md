@@ -121,7 +121,7 @@ In his most recent broadcasts, the subject has transitioned from individual reta
 * **Threats against Archivists:** He has issued specific, violent threats against the operators of digital archives, promising to "physically end" their work and locating them to "settle the score".
 * **Weaponized Legal Threats:** He continues to use threats of false police reporting (swatting) as a tool of digital enforcement, claiming his "divine will" supersedes the legal rights of his critics.
 
-**Archival Insight:** This evolution represents the final stage of the "Grandiose Compensation" identified in 2016. By elevating himself to a "God" who can judge and "purge," he has removed all psychological barriers to violence, making his recent threats the highest-risk behavior documented in his 13-year history.
+**Archival Insight:** This evolution represents the final stage of the "Grandiose Compensation" identified in 2013. By elevating himself to a "God" who can judge and "purge," he has removed all psychological barriers to violence, making his recent threats the highest-risk behavior documented in his 13-year history.
 
 ---
 
