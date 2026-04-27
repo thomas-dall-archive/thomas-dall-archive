@@ -31,6 +31,22 @@ The following accounts are the primary verified outlets for the subject. These l
 
 ## ⚖️ The "Thomas Dall" Era - (Pre-Internet Discovery)
 
+### 🔹 2013: Documented Physical Assault
+The subject has publicly admitted to a 2013 violent episode documented in court testimonies.
+* **The Incident:** The subject **punched a woman in the face 3–5 times** and **kicked her in the ribs** while she was prone on the floor.
+* **Medical Findings:** The victim suffered a 3x4cm hematoma on the skull and multiple bruises on her torso.
+* **Subject's Stance:** He justified the assault as "making her surrender" and expressed no remorse, citing his ability to "win in court" as a point of pride.
+
+**Archival Insight:** Archival Insight: This 2013 incident establishes the subject's baseline for physical escalation and a total absence of victim empathy. His justification of the assault as "making her surrender" is a direct precursor to his current "Loving Fists" doctrine, where he frames physical or verbal abuse as a "divine necessity." By documenting this, the archive proves that his current rhetoric is merely a modern rebranding of a long-standing pattern of interpersonal violence.
+
+### 🏥 Clinical Profile (2013 Court Evaluation)
+In a 2024 broadcast, the subject read from his court-appointed psychiatric evaluation (conducted circa 2013).
+* **Diagnoses:** Identified traits of **Passive-Aggressive, Schizotypal, Narcissistic, Paranoid, Borderline, and Antisocial** disturbances.
+* **Grandiose Compensation:** Clinicians noted his "grandiose" self-reflection is a mechanism used to mask **deep-seated low self-esteem**.
+* **Distorted Perception:** The report documented a tendency to misinterpret neutral actions as **hidden threats or betrayals**, leading to social withdrawal and authority resistance.
+
+**Archival Insight:** This profile provides the psychological blueprint for the subject’s "Tim Dooley" persona. The **"Grandiose Compensation"** identified by clinicians has evolved from a defense mechanism into a full-scale religious delusion (claiming to be God). Furthermore, the **"Distorted Perception"** of neutral actions as betrayals explains his current pattern of retaliatory doxing and familial threats against anyone who documents his public history.
+
 ### 🔹 2016: Terroristic Threats against MP Mai Mercado
 In June 2016, the subject (operating as Thomas Dall) was arrested following a series of high-level threats against Danish MP Mai Mercado.
 
@@ -41,17 +57,7 @@ In June 2016, the subject (operating as Thomas Dall) was arrested following a se
 * * **Evidence:** [CPH Post News Archive (June 2016)](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/).
 
 **Archival Insight:** This 2016 conviction establishes a legal precedent for the subject’s "Reactive Malice." It proves that his current (2024) threats against the families and children of his critics are not "empty words" but are part of a documented, recurring criminal behavior for which he has already been incarcerated.
-### 🏥 Clinical Profile (2016 Court Evaluation)
-In a 2024 broadcast, the subject read from his 2016 court-appointed psychiatric evaluation.
-* **Diagnoses:** Identified traits of **Passive-Aggressive, Schizotypal, Narcissistic, Paranoid, Borderline, and Antisocial** disturbances, along with ADHD.
-* **Grandiose Compensation:** Clinicians noted his "grandiose" self-reflection is a mechanism used to mask **deep-seated low self-esteem**.
-* **Distorted Perception:** The report documented a tendency to misinterpret neutral actions as **hidden threats or betrayals**, leading to social withdrawal and authority resistance.
 
-### 🔹 2013: Documented Physical Assault
-The subject has publicly admitted to a 2013 violent episode documented in court testimonies.
-* **The Incident:** The subject **punched a woman in the face 3–5 times** and **kicked her in the ribs** while she was prone on the floor.
-* **Medical Findings:** The victim suffered a 3x4cm hematoma on the skull and multiple bruises on her torso.
-* **Subject's Stance:** He justified the assault as "making her surrender" and expressed no remorse, citing his ability to "win in court" as a point of pride.
 
 ---
 
@@ -59,10 +65,12 @@ The subject has publicly admitted to a 2013 violent episode documented in court 
 
 ### 🚨 2018–2019: Confessions & Predatory Ideation
 While operating as **"Kittystyle,"** the subject’s history of familial abuse became public knowledge, followed by recorded public threats.
-* **The Disclosure:** The mother of the subject's child released text logs containing a **self-admitted confession** regarding the molestation of a minor sibling.
+* **The Disclosure:** The mother of the subject's unborn child released text logs containing a **self-admitted confession** regarding the molestation of a minor sibling.
 * **Intent to Offend:** In October 2019, the subject recorded statements expressing a premeditated intent to seek out a minor and livestream the encounter.
 * **Retaliatory Threat Tactics:** The subject used threats of child abuse as a "retaliatory" weapon, claiming he would "become" a pedophile to spite his critics.
 * **Blame Externalization:** He explicitly stated that if he were to offend, the responsibility would lie with those who "radicalized" him by labeling him.
+
+**Archival Insight:** This era marks the most significant "Identity Pivot" in the subject's history. The transition from "Kittystyle" to "Tim Dooley" was not a spiritual evolution, but a tactical response to the public release of these confessions. By declaring "Kittystyle" to be dead, the subject attempts to grant himself a "digital pardon" for self-admitted conduct. Furthermore, his claim that critics "radicalized" him into predatory ideation is a classic manifestation of the "Externalization of Blame" identified in his 2013 clinical profile.
 
 ---
 
