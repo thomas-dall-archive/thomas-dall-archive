@@ -17,16 +17,16 @@ existing_ids = {v['id'] for v in archive_data}
 
 # 3. Check each channel for the latest 5 videos
 for url in channels:
-    cmd = ['yt-dlp', '--get-title', '--get-id', '--get-thumbnail', '--playlist-end', '5', url]
-    result = subprocess.run(cmd, capture_output=True, text=True).stdout.splitlines()
-
-    for i in range(0, len(result), 3):
-        try:
-            v_title, v_id, v_thumb = result[i], result[i+1], result[i+2]
-            if v_id not in existing_ids:
-                archive_data.append({"id": v_id, "title": v_title, "url": f"https://youtu.be/{v_id}", "thumbnail": v_thumb})
-        except: continue
-
+    print(f"Scanning {url}...")
+    cmd = [
+        'yt-dlp', 
+        '--get-title', 
+        '--get-id', 
+        '--get-thumbnail', 
+        '--playlist-end', '50', 
+        '--flat-playlist', # This is faster and more reliable for lists
+        url
+    ]
 # 4. Save the results
 with open('archive.json', 'w') as f:
     json.dump(archive_data, f, indent=2)
