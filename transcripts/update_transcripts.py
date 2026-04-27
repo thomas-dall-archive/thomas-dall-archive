@@ -45,7 +45,8 @@ def run_sync():
     # Added user-agent and player-client to look more like a browser
     subprocess.run([
         'yt-dlp', 
-        '--write-auto-subs', 
+        '--write-auto-subs',
+        '--cookies', 'cookies.txt',
         '--skip-download', 
         '--sub-format', 'vtt', 
         '--playlist-end', '5',
