@@ -21,11 +21,9 @@ def clean_vtt(vtt_text):
     
     for line in lines:
         if "-->" in line:
-            # If we have collected text for a previous timestamp, save it
             if current_text:
                 text_content = " ".join(current_text).strip()
                 if text_content:
-                    # Convert "00:01:23" to total seconds for the URL link
                     h, m, s = map(int, current_time.split(':'))
                     total_seconds = h * 3600 + m * 60 + s
                     entries.append({
@@ -35,13 +33,11 @@ def clean_vtt(vtt_text):
                     })
                 current_text = []
             
-            # Update current timestamp
             match = timestamp_re.search(line)
             if match:
                 current_time = match.group(1)
         
         elif not any(x in line for x in ["WEBVTT", "Kind:", "Language:"]) and line.strip():
-            # Clean out auto-sub HTML tags like <c>
             clean_line = re.sub(r'<[^>]*>', '', line)
             if clean_line.strip():
                 current_text.append(clean_line.strip())
@@ -52,7 +48,6 @@ def run_sync():
     print(f"--- Starting Primary Transcript Sync: {datetime.now()} ---")
     
     # 1. Fetch metadata and subtitles for the latest 5 videos
-    # We limit to 5 to keep the GitHub Action fast and avoid rate limits
     subprocess.run([
         'yt-dlp', 
         '--write-auto-subs', 
@@ -70,7 +65,7 @@ def run_sync():
         if file.startswith("temp_sub_") and file.endswith(".vtt"):
             video_id = file.replace("temp_sub_", "").split('.')[0]
             
-            # Fetch video title using yt-dlp
+            # Fetch video title
             title_process = subprocess.run(
                 ['yt-dlp', '--get-title', f'https://youtu.be/{video_id}'],
                 capture_output=True, text=True
@@ -85,6 +80,26 @@ def run_sync():
                 
                 lines_data = clean_vtt(raw_content)
                 
+                # Fixed the SyntaxError here by ensuring all braces are closed
                 all_transcripts.append({
                     "id": video_id,
                     "title": video_title,
+                    "url": f"https://www.youtube.com/watch?v={video_id}",
+                    "date": datetime.now().strftime("%Y-%m-%d"),
+                    "lines": lines_data
+                })
+            except Exception as e:
+                print(f"Error processing {file}: {e}")
+            
+            os.remove(file) # Clean up temp file
+
+    # 3. Save the results
+    if all_transcripts:
+        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+            json.dump(all_transcripts, f, indent=2)
+        print(f"Success: {OUTPUT_FILE} updated.")
+    else:
+        print("No new transcripts found. Check if the channel has auto-captions enabled.")
+
+if __name__ == "__main__":
+    run_sync()
