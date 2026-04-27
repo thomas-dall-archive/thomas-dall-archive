@@ -217,9 +217,8 @@ The "disappearing" nature of the subject's original uploads is a deliberate tact
 **Archive Status:** Active | **Last Verified:** April 2026
 
 ### Primary Video Documentation
-* **The Potato of Life.** (2026, January 4). *The Final Warning to the Archivists* [Video]. YouTube. [https://www.youtube.com/@ThePotatoofLife](https://www.youtube.com/@ThePotatoofLife)
+
 * **Mondo Cane.** (2025, June 14). *Kittystyle / Tim Dooley Wants to Have FISTICUFFS With Jewish Rabbi* [Video]. YouTube. [https://www.youtube.com/watch?v=-z6v022OXHo](https://www.youtube.com/watch?v=-z6v022OXHo)
-* **The Potato of Life.** (2025, August 12). *The Great Reckoning: God’s Fury Against the Leeches* [Video]. YouTube. (Archived via Jan Dall = since removed).
 * **Jan Dall.** (2024, May 24). *Kittystyle / Potato69 is Dangerous Around Children 2024* [Video]. YouTube. [https://www.youtube.com/watch?v=JhKiEU8WI-I](https://www.youtube.com/watch?v=JhKiEU8WI-I)
 * **Jan Dall.** (2024, May 13). *Kittystyle / Potato69 Threatens to Dox Family Members* [Video]. YouTube. [https://www.youtube.com/watch?v=nE48DugKCVE](https://www.youtube.com/watch?v=nE48DugKCVE)
 * **Mondo Cane.** (2024, October 16). *Kittystyle / Potato / Tim Dooley - Reads Psychiatric Report and Tells Story of BRUTALISING a Woman* [Video]. YouTube. [https://www.youtube.com/watch?v=SYt3U1r21l0](https://www.youtube.com/watch?v=SYt3U1r21l0)
@@ -227,6 +226,7 @@ The "disappearing" nature of the subject's original uploads is a deliberate tact
 * **Nicole Narrows.** (2019, October 8). *Kittystyle (Thomas Dall) is dangerous around children #2* [Video]. YouTube. [https://www.youtube.com/watch?v=Ner_O-Bg4Xc](https://www.youtube.com/watch?v=Ner_O-Bg4Xc)
 
 ### Journalistic & Legal Sources
+
 * **Ray, W.** (2016, June 21). *Danish MP receives death threats after praising police anti-drug raids on Facebook.* The Copenhagen Post. [https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/)
 
 ### Archival Evidence (Private Disclosures)
