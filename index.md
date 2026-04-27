@@ -125,7 +125,7 @@ In his most recent broadcasts, the subject has transitioned from individual reta
 
 ---
 
-### 🛡️ Analysis of Subject's Counter-Claims
+## 🛡️ Analysis of Subject's Counter-Claims
 The subject frequently utilizes high-gravity terminology to reframe his accountability as a form of victimization.
 
 * **"Digital Assassination":** A term used by the subject to equate the archiving of his public record with physical violence. This is a rhetorical device used to justify his own violent threats as "self-defense."
