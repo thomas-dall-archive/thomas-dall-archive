@@ -19,7 +19,7 @@ The subject operates using a dual-layer identity system: a "Human" name for logi
 | Legal/Primary Name | Digital Handle(s) | Active Era | Status |
 | :--- | :--- | :--- | :--- |
 | **Thomas Dall** | **Kittystyle / Kitty** | 19XX – 2019 | Abandoned following 2018 disclosures. |
-| **Tim Dooley** | **The Potato of Life** | 2024 – Present | Active; utilized for "Godhood" claims. |
+| **Tim Dooley** | **The Potato of Life** | 2023 – Present | Active; utilized for "Godhood" claims. |
 
 ### 🌐 Digital Footprint & Current Handles
 The following accounts are the primary verified outlets for the subject. These links are provided for cross-referencing and identity verification purposes.
@@ -74,7 +74,7 @@ While operating as **"Kittystyle,"** the subject’s history of familial abuse b
 
 ---
 
-## 🌀 Current Persona: "The Potato of Life" (2024–Present)
+## 🌀 Current Persona: "The Potato of Life" (2023–Present)
 
 The subject currently broadcasts daily, utilizing religious terminology to shield his history and justify aggressive ideation.
 
