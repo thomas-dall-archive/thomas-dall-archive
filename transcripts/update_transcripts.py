@@ -45,13 +45,12 @@ def run_sync():
     # Added user-agent and player-client to look more like a browser
     subprocess.run([
         'yt-dlp', 
-        '--write-auto-subs',
-        '--cookies', 'cookies.txt',
+        '--cookies', 'cookies.txt',  # Use the session cookies
+        '--write-auto-subs', 
         '--skip-download', 
         '--sub-format', 'vtt', 
         '--playlist-end', '5',
         '--user-agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
-        '--extractor-args', 'youtube:player_client=web',
         '--output', 'temp_sub_%(id)s.%(ext)s', 
         CHANNEL_URL
     ])
