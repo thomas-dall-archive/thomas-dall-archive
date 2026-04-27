@@ -114,9 +114,10 @@ In June 2016, the subject (operating as Thomas Dall) was arrested following a se
 * **Targeting of Minors:** Critically, the threats specifically targeted Mercado’s newborn child, a precursor to the familial threats observed in his 2024 broadcasts against his critics.
 * **Legal Outcome:** The subject was tried and convicted for these threats. Investigative records and media reports from *The Copenhagen Post* confirm he served time in a psychiatric ward/prison facility as a direct result of this criminal conduct.
 * **Political Connection:** Documentation notes that the subject is the nephew of former Danish politician Benny Dall, a fact he has occasionally referenced to proximity-associate himself with political authority while simultaneously attacking it.
-* * **Evidence:** [CPH Post News Archive (June 2016)](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/).
+* **Evidence:** [CPH Post News Archive (June 2016)](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/).
 
 >**Archival Insight:** This 2016 conviction establishes a legal precedent for the subject’s "Reactive Malice." It proves that his current (2024) threats against the families and children of his critics are not "empty words" but are part of a documented, recurring criminal behavior for which he has already been incarcerated.
+
 ---
 
 ## ⚠️ The "Kittystyle" Era (2017–2019)
