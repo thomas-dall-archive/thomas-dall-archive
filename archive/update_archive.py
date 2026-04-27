@@ -26,13 +26,21 @@ existing_ids = {v['id'] for v in archive_data}
 for url in channels:
     print(f"--- Scanning Channel: {url} ---")
     
+    # New, more stable command for 2026
     cmd = [
         'yt-dlp', 
-        '--get-title', '--get-id', '--get-thumbnail', 
-        '--playlist-end', '20', 
+        '--quiet',
+        '--no-warnings',
+        '--playlist-end', '20',
+        '--print', '%(title)s',
+        '--print', '%(id)s',
+        '--print', '%(thumbnail)s',
         '--user-agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         url
     ]
+    
+    result_proc = subprocess.run(cmd, capture_output=True, text=True)
+    result = result_proc.stdout.splitlines()
     
     result_proc = subprocess.run(cmd, capture_output=True, text=True)
     result = result_proc.stdout.splitlines()
