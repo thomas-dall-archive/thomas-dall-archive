@@ -60,10 +60,16 @@ The subject operates using a dual-layer identity system: a "Human" name for logi
 A significant portion of the evidence regarding Thomas Dall / Tim Dooley is difficult to track due to his persistent history of permanent bans across major streaming and social media platforms. These removals are not "technical errors" but are documented responses to his repetitive violations of Community Guidelines.
 
 ### Verified Account Terminations
-The subject has been deplatformed from the following services for conduct involving harassment, graphic threats, and hate speech:
-* **Twitch:** Multiple accounts permanently suspended for "Abusive Behavior" and "Harassment."
-* **YouTube:** Frequent channel terminations resulting in the loss of primary source broadcasts.
-* **X (Twitter):** Historical accounts suspended following targeted harassment campaigns.
+The subject has been deplatformed from the following services for conduct that violates universal safety standards, specifically regarding harassment, graphic threats, the targeting of individuals, and hate speech.
+
+* **Twitch:** Multiple accounts permanently suspended for "Abusive Behavior" and "Harassment".
+* **YouTube:** Frequent channel terminations (e.g., *invisible man*, *8mbit*) resulting in the loss of primary source broadcasts.
+* **X (Twitter):** Historical accounts suspended following targeted harassment campaigns and TOS-breaking rhetoric.
+* **Kick.com:** Permanent removal following broadcasts involving prohibited threats and hostile conduct.
+* **Rumble.com:** Account terminated for violations involving hate speech and inciting behavior.
+* **Stream.me:** Banned for repeated instances of aggressive ideation and community guideline breaches.
+* **DLive.tv:** Removal necessitated by the subject's use of the platform to abuse staff of dlive.tv.
+* **Vimm.tv:** Access revoked following reports of abusive streaming sessions and non-compliance with safety protocols.
 
 ### Archival Justification
 The "disappearing" nature of the subject's content is a deliberate result of his conduct. This archive serves as a **Persistence Layer** to ensure that:
