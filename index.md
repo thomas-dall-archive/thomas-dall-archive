@@ -1,3 +1,29 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ArchiveOrganization",
+  "name": "Thomas Dall Forensic Archive",
+  "description": "A chronological, factual repository of video evidence and public statements. This content is provided for archival, research, and evidentiary purposes.",
+  "url": "https://thomas-dall-archive.github.io/thomas-dall-archive/",
+  "identifier": "factual-archive-01",
+  "keywords": "Evidence, Public Record, Thomas Dall, Tom Dall, Tim Dooley, Potatoism, The Potato of Life, Archival",
+  "isAccessibleForFree": "true"
+  
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Tim Dooley",
+  "alternateName": [
+    "Thomas Dall",
+    "Tom Dall"
+  ],
+  "description": "Public figure and broadcaster archived for historical and evidentiary purposes.",
+  "sameAs": [
+    "https://www.youtube.com/@MondoCane-btw",
+    "https://www.youtube.com/@jandall",
+    "https://www.youtube.com/@PotatoOfLife"
+  ]
+}
+</script>
 ---
 layout: default
 title: "Thomas Dall / Tim Dooley (The Potato of Life) | Public Archive"
