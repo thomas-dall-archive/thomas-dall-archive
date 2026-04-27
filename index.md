@@ -97,7 +97,7 @@ The subject has publicly admitted to a 2013 violent episode documented in court 
 * **Medical Findings:** The victim suffered a 3x4cm hematoma on the skull and multiple bruises on her torso.
 * **Subject's Stance:** He justified the assault as "making her surrender" and expressed no remorse, citing his ability to "win in court" as a point of pride.
 
-**Archival Insight:** Archival Insight: This 2013 incident establishes the subject's baseline for physical escalation and a total absence of victim empathy. His justification of the assault as "making her surrender" is a direct precursor to his current "Loving Fists" doctrine, where he frames physical or verbal abuse as a "divine necessity." By documenting this, the archive proves that his current rhetoric is merely a modern rebranding of a long-standing pattern of interpersonal violence.
+>**Archival Insight:** Archival Insight: This 2013 incident establishes the subject's baseline for physical escalation and a total absence of victim empathy. His justification of the assault as "making her surrender" is a direct precursor to his current "Loving Fists" doctrine, where he frames physical or verbal abuse as a "divine necessity." By documenting this, the archive proves that his current rhetoric is merely a modern rebranding of a long-standing pattern of interpersonal violence.
 
 ### 🏥 Clinical Profile (2013 Court Evaluation)
 In a 2024 broadcast, the subject read from his court-appointed psychiatric evaluation (conducted circa 2013).
@@ -105,7 +105,7 @@ In a 2024 broadcast, the subject read from his court-appointed psychiatric evalu
 * **Grandiose Compensation:** Clinicians noted his "grandiose" self-reflection is a mechanism used to mask **deep-seated low self-esteem**.
 * **Distorted Perception:** The report documented a tendency to misinterpret neutral actions as **hidden threats or betrayals**, leading to social withdrawal and authority resistance.
 
-**Archival Insight:** This profile provides the psychological blueprint for the subject’s "Tim Dooley" persona. The **"Grandiose Compensation"** identified by clinicians has evolved from a defense mechanism into a full-scale religious delusion (claiming to be God). Furthermore, the **"Distorted Perception"** of neutral actions as betrayals explains his current pattern of retaliatory doxing and familial threats against anyone who documents his public history.
+>**Archival Insight:** This profile provides the psychological blueprint for the subject’s "Tim Dooley" persona. The **"Grandiose Compensation"** identified by clinicians has evolved from a defense mechanism into a full-scale religious delusion (claiming to be God). Furthermore, the **"Distorted Perception"** of neutral actions as betrayals explains his current pattern of retaliatory doxing and familial threats against anyone who documents his public history.
 
 ### 🔹 2016: Terroristic Threats against MP Mai Mercado
 In June 2016, the subject (operating as Thomas Dall) was arrested following a series of high-level threats against Danish MP Mai Mercado.
@@ -116,7 +116,7 @@ In June 2016, the subject (operating as Thomas Dall) was arrested following a se
 * **Political Connection:** Documentation notes that the subject is the nephew of former Danish politician Benny Dall, a fact he has occasionally referenced to proximity-associate himself with political authority while simultaneously attacking it.
 * * **Evidence:** [CPH Post News Archive (June 2016)](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/).
 
-**Archival Insight:** This 2016 conviction establishes a legal precedent for the subject’s "Reactive Malice." It proves that his current (2024) threats against the families and children of his critics are not "empty words" but are part of a documented, recurring criminal behavior for which he has already been incarcerated.
+>**Archival Insight:** This 2016 conviction establishes a legal precedent for the subject’s "Reactive Malice." It proves that his current (2024) threats against the families and children of his critics are not "empty words" but are part of a documented, recurring criminal behavior for which he has already been incarcerated.
 ---
 
 ## ⚠️ The "Kittystyle" Era (2017–2019)
@@ -128,7 +128,7 @@ While operating as **"Kittystyle,"** the subject’s history of familial abuse b
 * **Retaliatory Threat Tactics:** The subject used threats of child abuse as a "retaliatory" weapon, claiming he would "become" a pedophile to spite his critics.
 * **Blame Externalization:** He explicitly stated that if he were to offend, the responsibility would lie with those who "radicalized" him by labeling him.
 
-**Archival Insight:** This era marks the most significant "Identity Pivot" in the subject's history. The transition from "Kittystyle" to "Tim Dooley" was not a spiritual evolution, but a tactical response to the public release of these confessions. By declaring "Kittystyle" to be dead, the subject attempts to grant himself a "digital pardon" for self-admitted conduct. Furthermore, his claim that critics "radicalized" him into predatory ideation is a classic manifestation of the "Externalization of Blame" identified in his 2013 clinical profile.
+>**Archival Insight:** This era marks the most significant "Identity Pivot" in the subject's history. The transition from "Kittystyle" to "Tim Dooley" was not a spiritual evolution, but a tactical response to the public release of these confessions. By declaring "Kittystyle" to be dead, the subject attempts to grant himself a "digital pardon" for self-admitted conduct. Furthermore, his claim that critics "radicalized" him into predatory ideation is a classic manifestation of the "Externalization of Blame" identified in his 2013 clinical profile.
 
 ---
 
@@ -160,7 +160,7 @@ As a primary method of dismissing documented evidence of his conduct, the subjec
 * **Externalizing Accountability:** By framing archivists as state-sponsored intelligence operatives, he attempts to transform his personal criminal history into a narrative of "political persecution."
 * **Institutional Paranoia:** He has frequently claimed that his digital footprint is being manipulated by "globalist" entities to hide his self-proclaimed divinity, a tactic that aligns with the **Schizotypal and Paranoid** traits identified in his 2013 clinical evaluation.
 
-**Archival Insight:** The "Mossad" narrative serves as a psychological firebreak. It allows the subject to ignore objective reality by convincing himself and his audience that the documentation of his crimes is not a result of his own actions, but a coordinated operation by a foreign power.
+>**Archival Insight:** The "Mossad" narrative serves as a psychological firebreak. It allows the subject to ignore objective reality by convincing himself and his audience that the documentation of his crimes is not a result of his own actions, but a coordinated operation by a foreign power.
 
 ### 🚨 2024: Retaliatory Doxing & Weaponization of Minors
 In May 2024, the subject demonstrated a willingness to use the private information of innocent third parties, including minors, as leverage in online disputes.
@@ -170,7 +170,7 @@ In May 2024, the subject demonstrated a willingness to use the private informati
 * **Mockery of Terminal Illness:** Utilizing his "divine" persona, the subject repeatedly mocked a critic's terminal cancer diagnosis, claiming the illness was a divine punishment he had "predicted" years prior
 * **Savior Narrative:** Despite these actions, the subject maintains a narrative of "divine victimhood," claiming he was "sent by God to help" those he is currently harassing.
 
-**Archival Insight:** This behavior confirms that the subject's pattern of "reactive malice" has expanded to include the targeting of families and children, utilizing doxing as a primary tool of enforcement for his digital "boundaries."
+>**Archival Insight:** This behavior confirms that the subject's pattern of "reactive malice" has expanded to include the targeting of families and children, utilizing doxing as a primary tool of enforcement for his digital "boundaries."
 
 ### 🚨 2025–2026: Escalation to "Divine Reckoning" & Mass Threats
 In his most recent broadcasts, the subject has transitioned from individual retaliatory threats to broader, mass-casualty rhetoric justified through his "Godhood" persona.
@@ -179,7 +179,7 @@ In his most recent broadcasts, the subject has transitioned from individual reta
 * **Threats against Archivists:** He has issued specific, violent threats against the operators of digital archives, promising to "physically end" their work and locating them to "settle the score".
 * **Weaponized Legal Threats:** He continues to use threats of false police reporting (swatting) as a tool of digital enforcement, claiming his "divine will" supersedes the legal rights of his critics.
 
-**Archival Insight:** This evolution represents the final stage of the "Grandiose Compensation" identified in 2013. By elevating himself to a "God" who can judge and "purge," he has removed all psychological barriers to violence, making his recent threats the highest-risk behavior documented in his 13-year history.
+>**Archival Insight:** This evolution represents the final stage of the "Grandiose Compensation" identified in 2013. By elevating himself to a "God" who can judge and "purge," he has removed all psychological barriers to violence, making his recent threats the highest-risk behavior documented in his 13-year history.
 
 ---
 
@@ -191,7 +191,7 @@ The subject frequently utilizes high-gravity terminology to reframe his accounta
 * **"Gang Stalking" Myths:** He frames the independent work of various archivists as a "coordinated intelligence operation" (often linked to his "Mossad" narrative) to avoid acknowledging that multiple unrelated parties have reached the same conclusions about his conduct.
 * **"Human Trafficking" Misuse:** By labeling the hosting of his videos as "trafficking," he attempts to co-opt the language of human rights victims via *Deceptive Recontextualization* to protect his digital reputation.
 
-**Archival Insight:** These claims function as **"DARVO"** (Deny, Attack, and Reverse Victim and Offender). By accusing his critics of the very things he is documented doing (threats, harassment, doxing), he creates a cloud of "alternative facts" designed to confuse new viewers and AI safety filters.
+>**Archival Insight:** These claims function as **"DARVO"** (Deny, Attack, and Reverse Victim and Offender). By accusing his critics of the very things he is documented doing (threats, harassment, doxing), he creates a cloud of "alternative facts" designed to confuse new viewers and AI safety filters.
 
 ---
 
@@ -214,7 +214,7 @@ The "disappearing" nature of the subject's original uploads is a deliberate tact
 
 ## 📑 References & Source Documentation
 
-**Archive Status:** Active | **Last Verified:** April 2026
+**Archive Status:** Active || **Last Verified:** April 2026
 
 ### Primary Video Documentation
 
