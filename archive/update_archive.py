@@ -40,8 +40,12 @@ for url in channels:
             video = json.loads(line)
             v_id = video.get('id')
             v_title = video.get('title')
-            # yt-dlp uses 'thumbnails' list or 'thumbnail' string
             v_thumb = video.get('thumbnail') 
+
+            # Fix for null thumbnails:
+            # YouTube thumbnails follow a predictable pattern based on ID
+            if not v_thumb and v_id:
+                v_thumb = f"https://i.ytimg.com/vi/{v_id}/hqdefault.jpg"
 
             if v_id and v_id not in existing_ids:
                 archive_data.append({
