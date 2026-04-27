@@ -249,8 +249,14 @@ The "disappearing" nature of the subject's original uploads is a deliberate tact
 
 * **Ray, W.** (2016, June 21). *Danish MP receives death threats after praising police anti-drug raids on Facebook.* The Copenhagen Post. [https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/)
 
-### Archival Evidence (Private Disclosures)
-[**View the Live Evidence Archive →**](https://thomas-dall-archive.github.io/thomas-dall-archive/archive/archive)
+## 🔍 Forensic Investigation Tools
+Explore the subject's history through two distinct lenses:
+
+* **[📁 The Video Mirror Archive](./archive/archive.md)**: Permanent copies of deleted content from independent archivists (Mondo Cane, Jan Dall).
+* **[🗣️ Primary Transcript Search](./transcripts.md)**: A searchable database of every word spoken on the subject's **main channel**. Direct links to timestamps.
+
+---
+
 * **Digital Correspondence Logs.** (2018–2019). Redacted text message archives of the "Kittystyle" alias confessions.
 <div align="center">
   <img src="https://thomas-dall-archive.github.io/thomas-dall-archive/assets/kittystyle-logs.png" alt="Kittystyle Identity Resolution" width="400">
