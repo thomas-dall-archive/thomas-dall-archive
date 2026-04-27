@@ -6,26 +6,30 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 channels_path = os.path.join(BASE_DIR, 'channels.txt')
 archive_json_path = os.path.join(BASE_DIR, 'archive.json')
 
+# 1. Load the list of channels
 with open(channels_path, 'r') as f:
     channels = [line.strip() for line in f if line.strip()]
 
+# 2. Load existing archive data
 if os.path.exists(archive_json_path):
     with open(archive_json_path, 'r') as f:
-        archive_data = json.load(f)
+        try:
+            archive_data = json.load(f)
+        except:
+            archive_data = []
 else:
     archive_data = []
 
 existing_ids = {v['id'] for v in archive_data}
 
+# 3. Scan each channel
 for url in channels:
     print(f"--- Scanning Channel: {url} ---")
     
-    # We add a 'user-agent' to avoid being blocked as a bot
     cmd = [
         'yt-dlp', 
         '--get-title', '--get-id', '--get-thumbnail', 
         '--playlist-end', '20', 
-        '--flat-playlist',
         '--user-agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         url
     ]
@@ -33,12 +37,18 @@ for url in channels:
     result_proc = subprocess.run(cmd, capture_output=True, text=True)
     result = result_proc.stdout.splitlines()
     
-    if not result:
-        print(f"Warning: No data returned for {url}. Error log: {result_proc.stderr}")
-
+    # 4. Process the results (Title, ID, Thumb)
     for i in range(0, len(result), 3):
         try:
-            v_title, v_id, v_thumb = result[i], result[i+1], result[i+2]
+            v_title = result[i].strip()
+            v_id = result[i+1].strip()
+            v_thumb = result[i+2].strip()
+            
+            # Safety Check: Ensure we didn't just get the ID instead of a Title
+            if v_title == v_id or not v_title:
+                print(f"Skipping {v_id}: Real title not found yet.")
+                continue
+
             if v_id not in existing_ids:
                 archive_data.append({
                     "id": v_id, 
@@ -46,11 +56,13 @@ for url in channels:
                     "url": f"https://youtu.be/{v_id}", 
                     "thumbnail": v_thumb
                 })
-                print(f"NEW VIDEO FOUND: {v_title}")
-                existing_ids.add(v_id) # Prevent duplicates in same run
+                print(f"MATCH FOUND: {v_title}")
+                existing_ids.add(v_id)
         except Exception as e:
-            print(f"Error parsing line {i}: {e}")
+            continue
 
+# 5. Save the final list back to archive.json
 with open(archive_json_path, 'w') as f:
     json.dump(archive_data, f, indent=2)
+
 print(f"--- Finished. Total videos in archive: {len(archive_data)} ---")
