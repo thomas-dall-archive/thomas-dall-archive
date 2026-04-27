@@ -4,8 +4,8 @@ import subprocess
 import re
 from datetime import datetime
 
-# Configuration: Target the primary channel only
-CHANNEL_URL = "https://www.youtube.com/@ThePotatoofLife/videos"
+# Configuration: Updated to the correct primary channel handle
+CHANNEL_URL = "https://www.youtube.com/@PotatoofLife/videos"
 OUTPUT_FILE = "primary_transcripts.json"
 
 def clean_vtt(vtt_text):
@@ -80,7 +80,7 @@ def run_sync():
                 
                 lines_data = clean_vtt(raw_content)
                 
-                # Fixed the SyntaxError here by ensuring all braces are closed
+                # Appending the dictionary with all braces properly closed
                 all_transcripts.append({
                     "id": video_id,
                     "title": video_title,
@@ -97,9 +97,9 @@ def run_sync():
     if all_transcripts:
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             json.dump(all_transcripts, f, indent=2)
-        print(f"Success: {OUTPUT_FILE} updated.")
+        print(f"Success: {OUTPUT_FILE} updated with data from @PotatoofLife.")
     else:
-        print("No new transcripts found. Check if the channel has auto-captions enabled.")
+        print("No new transcripts found for @PotatoofLife. Ensure auto-captions are available.")
 
 if __name__ == "__main__":
     run_sync()
