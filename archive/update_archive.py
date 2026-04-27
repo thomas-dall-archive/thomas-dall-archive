@@ -27,7 +27,7 @@ for url in channels:
     cmd = [
         'yt-dlp', 
         '--quiet',
-        '--playlist-end', '10',
+        '--playlist-end', '50',
         '--dump-json', # This outputs everything as a structured block
         '--flat-playlist',
         url
