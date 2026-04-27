@@ -155,8 +155,8 @@ The subject frequently utilizes high-gravity terminology to reframe his accounta
 * **Ray, W.** (2016, June 21). *Danish MP receives death threats after praising police anti-drug raids on Facebook.* The Copenhagen Post. [https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/)
 
 ### Archival Evidence (Private Disclosures)
-* **Digital Correspondence Logs.** (2018–2019). Redacted text message archives of the "Kittystyle" alias confessions. <div align="center">
-
+* **Digital Correspondence Logs.** (2018–2019). Redacted text message archives of the "Kittystyle" alias confessions.
+<div align="center">
   <img src="https://thomas-dall-archive.github.io/thomas-dall-archive/assets/kittystyle-logs.png" alt="Kittystyle Identity Resolution" width="500">
   <p><i>Forensic Identity Resolution: Thomas Dall (kittystyle) (2018)</i></p>
 </div> 
