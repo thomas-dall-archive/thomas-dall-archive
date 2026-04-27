@@ -6,11 +6,9 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 channels_path = os.path.join(BASE_DIR, 'channels.txt')
 archive_json_path = os.path.join(BASE_DIR, 'archive.json')
 
-# 1. Load the list of channels
 with open(channels_path, 'r') as f:
     channels = [line.strip() for line in f if line.strip()]
 
-# 2. Load existing archive data
 if os.path.exists(archive_json_path):
     with open(archive_json_path, 'r') as f:
         try:
@@ -22,55 +20,42 @@ else:
 
 existing_ids = {v['id'] for v in archive_data}
 
-# 3. Scan each channel
 for url in channels:
-    print(f"--- Scanning Channel: {url} ---")
+    print(f"--- Scanning: {url} ---")
     
-    # New, more stable command for 2026
+    # Using a simple JSON output from yt-dlp is the most reliable way 2026
     cmd = [
         'yt-dlp', 
         '--quiet',
-        '--no-warnings',
-        '--playlist-end', '20',
-        '--print', '%(title)s',
-        '--print', '%(id)s',
-        '--print', '%(thumbnail)s',
-        '--user-agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        '--playlist-end', '10',
+        '--dump-json', # This outputs everything as a structured block
+        '--flat-playlist',
         url
     ]
     
     result_proc = subprocess.run(cmd, capture_output=True, text=True)
-    result = result_proc.stdout.splitlines()
     
-    result_proc = subprocess.run(cmd, capture_output=True, text=True)
-    result = result_proc.stdout.splitlines()
-    
-    # 4. Process the results (Title, ID, Thumb)
-    for i in range(0, len(result), 3):
+    for line in result_proc.stdout.splitlines():
         try:
-            v_title = result[i].strip()
-            v_id = result[i+1].strip()
-            v_thumb = result[i+2].strip()
-            
-            # Safety Check: Ensure we didn't just get the ID instead of a Title
-            if v_title == v_id or not v_title:
-                print(f"Skipping {v_id}: Real title not found yet.")
-                continue
+            video = json.loads(line)
+            v_id = video.get('id')
+            v_title = video.get('title')
+            # yt-dlp uses 'thumbnails' list or 'thumbnail' string
+            v_thumb = video.get('thumbnail') 
 
-            if v_id not in existing_ids:
+            if v_id and v_id not in existing_ids:
                 archive_data.append({
-                    "id": v_id, 
-                    "title": v_title, 
-                    "url": f"https://youtu.be/{v_id}", 
+                    "id": v_id,
+                    "title": v_title,
+                    "url": f"https://youtu.be/{v_id}",
                     "thumbnail": v_thumb
                 })
-                print(f"MATCH FOUND: {v_title}")
+                print(f"ADDED: {v_title}")
                 existing_ids.add(v_id)
-        except Exception as e:
+        except:
             continue
 
-# 5. Save the final list back to archive.json
 with open(archive_json_path, 'w') as f:
     json.dump(archive_data, f, indent=2)
 
-print(f"--- Finished. Total videos in archive: {len(archive_data)} ---")
+print(f"Done. Total in archive: {len(archive_data)}")
