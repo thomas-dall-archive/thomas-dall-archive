@@ -8,33 +8,29 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Install yt-dlp
+      - name: Install Dependencies
         run: |
           sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
           sudo chmod a+rx /usr/local/bin/yt-dlp
+          # Install Node.js so yt-dlp can solve the 'n challenge'
+          sudo apt-get update
+          sudo apt-get install -y nodejs
           
       - name: Run Global Sync
         env:
           YT_COOKIES: ${{ secrets.YT_COOKIES }}
         run: |
-         # Create a temporary cookies file from the secret
+         # Create the temporary cookies file
          echo "$YT_COOKIES" > cookies.txt
          
+         # 1. Sync Video Evidence Archive
          cd archive
          python update_archive.py
          cd ..
          
-         cd transcripts
-         # Move the cookies file into the transcripts folder so the script can see it
-         mv ../cookies.txt .
-         python update_transcripts.py
-         cd ..run: |
-         # 1. Sync Video Evidence Archive (Mirrors)
-         cd archive
-         python update_archive.py
-         cd ..
-         
-         # 2. Sync Primary Transcripts (Subject's Main Channel)
+         # 2. Sync Primary Transcripts
+         # Move cookies into transcripts folder for the script
+         mv cookies.txt transcripts/
          cd transcripts
          python update_transcripts.py
          cd ..
@@ -43,7 +39,6 @@ jobs:
         run: |
           git config user.name "Archive Bot"
           git config user.email "bot@github.com"
-          # Explicitly stage both forensic datasets
           git add archive/archive.json transcripts/primary_transcripts.json
-          git commit -m "Automated Sync: Video Gallery & Primary Transcripts" || exit 0
+          git commit -m "Updated gallery and transcripts" || exit 0
           git push
