@@ -157,7 +157,7 @@ The subject frequently utilizes high-gravity terminology to reframe his accounta
 ### Archival Evidence (Private Disclosures)
 * **Digital Correspondence Logs.** (2018–2019). Redacted text message archives of the "Kittystyle" alias confessions.
 <div align="center">
-  <img src="https://thomas-dall-archive.github.io/thomas-dall-archive/assets/kittystyle-logs.png" alt="Kittystyle Identity Resolution" width="500">
+  <img src="https://thomas-dall-archive.github.io/thomas-dall-archive/assets/kittystyle-logs.png" alt="Kittystyle Identity Resolution" width="400">
   <p><i>Forensic Identity Resolution: Thomas Dall (kittystyle) (2018)</i></p>
 </div> 
 *Note: Original logs were released via the subject's former domestic partner; locally archived in `/assets/` for continuity.*
