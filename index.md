@@ -253,7 +253,6 @@ The "disappearing" nature of the subject's original uploads is a deliberate tact
 Explore the subject's history through two distinct lenses:
 
 * **[📁 The Video Mirror Archive](./archive/archive.md)**: Permanent copies of deleted content from independent archivists (Mondo Cane, Jan Dall).
-* **[🗣️ Primary Transcript Search](./transcripts.md)**: A searchable database of every word spoken on the subject's **main channel**. Direct links to timestamps.
 
 ---
 
