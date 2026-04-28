@@ -17,22 +17,10 @@ jobs:
           sudo apt-get install -y nodejs
           
       - name: Run Global Sync
-        env:
-          YT_COOKIES: ${{ secrets.YT_COOKIES }}
         run: |
-         # Create the temporary cookies file
-         echo "$YT_COOKIES" > cookies.txt
-         
          # 1. Sync Video Evidence Archive
          cd archive
          python update_archive.py
-         cd ..
-         
-         # 2. Sync Primary Transcripts
-         # Move cookies into transcripts folder for the script
-         mv cookies.txt transcripts/
-         cd transcripts
-         python update_transcripts.py
          cd ..
          
       - name: Save Changes
