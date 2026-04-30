@@ -249,11 +249,6 @@ The "disappearing" nature of the subject's original uploads is a deliberate tact
 
 * **Ray, W.** (2016, June 21). *Danish MP receives death threats after praising police anti-drug raids on Facebook.* The Copenhagen Post. [https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/)
 
-## 🔍 Forensic Investigation Tools
-Explore the subject's history through two distinct lenses:
-
-* **[📁 The Video Mirror Archive](./archive/archive.md)**: Permanent copies of deleted content from independent archivists (Mondo Cane, Jan Dall).
-
 ---
 
 * **Digital Correspondence Logs.** (January 5th 2019). Redacted text message archives of the "Kittystyle" alias confessions.
