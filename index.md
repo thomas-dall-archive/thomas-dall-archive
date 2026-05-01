@@ -107,34 +107,33 @@ While operating as **"Kittystyle,"** the subject’s history of familial abuse b
 
 ---
 
-## **📂 The Kota Files**
-
-### **Witness Statement: Kota (Subject’s Former Associate)**
-> **Context:** A recorded interview detailing 1-on-1 interactions with the subject during his "KittyStyle" era, identifying the behavioral patterns that persist in his current "Tim Dooley" persona.
-
-| Data Point | Detail |
-| :--- | :--- |
-| **Witness Identity** | **Kota** (Identified as underage at the time of interaction) |
-| **Subject Identified** | Thomas Dall (aka Tim Dooley, KittyStyle, The Potato of Life) |
-| **Host/Interviewer** | James Smith |
-
 ---
 
-### **1. Identity & Family Verification**
-* **The Dooley Connection:** The witness links the subject's distinctive environment (the "dank basement") and speech patterns across the transition from his past aliases to the current "Tim Dooley" branding.
-* **Sister Evidence (Laura):** Kota provides direct testimony regarding the subject's younger sister. She clarifies that **Laura has not forgiven the subject** for the admitted abuse, and they have been estranged for years—directly debunking the subject's claims of reconciliation.
+## 📂 The Kota Files: Witness Testimony & Character Evidence
 
-### **2. Predatory Patterns & Underage Grooming**
-* **Age Gap Disparity:** Kota confirms she was **underage** during their interaction, while Thomas was a man in his 30s. 
-* **Aggressive Communication:** The witness documents extreme "smothering" tactics, reporting the subject would send up to **500 messages in 90 minutes** to maintain constant contact and influence.
-* **Malicious Mentorship:** Kota alleges the subject attempted to "mentor" a 13-year-old boy on how to target an 11-year-old girl, showing a systemic interest in facilitating predatory behavior beyond his own actions.
+This section documents the oral testimony of **Kota**, a primary witness who maintained a direct personal relationship with the subject during the transition from the "Thomas Dall" era into the "KittyStyle" era. 
 
-### **3. Behavioral Analysis (Character Evidence)**
-* **Hygiene Neglect:** Documentation of the subject's persistent refusal to maintain basic hygiene, described as "gross" and "unprofessional" even within the context of their private interactions.
-* **Medical Fixation:** The witness describes a disturbing fixation the subject had with her medical injuries (skin peeling/boils), highlighting a pattern of invasive and inappropriate boundary-crossing.
-* **Threats of Violence:** The interview records claims that Thomas threatened to "slit her throat" when his control was challenged.
+### 👤 Witness Statement: Kota
+> **Context:** Recorded interview conducted by James Smith. This testimony provides the primary "human-layer" evidence linking the subject’s physical environment and behavioral patterns to his current "Tim Dooley" persona.
 
-* **Archival Note:** This testimony serves as a primary source for the subject’s pattern of targeting minors and using his "eccentric" online persona as a shield for predatory intent
+| Evidence Category | Findings |
+| :--- | :--- |
+| **Witness Status** | **Underage** at the time of interaction; adult at time of testimony. |
+| **Identity Link** | Verified the subject's living conditions and obsessive speech patterns. |
+| **Familial Status** | Confirmed **Laura Dall** (sister) remains estranged and has **not** forgiven the subject. |
+
+### 🚨 Documented Predatory & Grooming Patterns
+* **Targeting Disparity:** The witness confirms the subject (aged 30+) targeted her while she was a minor, utilizing his "online mentor" status to bypass parental oversight.
+* **Aggressive Control:** Documentation of "digital smothering"—the subject reportedly sent up to **500 messages in 90 minutes** to maintain a state of psychological siege.
+* **External Grooming:** Kota alleges the subject attempted to "train" a 13-year-old boy in predatory tactics to target an 11-year-old girl, indicating a desire to propagate his behavior in others.
+
+### 🏥 Behavioral Evidence: Hygiene & Clinical Indicators
+The witness provides specific details regarding the subject’s physical state, which align with the **"Social Withdrawal"** and **"Antisocial"** traits noted in his 2013 psychiatric evaluation.
+* **Hygiene Neglect:** Witness reported a total refusal to maintain basic grooming or hygiene, describing the subject as "smelling of boxed red wine and body odor" during video calls.
+* **Disturbing Fixations:** The subject demonstrated a "weird" obsession with the witness’s medical issues, specifically asking to watch her "peel" skin from burns or "pop boils."
+* **Reactive Violence:** Kota reports that when his control was challenged, the subject transitioned from "loving" rhetoric to explicit threats to **"slit her throat."**
+
+>**Archival Insight:** The Kota Files are critical for "Entity Resolution" because they bridge the gap between the legal records (Thomas Dall) and the digital persona (Tim Dooley). Her testimony regarding his **"Hygiene Neglect"** and **"Interactions with persons Underage in a sexual context"** isn't just "drama"—it serves as behavioral proof of the Antisocial and Schizotypal traits identified by court clinicians in 2013. Furthermore, her confirmation of the estrangement of his sister, **Laura**, directly identifies the subject's current "reconciliation" narrative as a fabricated rebranding.
 
 ---
 
