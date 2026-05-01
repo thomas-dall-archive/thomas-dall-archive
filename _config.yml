@@ -7,8 +7,8 @@ plugins:
 # -----------------------------------------------------------------------------
 # DYNAMIC URL MAPPING (The "No Broken Links" Fix)
 # -----------------------------------------------------------------------------
-url: ""
-baseurl: ""
+baseurl: "/thomas-dall-archive"
+url: "https://thomas-dall-archive.github.io"
 
 # -----------------------------------------------------------------------------
 # SEO & IDENTITY TRAP (The "Tim Dooley" Focus)
