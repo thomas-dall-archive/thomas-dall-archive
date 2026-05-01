@@ -49,5 +49,18 @@
     </script>
   </head>
   <body>
+    <div class="wrapper">
+      <section>
+        <div id="title">
+          <h1>{{ site.title }}</h1>
+          <p>{{ site.description }}</p>
+          <hr>
+        </div>
+
+        <!-- This is the most important line -->
+        {{ content }}
+        
+      </section>
+    </div>
   </body>
 </html>
