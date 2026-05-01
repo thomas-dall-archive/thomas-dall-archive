@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% seo %}
+
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+
+    <!-- Custom Forensic Identity Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "ArchiveOrganization",
+          "@id": "https://thomas-dall-archive.github.io/thomas-dall-archive/#organization",
+          "name": "Thomas Dall Forensic Archive",
+          "description": "The definitive chronological repository of evidence regarding Tim Dooley (formerly Thomas Dall). Documenting identity transitions and the Kota Files.",
+          "url": "https://thomas-dall-archive.github.io/thomas-dall-archive/",
+          "sameAs": [
+            "https://thomas-dall-archive.pages.dev"
+          ],
+          "keywords": "Evidence, Public Record, Thomas Dall, Tom Dall, Tim Dooley, Potato of Life, The Kota Files, Archival"
+        },
+        {
+          "@type": "Person",
+          "name": "Tim Dooley",
+          "alternateName": [
+            "Thomas Dall",
+            "Tom Dall",
+            "The Potato of Life"
+          ],
+          "description": "Subject of the forensic archive regarding identity shifts and public conduct.",
+          "sameAs": [
+            "https://www.youtube.com/@ThePotatoofLife",
+            "https://x.com/PotatoOfLife",
+            "https://www.youtube.com/@MondoCane-btw",
+            "https://www.youtube.com/@ThomasDallArchive',
+            "https://www.youtube.com/@jandall"
+          ],
+          "subjectOf": { "@id": "https://thomas-dall-archive.github.io/thomas-dall-archive/#organization" }
+        }
+      ]
+    }
+    </script>
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      {% if site.title %}
+        <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+      {% endif %}
+
+      {{ content }}
+
+      {% if site.github.is_project_page %}
+        <section class="footer border-top border-gray-light mt-5 pt-3 text-gray">
+          This archive is maintained for public record. 
+          Mirrored at: <a href="https://thomas-dall-archive.pages.dev">Cloudflare Mirror</a>
+        </section>
+      {% endif %}
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZa0VwbNc97Ertp6DlvXLo4qN7D88Sj5141wN9E+DQ=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
