@@ -268,7 +268,6 @@ To ensure the permanence of the **Thomas Dall / Tim Dooley** forensic record, th
 | :--- | :--- | :--- |
 | **GitHub Pages** (Primary) | [thomas-dall-archive.github.io](https://thomas-dall-archive.github.io/thomas-dall-archive/) | Online |
 | **Cloudflare Pages** | [thomas-dall-archive.pages.dev](https://thomas-dall-archive.pages.dev/) | Online |
-| **Netlify** | [timdooleyarchive.netlify.app](https://timdooleyarchive.netlify.app/) | Online |
 
 > **Note:** All mirrors are synchronized with the [Official GitHub Repository](https://github.com/thomas-dall-archive/thomas-dall-archive).
 
