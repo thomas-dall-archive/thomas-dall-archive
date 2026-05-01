@@ -49,18 +49,29 @@
     </script>
   </head>
   <body>
+  <!-- 1. The Top Navigation Bar -->
+  <header id="header">
     <div class="wrapper">
-      <section>
-        <div id="title">
-          <h1>{{ site.title }}</h1>
-          <p>{{ site.description }}</p>
-          <hr>
-        </div>
-
-        <!-- This is the most important line -->
-        {{ content }}
-        
-      </section>
+      <ul>
+        <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
+      </ul>
     </div>
-  </body>
+  </header>
+
+  <div class="wrapper">
+    <section>
+      <!-- 2. The Title/Description Branding Block -->
+      <div id="title">
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
+        <hr>
+        <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+      </div>
+
+      <!-- 3. Your Archive Content (The Kota Files, etc.) -->
+      {{ content }}
+      
+    </section>
+  </div>
+</body>
 </html>
