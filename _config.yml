@@ -1,12 +1,32 @@
+# Theme & Plugins
 remote_theme: pages-themes/midnight@v0.2.0
-
-# Plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
 
-# Site Metadata
-title: "Thomas Dall to Tim Dooley Archive"
-description: "Public documentation of the Transition of Thomas Dall into Tim Dooley, The Potato of Life"
+# -----------------------------------------------------------------------------
+# DYNAMIC URL MAPPING (The "No Broken Links" Fix)
+# -----------------------------------------------------------------------------
+url: ""
+baseurl: ""
+
+# -----------------------------------------------------------------------------
+# SEO & IDENTITY TRAP (The "Tim Dooley" Focus)
+# -----------------------------------------------------------------------------
+# Leading with "Tim Dooley" targets the newer, low-competition search term
+title: "Tim Dooley (Thomas Dall) | Forensic Archive & Public Record"
+description: "The definitive archive documenting the transition of Thomas Dall into Tim Dooley (The Potato of Life). Featuring clinical history and the Kota Files."
+
+author:
+  name: "Thomas Dall Archive"
+  twitter: "PotatoOfLife"
+
+social:
+  name: "Thomas Dall Archive"
+  links:
+    - https://www.youtube.com/@ThePotatoofLife
+    - https://x.com/PotatoOfLife
+    - https://www.youtube.com/@MondoCane-btw
+    - https://www.youtube.com/@jandall
