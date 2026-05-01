@@ -5,12 +5,6 @@ plugins:
   - jekyll-feed
 
 # -----------------------------------------------------------------------------
-# DYNAMIC URL MAPPING (The "No Broken Links" Fix)
-# -----------------------------------------------------------------------------
-baseurl: "/thomas-dall-archive"
-url: "https://thomas-dall-archive.github.io"
-
-# -----------------------------------------------------------------------------
 # SEO & IDENTITY TRAP (The "Tim Dooley" Focus)
 # -----------------------------------------------------------------------------
 # Leading with "Tim Dooley" targets the newer, low-competition search term
