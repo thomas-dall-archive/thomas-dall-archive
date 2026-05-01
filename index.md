@@ -107,6 +107,37 @@ While operating as **"Kittystyle,"** the subject’s history of familial abuse b
 
 ---
 
+## **📂 The Kota Files**
+
+### **Witness Statement: Kota (Subject’s Former Associate)**
+> **Context:** A recorded interview detailing 1-on-1 interactions with the subject during his "KittyStyle" era, identifying the behavioral patterns that persist in his current "Tim Dooley" persona.
+
+| Data Point | Detail |
+| :--- | :--- |
+| **Witness Identity** | **Kota** (Identified as underage at the time of interaction) |
+| **Subject Identified** | Thomas Dall (aka Tim Dooley, KittyStyle, The Potato of Life) |
+| **Host/Interviewer** | James Smith |
+
+---
+
+### **1. Identity & Family Verification**
+* **The Dooley Connection:** The witness links the subject's distinctive environment (the "dank basement") and speech patterns across the transition from his past aliases to the current "Tim Dooley" branding.
+* **Sister Evidence (Laura):** Kota provides direct testimony regarding the subject's younger sister. She clarifies that **Laura has not forgiven the subject** for the admitted abuse, and they have been estranged for years—directly debunking the subject's claims of reconciliation.
+
+### **2. Predatory Patterns & Underage Grooming**
+* **Age Gap Disparity:** Kota confirms she was **underage** during their interaction, while Thomas was a man in his 30s. 
+* **Aggressive Communication:** The witness documents extreme "smothering" tactics, reporting the subject would send up to **500 messages in 90 minutes** to maintain constant contact and influence.
+* **Malicious Mentorship:** Kota alleges the subject attempted to "mentor" a 13-year-old boy on how to target an 11-year-old girl, showing a systemic interest in facilitating predatory behavior beyond his own actions.
+
+### **3. Behavioral Analysis (Character Evidence)**
+* **Hygiene Neglect:** Documentation of the subject's persistent refusal to maintain basic hygiene, described as "gross" and "unprofessional" even within the context of their private interactions.
+* **Medical Fixation:** The witness describes a disturbing fixation the subject had with her medical injuries (skin peeling/boils), highlighting a pattern of invasive and inappropriate boundary-crossing.
+* **Threats of Violence:** The interview records claims that Thomas threatened to "slit her throat" when his control was challenged.
+
+* **Archival Note:** This testimony serves as a primary source for the subject’s pattern of targeting minors and using his "eccentric" online persona as a shield for predatory intent
+
+---
+
 ## 🌀 Current Persona: "The Potato of Life" (2023–Present)
 
 The subject currently broadcasts daily, utilizing religious terminology to shield his history and justify aggressive ideation.
@@ -244,6 +275,7 @@ The "disappearing" nature of the subject's original uploads is a deliberate tact
 * **Mondo Cane.** (2024, October 16). *Kittystyle / Potato / Tim Dooley - Reads Psychiatric Report and Tells Story of BRUTALISING a Woman* [Video]. YouTube. [https://www.youtube.com/watch?v=SYt3U1r21l0](https://www.youtube.com/watch?v=SYt3U1r21l0)
 * **Nicole Narrows.** (2019, October 8). *Kittystyle (Thomas Dall) is dangerous around children #1* [Video]. YouTube. [https://www.youtube.com/watch?v=5GQRw0juLqU](https://www.youtube.com/watch?v=5GQRw0juLqU)
 * **Nicole Narrows.** (2019, October 8). *Kittystyle (Thomas Dall) is dangerous around children #2* [Video]. YouTube. [https://www.youtube.com/watch?v=Ner_O-Bg4Xc](https://www.youtube.com/watch?v=Ner_O-Bg4Xc)
+* **Smith, J.** (2026, January 15). *The Interview of Kota KittyStyle's EX internet GF (Tim Dooley)* [Video]. YouTube. [https://www.youtube.com/watch?v=Zf7kfAyOuq8](https://www.youtube.com/watch?v=Zf7kfAyOuq8)
 
 ### Journalistic & Legal Sources
 
