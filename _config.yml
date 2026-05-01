@@ -16,14 +16,14 @@ baseurl: ""
 # -----------------------------------------------------------------------------
 # Leading with "Tim Dooley" targets the newer, low-competition search term
 title: "Tim Dooley (Thomas Dall) | Forensic Archive & Public Record"
-description: "The definitive archive documenting the transition of Thomas Dall into Tim Dooley (The Potato of Life). Featuring clinical history and the Kota Files."
+description: "The definitive archive documenting the transition of Thomas Dall into Tim Dooley (The Potato of Life)."
 
 author:
   name: "Thomas Dall Archive"
   twitter: "PotatoOfLife"
 
 name: "Thomas Dall Archive"
-  links:
+links:
     - https://thomas-dall-archive.github.io/thomas-dall-archive/
     - https://timdooleyarchive.netlify.app/
     - https://thomas-dall-archive.pages.dev
