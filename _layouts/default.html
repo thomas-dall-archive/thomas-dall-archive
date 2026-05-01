@@ -3,20 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-{% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!--[if lt IE 8]>
-    <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
-    <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    {% include head-custom.html %}
-        <!-- Custom Forensic Identity Schema -->
+
+    {% seo %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+
+    <!-- Custom Forensic Identity Schema -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -45,7 +39,7 @@
             "https://www.youtube.com/@ThePotatoofLife",
             "https://x.com/PotatoOfLife",
             "https://www.youtube.com/@MondoCane-btw",
-            "https://www.youtube.com/@ThomasDallArchive',
+            "https://www.youtube.com/@ThomasDallArchive",
             "https://www.youtube.com/@jandall"
           ],
           "subjectOf": { "@id": "https://thomas-dall-archive.github.io/thomas-dall-archive/#organization" }
@@ -55,21 +49,20 @@
     </script>
   </head>
   <body>
-      <div id="header">
-        <nav>
-          <ul>
-            <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
-            {% if site.show_downloads %}
-              <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
-              <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
-              <li class="title">DOWNLOADS</li>
-            {% endif %}
-          </ul>
-        </nav>
-      </div><!-- end header -->
+    <div id="header">
+      <nav>
+        <ul>
+          <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
+          {% if site.show_downloads %}
+            <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
+            <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
+            <li class="title">DOWNLOADS</li>
+          {% endif %}
+        </ul>
+      </nav>
+    </div>
 
     <div class="wrapper">
-
       <section>
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -80,9 +73,7 @@
         </div>
 
         {{ content }}
-
       </section>
-
     </div>
   </body>
 </html>
