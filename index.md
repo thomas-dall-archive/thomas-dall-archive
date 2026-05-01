@@ -107,8 +107,6 @@ While operating as **"Kittystyle,"** the subject’s history of familial abuse b
 
 ---
 
----
-
 ## 📂 The Kota Files: Witness Testimony & Character Evidence
 
 This section documents the oral testimony of **Kota**, a primary witness who maintained a direct personal relationship with the subject during the transition from the "Thomas Dall" era into the "KittyStyle" era. 
