@@ -1,0 +1,20 @@
+name: Generate Gemfile.lock
+on:
+  workflow_dispatch: # This allows you to run it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3' # Matches Cloudflare's environment
+          bundler-cache: true
+      - name: Commit Lockfile
+        run: |
+          git config --global user.name 'Archive Bot'
+          git config --global user.email 'bot@archive.org'
+          git add Gemfile.lock
+          git commit -m "Auto-generate Gemfile.lock" || echo "No changes"
+          git push
