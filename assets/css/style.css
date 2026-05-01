@@ -1,0 +1,57 @@
+/* Forensic Archive Custom CSS */
+body {
+  background-color: #0f1419; /* Darkest Navy/Black */
+  color: #e1e8ed; /* Soft White */
+  font-family: -apple-system, sans-serif;
+  line-height: 1.6;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+#header {
+  background: #192734;
+  padding: 15px 0;
+  border-bottom: 1px solid #38444d;
+}
+
+#header ul {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 20px;
+}
+
+#header li a {
+  color: #1da1f2; /* Professional Blue */
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.wrapper {
+  padding: 40px 20px;
+}
+
+h1, h2, h3 {
+  color: #ffffff;
+  border-bottom: 1px solid #38444d;
+  padding-bottom: 10px;
+}
+
+blockquote {
+  border-left: 4px solid #1da1f2;
+  background-color: #192734;
+  padding: 15px;
+  margin: 20px 0;
+  font-style: italic;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 12px;
+  border: 1px solid #38444d;
+  text-align: left;
+}
