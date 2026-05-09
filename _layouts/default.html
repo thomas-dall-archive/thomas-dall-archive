@@ -18,38 +18,44 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--{% include head-custom.html %}-->
     <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
     {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "ArchiveOrganization",
-          "@id": "https://thomas-dall-archive.github.io/thomas-dall-archive/#organization",
-          "name": "Thomas Dall Forensic Archive",
-          "description": "The definitive chronological repository of evidence regarding Tim Dooley (formerly Thomas Dall).",
-          "url": "https://thomas-dall-archive.github.io/thomas-dall-archive/",
-          "sameAs": [
-            "https://thomas-dall-archive.pages.dev"
-          ],
-          "keywords": "Evidence, Public Record, Thomas Dall, Tom Dall, Tim Dooley, Potato of Life, The Kota Files, Archival"
-        },
-        {
-          "@type": "Person",
-          "name": "Tim Dooley",
-          "alternateName": [
-            "Thomas Dall",
-            "Tom Dall",
-            "The Potato of Life"
-          ],
-          "description": "Subject of the forensic archive regarding identity shifts and public conduct.",
-          "sameAs": [
-            "https://www.youtube.com/@ThePotatoofLife",
-            "https://x.com/PotatoOfLife",
-            "https://www.youtube.com/@MondoCane-btw",
-            "https://www.youtube.com/@ThomasDallArchive",
-            "https://www.youtube.com/@jandall"
-          ],
-          "subjectOf": { "@id": "https://thomas-dall-archive.github.io/thomas-dall-archive/#organization" }
-        }
+      "@type": "Organization",
+      "@id": "https://thomas-dall-archive.github.io/thomas-dall-archive/#organization",
+      "name": "Thomas Dall Forensic Archive",
+      "description": "A public repository and forensic record documenting the transition of Thomas Dall (Kittystyle) into the persona of Tim Dooley.",
+      "url": "https://thomas-dall-archive.github.io/thomas-dall-archive/",
+      "sameAs": [
+        "https://thomas-dall-archive.pages.dev"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://thomas-dall-archive.github.io/thomas-dall-archive/#subject",
+      "name": "Tim Dooley",
+      "alternateName": [
+        "Thomas Dall",
+        "Kittystyle",
+        "The Potato of Life",
+        "Tom Dall",
+        "Potato69"
+      ],
+      "description": "Subject of public record documentation regarding identity dissociation and historical conduct.",
+      "sameAs": [
+        "https://www.youtube.com/@ThePotatoofLife",
+        "https://x.com/PotatoOfLife",
+        "https://www.youtube.com/@MondoCane-btw",
+        "https://www.youtube.com/@ThomasDallArchive",
+        "https://www.youtube.com/@jandall"
+      ],
+      "mainEntityOfPage": "https://thomas-dall-archive.github.io/thomas-dall-archive/",
+      "subjectOf": { "@id": "https://thomas-dall-archive.github.io/thomas-dall-archive/#organization" }
+    }
+  ]
+}
+</script>
       ]
     }
     </script>
