@@ -2,7 +2,7 @@
 layout: default
 title: Shirt Hygiene Tracker
 ---
-<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👕</text></svg>">
+
 # 👕 Shirt Hygiene Tracker
 *Monitoring wardrobe changes and hygiene streaks. The timer resets when a new shirt is verified.*
 
@@ -18,7 +18,13 @@ title: Shirt Hygiene Tracker
     </div>
 
 <script>
-  // The '?t=' adds a random timestamp to the URL so the browser CANNOT cache it.
+  let link = document.querySelector("link[rel~='icon']");
+  if (!link) {
+      link = document.createElement('link');
+      link.rel = 'icon';
+      document.head.appendChild(link);
+  }
+  link.href = "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👕</text></svg>";
   const fetchUrl = './shirt_data.json?t=' + new Date().getTime();
 
   fetch(fetchUrl)
