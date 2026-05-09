@@ -5,7 +5,7 @@ description: "Comprehensive dossier documenting the identity transitions, clinic
 ---
 
 
-* [👕 Live Shirt Hygiene Tracker](./shirt-watch.html)
+* [👕 SHIRT WATCH](./shirt-watch.html)
 
 ---
 
