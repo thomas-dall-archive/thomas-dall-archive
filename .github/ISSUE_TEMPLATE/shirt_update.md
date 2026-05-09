@@ -2,8 +2,7 @@
 name: Log New Shirt
 about: Upload a picture of the new shirt to reset the hygiene tracker.
 title: 'New Shirt Update'
-labels: 'shirt-update'
-assignees: ''
+labels: shirt-update
 ---
 
 **1. Upload Image:**
