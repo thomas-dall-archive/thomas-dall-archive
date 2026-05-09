@@ -4,6 +4,10 @@
 url: "https://thomas-dall-archive.github.io"
 baseurl: "/thomas-dall-archive"
 
+# Theme & Plugins
+remote_theme: pages-themes/midnight@v0.2.0
+layout: default # Forces the theme to use its internal layout
+
 # -----------------------------------------------------------------------------
 # THEME & PLUGINS
 # -----------------------------------------------------------------------------
