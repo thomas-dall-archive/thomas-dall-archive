@@ -18,9 +18,17 @@ title: Shirt Hygiene Tracker
     </div>
 
 <script>
-  fetch('./shirt_data.json')
-    .then(res => res.json())
+  // The '?t=' adds a random timestamp to the URL so the browser CANNOT cache it.
+  const fetchUrl = './shirt_data.json?t=' + new Date().getTime();
+
+  fetch(fetchUrl)
+    .then(res => {
+      if (!res.ok) throw new Error("Database file not found (HTTP " + res.status + ")");
+      return res.json();
+    })
     .then(data => {
+      if (!data || data.length === 0) throw new Error("Database is empty.");
+
       // Sort by newest first
       data.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
       
@@ -38,15 +46,18 @@ title: Shirt Hygiene Tracker
 
       // Build History Log
       const historyContainer = document.getElementById('history-log');
+      historyContainer.innerHTML = ""; // Clear out anything old
+      
       data.forEach((item, index) => {
         if(index === 0) return; // Skip the current one for the history list
         
         const thisChange = new Date(item.timestamp);
-        const nextChange = new Date(data[index-1].timestamp);
+        // If there is a previous shirt in the list, calculate how long THIS shirt lasted
+        const nextChange = data[index - 1] ? new Date(data[index - 1].timestamp) : new Date();
         const daysLasted = Math.floor(Math.abs(nextChange - thisChange) / (1000 * 60 * 60 * 24));
 
         historyContainer.innerHTML += `
-            <div style="background: #1a1a1a; padding: 15px; border-radius: 5px; display: flex; align-items: center; gap: 20px;">
+            <div style="background: #1a1a1a; padding: 15px; border-radius: 5px; display: flex; align-items: center; gap: 20px; margin-bottom: 10px; border: 1px solid #333;">
                 <img src="${item.image_url}" style="width: 100px; height: 100px; object-fit: cover; border-radius: 5px;">
                 <div>
                     <strong style="color: #3498db;">Worn for ${daysLasted} days</strong><br>
@@ -56,5 +67,9 @@ title: Shirt Hygiene Tracker
             </div>
         `;
       });
+    })
+    .catch(err => {
+      // Print the exact error directly to the screen so we know what's broken
+      document.getElementById('last-changed-date').innerHTML = `<span style="color: red; font-weight: bold;">ERROR: ${err.message}</span>`;
     });
 </script>
