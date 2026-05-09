@@ -1,4 +1,12 @@
-# Theme & Plugins
+# -----------------------------------------------------------------------------
+# CORE PATHS (CRITICAL for Sitemap & Google Search Console)
+# -----------------------------------------------------------------------------
+url: "https://thomas-dall-archive.github.io"
+baseurl: "/thomas-dall-archive"
+
+# -----------------------------------------------------------------------------
+# THEME & PLUGINS
+# -----------------------------------------------------------------------------
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-remote-theme
@@ -7,23 +15,44 @@ plugins:
   - jekyll-feed
 
 # -----------------------------------------------------------------------------
-# SEO & IDENTITY TRAP (The "Tim Dooley" Focus)
+# SEO & IDENTITY TRAP (Targeting Tim Dooley / The Potato of Life)
 # -----------------------------------------------------------------------------
-# Leading with "Tim Dooley" targets the newer, low-competition search term
 title: "Tim Dooley (Thomas Dall) | Forensic Archive & Public Record"
 description: "The definitive archive documenting the transition of Thomas Dall into Tim Dooley (The Potato of Life)."
+lang: en-US
 
+# This section tells the SEO plugin how to build the Person/Subject metadata
 author:
   name: "Thomas Dall Archive"
   twitter: "PotatoOfLife"
 
-name: "Thomas Dall Archive"
-links:
+# -----------------------------------------------------------------------------
+# ENTITY RESOLUTION DATA (For AI & Search Engines)
+# -----------------------------------------------------------------------------
+social:
+  name: "Tim Dooley"
+  links:
     - https://thomas-dall-archive.github.io/thomas-dall-archive/
-    - https://timdooleyarchive.netlify.app/
-    - https://thomas-dall-archive.pages.dev
+    - https://thomas-dall-archive.pages.dev/
     - https://www.youtube.com/@ThePotatoofLife
     - https://x.com/PotatoOfLife
-    - https://www.youtube.com/@ThomasDallArchive
-    - https://www.youtube.com/@MondoCane-btw
-    - https://www.youtube.com/@jandall
+
+# -----------------------------------------------------------------------------
+# REPOSITORY SETTINGS
+# -----------------------------------------------------------------------------
+show_downloads: true
+google_analytics: # Add your ID here if you use it (e.g., UA-XXXXXXXXX-X)
+
+# -----------------------------------------------------------------------------
+# BUILD SETTINGS
+# -----------------------------------------------------------------------------
+markdown: kramdown
+highlighter: rouge
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
