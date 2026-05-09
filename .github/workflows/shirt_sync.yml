@@ -1,0 +1,40 @@
+name: Process Shirt Update
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  update-tracker:
+    # ONLY run if the issue has the 'shirt-update' label AND is created by you (add your github username)
+    if: contains(github.event.issue.labels.*.name, 'shirt-update') && github.actor == 'thomas-dall-archive'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Process Issue and Update JSON
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: python update_shirt.py
+
+      - name: Commit and Push
+        run: |
+          git config user.name "Hygiene Bot"
+          git config user.email "bot@github.com"
+          git add shirt_data.json
+          git commit -m "Automated Tracker Update: New Shirt Logged" || exit 0
+          git push
+
+      - name: Close the Issue
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: "✅ Tracker successfully updated. The page will reflect changes shortly."
