@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Shirt Hygiene Tracker
+title: Thomas Dall Shirt Watch
 ---
 
-# 👕 Shirt Hygiene Tracker
-*Monitoring wardrobe changes and hygiene streaks. The timer resets when a new shirt is verified.*
+# 👕 Thomas Dall Shirt Watch
+*Monitoring Shirt Changes for Thomas Dall to monitor his hygiene habits. The timer resets when a new shirt is verified.*
 
 <div style="background: #111; border: 1px solid #333; padding: 20px; border-radius: 10px; text-align: center; margin-bottom: 30px;">
     <h2 style="color: #aaa; margin-top: 0;">Current Streak</h2>
