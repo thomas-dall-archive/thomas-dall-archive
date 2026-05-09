@@ -9,7 +9,7 @@ permissions:
 
 jobs:
   update-tracker:
-    if: |
+    if: >
       contains(github.event.issue.labels.*.name, 'shirt-update') && 
       github.event.issue.user.login == 'thomas-dall-archive'
     runs-on: ubuntu-latest
