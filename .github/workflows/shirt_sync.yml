@@ -1,7 +1,7 @@
 name: Process Shirt Update
 on:
   issues:
-    types: [opened]
+    types: [opened, labeled]
 
 permissions:
   contents: write
@@ -9,21 +9,19 @@ permissions:
 
 jobs:
   update-tracker:
+    # Only run if the 'shirt-update' label is present
     if: contains(github.event.issue.labels.*.name, 'shirt-update')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-
       - name: Process Issue and Update JSON
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
         run: python update_shirt.py
-
       - name: Commit and Push
         run: |
           git config user.name "Hygiene Bot"
@@ -31,7 +29,6 @@ jobs:
           git add shirt_data.json
           git commit -m "Automated Tracker Update: New Shirt Logged" || exit 0
           git push
-
       - name: Close the Issue
         uses: peter-evans/close-issue@v3
         with:
