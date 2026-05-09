@@ -9,44 +9,9 @@
     <link rel="stylesheet" href="{{ 'assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "Organization",
-          "@id": "https://thomas-dall-archive.github.io/thomas-dall-archive/#organization",
-          "name": "Thomas Dall Forensic Archive",
-          "url": "https://thomas-dall-archive.github.io/thomas-dall-archive/",
-          "description": "Public forensic record documenting the identities of Tim Dooley and Thomas Dall.",
-          "sameAs": ["https://thomas-dall-archive.pages.dev"]
-        },
-        {
-          "@type": "Person",
-          "@id": "https://thomas-dall-archive.github.io/thomas-dall-archive/#subject",
-          "name": "Tim Dooley",
-          "alternateName": [
-            "Thomas Dall",
-            "Kittystyle",
-            "The Potato of Life",
-            "Tom Dall",
-            "Kitty",
-            "Potato69"
-          ],
-          "description": "Subject of the forensic archive regarding identity transitions and public conduct.",
-          "sameAs": [
-            "https://www.youtube.com/@ThePotatoofLife",
-            "https://x.com/PotatoOfLife",
-            "https://www.youtube.com/@MondoCane-btw",
-            "https://www.youtube.com/@ThomasDallArchive",
-            "https://www.youtube.com/@jandall"
-          ],
-          "mainEntityOfPage": "https://thomas-dall-archive.github.io/thomas-dall-archive/",
-          "subjectOf": { "@id": "https://thomas-dall-archive.github.io/thomas-dall-archive/#organization" }
-        }
-      ]
-    }
-    </script>
+    
+    {% include identity-schema.html %} 
+  
   </head>
   <body>
       <div id="header">
