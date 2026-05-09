@@ -9,7 +9,7 @@ permissions:
 
 jobs:
   update-tracker:
-    if: (github.event.action == 'labeled' && github.event.label.name == 'shirt-update') || (github.event.action == 'opened' && contains(github.event.issue.labels.*.name, 'shirt-update'))
+    if: contains(github.event.issue.labels.*.name, 'shirt-update')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

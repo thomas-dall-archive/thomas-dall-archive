@@ -1,6 +1,6 @@
 ---
 name: Log New Shirt
-about: Upload a picture of the new shirt to reset the hygiene tracker.
+about: Upload a picture
 title: 'New Shirt Update'
 labels: shirt-update
 ---
