@@ -19,14 +19,13 @@ os.makedirs("_data", exist_ok=True)
 os.makedirs(POSTS_DIR, exist_ok=True)
 
 def fetch_via_google_search(channel_name):
-    # Search Google for the most recent indexed videos from this specific channel
-    # site:youtube.com/watch filters for actual video pages
+    # Use quotes around the channel name and look specifically for watch URLs
     query = urllib.parse.quote(f'site:youtube.com/watch "{channel_name}"')
-    # tbs=qdr:w limits results to the last week to keep things fresh
     url = f"https://www.google.com/search?q={query}&tbs=qdr:w"
     
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        'Accept-Language': 'en-US,en;q=0.9'
     }
     
     try:
@@ -36,21 +35,22 @@ def fetch_via_google_search(channel_name):
         with urllib.request.urlopen(req, timeout=20) as response:
             html = response.read().decode('utf-8', errors='ignore')
             
-            # Find YouTube IDs (11 characters after v=)
-            video_ids = list(set(re.findall(r'v=([a-zA-Z0-9_-]{11})', html)))
+            # IMPROVED REGEX: Look for v= only when preceded by youtube.com/watch
+            # This prevents grabbing Google's internal tracking IDs
+            video_ids = list(set(re.findall(r'youtube\.com/watch\?v=([a-zA-Z0-9_-]{11})', html)))
             
             extracted = []
             for v_id in video_ids:
-                # Try to extract the title from the Google Search Result (usually in <h3> tags)
-                # We look for the snippet that contains the specific video ID
-                title_search = re.search(rf'v={v_id}.*?<h3.*?>(.*?)</h3>', html)
+                # NEW TITLE LOGIC: Look for the text inside the <h3> tag that follows the link
+                # Google often wraps the title in <div role="heading" aria-level="3"> or <h3>
+                title_match = re.search(rf'href=.*?watch%3Fv%3D{v_id}.*?<h3.*?>(.*?)</h3>', html)
                 
-                if title_search:
-                    raw_title = title_search.group(1)
-                    # Clean up HTML tags and common entities
+                if title_match:
+                    raw_title = title_match.group(1)
                     v_title = re.sub(r'<[^>]+>', '', raw_title).replace('&amp;', '&').replace('&#39;', "'")
                 else:
-                    v_title = f"Intercepted Video {v_id}"
+                    # Fallback: Google sometimes puts the title before the URL
+                    v_title = f"Intercepted: {v_id}"
 
                 print(f"  🔍 Found: {v_title[:50]}")
 
@@ -63,13 +63,13 @@ def fetch_via_google_search(channel_name):
                     })
             
             if not video_ids:
-                print(f"  ℹ️ No new indexed videos found for this channel today.")
+                print(f"  ℹ️ Index scan returned 0 valid YouTube links.")
             return extracted
             
     except Exception as e:
-        print(f"  ⚠️ Google Search fallback failed: {e}")
+        print(f"  ⚠️ Search failed: {e}")
         return []
-
+        
 def main():
     if os.path.exists(DATA_FILE):
         with open(DATA_FILE, 'r', encoding='utf-8') as f:
