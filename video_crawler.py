@@ -28,55 +28,65 @@ os.makedirs("_data", exist_ok=True)
 os.makedirs(POSTS_DIR, exist_ok=True)
 
 def fetch_via_html(channel_id):
-    """Accesses the public /videos page to bypass broken RSS feeds."""
+    # Try the main channel page first if /videos is being blocked
     url = f"https://www.youtube.com/channel/{channel_id}/videos"
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept-Language': 'en-US,en;q=0.9',
-        'Referer': 'https://www.google.com/'
+        'Referer': 'https://www.google.com/',
+        'Cache-Control': 'no-cache'
     }
     
     try:
-        print(f"--- Intercepting Channel: {channel_id} ---")
+        print(f"--- Attempting Intercept: {channel_id} ---")
         req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req) as response:
             html = response.read().decode('utf-8')
             
-            # Extract the JSON data from the page source
+            # Extract JSON data
             json_match = re.search(r'var ytInitialData = ({.*?});', html)
             if not json_match:
+                print(f"  ⚠️ Warning: No data block found for {channel_id}")
                 return []
                 
             data = json.loads(json_match.group(1))
             
-            # Navigate to the video list
-            # Usually: contents -> twoColumnBrowseResultsRenderer -> tabs[1] (Videos)
-            tabs = data['contents']['twoColumnBrowseResultsRenderer']['tabs']
-            video_tab = next(tab for tab in tabs if 'tabRenderer' in tab and tab['tabRenderer'].get('title') in ['Videos', 'Uploads'])
-            items = video_tab['tabRenderer']['content']['richGridRenderer']['contents']
-            
+            # YouTube changes the path occasionally. This 'recursive search' finds videos anywhere in the JSON
+            def find_videos(obj):
+                if isinstance(obj, dict):
+                    if 'videoRenderer' in obj:
+                        yield obj['videoRenderer']
+                    for v in obj.values():
+                        yield from find_videos(v)
+                elif isinstance(obj, list):
+                    for item in obj:
+                        yield from find_videos(item)
+
             extracted = []
-            for item in items:
-                if 'richItemRenderer' in item:
-                    v_data = item['richItemRenderer']['content'].get('videoRenderer')
-                    if not v_data: continue
-                    
-                    v_id = v_data['videoId']
+            for v_data in find_videos(data):
+                v_id = v_data.get('videoId')
+                # Navigate the title structure safely
+                try:
                     v_title = v_data['title']['runs'][0]['text']
-                    
-                    # Keyword Match
-                    if any(kw in v_title.lower() for kw in KEYWORDS):
-                        print(f"  ✅ MATCH FOUND: {v_title}")
-                        extracted.append({
-                            'id': v_id,
-                            'title': v_title,
-                            'date': datetime.now().strftime("%Y-%m-%d")
-                        })
-                    else:
-                        print(f"  ❌ Skipping: {v_title[:30]}...")
+                except (KeyError, IndexError):
+                    continue
+                
+                # Check keywords
+                if any(kw in v_title.lower() for kw in KEYWORDS):
+                    print(f"  ✅ MATCHED: {v_title}")
+                    extracted.append({
+                        'id': v_id,
+                        'title': v_title,
+                        'date': datetime.now().strftime("%Y-%m-%d")
+                    })
+                else:
+                    # Debugging: see what we are missing
+                    print(f"  ❌ Filtered: {v_title[:40]}...")
+            
             return extracted
+            
     except Exception as e:
-        print(f"  🛑 Access Error for {channel_id}: {e}")
+        print(f"  🛑 Connection Failed for {channel_id}: {e}")
         return []
 
 def create_forensic_post(video_id, title, date_str):
