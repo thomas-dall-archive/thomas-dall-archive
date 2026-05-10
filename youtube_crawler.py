@@ -2,7 +2,6 @@ import urllib.request
 import re
 import json
 import os
-import yaml
 import time
 import random
 from datetime import datetime
@@ -15,7 +14,7 @@ CHANNEL_IDS = [
     "UCMUpFzS0VYXziYgtVt7VyZg", "UCTMDW8muoabCU0cDj18ZtCg"
 ]
 KEYWORDS = ["thomas", "dall", "tim", "dooley", "potato", "tom", "kitty", "jan", "kota"]
-DATA_FILE = "_data/videos.yml"
+DATA_FILE = "_data/videos.json"
 POSTS_DIR = "_posts"
 
 os.makedirs("_data", exist_ok=True)
@@ -72,10 +71,16 @@ def fetch_via_html(channel_id):
         print(f"  🛑 Blocked: {e}")
         return []
 
+# Change the file extension
+
 def main():
+    # 1. Load current gallery data (using JSON instead of YAML)
     if os.path.exists(DATA_FILE):
         with open(DATA_FILE, 'r', encoding='utf-8') as f:
-            existing_videos = yaml.safe_load(f) or []
+            try:
+                existing_videos = json.load(f)
+            except:
+                existing_videos = []
     else:
         existing_videos = []
     
@@ -85,7 +90,7 @@ def main():
     for channel_id in CHANNEL_IDS:
         found = fetch_via_html(channel_id)
         for video in found:
-            # Create post
+            # Create individual posts (These stay Markdown/YAML)
             post_file = f"{POSTS_DIR}/{video['date']}-intercept-{video['id']}.md"
             if not os.path.exists(post_file):
                 with open(post_file, 'w', encoding='utf-8') as f:
@@ -98,9 +103,7 @@ def main():
                 new_found = True
 
     if new_found:
+        # Save matches using built-in JSON (No PyYAML needed!)
         with open(DATA_FILE, 'w', encoding='utf-8') as f:
-            yaml.dump(existing_videos, f, default_flow_style=False, sort_keys=False)
+            json.dump(existing_videos, f, indent=2)
         print("Done. Saved matches to data file.")
-
-if __name__ == "__main__":
-    main()
