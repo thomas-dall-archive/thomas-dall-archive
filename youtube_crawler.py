@@ -93,29 +93,36 @@ def main():
         found_videos = fetch_via_rss(channel_id)
         
         for video in found_videos:
+            # SANITIZE TITLE: Remove quotes and colons for the filename/yaml
+            clean_title = video['title'].replace('"', '').replace(':', ' -').replace('\\', '')
+            
             post_file = f"{POSTS_DIR}/{video['date']}-intercept-{video['id']}.md"
             
             if not os.path.exists(post_file):
                 with open(post_file, 'w', encoding='utf-8') as f:
-                    f.write(f"---\n")
-                    f.write(f"layout: post\n")
-                    # Using json.dumps ensures the title is wrapped in quotes and internal quotes are escaped
-                    f.write(f"title: {json.dumps(video['title'])}\n")
+                    # We use simple string formatting instead of json.dumps for the MD 
+                    # to ensure Jekyll's picky parser stays happy
+                    f.write("---\n")
+                    f.write("layout: post\n")
+                    f.write(f"title: \"{clean_title}\"\n")
                     f.write(f"date: {video['date']}\n")
-                    f.write(f"---\n\n")
+                    f.write("---\n\n")
                     f.write(f"https://youtu.be/{video['id']}")
             
             if video['id'] not in existing_ids:
-                existing_videos.insert(0, video)
+                # Add to JSON list
+                existing_videos.insert(0, {
+                    'id': video['id'],
+                    'title': clean_title,
+                    'date': video['date']
+                })
                 existing_ids.add(video['id'])
                 new_found = True
 
     if new_found:
         with open(DATA_FILE, 'w', encoding='utf-8') as f:
-            json.dump(existing_videos, f, indent=2)
+            # ensure_ascii=False prevents those "invalid Unicode escape" errors in Jekyll
+            json.dump(existing_videos, f, indent=2, ensure_ascii=False)
         print("Done. Saved matches to JSON.")
     else:
         print("No new matches found in this run.")
-
-if __name__ == "__main__":
-    main()
