@@ -7,7 +7,6 @@ import html
 from datetime import datetime
 
 # --- CONFIGURATION ---
-# Using the UC... IDs which are now confirmed working via RSS
 CHANNEL_IDS = [
     "UC_8sJPJkzoQcauUAcPf8bjA", # Thomas Dall Archive
     "UCIRR8AjVomFfuYPM4By2MwA", # Teddy Divine
@@ -24,12 +23,10 @@ KEYWORDS = ["thomas", "dall", "tim", "dooley", "potato", "tom", "kitty", "jan", 
 DATA_FILE = "_data/videos.json"
 POSTS_DIR = "_posts"
 
-# Ensure folders exist
 os.makedirs("_data", exist_ok=True)
 os.makedirs(POSTS_DIR, exist_ok=True)
 
 def fetch_via_rss(channel_id):
-    # The patterns we want to try
     patterns = [
         f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}",
         f"https://www.youtube.com/feeds/videos.xml?user={channel_id}"
@@ -38,11 +35,10 @@ def fetch_via_rss(channel_id):
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0.0.0 Safari/537.36'}
     
     for url in patterns:
-        # --- RETRY LOGIC (The 'Refresh' Simulation) ---
         max_retries = 4
         for attempt in range(max_retries):
             try:
-                # Wait longer each time we fail (Exponential Backoff)
+                # Exponential backoff to avoid 500/404 load balancing blocks
                 wait_time = (attempt + 1) * 5 
                 time.sleep(wait_time)
                 
@@ -57,10 +53,11 @@ def fetch_via_rss(channel_id):
                     
                     if not v_ids:
                         print(f"  ℹ️ Pattern connected but returned no videos. Trying next pattern...")
-                        break # Break retry loop, move to next pattern
+                        break 
                     
                     extracted = []
                     for i in range(len(v_ids)):
+                        # titles[0] is channel name, titles[1+] are video titles
                         raw_title = titles[i+1] if (i+1) < len(titles) else "Unknown"
                         v_title = html.unescape(raw_title)
                         v_id = v_ids[i]
@@ -69,18 +66,17 @@ def fetch_via_rss(channel_id):
                             print(f"  ✅ MATCH: {v_title}")
                             extracted.append({'id': v_id, 'title': v_title, 'date': datetime.now().strftime("%Y-%m-%d")})
                     
-                    return extracted # SUCCESS: Return and stop everything for this channel
+                    return extracted
                     
             except Exception as e:
                 print(f"  ⚠️ Attempt {attempt + 1} failed: {e}")
                 if attempt == max_retries - 1:
                     print(f"  ❌ Failed after {max_retries} refreshes.")
-                continue # Try the next 'refresh' (retry)
+                continue
                 
     return []
 
 def main():
-    # 1. Load existing video data so we don't duplicate
     if os.path.exists(DATA_FILE):
         with open(DATA_FILE, 'r', encoding='utf-8') as f:
             try:
@@ -93,30 +89,27 @@ def main():
     existing_ids = {v['id'] for v in existing_videos}
     new_found = False
 
-    # 2. Loop through every channel in our config
     for channel_id in CHANNEL_IDS:
         found_videos = fetch_via_rss(channel_id)
         
         for video in found_videos:
-            # 3. Create a Jekyll markdown post for each match
             post_file = f"{POSTS_DIR}/{video['date']}-intercept-{video['id']}.md"
             
             if not os.path.exists(post_file):
                 with open(post_file, 'w', encoding='utf-8') as f:
                     f.write(f"---\n")
                     f.write(f"layout: post\n")
-                    f.write(f"title: \"{video['title']}\"\n")
+                    # Using json.dumps ensures the title is wrapped in quotes and internal quotes are escaped
+                    f.write(f"title: {json.dumps(video['title'])}\n")
                     f.write(f"date: {video['date']}\n")
                     f.write(f"---\n\n")
                     f.write(f"https://youtu.be/{video['id']}")
             
-            # 4. Update the JSON database if it's a brand new video
             if video['id'] not in existing_ids:
                 existing_videos.insert(0, video)
                 existing_ids.add(video['id'])
                 new_found = True
 
-    # 5. Save the JSON database if anything new was found
     if new_found:
         with open(DATA_FILE, 'w', encoding='utf-8') as f:
             json.dump(existing_videos, f, indent=2)
