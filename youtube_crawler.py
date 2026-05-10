@@ -23,70 +23,73 @@ os.makedirs(POSTS_DIR, exist_ok=True)
 def fetch_via_api(channel_id):
     url = "https://www.youtube.com/youtubei/v1/browse?prettyPrint=false"
     
-    # EgsVdmlkZW9z = Videos Tab | EgsGc3RyZWFtcw%3D%3D = Live Tab
-    tabs_to_check = [
-        {"name": "Videos", "param": "EgsVdmlkZW9z"},
-        {"name": "Live", "param": "EgsGc3RyZWFtcw%3D%3D"}
-    ]
+    # We add a generic visitor data string to trick the 2026 bot detection
+    payload = {
+        "context": {
+            "client": {
+                "clientName": "WEB",
+                "clientVersion": "2.20240320.00.00",
+                "visitorData": "CgsxMjM0NTY3ODkwIKD6p7AG" # Generic token
+            }
+        },
+        "browseId": channel_id,
+        "params": "EgsVdmlkZW9z"
+    }
     
-    extracted = []
+    # We add headers that a real browser sends when calling this API
+    headers = {
+        'Content-Type': 'application/json',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        'X-Youtube-Client-Name': '1',
+        'X-Youtube-Client-Version': '2.20240320.00.00',
+        'Origin': 'https://www.youtube.com',
+        'Referer': f'https://www.youtube.com/channel/{channel_id}/videos'
+    }
     
-    for tab in tabs_to_check:
-        payload = {
-            "context": {
-                "client": {
-                    "clientName": "WEB",
-                    "clientVersion": "2.20240320.00.00"
-                }
-            },
-            "browseId": channel_id,
-            "params": tab["param"]
-        }
+    try:
+        print(f"--- Intercepting via Hardened API: {channel_id} ---")
+        data_json = json.dumps(payload).encode('utf-8')
+        req = urllib.request.Request(url, data=data_json, headers=headers)
         
-        try:
-            print(f"--- Intercepting {channel_id} ({tab['name']} Tab) ---")
-            data_json = json.dumps(payload).encode('utf-8')
-            req = urllib.request.Request(url, data=data_json, headers={'Content-Type': 'application/json'})
+        with urllib.request.urlopen(req, timeout=20) as response:
+            res_data = json.loads(response.read().decode('utf-8'))
             
-            with urllib.request.urlopen(req, timeout=20) as response:
-                res_data = json.loads(response.read().decode('utf-8'))
-                
-                def find_videos(obj):
-                    if isinstance(obj, dict):
-                        if 'videoRenderer' in obj: yield obj['videoRenderer']
-                        for v in obj.values(): yield from find_videos(v)
-                    elif isinstance(obj, list):
-                        for item in obj: yield from find_videos(item)
+            extracted = []
+            def find_videos(obj):
+                if isinstance(obj, dict):
+                    if 'videoRenderer' in obj: yield obj['videoRenderer']
+                    # Look for richItemRenderer too, YouTube uses this for some channel layouts
+                    if 'richItemRenderer' in obj:
+                        content = obj['richItemRenderer'].get('content', {})
+                        if 'videoRenderer' in content: yield content['videoRenderer']
+                    for v in obj.values(): yield from find_videos(v)
+                elif isinstance(obj, list):
+                    for item in obj: yield from find_videos(item)
 
-                found_on_this_tab = 0
-                for v in find_videos(res_data):
-                    v_title = v.get('title', {}).get('runs', [{}])[0].get('text', '')
-                    v_id = v.get('videoId', '')
-                    
-                    if not v_title: continue
-                    found_on_this_tab += 1
-                    
-                    # This tells us exactly what the bot is seeing
-                    print(f"  🔍 Found: {v_title[:50]}") 
-
-                    if any(kw in v_title.lower() for kw in KEYWORDS):
-                        print(f"  ✅ MATCH: {v_title}")
-                        extracted.append({
-                            'id': v_id, 
-                            'title': v_title, 
-                            'date': datetime.now().strftime("%Y-%m-%d")
-                        })
+            found_count = 0
+            for v in find_videos(res_data):
+                v_title = v.get('title', {}).get('runs', [{}])[0].get('text', '')
+                v_id = v.get('videoId', '')
+                if not v_title: continue
                 
-                if found_on_this_tab > 0:
-                    print(f"  ℹ️ Scanned {found_on_this_tab} items on {tab['name']} tab.")
-                    # If we found videos on this tab, don't bother checking the next one
-                    break 
-                    
-        except Exception as e:
-            print(f"  🛑 Tab {tab['name']} failed: {e}")
-            continue
+                found_count += 1
+                print(f"  🔍 Found: {v_title[:50]}") 
+
+                if any(kw in v_title.lower() for kw in KEYWORDS):
+                    print(f"  ✅ MATCH: {v_title}")
+                    extracted.append({
+                        'id': v_id, 
+                        'title': v_title, 
+                        'date': datetime.now().strftime("%Y-%m-%d")
+                    })
             
-    return extracted
+            if found_count == 0:
+                print(f"  ⚠️ Warning: API returned success but 0 videos found in the data tree.")
+            return extracted
+            
+    except Exception as e:
+        print(f"  🛑 Hardened API failed: {e}")
+        return []
 
 def main():
     if os.path.exists(DATA_FILE):
