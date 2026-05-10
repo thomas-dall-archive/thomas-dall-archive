@@ -1,14 +1,16 @@
 import urllib.request
-import json
 import os
 import re
+import json
 from datetime import datetime
 
 # --- CONFIGURATION ---
-# We use the literal channel names in quotes for the most accurate Google search
-CHANNELS = [
-    "Thomas Dall Archive", "Teddy Divine", "Jan Dall", 
-    "Zombies Archive", "James Smith", "Mondo Cane", "Rahu866", "Dim Tooley"
+# We MUST use Channel IDs here (the ones starting with UC)
+CHANNEL_IDS = [
+    "UC_8sJPJkzoQcauUAcPf8bjA", "UCIRR8AjVomFfuYPM4By2MwA", 
+    "UCb-FyxB3vYO_2L-SfFGdvtQ", "UCHUakNT9WeUT3MPoOZFLpew",
+    "UCC0WwSFnfbIhHmZLGL8eJSA", "UC6rxH5XGNoeNyO7btRksH3A",
+    "UCMUpFzS0VYXziYgtVt7VyZg", "UCTMDW8muoabCU0cDj18ZtCg"
 ]
 
 KEYWORDS = ["thomas", "dall", "tim", "dooley", "potato", "tom", "kitty", "jan", "kota"]
@@ -18,36 +20,35 @@ POSTS_DIR = "_posts"
 os.makedirs("_data", exist_ok=True)
 os.makedirs(POSTS_DIR, exist_ok=True)
 
-def fetch_via_google_search(channel_name):
-    # Search for the channel name on YouTube via Google
-    # We remove the time filter (&tbs=qdr:w) for this test to ensure we see data
-    query = urllib.parse.quote(f'site:youtube.com "{channel_name}"')
-    url = f"https://www.google.com/search?q={query}"
+def fetch_via_rss(channel_id):
+    # This is the official, raw XML feed for a YouTube channel
+    url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
     
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
     }
     
     try:
-        print(f"--- Intercepting via Google Index: {channel_name} ---")
+        print(f"--- Requesting Raw RSS Feed: {channel_id} ---")
         req = urllib.request.Request(url, headers=headers)
         
         with urllib.request.urlopen(req, timeout=20) as response:
-            html = response.read().decode('utf-8', errors='ignore')
+            xml_data = response.read().decode('utf-8')
             
-            # WIDE REGEX: Look for the 11-char ID anywhere it follows a 'v=' or '%3Dv%'
-            # This catches raw links AND Google's encoded redirect links
-            video_ids = list(set(re.findall(r'(?:v%3D|v=)([a-zA-Z0-9_-]{11})', html)))
+            # Use RegEx to extract titles and IDs from the XML tags
+            # <title>Video Title</title>
+            # <yt:videoId>v_id</yt:videoId>
+            titles = re.findall(r'<title>(.*?)</title>', xml_data)
+            v_ids = re.findall(r'<yt:videoId>(.*?)</yt:videoId>', xml_data)
             
+            # The first title in the XML is usually the Channel Name, so we skip it
+            # We pair them up:
             extracted = []
-            for v_id in video_ids:
-                # Basic title extraction from the text around the ID
-                title_match = re.search(rf'{v_id}.*?<h3.*?>(.*?)</h3>', html)
-                if title_match:
-                    v_title = re.sub(r'<[^>]+>', '', title_match.group(1)).replace('&amp;', '&')
-                else:
-                    v_title = f"Intercepted: {v_id}"
-
+            for i in range(len(v_ids)):
+                # Adjust index because titles[0] is channel name
+                v_title = titles[i+1] if (i+1) < len(titles) else "Unknown Title"
+                v_id = v_ids[i]
+                
                 print(f"  🔍 Found: {v_title[:50]} (ID: {v_id})")
 
                 if any(kw in v_title.lower() for kw in KEYWORDS):
@@ -58,34 +59,32 @@ def fetch_via_google_search(channel_name):
                         'date': datetime.now().strftime("%Y-%m-%d")
                     })
             
-            if not video_ids:
-                print(f"  ℹ️ Zero IDs found. Google might be showing a CAPTCHA to the GitHub IP.")
+            if not v_ids:
+                print(f"  ⚠️ RSS feed returned empty or was blocked.")
             return extracted
             
     except Exception as e:
-        print(f"  ⚠️ Search failed: {e}")
+        print(f"  🛑 RSS Fetch failed: {e}")
         return []
-        
+
 def main():
     if os.path.exists(DATA_FILE):
         with open(DATA_FILE, 'r', encoding='utf-8') as f:
-            try:
-                existing_videos = json.load(f)
-            except:
-                existing_videos = []
+            try: existing_videos = json.load(f)
+            except: existing_videos = []
     else:
         existing_videos = []
     
     existing_ids = {v['id'] for v in existing_videos}
     new_found = False
 
-    for name in CHANNELS:
-        found = fetch_via_google_search(name)
+    for cid in CHANNEL_IDS:
+        found = fetch_via_rss(cid)
         for video in found:
             post_file = f"{POSTS_DIR}/{video['date']}-intercept-{video['id']}.md"
             if not os.path.exists(post_file):
                 with open(post_file, 'w', encoding='utf-8') as f:
-                    f.write(f"---\nlayout: post\ntitle: \"{video['title']}\"\ndate: {video['date']}\n---\n\nhttps://youtu.be/{video['id']}")
+                    f.write(f"---\nlayout: post\ntitle: \"Intercept: {video['title']}\"\ndate: {video['date']}\n---\n\nhttps://youtu.be/{video['id']}")
             
             if video['id'] not in existing_ids:
                 existing_videos.insert(0, video)
@@ -95,7 +94,7 @@ def main():
     if new_found:
         with open(DATA_FILE, 'w', encoding='utf-8') as f:
             json.dump(existing_videos, f, indent=2)
-        print("Done. Saved matches to JSON.")
+        print("Done. Saved matches.")
     else:
         print("No new matches found in this run.")
 
