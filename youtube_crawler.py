@@ -3,7 +3,12 @@ import os
 import re
 import json
 from datetime import datetime
+import html  # Add this at the top of your file
 
+# ... inside the loop ...
+v_title = titles[i+1] if (i+1) < len(titles) else "Unknown Title"
+v_title = html.unescape(v_title) # This turns &amp; into &
+v_id = v_ids[i]
 # --- CONFIGURATION ---
 # We MUST use Channel IDs here (the ones starting with UC)
 CHANNEL_IDS = [
@@ -21,7 +26,6 @@ os.makedirs("_data", exist_ok=True)
 os.makedirs(POSTS_DIR, exist_ok=True)
 
 def fetch_via_rss(channel_id):
-    # This is the official, raw XML feed for a YouTube channel
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
     
     headers = {
@@ -35,22 +39,25 @@ def fetch_via_rss(channel_id):
         with urllib.request.urlopen(req, timeout=20) as response:
             xml_data = response.read().decode('utf-8')
             
-            # Use RegEx to extract titles and IDs from the XML tags
-            # <title>Video Title</title>
-            # <yt:videoId>v_id</yt:videoId>
+            # Find all titles and video IDs
             titles = re.findall(r'<title>(.*?)</title>', xml_data)
             v_ids = re.findall(r'<yt:videoId>(.*?)</yt:videoId>', xml_data)
             
-            # The first title in the XML is usually the Channel Name, so we skip it
-            # We pair them up:
             extracted = []
+            # This is the loop where the placement matters:
             for i in range(len(v_ids)):
-                # Adjust index because titles[0] is channel name
+                # 1. Grab the title (offset by 1 because titles[0] is the Channel Name)
                 v_title = titles[i+1] if (i+1) < len(titles) else "Unknown Title"
+                
+                # 2. Clean the HTML entities (like &amp;)
+                v_title = html.unescape(v_title)
+                
+                # 3. Grab the ID
                 v_id = v_ids[i]
                 
                 print(f"  🔍 Found: {v_title[:50]} (ID: {v_id})")
 
+                # 4. Run the keyword check
                 if any(kw in v_title.lower() for kw in KEYWORDS):
                     print(f"  ✅ MATCH: {v_title}")
                     extracted.append({
@@ -59,8 +66,6 @@ def fetch_via_rss(channel_id):
                         'date': datetime.now().strftime("%Y-%m-%d")
                     })
             
-            if not v_ids:
-                print(f"  ⚠️ RSS feed returned empty or was blocked.")
             return extracted
             
     except Exception as e:
