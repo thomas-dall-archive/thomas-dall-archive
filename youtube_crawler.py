@@ -5,8 +5,13 @@ import datetime
 
 # --- CONFIGURATION ---
 CHANNEL_IDS = [
-    "UC_EXAMPLE_CHANNEL_ID_1", 
-    "UC_EXAMPLE_CHANNEL_ID_2"
+     "UC_8sJPJkzoQcauUAcPf8bjA",
+    "UCTMDW8muoabCU0cDj18ZtCg", 
+    "UCb-FyxB3vYO_2L-SfFGdvtQ",
+    "UCHUakNT9WeUT3MPoOZFLpew",
+    "UCC0WwSFnfbIhHmZLGL8eJSA",
+    "UCqXtNsJhRGFDcEWd4ziMlsw",
+    "UC6rxH5XGNoeNyO7btRksH3A"
 ]
 
 # Only index videos containing these words (Case-Insensitive)
