@@ -16,7 +16,10 @@ CHANNEL_IDS = [
     "UCMUpFzS0VYXziYgtVt7VyZg", # Rahu
     "UCTMDW8muoabCU0cDj18ZtCg"  # Dim Tooley
 ]
-KEYWORDS = ["thomas", "dall", "tim", "dooley", "potato"]
+KEYWORDS = [
+    "thomas", "dall", "tim", "dooley", "potato", 
+    "kittystyle"
+]
 DATA_FILE = "_data/videos.yml"
 POSTS_DIR = "_posts"
 
