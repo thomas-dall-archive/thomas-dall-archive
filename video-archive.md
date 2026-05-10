@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Video Archive
 permalink: /video-archive/
 ---
