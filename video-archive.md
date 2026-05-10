@@ -5,46 +5,34 @@ permalink: /video-archive/
 ---
 
 <style>
-  /* BREAK OUT: This forces the container to be wider than the theme default */
   .archive-container {
-    max-width: 1200px !important; 
-    margin-left: auto;
-    margin-right: auto;
     padding: 10px 0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   }
   
   .video-grid {
     display: grid;
-    grid-template-columns: 1fr; /* 1 column on mobile */
-    gap: 20px;
+    grid-template-columns: 1fr;
+    gap: 25px;
     margin-top: 20px;
   }
 
-  /* 2 columns on tablets */
-  @media (min-width: 750px) {
+  @media (min-width: 700px) {
     .video-grid {
       grid-template-columns: 1fr 1fr;
-    }
-  }
-
-  /* 3 columns on desktops */
-  @media (min-width: 1100px) {
-    .video-grid {
-      grid-template-columns: 1fr 1fr 1fr;
     }
   }
 
   .video-card {
     background: #111;
     border: 1px solid #222;
-    border-radius: 4px;
+    border-radius: 6px;
     overflow: hidden;
     transition: border 0.2s ease-in-out;
   }
 
   .video-card:hover {
-    border-color: #ffc107;
+    border-color: #ffc107; /* Match your image color */
   }
 
   .video-wrapper {
@@ -63,22 +51,22 @@ permalink: /video-archive/
   }
 
   .video-info {
-    padding: 12px;
+    padding: 15px;
     background: #1a1a1a;
   }
 
   .video-title {
-    margin: 0 0 5px 0;
-    font-size: 0.9rem !important; /* Slightly smaller for 3-up layout */
-    color: #ffc107 !important;
-    line-height: 1.3;
+    margin: 0 0 8px 0;
+    font-size: 1rem !important;
+    color: #ffc107 !important; /* Match your image color */
+    line-height: 1.4;
     font-weight: 600;
   }
 
   .video-date {
     display: block;
-    font-size: 0.75rem;
-    color: #777;
+    font-size: 0.85rem;
+    color: #888;
   }
 </style>
 
