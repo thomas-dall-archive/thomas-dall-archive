@@ -5,7 +5,7 @@ import datetime
 
 # --- CONFIGURATION ---
 CHANNEL_IDS = [
-     "UC_8sJPJkzoQcauUAcPf8bjA",
+    "UC_8sJPJkzoQcauUAcPf8bjA",
     "UCTMDW8muoabCU0cDj18ZtCg", 
     "UCb-FyxB3vYO_2L-SfFGdvtQ",
     "UCHUakNT9WeUT3MPoOZFLpew",
