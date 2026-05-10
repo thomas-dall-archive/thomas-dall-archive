@@ -5,15 +5,13 @@ permalink: /video-archive/
 ---
 
 <style>
-  /* Forensic Archive Styling */
   .archive-container {
     padding: 10px 0;
-    font-family: 'Monaco', 'Courier New', monospace;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   }
   
   .video-grid {
     display: grid;
-    /* Forces 1 column on mobile, 2 columns on desktop */
     grid-template-columns: 1fr;
     gap: 25px;
     margin-top: 20px;
@@ -26,16 +24,15 @@ permalink: /video-archive/
   }
 
   .video-card {
-    background: #0a0a0a;
-    border: 1px solid #00ff0033;
-    border-radius: 2px;
+    background: #111;
+    border: 1px solid #222;
+    border-radius: 6px;
     overflow: hidden;
-    transition: all 0.3s ease;
+    transition: border 0.2s ease-in-out;
   }
 
   .video-card:hover {
-    border-color: #00ff00;
-    box-shadow: 0 0 20px rgba(0, 255, 0, 0.15);
+    border-color: #ffc107; /* Match your image color */
   }
 
   .video-wrapper {
@@ -55,39 +52,25 @@ permalink: /video-archive/
 
   .video-info {
     padding: 15px;
-    background: #111;
-    border-top: 1px solid #00ff0022;
+    background: #1a1a1a;
   }
 
   .video-title {
-    margin: 0 0 10px 0;
+    margin: 0 0 8px 0;
     font-size: 1rem !important;
-    color: #00ff00 !important;
-    text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
+    color: #ffc107 !important; /* Match your image color */
     line-height: 1.4;
-    text-transform: uppercase;
+    font-weight: 600;
   }
 
   .video-date {
     display: block;
-    font-size: 0.8rem;
-    color: #555;
-    font-weight: bold;
-  }
-
-  .status-tag {
-    color: #00ff00;
-    font-size: 0.7rem;
-    margin-bottom: 5px;
-    display: block;
-    opacity: 0.8;
+    font-size: 0.85rem;
+    color: #888;
   }
 </style>
 
 <div class="archive-container">
-  <p style="color: #00ff00;">> INITIALIZING ARCHIVE_RECOVERY_PROTOCOL...</p>
-  <p style="color: #00ff00;">> LOADED: {{ site.data.videos.size }} DATA_PACKETS</p>
-
   {% if site.data.videos.size > 0 %}
     <div class="video-grid">
       {% for video in site.data.videos %}
@@ -100,19 +83,15 @@ permalink: /video-archive/
             </iframe>
           </div>
           <div class="video-info">
-            <span class="status-tag">[RECOVERED_FILE]</span>
             <h3 class="video-title">{{ video.title }}</h3>
-            <span class="video-date">TIMESTAMP: {{ video.date }}</span>
+            <span class="video-date">Intercepted: {{ video.date }}</span>
           </div>
         </div>
       {% endfor %}
     </div>
   {% else %}
-    <div style="border: 1px solid #ff0000; padding: 40px; text-align: center; background: rgba(255,0,0,0.05);">
-      <p style="color: #ff0000; font-weight: bold;">
-        [ERROR] NO INTERCEPTIONS FOUND<br>
-        <span style="font-size: 0.8rem; color: #888;">CHECK CRAWLER LOGS FOR CONNECTION TIMEOUTS.</span>
-      </p>
-    </div>
+    <p style="text-align: center; color: #666; padding: 50px;">
+      No videos logged in the database.
+    </p>
   {% endif %}
 </div>
