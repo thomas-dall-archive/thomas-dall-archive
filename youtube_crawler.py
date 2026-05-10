@@ -21,23 +21,26 @@ POSTS_DIR = "_posts"
 os.makedirs("_data", exist_ok=True)
 os.makedirs(POSTS_DIR, exist_ok=True)
 
-def fetch_via_invidious(channel_id):
-    # We use a public Invidious instance as a proxy to bypass the 0-video block
-    instances = ["https://invidious.lunar.icu", "https://yewtu.be", "https://inv.tux.rs"]
+def fetch_via_api(channel_id):
+    # Using Piped API instances which are generally more stable for scrapers
+    instances = ["https://pipedapi.kavin.rocks", "https://pipedapi.drgns.space", "https://pipedapi.astreapp.ca"]
     random.shuffle(instances)
     
     for instance in instances:
-        url = f"{instance}/api/v1/channels/{channel_id}/videos"
+        url = f"{instance}/channels/{channel_id}"
         try:
             print(f"--- Intercepting via {instance}: {channel_id} ---")
             req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-            with urllib.request.urlopen(req, timeout=15) as response:
-                videos = json.loads(response.read().decode('utf-8'))
+            with urllib.request.urlopen(req, timeout=20) as response:
+                data = json.loads(response.read().decode('utf-8'))
+                
+                # Piped returns a dictionary with a 'relatedStreams' list
+                videos = data.get('relatedStreams', [])
                 
                 extracted = []
                 for v in videos:
                     v_title = v.get('title', '')
-                    v_id = v.get('videoId', '')
+                    v_id = v.get('url', '').split('=')[-1] # Extracts ID from /watch?v=ID
                     
                     if any(kw in v_title.lower() for kw in KEYWORDS):
                         print(f"  ✅ MATCH: {v_title}")
@@ -47,10 +50,10 @@ def fetch_via_invidious(channel_id):
                             'date': datetime.now().strftime("%Y-%m-%d")
                         })
                 
-                if extracted or videos: # If we got ANY data, even if no matches
+                if videos: # If the instance gave us a list of videos, it's a success
                     return extracted
         except Exception as e:
-            print(f"  ⚠️ Instance {instance} failed, trying next...")
+            print(f"  ⚠️ Instance {instance} failed: {e}")
             continue
     return []
 
