@@ -121,33 +121,37 @@ def main():
     # 1. Load current gallery data
     if os.path.exists(DATA_FILE):
         with open(DATA_FILE, 'r', encoding='utf-8') as f:
-            existing_videos = yaml.safe_load(f) or []
+            try:
+                existing_videos = yaml.safe_load(f) or []
+            except Exception:
+                existing_videos = []
     else:
         existing_videos = []
     
     existing_ids = {v['id'] for v in existing_videos}
-    new_to_add = []
+    
+    # Track if we actually changed anything
+    changes_made = False
 
     # 2. Cycle through each Channel ID
     for channel_id in CHANNEL_IDS:
         found = fetch_via_html(channel_id)
         for video in found:
-            # Create a post (for the RSS feed)
+            # ALWAYS create/update the post
             create_forensic_post(video['id'], video['title'], video['date'])
             
             # Check if it needs to be added to the Gallery file
             if video['id'] not in existing_ids:
-                new_to_add.append(video)
+                print(f"  💾 ARCHIVING TO YAML: {video['title']}")
+                existing_videos.insert(0, video) # Add to the top
                 existing_ids.add(video['id'])
+                changes_made = True
 
-    # 3. Save the updated Gallery list
-    if new_to_add:
-        updated_list = new_to_add + existing_videos
-        with open(DATA_FILE, 'w', encoding='utf-8') as f:
-            yaml.dump(updated_list, f, default_flow_style=False, sort_keys=False)
-        print(f"\nSUCCESS: Intercepted {len(new_to_add)} new target videos.")
-    else:
-        print("\nFINISHED: No new target matches found.")
+        # 3. Save IMMEDIATELY after each channel (Atomic Save)
+        if changes_made:
+            with open(DATA_FILE, 'w', encoding='utf-8') as f:
+                yaml.dump(existing_videos, f, default_flow_style=False, sort_keys=False)
+            print(f"  ✅ Database synced for {channel_id}")
+            changes_made = False # Reset for next channel
 
-if __name__ == "__main__":
-    main()
+    print("\n--- Intercept Cycle Complete ---")
