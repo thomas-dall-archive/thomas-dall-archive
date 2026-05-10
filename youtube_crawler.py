@@ -21,47 +21,57 @@ os.makedirs("_data", exist_ok=True)
 os.makedirs(POSTS_DIR, exist_ok=True)
 
 def fetch_via_api(channel_id):
-    # Piped API instances are currently more resilient than Invidious
-    instances = [
-        "https://pipedapi.kavin.rocks", 
-        "https://pipedapi.drgns.space", 
-        "https://pipedapi.astreapp.ca"
-    ]
-    random.shuffle(instances)
+    # This hits YouTube's internal API directly, mimicking a browser's data request
+    url = "https://www.youtube.com/youtubei/v1/browse?prettyPrint=false"
     
-    for instance in instances:
-        # Piped uses a different endpoint for channel content
-        url = f"{instance}/channels/{channel_id}"
-        try:
-            print(f"--- Intercepting via {instance}: {channel_id} ---")
-            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-            with urllib.request.urlopen(req, timeout=20) as response:
-                data = json.loads(response.read().decode('utf-8'))
+    # We need a basic 'context' block to make YouTube think we are a real browser
+    payload = {
+        "context": {
+            "client": {
+                "clientName": "WEB",
+                "clientVersion": "2.20240320.00.00"
+            }
+        },
+        "browseId": channel_id,
+        "params": "EgsVdmlkZW9z" # This is a magic code that tells YouTube "I want the Videos tab"
+    }
+    
+    try:
+        print(f"--- Intercepting via Internal API: {channel_id} ---")
+        data_json = json.dumps(payload).encode('utf-8')
+        req = urllib.request.Request(url, data=data_json, headers={'Content-Type': 'application/json'})
+        
+        with urllib.request.urlopen(req, timeout=20) as response:
+            res_data = json.loads(response.read().decode('utf-8'))
+            
+            # This is where the video data hides in the internal response
+            extracted = []
+            def find_videos(obj):
+                if isinstance(obj, dict):
+                    if 'videoRenderer' in obj: yield obj['videoRenderer']
+                    for v in obj.values(): yield from find_videos(v)
+                elif isinstance(obj, list):
+                    for item in obj: yield from find_videos(item)
+
+            for v in find_videos(res_data):
+                v_title = v.get('title', {}).get('runs', [{}])[0].get('text', '')
+                v_id = v.get('videoId', '')
                 
-                # In Piped, the videos are under 'relatedStreams'
-                videos = data.get('relatedStreams', [])
-                
-                extracted = []
-                for v in videos:
-                    v_title = v.get('title', '')
-                    # Piped URLs look like "/watch?v=ID"
-                    raw_url = v.get('url', '')
-                    v_id = raw_url.split('=')[-1] if '=' in raw_url else ""
-                    
-                    if v_id and any(kw in v_title.lower() for kw in KEYWORDS):
-                        print(f"  ✅ MATCH: {v_title}")
-                        extracted.append({
-                            'id': v_id, 
-                            'title': v_title, 
-                            'date': datetime.now().strftime("%Y-%m-%d")
-                        })
-                
-                if videos: # If the instance returned actual video data
-                    return extracted
-        except Exception as e:
-            print(f"  ⚠️ {instance} failed: {e}")
-            continue
-    return []
+                if any(kw in v_title.lower() for kw in KEYWORDS):
+                    print(f"  ✅ MATCH: {v_title}")
+                    extracted.append({
+                        'id': v_id, 
+                        'title': v_title, 
+                        'date': datetime.now().strftime("%Y-%m-%d")
+                    })
+            
+            if not extracted:
+                print(f"  ℹ️ Internal API scanned, but no keyword matches found.")
+            return extracted
+            
+    except Exception as e:
+        print(f"  🛑 Internal API failed: {e}")
+        return []
 
 def main():
     if os.path.exists(DATA_FILE):
