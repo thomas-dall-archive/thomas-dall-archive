@@ -4,7 +4,6 @@ import os
 import time
 import random
 from datetime import datetime
-import re
 
 # --- CONFIGURATION ---
 CHANNEL_IDS = [
@@ -22,11 +21,16 @@ os.makedirs("_data", exist_ok=True)
 os.makedirs(POSTS_DIR, exist_ok=True)
 
 def fetch_via_api(channel_id):
-    # Using Piped API instances which are generally more stable for scrapers
-    instances = ["https://pipedapi.kavin.rocks", "https://pipedapi.drgns.space", "https://pipedapi.astreapp.ca"]
+    # Piped API instances are currently more resilient than Invidious
+    instances = [
+        "https://pipedapi.kavin.rocks", 
+        "https://pipedapi.drgns.space", 
+        "https://pipedapi.astreapp.ca"
+    ]
     random.shuffle(instances)
     
     for instance in instances:
+        # Piped uses a different endpoint for channel content
         url = f"{instance}/channels/{channel_id}"
         try:
             print(f"--- Intercepting via {instance}: {channel_id} ---")
@@ -34,15 +38,17 @@ def fetch_via_api(channel_id):
             with urllib.request.urlopen(req, timeout=20) as response:
                 data = json.loads(response.read().decode('utf-8'))
                 
-                # Piped returns a dictionary with a 'relatedStreams' list
+                # In Piped, the videos are under 'relatedStreams'
                 videos = data.get('relatedStreams', [])
                 
                 extracted = []
                 for v in videos:
                     v_title = v.get('title', '')
-                    v_id = v.get('url', '').split('=')[-1] # Extracts ID from /watch?v=ID
+                    # Piped URLs look like "/watch?v=ID"
+                    raw_url = v.get('url', '')
+                    v_id = raw_url.split('=')[-1] if '=' in raw_url else ""
                     
-                    if any(kw in v_title.lower() for kw in KEYWORDS):
+                    if v_id and any(kw in v_title.lower() for kw in KEYWORDS):
                         print(f"  ✅ MATCH: {v_title}")
                         extracted.append({
                             'id': v_id, 
@@ -50,10 +56,10 @@ def fetch_via_api(channel_id):
                             'date': datetime.now().strftime("%Y-%m-%d")
                         })
                 
-                if videos: # If the instance gave us a list of videos, it's a success
+                if videos: # If the instance returned actual video data
                     return extracted
         except Exception as e:
-            print(f"  ⚠️ Instance {instance} failed: {e}")
+            print(f"  ⚠️ {instance} failed: {e}")
             continue
     return []
 
@@ -71,7 +77,7 @@ def main():
     new_found = False
 
     for channel_id in CHANNEL_IDS:
-        found = fetch_via_invidious(channel_id)
+        found = fetch_via_api(channel_id)
         for video in found:
             post_file = f"{POSTS_DIR}/{video['date']}-intercept-{video['id']}.md"
             if not os.path.exists(post_file):
@@ -86,7 +92,7 @@ def main():
     if new_found:
         with open(DATA_FILE, 'w', encoding='utf-8') as f:
             json.dump(existing_videos, f, indent=2)
-        print("Done. Saved matches to JSON file.")
+        print("Done. Saved matches to JSON.")
     else:
         print("No new matches found in this run.")
 
