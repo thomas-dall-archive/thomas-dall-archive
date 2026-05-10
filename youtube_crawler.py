@@ -21,62 +21,72 @@ os.makedirs("_data", exist_ok=True)
 os.makedirs(POSTS_DIR, exist_ok=True)
 
 def fetch_via_api(channel_id):
-    # This hits YouTube's internal API directly, mimicking a browser's data request
     url = "https://www.youtube.com/youtubei/v1/browse?prettyPrint=false"
     
-    # We need a basic 'context' block to make YouTube think we are a real browser
-    payload = {
-        "context": {
-            "client": {
-                "clientName": "WEB",
-                "clientVersion": "2.20240320.00.00"
-            }
-        },
-        "browseId": channel_id,
-        "params": "EgsVdmlkZW9z"  # <--- This forces the "Videos" tab
-    }
+    # EgsVdmlkZW9z = Videos Tab | EgsGc3RyZWFtcw%3D%3D = Live Tab
+    tabs_to_check = [
+        {"name": "Videos", "param": "EgsVdmlkZW9z"},
+        {"name": "Live", "param": "EgsGc3RyZWFtcw%3D%3D"}
+    ]
     
-    try:
-        print(f"--- Intercepting via Internal API: {channel_id} ---")
-        data_json = json.dumps(payload).encode('utf-8')
-        req = urllib.request.Request(url, data=data_json, headers={'Content-Type': 'application/json'})
+    extracted = []
+    
+    for tab in tabs_to_check:
+        payload = {
+            "context": {
+                "client": {
+                    "clientName": "WEB",
+                    "clientVersion": "2.20240320.00.00"
+                }
+            },
+            "browseId": channel_id,
+            "params": tab["param"]
+        }
         
-        with urllib.request.urlopen(req, timeout=20) as response:
-            res_data = json.loads(response.read().decode('utf-8'))
+        try:
+            print(f"--- Intercepting {channel_id} ({tab['name']} Tab) ---")
+            data_json = json.dumps(payload).encode('utf-8')
+            req = urllib.request.Request(url, data=data_json, headers={'Content-Type': 'application/json'})
             
-            # This is where the video data hides in the internal response
-            extracted = []
-            def find_videos(obj):
-                if isinstance(obj, dict):
-                    if 'videoRenderer' in obj: yield obj['videoRenderer']
-                    for v in obj.values(): yield from find_videos(v)
-                elif isinstance(obj, list):
-                    for item in obj: yield from find_videos(item)
-
-            for v in find_videos(res_data):
-                v_title = v.get('title', {}).get('runs', [{}])[0].get('text', '')
-                v_id = v.get('videoId', '')
+            with urllib.request.urlopen(req, timeout=20) as response:
+                res_data = json.loads(response.read().decode('utf-8'))
                 
-                if not v_title: continue
-                
-                # TEMPORARY: Print everything so we can see what YouTube is sending
-                print(f"  🔍 Found: {v_title[:50]}") 
+                def find_videos(obj):
+                    if isinstance(obj, dict):
+                        if 'videoRenderer' in obj: yield obj['videoRenderer']
+                        for v in obj.values(): yield from find_videos(v)
+                    elif isinstance(obj, list):
+                        for item in obj: yield from find_videos(item)
 
-                if any(kw in v_title.lower() for kw in KEYWORDS):
-                    print(f"  ✅ MATCH: {v_title}")
-                    extracted.append({
-                        'id': v_id, 
-                        'title': v_title, 
-                        'date': datetime.now().strftime("%Y-%m-%d")
-                    })
+                found_on_this_tab = 0
+                for v in find_videos(res_data):
+                    v_title = v.get('title', {}).get('runs', [{}])[0].get('text', '')
+                    v_id = v.get('videoId', '')
+                    
+                    if not v_title: continue
+                    found_on_this_tab += 1
+                    
+                    # This tells us exactly what the bot is seeing
+                    print(f"  🔍 Found: {v_title[:50]}") 
+
+                    if any(kw in v_title.lower() for kw in KEYWORDS):
+                        print(f"  ✅ MATCH: {v_title}")
+                        extracted.append({
+                            'id': v_id, 
+                            'title': v_title, 
+                            'date': datetime.now().strftime("%Y-%m-%d")
+                        })
+                
+                if found_on_this_tab > 0:
+                    print(f"  ℹ️ Scanned {found_on_this_tab} items on {tab['name']} tab.")
+                    # If we found videos on this tab, don't bother checking the next one
+                    break 
+                    
+        except Exception as e:
+            print(f"  🛑 Tab {tab['name']} failed: {e}")
+            continue
             
-            if not extracted:
-                print(f"  ℹ️ Internal API scanned, but no keyword matches found.")
-            return extracted
-            
-    except Exception as e:
-        print(f"  🛑 Internal API failed: {e}")
-        return []
+    return extracted
 
 def main():
     if os.path.exists(DATA_FILE):
