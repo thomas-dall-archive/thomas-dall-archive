@@ -5,10 +5,6 @@ import json
 from datetime import datetime
 import html  # Add this at the top of your file
 
-# ... inside the loop ...
-v_title = titles[i+1] if (i+1) < len(titles) else "Unknown Title"
-v_title = html.unescape(v_title) # This turns &amp; into &
-v_id = v_ids[i]
 # --- CONFIGURATION ---
 # We MUST use Channel IDs here (the ones starting with UC)
 CHANNEL_IDS = [
