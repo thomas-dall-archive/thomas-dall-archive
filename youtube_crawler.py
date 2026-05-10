@@ -23,6 +23,7 @@ KEYWORDS = ["thomas", "dall", "tim", "dooley", "potato", "tom", "kitty", "jan", 
 DATA_FILE = "_data/videos.json"
 POSTS_DIR = "_posts"
 
+# Ensure folders exist
 os.makedirs("_data", exist_ok=True)
 os.makedirs(POSTS_DIR, exist_ok=True)
 
@@ -38,7 +39,7 @@ def fetch_via_rss(channel_id):
         max_retries = 4
         for attempt in range(max_retries):
             try:
-                # Exponential backoff to avoid 500/404 load balancing blocks
+                # Exponential backoff to simulate a human "refreshing" the page
                 wait_time = (attempt + 1) * 5 
                 time.sleep(wait_time)
                 
@@ -57,7 +58,7 @@ def fetch_via_rss(channel_id):
                     
                     extracted = []
                     for i in range(len(v_ids)):
-                        # titles[0] is channel name, titles[1+] are video titles
+                        # titles[0] is usually the channel name, titles[1+] are the videos
                         raw_title = titles[i+1] if (i+1) < len(titles) else "Unknown"
                         v_title = html.unescape(raw_title)
                         v_id = v_ids[i]
@@ -77,6 +78,7 @@ def fetch_via_rss(channel_id):
     return []
 
 def main():
+    # 1. Load existing database
     if os.path.exists(DATA_FILE):
         with open(DATA_FILE, 'r', encoding='utf-8') as f:
             try:
@@ -89,28 +91,31 @@ def main():
     existing_ids = {v['id'] for v in existing_videos}
     new_found = False
 
+    # 2. Process Channels
     for channel_id in CHANNEL_IDS:
         found_videos = fetch_via_rss(channel_id)
         
         for video in found_videos:
-            # SANITIZE TITLE: Remove quotes and colons for the filename/yaml
-            clean_title = video['title'].replace('"', '').replace(':', ' -').replace('\\', '')
+            # SANITIZE: Jekyll crashes on colons, quotes, and brackets in titles.
+            clean_title = video['title'].replace('"', '').replace(':', ' -')
+            clean_title = clean_title.replace('\\', '').replace('[', '(').replace(']', ')')
+            clean_title = clean_title.replace('\n', ' ').strip()
             
             post_file = f"{POSTS_DIR}/{video['date']}-intercept-{video['id']}.md"
             
+            # 3. Create individual Markdown Post
             if not os.path.exists(post_file):
                 with open(post_file, 'w', encoding='utf-8') as f:
-                    # We use simple string formatting instead of json.dumps for the MD 
-                    # to ensure Jekyll's picky parser stays happy
                     f.write("---\n")
                     f.write("layout: post\n")
                     f.write(f"title: \"{clean_title}\"\n")
                     f.write(f"date: {video['date']}\n")
                     f.write("---\n\n")
-                    f.write(f"https://youtu.be/{video['id']}")
+                    f.write(f"### Intercepted Log\n\n")
+                    f.write(f"Evidence found at: https://youtu.be/{video['id']}\n")
             
+            # 4. Update the JSON database
             if video['id'] not in existing_ids:
-                # Add to JSON list
                 existing_videos.insert(0, {
                     'id': video['id'],
                     'title': clean_title,
@@ -119,10 +124,14 @@ def main():
                 existing_ids.add(video['id'])
                 new_found = True
 
+    # 5. Save and Finish
     if new_found:
         with open(DATA_FILE, 'w', encoding='utf-8') as f:
-            # ensure_ascii=False prevents those "invalid Unicode escape" errors in Jekyll
+            # ensure_ascii=False keeps emojis/special chars readable for Jekyll
             json.dump(existing_videos, f, indent=2, ensure_ascii=False)
         print("Done. Saved matches to JSON.")
     else:
         print("No new matches found in this run.")
+
+if __name__ == "__main__":
+    main()
