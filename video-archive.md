@@ -1,28 +1,85 @@
 ---
-layout: default
-title: "Video Evidence Archive"
+layout: page
+title: Video Archive
+permalink: /archive/
 ---
 
-# 📼 Video Evidence Archive
-*An automated, chronological collection of broadcasts and external commentary regarding Thomas Dall / Tim Dooley.*
-
-<hr style="border-color: #444; margin-bottom: 30px;">
-
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px;">
+<div class="archive-container">
   {% if site.data.videos %}
-    {% for video in site.data.videos %}
-      <div style="background: #111; border: 1px solid #333; padding: 10px; border-radius: 5px;">
-        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 10px;">
-          <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-                  src="https://www.youtube.com/embed/{{ video.id }}" 
-                  frameborder="0" allowfullscreen>
-          </iframe>
+    <div class="video-grid">
+      {% for video in site.data.videos %}
+        <div class="video-card">
+          <div class="video-wrapper">
+            <iframe 
+              src="https://www.youtube.com/embed/{{ video.id }}" 
+              frameborder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+              allowfullscreen>
+            </iframe>
+          </div>
+          <div class="video-info">
+            <h3 class="video-title">{{ video.title }}</h3>
+            <span class="video-date">Intercepted: {{ video.date }}</span>
+          </div>
         </div>
-        <p style="font-size: 0.9em; margin: 0;"><strong>{{ video.title }}</strong></p>
-        <p style="font-size: 0.8em; color: #888; margin: 0;">Logged: {{ video.date }}</p>
-      </div>
-    {% endfor %}
+      {% endfor %}
+    </div>
   {% else %}
-    <p>No video evidence has been logged yet. The crawler runs every 6 hours.</p>
+    <p class="no-videos">No intercepted transmissions found yet. Running scan...</p>
   {% endif %}
 </div>
+
+<style>
+  .archive-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .video-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 30px;
+  }
+  .video-card {
+    background: #1a1a1a;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+    transition: transform 0.2s;
+  }
+  .video-card:hover {
+    transform: translateY(-5px);
+  }
+  .video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+    height: 0;
+  }
+  .video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .video-info {
+    padding: 15px;
+    color: #eee;
+  }
+  .video-title {
+    margin: 0 0 10px 0;
+    font-size: 1.1rem;
+    line-height: 1.4;
+  }
+  .video-date {
+    font-size: 0.8rem;
+    color: #888;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  .no-videos {
+    text-align: center;
+    color: #666;
+    font-style: italic;
+  }
+</style>
