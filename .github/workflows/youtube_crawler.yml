@@ -28,9 +28,16 @@ jobs:
         run: |
           git config user.name "Surveillance Crawler"
           git config user.email "bot@github.com"
-          git add _posts/*.md
           
-          # If no new files, exit gracefully
-          git diff --staged --quiet || git commit -m "Automated Intercept: New YouTube Broadcast Logged"
-          git pull --rebase origin main
-          git push
+          # Tell Git to grab BOTH the posts and the gallery data
+          git add _posts/*.md
+          git add _data/videos.yml
+          
+          # Only commit if there are actually changes
+          if ! git diff --staged --quiet; then
+            git commit -m "Automated Intercept: New YouTube Broadcast Logged"
+            git pull --rebase origin main
+            git push
+          else
+            echo "No new evidence found to commit."
+          fi
