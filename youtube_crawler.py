@@ -15,7 +15,7 @@ CHANNEL_IDS = [
 ]
 
 # Only index videos containing these words (Case-Insensitive)
-KEYWORDS = ["thomas", "dall", "tim", "dooley", "potato", "potato69", "kota", "kittystyle", "kittystyles"]
+KEYWORDS = ["thomas", "dall", "tim", "dooley", "potato", "samy", "kittystyle", "kota", "kittystyles", "kitty", "potato69", "potato"]
 
 POSTS_DIR = "_posts"
 os.makedirs(POSTS_DIR, exist_ok=True)
