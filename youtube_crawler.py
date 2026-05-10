@@ -14,7 +14,7 @@ CHANNEL_IDS = [
     "UCC0WwSFnfbIhHmZLGL8eJSA", "UC6rxH5XGNoeNyO7btRksH3A",
     "UCMUpFzS0VYXziYgtVt7VyZg", "UCTMDW8muoabCU0cDj18ZtCg"
 ]
-KEYWORDS = ["thomas", "dall", "tim", "dooley", "potato", "samy", "kittystyle", "kota", "kittystyles", "kitty", "potato69", "potato"]
+KEYWORDS = ["thomas", "dall", "tim", "dooley", "potato", "tom", "kitty", "jan", "kota"]
 DATA_FILE = "_data/videos.yml"
 POSTS_DIR = "_posts"
 
