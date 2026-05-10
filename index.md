@@ -120,7 +120,7 @@ This section documents the oral testimony of **Kota**, a primary witness who mai
 
 ### 🏥 Behavioral Evidence: Hygiene & Clinical Indicators
 The witness provides specific details regarding the subject’s physical state, which align with the **"Social Withdrawal"** and **"Antisocial"** traits noted in his 2013 psychiatric evaluation.
-* **Hygiene Neglect:** Witness reported a total refusal to maintain basic grooming or hygiene, describing the subject as "smelling of boxed red wine and body odor" during video calls.
+* **Hygiene Neglect:** Witness reported a total refusal to maintain basic grooming or hygiene, describing the subject as "unkepmt and greasy looking" during video calls.
 * **Disturbing Fixations:** The subject demonstrated a "weird" obsession with the witness’s medical issues, specifically asking to watch her "peel" skin from burns or "pop boils."
 * **Reactive Violence:** Kota reports that when his control was challenged, the subject transitioned from "loving" rhetoric to explicit threats to **"slit her throat."**
 
