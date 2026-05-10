@@ -29,55 +29,55 @@ os.makedirs("_data", exist_ok=True)
 os.makedirs(POSTS_DIR, exist_ok=True)
 
 def fetch_via_rss(channel_id):
-    """
-    Fetches the raw XML feed from YouTube. 
-    This is the most resilient method for 2026 bot detection.
-    """
-    url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
-    }
+    # The patterns we want to try
+    patterns = [
+        f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}",
+        f"https://www.youtube.com/feeds/videos.xml?user={channel_id}"
+    ]
     
-    try:
-        # Wait 2 seconds between channels to prevent '500 Internal Server Error' (Rate Limiting)
-        time.sleep(2)
-        print(f"--- Requesting Raw RSS Feed: {channel_id} ---")
-        
-        req = urllib.request.Request(url, headers=headers)
-        with urllib.request.urlopen(req, timeout=20) as response:
-            xml_data = response.read().decode('utf-8')
-            
-            # Extract Video IDs and Titles using RegEx
-            v_ids = re.findall(r'<yt:videoId>(.*?)</yt:videoId>', xml_data)
-            titles = re.findall(r'<title>(.*?)</title>', xml_data)
-            
-            extracted = []
-            for i in range(len(v_ids)):
-                # titles[0] is the Channel Name, so we use i+1 to get the video title
-                raw_title = titles[i+1] if (i+1) < len(titles) else "Unknown Title"
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0.0.0 Safari/537.36'}
+    
+    for url in patterns:
+        # --- RETRY LOGIC (The 'Refresh' Simulation) ---
+        max_retries = 4
+        for attempt in range(max_retries):
+            try:
+                # Wait longer each time we fail (Exponential Backoff)
+                wait_time = (attempt + 1) * 5 
+                time.sleep(wait_time)
                 
-                # Clean up HTML entities like &amp; or &#39;
-                v_title = html.unescape(raw_title)
-                v_id = v_ids[i]
+                print(f"--- Requesting RSS (Attempt {attempt + 1}/{max_retries}): {channel_id} ---")
                 
-                print(f"  🔍 Found: {v_title[:50]} (ID: {v_id})")
-
-                # Keyword check (case-insensitive)
-                if any(kw in v_title.lower() for kw in KEYWORDS):
-                    print(f"  ✅ MATCH: {v_title}")
-                    extracted.append({
-                        'id': v_id, 
-                        'title': v_title, 
-                        'date': datetime.now().strftime("%Y-%m-%d")
-                    })
-            
-            if not v_ids:
-                print(f"  ⚠️ RSS feed was empty for {channel_id}.")
-            return extracted
-            
-    except Exception as e:
-        print(f"  🛑 RSS Fetch failed for {channel_id}: {e}")
-        return []
+                req = urllib.request.Request(url, headers=headers)
+                with urllib.request.urlopen(req, timeout=20) as response:
+                    xml_data = response.read().decode('utf-8')
+                    
+                    v_ids = re.findall(r'<yt:videoId>(.*?)</yt:videoId>', xml_data)
+                    titles = re.findall(r'<title>(.*?)</title>', xml_data)
+                    
+                    if not v_ids:
+                        print(f"  ℹ️ Pattern connected but returned no videos. Trying next pattern...")
+                        break # Break retry loop, move to next pattern
+                    
+                    extracted = []
+                    for i in range(len(v_ids)):
+                        raw_title = titles[i+1] if (i+1) < len(titles) else "Unknown"
+                        v_title = html.unescape(raw_title)
+                        v_id = v_ids[i]
+                        
+                        if any(kw in v_title.lower() for kw in KEYWORDS):
+                            print(f"  ✅ MATCH: {v_title}")
+                            extracted.append({'id': v_id, 'title': v_title, 'date': datetime.now().strftime("%Y-%m-%d")})
+                    
+                    return extracted # SUCCESS: Return and stop everything for this channel
+                    
+            except Exception as e:
+                print(f"  ⚠️ Attempt {attempt + 1} failed: {e}")
+                if attempt == max_retries - 1:
+                    print(f"  ❌ Failed after {max_retries} refreshes.")
+                continue # Try the next 'refresh' (retry)
+                
+    return []
 
 def main():
     # 1. Load existing video data so we don't duplicate
