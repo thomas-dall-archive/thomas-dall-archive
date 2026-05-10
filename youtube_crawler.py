@@ -32,8 +32,8 @@ def fetch_via_api(channel_id):
                 "clientVersion": "2.20240320.00.00"
             }
         },
-        "browseId": channel_id,
-        "params": "EgsVdmlkZW9z" # This is a magic code that tells YouTube "I want the Videos tab"
+        "browseId": channel_id
+        # Removed the 'params' line to get the Channel Home/Recent data
     }
     
     try:
