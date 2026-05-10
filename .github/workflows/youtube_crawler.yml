@@ -1,0 +1,36 @@
+name: YouTube Surveillance Crawler
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch: # Allows you to click a "Run Now" button manually
+
+permissions:
+  contents: write
+
+jobs:
+  intercept:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Crawler
+        run: python youtube_crawler.py
+
+      - name: Commit New Evidence
+        run: |
+          git config user.name "Surveillance Crawler"
+          git config user.email "bot@github.com"
+          git add _posts/*.md
+          
+          # If no new files, exit gracefully
+          git diff --staged --quiet || git commit -m "Automated Intercept: New YouTube Broadcast Logged"
+          git pull --rebase origin main
+          git push
