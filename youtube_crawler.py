@@ -1,95 +1,59 @@
 import urllib.request
-import re
 import json
 import os
 import time
 import random
 from datetime import datetime
+import re
 
 # --- CONFIGURATION ---
 CHANNEL_IDS = [
-    "UC_8sJPJkzoQcauUAcPf8bjA", # Thomas Dall Archive
-    "UCIRR8AjVomFfuYPM4By2MwA", # Teddy Divine
-    "UCb-FyxB3vYO_2L-SfFGdvtQ", # Jan Dall
-    "UCHUakNT9WeUT3MPoOZFLpew", # Zombies Archive and Friends
-    "UCC0WwSFnfbIhHmZLGL8eJSA", # James Smith
-    "UC6rxH5XGNoeNyO7btRksH3A", # Mondo Cane
-    "UCMUpFzS0VYXziYgtVt7VyZg", # Rahu
-    "UCTMDW8muoabCU0cDj18ZtCg"  # Dim Tooley
+    "UC_8sJPJkzoQcauUAcPf8bjA", "UCIRR8AjVomFfuYPM4By2MwA", 
+    "UCb-FyxB3vYO_2L-SfFGdvtQ", "UCHUakNT9WeUT3MPoOZFLpew",
+    "UCC0WwSFnfbIhHmZLGL8eJSA", "UC6rxH5XGNoeNyO7btRksH3A",
+    "UCMUpFzS0VYXziYgtVt7VyZg", "UCTMDW8muoabCU0cDj18ZtCg"
 ]
-
-# Root keywords to maximize capture
 KEYWORDS = ["thomas", "dall", "tim", "dooley", "potato", "tom", "kitty", "jan", "kota"]
 
-# Native JSON path - No extra libraries required
 DATA_FILE = "_data/videos.json"
 POSTS_DIR = "_posts"
 
 os.makedirs("_data", exist_ok=True)
 os.makedirs(POSTS_DIR, exist_ok=True)
 
-def fetch_via_html(channel_id):
-    agents = [
-        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-        'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
-    ]
+def fetch_via_invidious(channel_id):
+    # We use a public Invidious instance as a proxy to bypass the 0-video block
+    instances = ["https://invidious.lunar.icu", "https://yewtu.be", "https://inv.tux.rs"]
+    random.shuffle(instances)
     
-    url = f"https://www.youtube.com/channel/{channel_id}/videos"
-    headers = {'User-Agent': random.choice(agents), 'Accept-Language': 'en-US,en;q=0.9'}
-
-    time.sleep(random.uniform(3, 7)) # Slightly longer delay to look more human
-    
-    try:
-        print(f"--- Intercepting: {channel_id} ---")
-        req = urllib.request.Request(url, headers=headers)
-        with urllib.request.urlopen(req) as response:
-            html = response.read().decode('utf-8')
-            
-            # IMPROVED SEARCH: Look for the JSON data block in multiple ways
-            data = None
-            json_match = re.search(r'ytInitialData\s*=\s*({.+?});', html)
-            if json_match:
-                data = json.loads(json_match.group(1))
-            else:
-                # Fallback: Try a broader search if the first one fails
-                json_match = re.search(r'>var ytInitialData = ({.+?});<', html)
-                if json_match:
-                    data = json.loads(json_match.group(1))
-
-            if not data:
-                print(f"  ⚠️ ALERT: No data block found in HTML for {channel_id}")
-                return []
-
-            # Internal function to find videos in the massive JSON tree
-            def find_videos(obj):
-                if isinstance(obj, dict):
-                    if 'videoRenderer' in obj: yield obj['videoRenderer']
-                    for v in obj.values(): yield from find_videos(v)
-                elif isinstance(obj, list):
-                    for item in obj: yield from find_videos(item)
-
-            extracted = []
-            count = 0
-            for v_data in find_videos(data):
-                count += 1
-                try:
-                    v_id = v_data['videoId']
-                    v_title = v_data['title']['runs'][0]['text']
+    for instance in instances:
+        url = f"{instance}/api/v1/channels/{channel_id}/videos"
+        try:
+            print(f"--- Intercepting via {instance}: {channel_id} ---")
+            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+            with urllib.request.urlopen(req, timeout=15) as response:
+                videos = json.loads(response.read().decode('utf-8'))
+                
+                extracted = []
+                for v in videos:
+                    v_title = v.get('title', '')
+                    v_id = v.get('videoId', '')
+                    
                     if any(kw in v_title.lower() for kw in KEYWORDS):
                         print(f"  ✅ MATCH: {v_title}")
-                        extracted.append({'id': v_id, 'title': v_title, 'date': datetime.now().strftime("%Y-%m-%d")})
-                    else:
-                        # Log skips so we know the scraper is actually reading titles
-                        if count < 5: print(f"  ❌ Skip: {v_title[:30]}...") 
-                except: continue
-            
-            if not extracted:
-                print(f"  ℹ️ Scanned {count} videos, no matches found.")
-            return extracted
-            
-    except Exception as e:
-        print(f"  🛑 Connection Error: {e}")
-        return []
+                        extracted.append({
+                            'id': v_id, 
+                            'title': v_title, 
+                            'date': datetime.now().strftime("%Y-%m-%d")
+                        })
+                
+                if extracted or videos: # If we got ANY data, even if no matches
+                    return extracted
+        except Exception as e:
+            print(f"  ⚠️ Instance {instance} failed, trying next...")
+            continue
+    return []
+
 def main():
     if os.path.exists(DATA_FILE):
         with open(DATA_FILE, 'r', encoding='utf-8') as f:
@@ -104,7 +68,7 @@ def main():
     new_found = False
 
     for channel_id in CHANNEL_IDS:
-        found = fetch_via_html(channel_id)
+        found = fetch_via_invidious(channel_id)
         for video in found:
             post_file = f"{POSTS_DIR}/{video['date']}-intercept-{video['id']}.md"
             if not os.path.exists(post_file):
@@ -120,6 +84,8 @@ def main():
         with open(DATA_FILE, 'w', encoding='utf-8') as f:
             json.dump(existing_videos, f, indent=2)
         print("Done. Saved matches to JSON file.")
+    else:
+        print("No new matches found in this run.")
 
 if __name__ == "__main__":
     main()
