@@ -57,6 +57,11 @@ def fetch_via_api(channel_id):
                 v_title = v.get('title', {}).get('runs', [{}])[0].get('text', '')
                 v_id = v.get('videoId', '')
                 
+                if not v_title: continue
+                
+                # TEMPORARY: Print everything so we can see what YouTube is sending
+                print(f"  🔍 Found: {v_title[:50]}") 
+
                 if any(kw in v_title.lower() for kw in KEYWORDS):
                     print(f"  ✅ MATCH: {v_title}")
                     extracted.append({
