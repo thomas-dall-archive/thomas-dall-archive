@@ -30,29 +30,37 @@ os.makedirs(POSTS_DIR, exist_ok=True)
 
 def fetch_via_html(channel_id):
     agents = [
-        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36',
-        'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
     ]
     
     url = f"https://www.youtube.com/channel/{channel_id}/videos"
-    headers = {
-        'User-Agent': random.choice(agents),
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Referer': 'https://www.google.com/'
-    }
+    headers = {'User-Agent': random.choice(agents), 'Accept-Language': 'en-US,en;q=0.9'}
 
-    time.sleep(random.uniform(2, 5))
+    time.sleep(random.uniform(3, 7)) # Slightly longer delay to look more human
     
     try:
         print(f"--- Intercepting: {channel_id} ---")
         req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req) as response:
             html = response.read().decode('utf-8')
-            json_match = re.search(r'var ytInitialData = ({.*?});', html)
-            if not json_match: return []
-            data = json.loads(json_match.group(1))
+            
+            # IMPROVED SEARCH: Look for the JSON data block in multiple ways
+            data = None
+            json_match = re.search(r'ytInitialData\s*=\s*({.+?});', html)
+            if json_match:
+                data = json.loads(json_match.group(1))
+            else:
+                # Fallback: Try a broader search if the first one fails
+                json_match = re.search(r'>var ytInitialData = ({.+?});<', html)
+                if json_match:
+                    data = json.loads(json_match.group(1))
 
+            if not data:
+                print(f"  ⚠️ ALERT: No data block found in HTML for {channel_id}")
+                return []
+
+            # Internal function to find videos in the massive JSON tree
             def find_videos(obj):
                 if isinstance(obj, dict):
                     if 'videoRenderer' in obj: yield obj['videoRenderer']
@@ -61,7 +69,9 @@ def fetch_via_html(channel_id):
                     for item in obj: yield from find_videos(item)
 
             extracted = []
+            count = 0
             for v_data in find_videos(data):
+                count += 1
                 try:
                     v_id = v_data['videoId']
                     v_title = v_data['title']['runs'][0]['text']
@@ -69,13 +79,17 @@ def fetch_via_html(channel_id):
                         print(f"  ✅ MATCH: {v_title}")
                         extracted.append({'id': v_id, 'title': v_title, 'date': datetime.now().strftime("%Y-%m-%d")})
                     else:
-                        print(f"  ❌ Skip: {v_title[:30]}...")
+                        # Log skips so we know the scraper is actually reading titles
+                        if count < 5: print(f"  ❌ Skip: {v_title[:30]}...") 
                 except: continue
+            
+            if not extracted:
+                print(f"  ℹ️ Scanned {count} videos, no matches found.")
             return extracted
+            
     except Exception as e:
-        print(f"  🛑 Connection Failed: {e}")
+        print(f"  🛑 Connection Error: {e}")
         return []
-
 def main():
     if os.path.exists(DATA_FILE):
         with open(DATA_FILE, 'r', encoding='utf-8') as f:
