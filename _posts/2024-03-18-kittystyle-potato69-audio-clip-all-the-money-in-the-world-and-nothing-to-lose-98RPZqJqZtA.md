@@ -24,20 +24,7 @@ In this short audio clip Thomas lets us know that he does not in fact have again
   <summary style="font-weight: bold; color: #ffc107;">View Searchable Transcript</summary>
   <div style="margin-top: 15px; line-height: 1.6; color: #eee; font-family: monospace; white-space: pre-wrap;">
 {% raw %}
-I<00:00:00.280><c> will</c><00:00:00.520><c> [&nbsp;__&nbsp;]</c><00:00:00.920><c> Fury</c><00:00:01.920><c> till</c><00:00:02.240><c> you</c><00:00:02.480><c> [&nbsp;__&nbsp;]</c><00:00:02.919><c> get</c><00:00:03.080><c> it</c>
-I will [&nbsp;__&nbsp;] Fury till you [&nbsp;__&nbsp;] get it
-you<00:00:04.359><c> understand</c><00:00:04.560><c> you</c><00:00:04.759><c> mess</c><00:00:05.040><c> with</c><00:00:05.200><c> the</c><00:00:05.359><c> wrong</c>
-you understand you mess with the wrong
-person<00:00:06.480><c> I</c><00:00:06.600><c> will</c><00:00:06.799><c> [&nbsp;__&nbsp;]</c><00:00:07.040><c> on</c>
-person I will [&nbsp;__&nbsp;] on
-you<00:00:08.960><c> do</c><00:00:09.080><c> you</c><00:00:09.200><c> know</c><00:00:09.400><c> I</c><00:00:09.559><c> have</c><00:00:09.800><c> nothing</c><00:00:10.160><c> to</c>
-you do you know I have nothing to
-[Music]
-lose<00:00:14.559><c> I</c><00:00:14.679><c> have</c><00:00:14.960><c> nothing</c><00:00:15.360><c> to</c>
-lose I have nothing to
-lose<00:00:17.279><c> and</c><00:00:17.400><c> I</c><00:00:17.520><c> have</c><00:00:17.680><c> all</c><00:00:17.880><c> the</c><00:00:18.039><c> money</c><00:00:18.279><c> in</c><00:00:18.400><c> the</c>
-lose and I have all the money in the
-world<00:00:19.199><c> I</c><00:00:19.320><c> can</c><00:00:19.600><c> get</c><00:00:19.800><c> you</c><00:00:20.119><c> [&nbsp;__&nbsp;]</c><00:00:20.680><c> killed</c>
+I will [&nbsp;__&nbsp;] Fury till you [&nbsp;__&nbsp;] get it you understand you mess with the wrong person I will [&nbsp;__&nbsp;] on you do you know I have nothing to [Music] lose I have nothing to lose and I have all the money in the world I can get you [&nbsp;__&nbsp;] killed
 {% endraw %}
   </div>
 </details>

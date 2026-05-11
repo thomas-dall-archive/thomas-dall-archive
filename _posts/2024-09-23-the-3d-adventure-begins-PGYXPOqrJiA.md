@@ -26,13 +26,7 @@ Special thanks to German technical genius SuperSusi for assisting in the current
   <summary style="font-weight: bold; color: #ffc107;">View Searchable Transcript</summary>
   <div style="margin-top: 15px; line-height: 1.6; color: #eee; font-family: monospace; white-space: pre-wrap;">
 {% raw %}
-[Music]
-push<00:00:18.600><c> it</c><00:00:18.760><c> to</c><00:00:19.000><c> the</c>
-Limit<00:00:22.359><c> walk</c><00:00:22.880><c> along</c><00:00:23.439><c> the</c><00:00:23.680><c> raz's</c><00:00:24.560><c> heads</c><00:00:25.279><c> but</c>
-Limit walk along the raz's heads but
-don't<00:00:25.840><c> look</c><00:00:26.240><c> down</c><00:00:26.599><c> just</c><00:00:26.880><c> keep</c><00:00:27.240><c> your</c><00:00:27.640><c> head</c><00:00:27.920><c> or</c>
-don't look down just keep your head or
-you<00:00:28.640><c> finished</c>
+[Music] push it to the Limit walk along the raz's heads but don't look down just keep your head or you finished
 {% endraw %}
   </div>
 </details>

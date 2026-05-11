@@ -24,17 +24,7 @@ Just a short clip of how Thomas interacts with women online.
   <summary style="font-weight: bold; color: #ffc107;">View Searchable Transcript</summary>
   <div style="margin-top: 15px; line-height: 1.6; color: #eee; font-family: monospace; white-space: pre-wrap;">
 {% raw %}
-pretty
-[Music]
-pathetic<00:00:04.319><c> go</c><00:00:04.440><c> and</c><00:00:04.640><c> gather</c><00:00:04.960><c> yourself</c><00:00:05.520><c> love</c>
-pathetic go and gather yourself love
-yeah<00:00:06.440><c> go</c><00:00:06.600><c> take</c>
-yeah go take
-go<00:00:09.400><c> go</c><00:00:09.519><c> on</c><00:00:09.800><c> cry</c><00:00:10.160><c> you</c>
-go go on cry you
-[&nbsp;__&nbsp;]<00:00:12.160><c> nobody</c><00:00:12.559><c> believes</c><00:00:13.000><c> anything</c><00:00:13.400><c> like</c><00:00:13.599><c> that</c>
-[&nbsp;__&nbsp;] nobody believes anything like that
-any<00:00:14.759><c> n</c><00:00:15.759><c> We</c><00:00:16.000><c> Know</c><00:00:16.160><c> Better</c>
+pretty [Music] pathetic go and gather yourself love yeah go take go go on cry you [&nbsp;__&nbsp;] nobody believes anything like that any n We Know Better
 {% endraw %}
   </div>
 </details>

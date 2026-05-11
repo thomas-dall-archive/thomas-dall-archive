@@ -24,12 +24,7 @@ Thomas Dall barks for his chat and reminisces about the time he received a 3000 
   <summary style="font-weight: bold; color: #ffc107;">View Searchable Transcript</summary>
   <div style="margin-top: 15px; line-height: 1.6; color: #eee; font-family: monospace; white-space: pre-wrap;">
 {% raw %}
-no<00:00:00.719><c> you</c>
-say<00:00:09.440><c> bark</c>
-say bark
-bark<00:00:12.440><c> but</c><00:00:12.599><c> when</c><00:00:12.759><c> I</c><00:00:12.920><c> did</c><00:00:13.160><c> that</c><00:00:13.440><c> they</c><00:00:13.759><c> got</c><00:00:14.000><c> mad</c><00:00:14.200><c> at</c>
-bark but when I did that they got mad at
-me<00:00:14.599><c> last</c><00:00:14.839><c> time</c>
+no you say bark but when I did that they got mad at me last time
 {% endraw %}
   </div>
 </details>

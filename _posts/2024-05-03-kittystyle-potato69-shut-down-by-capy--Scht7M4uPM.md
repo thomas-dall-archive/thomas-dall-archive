@@ -24,18 +24,7 @@ Thomas Dall creepily tries to hit on a young woman as she talks about having bee
   <summary style="font-weight: bold; color: #ffc107;">View Searchable Transcript</summary>
   <div style="margin-top: 15px; line-height: 1.6; color: #eee; font-family: monospace; white-space: pre-wrap;">
 {% raw %}
-eaten up by knowledgeable I
-happen to all your of Brad use
-your store be held down
-not knowing that ninths and
-science has she wants to
-shut the FA cup shot the FA cup
-shot the FA cup
-soccer for,
-so the final
-just shut up shop shop sharp
-jump shot
-that on its own right
+eaten up by knowledgeable I happen to all your of Brad use your store be held down not knowing that ninths and science has she wants to shut the FA cup shot the FA cup soccer for, so the final just shut up shop shop sharp jump shot that on its own right
 {% endraw %}
   </div>
 </details>

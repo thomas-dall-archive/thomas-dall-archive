@@ -24,19 +24,7 @@ Thomas & CO harassed a woman with repeated calls and messages over discord so mu
   <summary style="font-weight: bold; color: #ffc107;">View Searchable Transcript</summary>
   <div style="margin-top: 15px; line-height: 1.6; color: #eee; font-family: monospace; white-space: pre-wrap;">
 {% raw %}
-Pretty<00:00:00.800><c> pathetic,</c><00:00:01.360><c> huh?</c>
-Pretty pathetic, huh?
-&gt;&gt; Go<00:00:04.480><c> and</c><00:00:04.640><c> gall</c><00:00:05.040><c> yourself,</c><00:00:05.520><c> love.</c>
-&gt;&gt; Go and gall yourself, love.
-&gt;&gt; Yeah,<00:00:06.400><c> go</c><00:00:06.640><c> take</c><00:00:06.879><c> some</c><00:00:06.879><c> time.</c><00:00:07.520><c> Go.</c>
-&gt;&gt; Yeah, go take some time. Go.
-&gt;&gt; Go<00:00:08.080><c> on.</c>
-&gt;&gt; Go on.
-&gt;&gt; GO<00:00:09.599><c> ON.</c><00:00:09.840><c> CRY,</c><00:00:10.240><c> YOU</c><00:00:10.480><c> [&nbsp;__&nbsp;]</c>
-&gt;&gt; GO ON. CRY, YOU [&nbsp;__&nbsp;]
-&gt;&gt; Nobody<00:00:13.040><c> anything</c><00:00:13.360><c> like</c><00:00:13.519><c> that.</c>
-&gt;&gt; Nobody anything like that.
-We<00:00:16.000><c> know</c><00:00:16.240><c> better.</c>
+Pretty pathetic, huh? &gt;&gt; Go and gall yourself, love. &gt;&gt; Yeah, go take some time. Go. &gt;&gt; Go on. CRY, YOU [&nbsp;__&nbsp;] &gt;&gt; Nobody anything like that. We know better.
 {% endraw %}
   </div>
 </details>

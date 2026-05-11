@@ -24,14 +24,7 @@ Thomas Dall makes a very dignified funny.
   <summary style="font-weight: bold; color: #ffc107;">View Searchable Transcript</summary>
   <div style="margin-top: 15px; line-height: 1.6; color: #eee; font-family: monospace; white-space: pre-wrap;">
 {% raw %}
-[Music]
-oh<00:00:05.080><c> trailer</c><00:00:06.000><c> trash</c><00:00:07.000><c> shut</c><00:00:07.359><c> the</c><00:00:07.600><c> [&nbsp;__&nbsp;]</c><00:00:07.839><c> up</c><00:00:08.440><c> [&nbsp;__&nbsp;]</c>
-oh trailer trash shut the [&nbsp;__&nbsp;] up [&nbsp;__&nbsp;]
-you<00:00:09.559><c> haven't</c><00:00:09.840><c> seen</c><00:00:10.160><c> these</c>
-tits
-yeah<00:00:17.199><c> spewing</c><00:00:17.600><c> powdery</c><00:00:18.039><c> lines</c><00:00:18.320><c> of</c><00:00:18.520><c> fire</c><00:00:18.880><c> into</c>
-yeah spewing powdery lines of fire into
-the<00:00:19.320><c> audience</c>
+[Music] oh trailer trash shut the [&nbsp;__&nbsp;] up [&nbsp;__&nbsp;] you haven't seen these tits yeah spewing powdery lines of fire into the audience
 {% endraw %}
   </div>
 </details>

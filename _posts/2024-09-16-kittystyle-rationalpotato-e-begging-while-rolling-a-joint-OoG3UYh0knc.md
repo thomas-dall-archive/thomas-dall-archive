@@ -24,15 +24,7 @@ A classic Diddles move. Complimentary gagging and snorting sounds are included.
   <summary style="font-weight: bold; color: #ffc107;">View Searchable Transcript</summary>
   <div style="margin-top: 15px; line-height: 1.6; color: #eee; font-family: monospace; white-space: pre-wrap;">
 {% raw %}
-it<00:00:05.000><c> is</c><00:00:05.240><c> Prof</c><00:00:05.560><c> out</c>
-there
-it<00:00:15.200><c> it's</c><00:00:15.760><c> rough</c><00:00:16.760><c> can</c><00:00:16.880><c> you</c><00:00:16.960><c> send</c><00:00:17.160><c> me</c><00:00:17.279><c> some</c><00:00:17.439><c> money</c>
-it it's rough can you send me some money
-no<00:00:18.439><c> wait</c><00:00:18.600><c> no</c><00:00:18.840><c> I'm</c><00:00:19.039><c> I'm</c><00:00:19.160><c> not</c><00:00:19.400><c> supposed</c><00:00:19.680><c> to</c>
-ask<00:00:23.720><c> it's</c><00:00:24.000><c> rough</c><00:00:24.160><c> out</c><00:00:24.359><c> there</c><00:00:24.560><c> bro</c><00:00:25.359><c> can</c><00:00:25.560><c> barely</c>
-ask it's rough out there bro can barely
-afford<00:00:26.880><c> rent</c><00:00:27.519><c> or</c><00:00:27.800><c> coffee</c><00:00:28.519><c> or</c><00:00:28.679><c> a</c><00:00:28.840><c> pizza</c><00:00:29.240><c> slice</c>
-uh
+it is Prof out there it it's rough can you send me some money no wait no I'm I'm not supposed to ask it's rough out there bro can barely afford rent or coffee or a pizza slice uh
 {% endraw %}
   </div>
 </details>
