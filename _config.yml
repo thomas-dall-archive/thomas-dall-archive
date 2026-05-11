@@ -41,7 +41,8 @@ social:
 # -----------------------------------------------------------------------------
 # REPOSITORY SETTINGS
 # -----------------------------------------------------------------------------
-is_project_page: false
+github:
+  is_project_page: false
 show_downloads: false
 google_analytics: # Add your ID here if you use it (e.g., UA-XXXXXXXXX)
 
