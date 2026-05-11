@@ -52,7 +52,7 @@ The subject operates using a dual-layer identity system: a "Human" name for logi
 ### 🌐 Digital Footprint & Current Handles
 The following accounts are the primary verified outlets for the subject. These links are provided for cross-referencing and identity verification purposes.
 
-* **YouTube:** [The Potato of Life (Official)](https://www.youtube.com/@ThePotatoofLife)
+* **YouTube:** [The Potato of Life (Official)](https://www.youtube.com/@PotatoOfLife)
 * **X (Twitter):** [@Rational_Potato](https://x.com/Rational_Potato))
 
 ---
