@@ -7,14 +7,21 @@ import re
 import unicodedata
 from datetime import datetime
 
-# --- CONFIGURATION ---
-PYTHON_ENV = "/home/meta/bot_env/bin/python3"
-COOKIE_FILE = "/home/meta/youtube-cookies.txt"
-REPO_PATH = "/home/meta/thomas-dall-archive" 
+# --- CONFIGURATION (Privacy Optimized) ---
+# This finds /home/yourusername automatically without naming it
+HOME = os.path.expanduser("~")
+
+# Path to your virtual environment's python
+PYTHON_ENV = os.path.join(HOME, "bot_env/bin/python3")
+
+# Path to your cookies (assuming they are in your home folder)
+COOKIE_FILE = os.path.join(HOME, "youtube-cookies.txt")
+
+# This finds the folder the script is currently sitting in
+REPO_PATH = os.path.dirname(os.path.abspath(__file__)) 
 POSTS_DIR = os.path.join(REPO_PATH, "_posts")
 
 # --- MASTER CONTROLS ---
-# Set to 999 for the full archive recovery. Set to 5 for daily maintenance later.
 SCAN_DEPTH = 999
 
 REQUIRED_KEYWORDS = [
@@ -87,25 +94,25 @@ def get_filtered_videos(channel_info):
             cmd_video = [
                 PYTHON_ENV, "-m", "yt_dlp",
                 "--cookies", COOKIE_FILE,
-                "-j",                
-                "--no-simulate",      # <--- THE MAGIC FIX: Forces yt-dlp to actually download the files while dumping JSON
+                "-j",
+                "--no-simulate",      
                 "--no-abort-on-error",
                 "--write-auto-subs", 
-                "--skip-download",    # Skips the video file, but keeps the subtitles
+                "--skip-download",
                 "--sub-format", "vtt",
-                "--sub-langs", "en.*,en,en-orig", 
-                "-P", POSTS_DIR,      
-                "-o", f"temp_{v_id}", 
+                "--sub-langs", "en.*,en,en-orig",
+                "--extractor-args", "youtube:player-client=ios,web",
+                "-P", POSTS_DIR,
+                "-o", f"temp_{v_id}",
                 f"https://www.youtube.com/watch?v={v_id}"
             ]
             
             video_result = subprocess.run(cmd_video, capture_output=True, text=True)
             
             if video_result.returncode != 0:
-                print(f"    [!] yt-dlp ERROR for {v_id}: {video_result.stderr[:100]}...")
+                print(f"    [!] yt-dlp SKIP (Check Age/Error) for {v_id}")
             else:
                 print(f"    [!] Data Captured for {v_id}")
-                # Because of --no-simulate, the .vtt is safely on your drive now!
                 full_data = json.loads(video_result.stdout.split('\n')[0])
                 if matches_criteria(full_data):
                     matches.append(full_data)
@@ -139,7 +146,6 @@ def write_jekyll_post(data):
             try: os.remove(os.path.join(POSTS_DIR, f))
             except: pass
 
-    # Metadata cleanup
     for f in os.listdir(POSTS_DIR):
         if f"temp_{v_id}" in f:
             try: os.remove(os.path.join(POSTS_DIR, f))
@@ -187,13 +193,13 @@ def push_to_github():
         status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
         if status.stdout.strip():
             subprocess.run(["git", "add", "."], check=True)
-            subprocess.run(["git", "commit", "-m", "Bunker Auto-Update: Version 4.5 Final Build"], check=True)
+            subprocess.run(["git", "commit", "-m", "Bunker Auto-Update: Privacy Enhanced Version"], check=True)
             subprocess.run(["git", "push", "origin", "main"], check=True)
             print("[+] Archive Sync Complete.")
     except Exception as e: print(f"[X] Git failure: {e}")
 
 if __name__ == "__main__":
-    print(f"--- BUNKER CRAWLER 4.5: THE GOLDEN RUN ---")
+    print(f"--- BUNKER CRAWLER 4.7: PRIVACY EDITION ---")
     if not os.path.exists(POSTS_DIR): os.makedirs(POSTS_DIR)
     for i, channel_info in enumerate(CHANNELS):
         matches = get_filtered_videos(channel_info)
