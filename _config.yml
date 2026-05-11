@@ -6,7 +6,7 @@ baseurl: "/thomas-dall-archive"
 
 # Theme & Plugins
 remote_theme: pages-themes/midnight@v0.2.0
-layout: default # Forces the theme to use its internal layout
+#layout: default # Forces the theme to use its internal layout
 
 # -----------------------------------------------------------------------------
 # THEME & PLUGINS
