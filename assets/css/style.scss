@@ -7,3 +7,9 @@
 #downloads {
   display: none !important;
 }
+/* 2. Remove the diagonal-striped background and border */
+header {
+  background: transparent !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
