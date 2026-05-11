@@ -3,7 +3,7 @@ layout: default
 title: Thomas Dall Shirt Watch
 ---
 
-# 👕 Thomas Dall Shirt Watch
+# 👕 Thomas Dall Shirt Watch 
 *Monitoring Shirt Changes for Thomas Dall to monitor his hygiene habits. The timer resets when a new shirt is verified.*
 
 <div style="background: #111; border: 1px solid #333; padding: 20px; border-radius: 10px; text-align: center; margin-bottom: 30px;">
