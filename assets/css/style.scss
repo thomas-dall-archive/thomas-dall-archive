@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide the top GitHub and Download buttons entirely */
+#downloads {
+  display: none !important;
+}
