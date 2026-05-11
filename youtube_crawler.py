@@ -14,12 +14,12 @@ REPO_PATH = "/home/meta/thomas-dall-archive"
 POSTS_DIR = os.path.join(REPO_PATH, "_posts")
 
 # --- MASTER CONTROLS ---
-# Set to 999 for the first "Scorched Earth" run. Set to 5 for daily maintenance.
+# Set to 999 for a "Scorched Earth" run. Set to 5 for daily maintenance.
 SCAN_DEPTH = 999
 
 REQUIRED_KEYWORDS = [
     "dall", "dooley", "kittystyle", "potato", "haderslev", 
-    "tim", "thomas", "supersusi", "danish", "kota", "kitty", "fetch"
+    "tim", "thomas", "supersusi", "danish", "kota", "kitty"
 ]
 
 CHANNELS = [
@@ -93,7 +93,7 @@ def get_filtered_videos(channel_info):
                 "--write-auto-subs", 
                 "--skip-download",
                 "--sub-format", "vtt",
-                "--sub-langs", "en.*,en,da,dan,en-orig", 
+                "--sub-langs", "en-orig,en,en.*", 
                 "-o", temp_output,
                 f"https://www.youtube.com/watch?v={v_id}"
             ]
