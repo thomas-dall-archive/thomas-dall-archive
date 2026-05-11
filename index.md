@@ -4,7 +4,7 @@ title: "Thomas Dall / Tim Dooley (The Potato of Life) | Public Archive"
 description: "Comprehensive dossier documenting the identity transitions, clinical history, and self-admitted conduct of Thomas Dall, also known as Tim Dooley."
 ---
 
-# Tim Dooley (Thomas Dall) | Forensic Archive
+# Tim Dooley (Thomas Dall) | Forensic Archive 
 The definitive archive documenting the transition of Thomas Dall into Tim Dooley (The Potato of Life). This entity is currently under active observation.
 
 ---
