@@ -7,19 +7,14 @@ import re
 import unicodedata
 from datetime import datetime
 
-# --- CONFIGURATION (Smart Privacy Edition) ---
 # This finds the folder the script is currently sitting in
 REPO_PATH = os.path.dirname(os.path.abspath(__file__)) 
 POSTS_DIR = os.path.join(REPO_PATH, "_posts")
-
-# Automatically find Python in your home folder without naming 'meta'
 HOME = os.path.expanduser("~")
 PYTHON_ENV = os.path.join(HOME, "bot_env/bin/python3")
 
-# SMART COOKIE LOOKUP: Looks for cookies in the same folder as this script
 COOKIE_FILE = os.path.join(REPO_PATH, "youtube-cookies.txt")
 
-# --- MASTER CONTROLS ---
 SCAN_DEPTH = 999
 
 REQUIRED_KEYWORDS = [
