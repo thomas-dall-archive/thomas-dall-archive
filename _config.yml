@@ -44,7 +44,7 @@ social:
 # REPOSITORY SETTINGS
 # -----------------------------------------------------------------------------
 show_downloads: true
-google_analytics: # Add your ID here if you use it (e.g., UA-XXXXXXXXX-X)
+google_analytics: # Add your ID here if you use it (e.g., UA-XXXXXXXXX)
 
 # -----------------------------------------------------------------------------
 # BUILD SETTINGS
