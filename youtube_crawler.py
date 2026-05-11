@@ -87,14 +87,15 @@ def get_filtered_videos(channel_info):
             cmd_video = [
                 PYTHON_ENV, "-m", "yt_dlp",
                 "--cookies", COOKIE_FILE,
-                "-j",                # Using -j to allow file writing
+                "-j",                
+                "--no-simulate",      # <--- THE MAGIC FIX: Forces yt-dlp to actually download the files while dumping JSON
                 "--no-abort-on-error",
                 "--write-auto-subs", 
-                "--skip-download",
+                "--skip-download",    # Skips the video file, but keeps the subtitles
                 "--sub-format", "vtt",
                 "--sub-langs", "en.*,en,en-orig", 
-                "-P", POSTS_DIR,      # Force files into _posts
-                "-o", f"temp_{v_id}", # File prefix
+                "-P", POSTS_DIR,      
+                "-o", f"temp_{v_id}", 
                 f"https://www.youtube.com/watch?v={v_id}"
             ]
             
@@ -104,6 +105,7 @@ def get_filtered_videos(channel_info):
                 print(f"    [!] yt-dlp ERROR for {v_id}: {video_result.stderr[:100]}...")
             else:
                 print(f"    [!] Data Captured for {v_id}")
+                # Because of --no-simulate, the .vtt is safely on your drive now!
                 full_data = json.loads(video_result.stdout.split('\n')[0])
                 if matches_criteria(full_data):
                     matches.append(full_data)
@@ -150,8 +152,8 @@ date: {f_date}
 youtube_id: "{v_id}"
 ---
 
-<div class=\"video-container\" style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;\">
-  <iframe src=\"https://www.youtube.com/embed/{v_id}\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;\" allowfullscreen></iframe>
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
+  <iframe src="https://www.youtube.com/embed/{v_id}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
 </div>
 
 ### Video Information
@@ -165,9 +167,9 @@ youtube_id: "{v_id}"
 ---
 
 ### English Transcript (Auto-Generated)
-<details style=\"cursor: pointer; background: #1a1a1a; padding: 15px; border-radius: 6px; border: 1px solid #333;\">
-  <summary style=\"font-weight: bold; color: #ffc107;\">View Searchable Transcript</summary>
-  <div style=\"margin-top: 15px; line-height: 1.6; color: #eee; font-family: monospace; white-space: pre-wrap;\">
+<details style="cursor: pointer; background: #1a1a1a; padding: 15px; border-radius: 6px; border: 1px solid #333;">
+  <summary style="font-weight: bold; color: #ffc107;">View Searchable Transcript</summary>
+  <div style="margin-top: 15px; line-height: 1.6; color: #eee; font-family: monospace; white-space: pre-wrap;">
 {{% raw %}}
 {transcript}
 {{% endraw %}}
@@ -185,13 +187,13 @@ def push_to_github():
         status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
         if status.stdout.strip():
             subprocess.run(["git", "add", "."], check=True)
-            subprocess.run(["git", "commit", "-m", "Bunker Auto-Update: Version 4.4 Final Build"], check=True)
+            subprocess.run(["git", "commit", "-m", "Bunker Auto-Update: Version 4.5 Final Build"], check=True)
             subprocess.run(["git", "push", "origin", "main"], check=True)
             print("[+] Archive Sync Complete.")
     except Exception as e: print(f"[X] Git failure: {e}")
 
 if __name__ == "__main__":
-    print(f"--- BUNKER CRAWLER 4.4: THE GOLDEN RUN ---")
+    print(f"--- BUNKER CRAWLER 4.5: THE GOLDEN RUN ---")
     if not os.path.exists(POSTS_DIR): os.makedirs(POSTS_DIR)
     for i, channel_info in enumerate(CHANNELS):
         matches = get_filtered_videos(channel_info)
