@@ -38,7 +38,7 @@ def slugify(text):
     return re.sub(r'[-\s]+', '-', text)
 
 def matches_criteria(data):
-    """Filters based on your specific forensic subjects."""
+    """Filters based on forensic interest."""
     title = data.get("title", "").lower()
     desc = data.get("description", "").lower()
     return any(word in title or word in desc for word in REQUIRED_KEYWORDS)
@@ -55,10 +55,9 @@ def clean_transcript(vtt_text):
     return "\n".join(clean_lines)
 
 def get_filtered_videos(channel_url):
-    """Scans channels with heavy delays and fallback logic for missing subtitles."""
+    """Scans channels with delays and fallback logic for missing subtitles."""
     print(f"[*] Scanning channel: {channel_url}")
     
-    # Step 1: Get the list of last 5 videos
     cmd_list = [
         PYTHON_ENV, "-m", "yt_dlp",
         "--cookies", COOKIE_FILE,
@@ -76,22 +75,19 @@ def get_filtered_videos(channel_url):
             summary_data = json.loads(entry)
             v_id = summary_data.get('id')
             
-            # Skip if file already exists
             if any(v_id in f for f in os.listdir(POSTS_DIR)):
                 continue
 
-            # Step 2: Lethargic Delay before deep-diving
             wait = random.uniform(30, 60)
             print(f"    [~] New video {v_id} found. Pausing {wait:.1f}s...")
             time.sleep(wait)
 
-            # Step 3: Forgiving Fetch (Subtitles + Metadata)
             temp_output = os.path.join(POSTS_DIR, f"temp_{v_id}")
             cmd_video = [
                 PYTHON_ENV, "-m", "yt_dlp",
                 "--cookies", COOKIE_FILE,
                 "--dump-json",
-                "--no-abort-on-error", # Don't die if subtitles are blocked
+                "--no-abort-on-error",
                 "--write-auto-subs",
                 "--skip-download",
                 "--sub-format", "vtt",
@@ -102,9 +98,8 @@ def get_filtered_videos(channel_url):
             
             video_result = subprocess.run(cmd_video, capture_output=True, text=True)
             
-            # Fallback if the full fetch failed
             if video_result.returncode != 0 or not video_result.stdout:
-                print(f"    [!] Subtitle fetch failed for {v_id}, fetching metadata only...")
+                print(f"    [!] Full fetch failed for {v_id}, fetching metadata only...")
                 cmd_light = [PYTHON_ENV, "-m", "yt_dlp", "--cookies", COOKIE_FILE, "--dump-json", f"https://www.youtube.com/watch?v={v_id}"]
                 video_result = subprocess.run(cmd_light, capture_output=True, text=True)
 
@@ -119,7 +114,6 @@ def get_filtered_videos(channel_url):
         return []
 
 def write_jekyll_post(data):
-    """Writes the final post with SEO, Embed, and Expandable Transcript."""
     v_id = data.get("id")
     title = data.get("title")
     clean_title = title.replace('"', "'")
@@ -130,7 +124,6 @@ def write_jekyll_post(data):
     filename = f"{f_date}-{slug}-{v_id}.md"
     filepath = os.path.join(POSTS_DIR, filename)
 
-    # Search for specific temp sub for THIS video
     transcript = "Transcript not available for this video."
     for f in os.listdir(POSTS_DIR):
         if v_id in f and f.endswith(".vtt"):
@@ -140,7 +133,6 @@ def write_jekyll_post(data):
             except: pass
             os.remove(os.path.join(POSTS_DIR, f))
             
-    # Clean up any residual temp metadata files
     for f in os.listdir(POSTS_DIR):
         if f"temp_{v_id}" in f:
             try: os.remove(os.path.join(POSTS_DIR, f))
@@ -182,15 +174,13 @@ youtube_id: "{v_id}"
     return filename
 
 def push_to_github():
-    """Syncs the archive with a pull-first strategy to prevent errors."""
     try:
         os.chdir(REPO_PATH)
-        print("[*] Reconciling with GitHub (Pulling updates)...")
+        print("[*] Reconciling with GitHub...")
         subprocess.run(["git", "pull", "origin", "main", "--rebase"], check=True)
         
         status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
         if status.stdout.strip():
-            print("[*] New forensic data staged. Committing...")
             subprocess.run(["git", "add", "."], check=True)
             subprocess.run(["git", "commit", "-m", "Bunker Auto-Update: Forgiving Lethargic Sync"], check=True)
             subprocess.run(["git", "push", "origin", "main"], check=True)
@@ -209,11 +199,11 @@ if __name__ == "__main__":
         for video_data in matches:
             fname = write_jekyll_post(video_data)
             print(f"    [+] Created: {fname}")
-            time.sleep(random.uniform(5, 10)) # Micro-delay between file writes
+            time.sleep(random.uniform(5, 10))
             
         if i < len(CHANNELS) - 1:
-            wait = random.uniform(180, 420) # 3 to 7 minute gap between channels
-            print(f"[~] Channel finished. Sleeping {wait/60:.1f} minutes to stay under the radar...")
+            wait = random.uniform(180, 420)
+            print(f"[~] Channel finished. Sleeping {wait/60:.1f} minutes...")
             time.sleep(wait)
     
     push_to_github()
