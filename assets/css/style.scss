@@ -3,13 +3,7 @@
 
 @import "{{ site.theme }}";
 
-/* Hide the top GitHub and Download buttons entirely */
-#downloads {
-  display: none !important;
-}
-/* 2. Remove the diagonal-striped background and border */
+/* Completely hide the top header area */
 header {
-  background: transparent !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
+  display: none !important;
 }
