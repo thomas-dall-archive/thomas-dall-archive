@@ -3,7 +3,11 @@
 
 @import "{{ site.theme }}";
 
-/* Completely hide the top header area */
-header {
+nav, 
+.nav, 
+#nav, 
+header, 
+section#downloads,
+.inner header {
   display: none !important;
 }
