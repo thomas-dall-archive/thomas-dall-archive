@@ -4,13 +4,11 @@
 url: "https://thomas-dall-archive.github.io"
 baseurl: "/thomas-dall-archive"
 
-# Theme & Plugins
-remote_theme: pages-themes/midnight@v0.2.0
-layout: default # Forces the theme to use its internal layout
-
 # -----------------------------------------------------------------------------
 # THEME & PLUGINS
 # -----------------------------------------------------------------------------
+remote_theme: pages-themes/midnight@v0.2.0
+layout: default # Forces the theme to use its internal layout
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
@@ -43,7 +41,7 @@ social:
 # -----------------------------------------------------------------------------
 # REPOSITORY SETTINGS
 # -----------------------------------------------------------------------------
-show_downloads: true
+show_downloads: false
 google_analytics: # Add your ID here if you use it (e.g., UA-XXXXXXXXX)
 
 # -----------------------------------------------------------------------------
