@@ -13,12 +13,15 @@ COOKIE_FILE = "/home/meta/youtube-cookies.txt"
 REPO_PATH = "/home/meta/thomas-dall-archive" 
 POSTS_DIR = os.path.join(REPO_PATH, "_posts")
 
+# --- MASTER CONTROLS ---
+# Set to 999 for the first "Scorched Earth" run. Set to 5 for daily maintenance.
+SCAN_DEPTH = 999
+
 REQUIRED_KEYWORDS = [
     "dall", "dooley", "kittystyle", "potato", "haderslev", 
-    "tim", "thomas", "supersusi", "danish", "kota", "kitty", "dooley"
+    "tim", "thomas", "supersusi", "danish", "kota", "kitty", "fetch"
 ]
 
-# CHANNELS WITH /VIDEOS SUFFIX (Forced Chronological)
 CHANNELS = [
     {"name": "Thomas Dall Archive", "url": "https://www.youtube.com/channel/UC_8sJPJkzoQcauUAcPf8bjA/videos"},
     {"name": "Teddy Divine",        "url": "https://www.youtube.com/channel/UCIRR8AjVomFfuYPM4By2MwA/videos"},
@@ -54,13 +57,13 @@ def clean_transcript(vtt_text):
 def get_filtered_videos(channel_info):
     label = channel_info["name"]
     url = channel_info["url"]
-    print(f"[*] Scanning: {label}")
+    print(f"[*] Scrutinizing: {label}")
     
     cmd_list = [
         PYTHON_ENV, "-m", "yt_dlp",
         "--cookies", COOKIE_FILE,
         "--dump-json",
-        "--playlist-end", "5", 
+        "--playlist-end", str(SCAN_DEPTH), 
         "--flat-playlist", 
         url
     ]
@@ -77,7 +80,7 @@ def get_filtered_videos(channel_info):
                 continue
 
             wait = random.uniform(30, 65)
-            print(f"    [~] Found {v_id}. Pausing {wait:.1f}s...")
+            print(f"    [~] Found {v_id}. Pause: {wait:.1f}s...")
             time.sleep(wait)
 
             temp_output = os.path.join(POSTS_DIR, f"temp_{v_id}")
@@ -90,19 +93,16 @@ def get_filtered_videos(channel_info):
                 "--write-auto-subs", 
                 "--skip-download",
                 "--sub-format", "vtt",
-                # WIDER NET: Catch en, en-orig, en-US, da, dan
                 "--sub-langs", "en.*,en,da,dan,en-orig", 
                 "-o", temp_output,
                 f"https://www.youtube.com/watch?v={v_id}"
             ]
             
             video_result = subprocess.run(cmd_video, capture_output=True, text=True)
-            
             if video_result.stdout:
                 full_data = json.loads(video_result.stdout.split('\n')[0])
                 if matches_criteria(full_data):
                     matches.append(full_data)
-                
         return matches
     except Exception as e:
         print(f"[!] Error: {e}")
@@ -119,17 +119,25 @@ def write_jekyll_post(data):
     filename = f"{f_date}-{slug}-{v_id}.md"
     filepath = os.path.join(POSTS_DIR, filename)
 
+    # LANGUAGE PRIORITY: Look for English first
     transcript = "Transcript not available."
-    for f in os.listdir(POSTS_DIR):
-        if v_id in f and f.endswith(".vtt"):
-            try:
-                print(f"    [!] SUCCESS: Caught transcript for {v_id}")
-                with open(os.path.join(POSTS_DIR, f), 'r', encoding='utf-8') as sub_file:
-                    transcript = clean_transcript(sub_file.read())
+    all_vtt_files = [f for f in os.listdir(POSTS_DIR) if v_id in f and f.endswith(".vtt")]
+    
+    if all_vtt_files:
+        # Prefer English (.en) file, otherwise take first available
+        target_file = next((f for f in all_vtt_files if ".en" in f), all_vtt_files[0])
+        try:
+            print(f"    [!] SUCCESS: Extracting transcript from {target_file}")
+            with open(os.path.join(POSTS_DIR, target_file), 'r', encoding='utf-8') as f:
+                transcript = clean_transcript(f.read())
+        except: pass
+        
+        # Cleanup ALL downloaded vtt files for this ID
+        for f in all_vtt_files:
+            try: os.remove(os.path.join(POSTS_DIR, f))
             except: pass
-            os.remove(os.path.join(POSTS_DIR, f))
-            break
             
+    # Cleanup leftover metadata
     for f in os.listdir(POSTS_DIR):
         if f"temp_{v_id}" in f:
             try: os.remove(os.path.join(POSTS_DIR, f))
@@ -177,17 +185,20 @@ def push_to_github():
         status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
         if status.stdout.strip():
             subprocess.run(["git", "add", "."], check=True)
-            subprocess.run(["git", "commit", "-m", "Bunker Auto-Update: Version 4.2 Sync"], check=True)
+            subprocess.run(["git", "commit", "-m", "Bunker Auto-Update: Final Recovery Sync"], check=True)
             subprocess.run(["git", "push", "origin", "main"], check=True)
-            print("[+] Sync Complete.")
+            print("[+] Archive Sync Complete.")
     except Exception as e: print(f"[X] Git failure: {e}")
 
 if __name__ == "__main__":
-    print(f"--- BUNKER CRAWLER 4.2 START ---")
+    print(f"--- BUNKER CRAWLER 4.3: THE GOLDEN RUN ---")
     if not os.path.exists(POSTS_DIR): os.makedirs(POSTS_DIR)
-    for channel_info in CHANNELS:
+    for i, channel_info in enumerate(CHANNELS):
         matches = get_filtered_videos(channel_info)
         for video_data in matches:
             print(f"    [+] Created: {write_jekyll_post(video_data)}")
-        time.sleep(random.uniform(180, 300))
+        if i < len(CHANNELS) - 1:
+            wait = random.uniform(200, 450)
+            print(f"[~] Channel set complete. Resting {wait/60:.1f}m for stealth...")
+            time.sleep(wait)
     push_to_github()
