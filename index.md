@@ -312,3 +312,4 @@ The information contained in this archive is compiled from **publicly available 
 2. **Factuality:** Every claim is supported by direct primary source evidence. This site does not host "opinions," but rather indexes the subject’s own public admissions.
 3. **No Harassment:** This archive is a passive documentation project. It does not encourage or facilitate contact with the subject or any third parties mentioned herein.
 4. **Fair Use:** Video snippets and transcripts are utilized under Fair Use for the purposes of criticism, comment, and news reporting.
+ 
