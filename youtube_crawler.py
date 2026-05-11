@@ -15,36 +15,33 @@ POSTS_DIR = os.path.join(REPO_PATH, "_posts")
 
 REQUIRED_KEYWORDS = [
     "dall", "dooley", "kittystyle", "potato", "haderslev", 
-    "tim", "thomas", "supersusi", "danish", "kota", "dora", "fetch"
+    "tim", "thomas", "supersusi", "danish", "kota", "kitty", "dooley"
 ]
 
-# PERMANENT CHANNEL IDs
+# CHANNELS WITH /VIDEOS SUFFIX (Forced Chronological)
 CHANNELS = [
-    "https://www.youtube.com/channel/UC_8sJPJkzoQcauUAcPf8bjA", # Thomas Dall Archive
-    "https://www.youtube.com/channel/UCIRR8AjVomFfuYPM4By2MwA", # Teddy Divine
-    "https://www.youtube.com/channel/UCb-FyxB3vYO_2L-SfFGdvtQ", # Jan Dall
-    "https://www.youtube.com/channel/UCHUakNT9WeUT3MPoOZFLpew", # Zombies Archive
-    "https://www.youtube.com/channel/UCC0WwSFnfbIhHmZLGL8eJSA", # James Smith
-    "https://www.youtube.com/channel/UC6rxH5XGNoeNyO7btRksH3A", # Mondo Cane
-    "https://www.youtube.com/channel/UCMUpFzS0VYXziYgtVt7VyZg", # Rahu
-    "https://www.youtube.com/channel/UCTMDW8muoabCU0cDj18ZtCg", # Dim Tooley
-    "https://www.youtube.com/channel/UCjPxf9pmgHrOf5JAKKaXp3w"  # Tactical Squint
+    {"name": "Thomas Dall Archive", "url": "https://www.youtube.com/channel/UC_8sJPJkzoQcauUAcPf8bjA/videos"},
+    {"name": "Teddy Divine",        "url": "https://www.youtube.com/channel/UCIRR8AjVomFfuYPM4By2MwA/videos"},
+    {"name": "Jan Dall",            "url": "https://www.youtube.com/channel/UCb-FyxB3vYO_2L-SfFGdvtQ/videos"},
+    {"name": "Zombies Archive",     "url": "https://www.youtube.com/channel/UCHUakNT9WeUT3MPoOZFLpew/videos"},
+    {"name": "James Smith",         "url": "https://www.youtube.com/channel/UCC0WwSFnfbIhHmZLGL8eJSA/videos"},
+    {"name": "Mondo Cane",          "url": "https://www.youtube.com/channel/UC6rxH5XGNoeNyO7btRksH3A/videos"},
+    {"name": "Rahu",                "url": "https://www.youtube.com/channel/UCMUpFzS0VYXziYgtVt7VyZg/videos"},
+    {"name": "Dim Tooley",          "url": "https://www.youtube.com/channel/UCTMDW8muoabCU0cDj18ZtCg/videos"},
+    {"name": "Tactical Squint",     "url": "https://www.youtube.com/channel/UCjPxf9pmgHrOf5JAKKaXp3w/videos"}
 ]
 
 def slugify(text):
-    """Creates clean, SEO-safe filenames."""
     text = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('ascii')
     text = re.sub(r'[^\w\s-]', '', text).strip().lower()
     return re.sub(r'[-\s]+', '-', text)
 
 def matches_criteria(data):
-    """Filters based on forensic interest."""
     title = data.get("title", "").lower()
     desc = data.get("description", "").lower()
     return any(word in title or word in desc for word in REQUIRED_KEYWORDS)
 
 def clean_transcript(vtt_text):
-    """Strips timestamps and technical headers."""
     lines = vtt_text.split('\n')
     clean_lines = []
     for line in lines:
@@ -54,9 +51,10 @@ def clean_transcript(vtt_text):
             clean_lines.append(line.strip())
     return "\n".join(clean_lines)
 
-def get_filtered_videos(channel_url):
-    """Scans channels with delays and fallback logic for missing subtitles."""
-    print(f"[*] Scanning channel: {channel_url}")
+def get_filtered_videos(channel_info):
+    label = channel_info["name"]
+    url = channel_info["url"]
+    print(f"[*] Scanning: {label}")
     
     cmd_list = [
         PYTHON_ENV, "-m", "yt_dlp",
@@ -64,7 +62,7 @@ def get_filtered_videos(channel_url):
         "--dump-json",
         "--playlist-end", "5", 
         "--flat-playlist", 
-        channel_url
+        url
     ]
     
     matches = []
@@ -78,8 +76,8 @@ def get_filtered_videos(channel_url):
             if any(v_id in f for f in os.listdir(POSTS_DIR)):
                 continue
 
-            wait = random.uniform(30, 60)
-            print(f"    [~] New video {v_id} found. Pausing {wait:.1f}s...")
+            wait = random.uniform(30, 65)
+            print(f"    [~] Found {v_id}. Pausing {wait:.1f}s...")
             time.sleep(wait)
 
             temp_output = os.path.join(POSTS_DIR, f"temp_{v_id}")
@@ -88,21 +86,18 @@ def get_filtered_videos(channel_url):
                 "--cookies", COOKIE_FILE,
                 "--dump-json",
                 "--no-abort-on-error",
-                "--write-auto-subs",
+                "--write-subs",      
+                "--write-auto-subs", 
                 "--skip-download",
                 "--sub-format", "vtt",
-                "--sub-langs", "en.*",
+                # WIDER NET: Catch en, en-orig, en-US, da, dan
+                "--sub-langs", "en.*,en,da,dan,en-orig", 
                 "-o", temp_output,
                 f"https://www.youtube.com/watch?v={v_id}"
             ]
             
             video_result = subprocess.run(cmd_video, capture_output=True, text=True)
             
-            if video_result.returncode != 0 or not video_result.stdout:
-                print(f"    [!] Full fetch failed for {v_id}, fetching metadata only...")
-                cmd_light = [PYTHON_ENV, "-m", "yt_dlp", "--cookies", COOKIE_FILE, "--dump-json", f"https://www.youtube.com/watch?v={v_id}"]
-                video_result = subprocess.run(cmd_light, capture_output=True, text=True)
-
             if video_result.stdout:
                 full_data = json.loads(video_result.stdout.split('\n')[0])
                 if matches_criteria(full_data):
@@ -110,7 +105,7 @@ def get_filtered_videos(channel_url):
                 
         return matches
     except Exception as e:
-        print(f"[!] Error scanning {channel_url}: {e}")
+        print(f"[!] Error: {e}")
         return []
 
 def write_jekyll_post(data):
@@ -124,14 +119,16 @@ def write_jekyll_post(data):
     filename = f"{f_date}-{slug}-{v_id}.md"
     filepath = os.path.join(POSTS_DIR, filename)
 
-    transcript = "Transcript not available for this video."
+    transcript = "Transcript not available."
     for f in os.listdir(POSTS_DIR):
         if v_id in f and f.endswith(".vtt"):
             try:
+                print(f"    [!] SUCCESS: Caught transcript for {v_id}")
                 with open(os.path.join(POSTS_DIR, f), 'r', encoding='utf-8') as sub_file:
                     transcript = clean_transcript(sub_file.read())
             except: pass
             os.remove(os.path.join(POSTS_DIR, f))
+            break
             
     for f in os.listdir(POSTS_DIR):
         if f"temp_{v_id}" in f:
@@ -176,35 +173,21 @@ youtube_id: "{v_id}"
 def push_to_github():
     try:
         os.chdir(REPO_PATH)
-        print("[*] Reconciling with GitHub...")
         subprocess.run(["git", "pull", "origin", "main", "--rebase"], check=True)
-        
         status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
         if status.stdout.strip():
             subprocess.run(["git", "add", "."], check=True)
-            subprocess.run(["git", "commit", "-m", "Bunker Auto-Update: Forgiving Lethargic Sync"], check=True)
+            subprocess.run(["git", "commit", "-m", "Bunker Auto-Update: Version 4.2 Sync"], check=True)
             subprocess.run(["git", "push", "origin", "main"], check=True)
-            print("[+] Archive Synced Successfully.")
-        else:
-            print("[~] No new forensic data to sync.")
-    except Exception as e:
-        print(f"[X] Git failure: {e}")
+            print("[+] Sync Complete.")
+    except Exception as e: print(f"[X] Git failure: {e}")
 
 if __name__ == "__main__":
-    print(f"--- BUNKER CRAWLER 4.0 START: {datetime.now().strftime('%Y-%m-%d %H:%M')} ---")
+    print(f"--- BUNKER CRAWLER 4.2 START ---")
     if not os.path.exists(POSTS_DIR): os.makedirs(POSTS_DIR)
-    
-    for i, channel in enumerate(CHANNELS):
-        matches = get_filtered_videos(channel)
+    for channel_info in CHANNELS:
+        matches = get_filtered_videos(channel_info)
         for video_data in matches:
-            fname = write_jekyll_post(video_data)
-            print(f"    [+] Created: {fname}")
-            time.sleep(random.uniform(5, 10))
-            
-        if i < len(CHANNELS) - 1:
-            wait = random.uniform(180, 420)
-            print(f"[~] Channel finished. Sleeping {wait/60:.1f} minutes...")
-            time.sleep(wait)
-    
+            print(f"    [+] Created: {write_jekyll_post(video_data)}")
+        time.sleep(random.uniform(180, 300))
     push_to_github()
-    print("--- CRAWL COMPLETE ---")
