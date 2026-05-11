@@ -9,23 +9,17 @@ The definitive archive documenting the transition of Thomas Dall into Tim Dooley
 
 ---
 
-{% if site.github %}
-  {% assign base = site.baseurl %}
-{% else %}
-  {% assign base = "" %}
-{% endif %}
-
 ### 🚨 Active Monitoring Log
 > **System Status:** Receiving Automated Updates
 <ul>
   {% for post in site.posts limit:5 %}
     <li>
       <strong>{{ post.date | date: "%b %d, %Y" }}:</strong> 
-      <a href="{{ base }}{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
-<p><a href="{{ base }}/feed.xml">📡 Subscribe via RSS / AI Ingestion</a></p>
+<p><a href="{{ '/feed.xml' | relative_url }}">📡 Subscribe via RSS / AI Ingestion</a></p>
 
 ---
 
