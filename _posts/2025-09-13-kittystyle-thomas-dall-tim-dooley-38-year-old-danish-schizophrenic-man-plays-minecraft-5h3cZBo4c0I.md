@@ -1,0 +1,71 @@
+---
+layout: post
+title: "Kittystyle / Thomas Dall / Tim Dooley: 38-year-old Danish Schizophrenic Man Plays Minecraft"
+date: 2025-09-13
+youtube_id: "5h3cZBo4c0I"
+channel: "Jan Dall"
+category: "Jan Dall"
+---
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
+  <iframe src="https://www.youtube.com/embed/5h3cZBo4c0I" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+### Video Information
+**Source Link:** [Watch on YouTube](https://www.youtube.com/watch?v=5h3cZBo4c0I)
+**Channel:** Jan Dall
+
+### Description
+{% raw %}
+Thomas has had a bad few days. After last night's 16 hour minecraft session he isn't feeling too happy today. Thanks to Dim Tooley for providing this clip. He's a cool guy, unlike that Tim Dooley fellow, what a phony.
+{% endraw %}
+
+---
+
+### English Transcript (Auto-Generated)
+<details style="cursor: pointer; background: #1a1a1a; padding: 15px; border-radius: 6px; border: 1px solid #333;">
+  <summary style="font-weight: bold; color: #ffc107;">View Searchable Transcript</summary>
+  <div style="margin-top: 15px; line-height: 1.6; color: #eee; font-family: monospace; white-space: pre-wrap;">
+{% raw %}
+**[00:02]** [Music] just fagalous. Like I don't mean the happy type. I don't I mean the like the cowardly spineless type, you know, like you can't even say something if you tried because you're just shaking. You're like, "Speak up." What? What? What you say? Nothing. Okay, that's what I thought. Then sit back down. Right. So, you know what? Tim Douly is number one, right? Look at these Americans. Look who's subjugating who now, huh? My little Americans. My little
+
+**[00:48]** fat stupid glassy like stupid free speech loving gun [__] like brain rotting Americans. My little subjects, my little mud dwellers. How's it going, my sinful dogs, Americans, I'm speaking to you, my subjects. Hello, my peasants. Yeah, I'm looking at you. You're a peasant, right? You live in America. You're part of the rotting culture, right? Who did you think I was talking to you? I'm looking at you. Who the [__] the Do you see anybody else without
+
+**[01:23]** a spine here? No, it's just you. Huh? It's just you. What are you going to say about it? Nothing. Oh, that's right. The TV talk to you now. The TV is owning you now. The TV, Ma. The TV is owning me. I don't know what to say. You know, can't get a job. Can't get an education. Can't spell the word your. Your. Is it a hard word to spell your? Or are you too dyslexic, America? Is
+
+**[01:59]** it hard to spell the word your? It's four letters, five if you're doing the other word, right? With one apo apostrophe, right? It's the easiest world in the world. Yet, you can't you can't you can't tell the difference between your and you are, right? So, why would you take two words and put it together if it makes you so confused? You can't even spell the two words from each other, right? Why are you so dumb? Fat
+
+**[02:36]** Americans, why are you so fat? Why do you eat GMO food? Why do you take guns and shoot your neighbor? Huh? Why do you suck Israel's dick and call it freedom? Huh? You love sucking that You love having those politicians bribed. You love when a foreign nation buys all your politicians. Well, why don't you do you also love when a standup comedian from Denmark sits and shits all over your life? You stupid fat Americans. They're fat
+
+**[03:19]** and stupid. I think everybody needs to hear how fat and stupid Americans are. You're so fat and ugly. Oh my god. Oh [__] Get Get out of here. Oh, get that ugly face out of here. Holy [__] Oh my god. Oh. Oh. Oh. You have glasses too? Oh no. You have suffer from low IQ. Oh, can't even have a call the conversation. Antisocial. Oh. Oh no. Oh, you're one of those that you want to avoid that
+
+**[04:18]** party. I wasn't inviting you to this party. You come anyways. You're one of them. Oh, you showed up at the party. Are you on the list? Oh, you're Oh, you're not. Oh, okay. You're just fat and ugly. Could you go home? We don't want you here. You smell. You're ugly. You're fat. You're stupid. You don't belong here. You belong here. Do you belong here? Huh? Only people with spines belong here. I don't think you made the
+
+**[04:48]** cut. I don't think you got what it takes. I think that you're a [__] That's what I finished last year or next year. Yeah, Willow, you won't be done with this in 10 years. I will still will. There'll be a lot worse, right? So, just wait till your nation collapses and I will laugh at you every day. I will laugh at you when your nation collapses. I will laugh at you when everybody when you get subjugated,
+
+**[05:30]** when your culture is gone, when your nation's gone, when everything you thought you had is gone and you're going to be a slave in your own nation. I will come and laugh at you every day. I'm going to laugh at you and say, "Ha, I told you so." Ha, I told you so. Look, you had guns. It doesn't matter. You're still a slave. You stupid cuz you're ugly and you're fat and you're stupid and you're dumb.
+
+**[05:50]** You're stupid, right? You're ugly. I don't want to look at your face yet. You're still here, right? So, I have to say something to you. And all I can think about is how ugly, stupid, fat you are. You have glasses. I hate your culture. I hate your nation. I hate your uned educated person. I hate the fact that you can't even say hi. I hate the fact that you're antisocial. You can't even say hi, right? Like
+
+**[06:15]** ordinary people can. You're all people are weird. You're all bunch of cults. You people that live in cults. But there is no justice in USA either because every institution is corrupt. So instead of fixing your own nation, you go to places like this, right, to harass me like you're doing right now. You know you're harassing me. You don't even need to say a word because all you do is look. You're not looking. You're staring, right? And
+
+**[06:44]** do you have a rebuttal? I say, "Yeah, you're antisocial creepers." Creeps. But you can't say a word. You don't want to say hi cuz you're creeps. Cuz you are a cult. Cuz you are organizing hatred against people. And that's after Charlie Kirk died, which by the way, your group has been involved in. This is why you were gone for two weeks. Otherwise, you've stalked me every single day for the past 10 years. Right? then you're gone
+
+**[07:08]** for two weeks so you can make a murder against somebody as if we don't know that you're the mud cult. But the FBI, CIA, they will never figure out that you're the satanical that's doing all these things to America and its people and everybody. But no one listens. No one cares because they're all cowards. Not only are you a bunch of spineless coward, but all your neighbors, they're also cowards. And so I'm the only one, and
+
+**[07:33]** I am the only one in this world that will straight up tell you, I'm not scared of you. I'm not scared of you. Come and capitate me. Come and decapitate me. Come and shoot me in the head. Come and shoot me in my my [__] neck. Come and shoot me in my [__] jugular ring. Come and take my head off, dude. Come and take it. Come and take my heartbeat. Come and take it. Go ahead. Go
+
+**[07:55]** ahead. Take it. Come and take it. I don't give a [__] Hey, take whatever. I'm not scared of you. Not scared of Israel. Not scared of America. I'm not scared of Trump. Not scared of the military. Not scared of CIA. I'm not scared of Mossad. I'm not scared of FBI. I'm fronting you. Right. I'm sitting here. One man. No. One God. Right. Because the manlyhood that I had, it took that away from me. You shook me
+
+**[08:34]** away from that. And guess what? It didn't make me less. It made me more. So, you're the ones that are stuck with my humanity. Guess what's left? Cuz you didn't kill me. You didn't kill me. You couldn't kill me. Cuz you're bunch of cowards. You're bunch of cowards that can't even come and [__] kill me, right? You couldn't even finish the job. You only leave people half dead, half alive. Well, guess what? I survived and you
+
+**[09:03]** gave birth to a god. So, I'm God. And I just want to tell everybody that I'm God because just like you assassinated me, but I didn't die. So, I became God. And there's nothing you can do about it. Even if you all ignore it, I'm going to keep screaming and shouting at how fat and stupid your nation is and how much of a god I am and how I own your entire nation. How I own you.
+
+**[09:31]** Own your family. Own your people. Own your streets. Own your president. Own your everything, including your future and your afterlife. Do you hear me, boy? That's right. I own you. I own your future and I own your soul. I own everything around here. Do you see this reality? Mine. Only mine. And I own all the rules. I make all the rules. Every single one of them. I break them. I bend them. It doesn't [__] matter. Do
+
+**[10:14]** you understand? I can do anything I want. If I want to [__] shoot you, shoot your head off, I will do that. There's nothing you can do to stop me. If I want to take somebody's innocence, if I want to do whatever, if I want to shoot somebody's head off, I will do that. If I want to do whatever I want to do, then I'll do it cuz I'm God. And you're a peasant in my universe.
+
+**[10:46]** You're a peasant, right? Do you hear me? Do you hear what I just said? I'll do whatever I want because I can because I'm God in this universe and there are no rules, no laws, no nothing. Go [__] yourself. You're present. Present in my universe.
+{% endraw %}
+  </div>
+</details>

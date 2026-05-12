@@ -1,0 +1,215 @@
+---
+layout: post
+title: "The Kota Prelude Expanded and Enhanced Edition"
+date: 2025-11-16
+youtube_id: "Ni7iMLKpwaY"
+channel: "James Smith"
+category: "James Smith"
+---
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
+  <iframe src="https://www.youtube.com/embed/Ni7iMLKpwaY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+### Video Information
+**Source Link:** [Watch on YouTube](https://www.youtube.com/watch?v=Ni7iMLKpwaY)
+**Channel:** James Smith
+
+### Description
+{% raw %}
+super Cut of all the Turk An Kota Audio combined Into 1 coherent video 
+
+Has additional Audio from Turk talking to Kota's sister "Saccharine" Who recounts her experience with Thomas Dall Aka Kittystyles 
+If you've watched the original Kota Prelude Skip to 11:15
+This is the recording's given to my by Turk February As he didn't want to deal with kota due to viewing her as a "compromised source"  due to the medication she was on to help with her cancer treatment or something along those lines.
+Which is why Turk never made an additional Kittystyle video
+#Simbalings #JanDall
+
+Saint Mai Mercado Will protect all the people that follow Disciple Jan, from the Chomo Demon Thomas Dall
+{% endraw %}
+
+---
+
+### English Transcript (Auto-Generated)
+<details style="cursor: pointer; background: #1a1a1a; padding: 15px; border-radius: 6px; border: 1px solid #333;">
+  <summary style="font-weight: bold; color: #ffc107;">View Searchable Transcript</summary>
+  <div style="margin-top: 15px; line-height: 1.6; color: #eee; font-family: monospace; white-space: pre-wrap;">
+{% raw %}
+**[00:04]** So, uh, &gt;&gt; yeah, we're good. Um, &gt;&gt; who who are, uh, &gt;&gt; so I met Thomas. &gt;&gt; Yeah. Um, so yeah. Uh, who are you? How did you meet Thomas? &gt;&gt; Um, I am Thomas's, as far as I know, most recent ex-girlfriend. Um, he joined my Discord server about a month ago, which was weird because it's a server targeted at teenagers and young adults and he's in his like early 30s. Um, I think I'd mentioned something
+
+**[00:50]** about having a bad day and he started messaging me, uh, asking me if I was all right, um, yeah, how old was I, where was I from, just like general general questions, I guess. Um, he didn't really tell me much about like who he was other than that he was from Denmark and his first name was Thomas. So, I didn't know about the whole like Kitty Styles thing until it was accidentally said to me by one
+
+**[01:23]** of his friends. Um, oh god, this is gonna make me sound like a really bad person, but um, at the time of initiating a relationship with him, I had just gotten out of a really rough two-year relationship and uh, engagement And it was kind of um a mix of like desperation and at the time I was serial dating. I was just kind of, you know, looking looking for someone to mess around with, I guess. Yeah. And
+
+**[02:20]** um he was really intense really quickly. And by that I mean he was constantly like sending me seven, eight, you know, messages at a time, sending me these long paragraphs about how beautiful I was. um just being really creepy for someone who I'd known a couple days &gt;&gt; but on the rebound that kind of that kind of positive attention &gt;&gt; um &gt;&gt; positive &gt;&gt; that way. &gt;&gt; Yeah. And at the time I wasn't really paying attention
+
+**[03:05]** to the signs. Um my sister who I share my Discord server with and I'm very close to. She knows everything that's going on. Um she was actually telling me, you know, this guy's a little bit weird. I'm scared. You know, he's being a little bit obsessive, a little bit creepy. Um, yeah, she actually messaged uh messaged Thomas and told him that he kind of need to lay off because I wasn't she knew that I wasn't looking
+
+**[03:42]** for anything serious. Um, and he was basically confessing his love for me. &gt;&gt; Let me guess, older. Um, which uh, no, she's actually younger than me. Yeah, not by much, but &gt;&gt; I I'm going to back up a bit. Uh, so when was this? &gt;&gt; Um, I'd say this was all a about a month ago because it was right around the time of my 19th birthday. &gt;&gt; Okay, so for context, a month ago, as of this
+
+**[04:21]** recording would have been November, towards the end of November. By then, um, I already recorded my interview with him. So, &gt;&gt; yeah. So, he was Oh, he was already a potato by then. He was going under uh different names and uh kind of &gt;&gt; Yeah. &gt;&gt; keeping things down. &gt;&gt; Yeah. Um right around the time we broke up, he started changing his name to a bunch of weird stuff. I don't know. Like, he would change it
+
+**[04:53]** basically every day. Well, I've done that. Whomst amongst us can honestly say they didn't go through a period of time when they change their name every day. &gt;&gt; Um, so, um, &gt;&gt; things took a turn. Yeah. &gt;&gt; Could you tell me, um, when things took a turn for, let's say, The Darker? So, I had been invited by Thomas to his new streaming uh Discord server. He had very few people in it, maybe like 20 to 30
+
+**[05:32]** total. Um, I didn't know this until really a couple days later that this Discord server was mainly children. Um, one of the people who he claimed was his best friend was a 13year-old boy who he was trying to set up with another 12, 13 yearear-old girl in the server. And that's when he and I started getting into arguments. Um, I told him that really wasn't appropriate. Um, with him being 32 years old, you know, his best
+
+**[06:09]** friend's a 13-year-old boy, that's obviously red flag. Um he had told me about a girl in his server who he'd recently um had like a fling with and um how she was still sending him inappropriate messages, trying to be intimate with him, things like that. So, I ended up messaging her and basically explaining to her that neither me nor Thomas were comfortable with her continuing a relationship with him since he and I were exclusive but not
+
+**[06:49]** official at that time. Um, and she basically told me that her and Thomas had messaged each other maybe twice, that there was no relationship, there was nothing between them, she barely knew him. Um I I I I respect this person's privacy, but um this might be somebody I know. Um could you give me a hint as to their online handle? &gt;&gt; I can go look at my messages with Thomas and look for her name um because
+
+**[07:29]** I don't remember off the top of my head. for now. I guess that's not particularly important. We'll we'll get back to that. But it would just be kind of good to be able to piece together what happened when &gt;&gt; especially if I because um I know the women Yeah. he was &gt;&gt; involved with well not involved with but was to be honest bothering over on the Bitwave side of things. I don't know. I didn't realize he
+
+**[07:59]** had such a &gt;&gt; active lifestyle outside. &gt;&gt; It it seemed he was dedicating so much of his I guess it's obvious because once he got kicked off, what's he going to do with those 17 18 hours a day? &gt;&gt; But um so um you do have um &gt;&gt; Yeah. Do you have like the &gt;&gt; u not evidence but do you have like screen caps or anything like that &gt;&gt; involving this these essentially &gt;&gt; yeah absolutely &gt;&gt;
+
+**[08:31]** talking about him talking about them. I don't want them there because I don't want you know to doc not docks but put up a child's internet handle out there but the conversations exist. &gt;&gt; Yeah. Um, I can look for where we got to. Yeah, our our argument um was the only thing I could find. I'm going to go screenshot that. Oh. Um, the girl was named Lori, I believe. &gt;&gt; Yeah. If it would have been uh
+
+**[09:12]** &gt;&gt; if that would because my friend &gt;&gt; they were in a relationship &gt;&gt; at the time he was bothering my friend GK who's like my best friend in the world since I was like 13 years old. So it would have been really funny if it all came together that he was playing you off against my childhood friend. God, &gt;&gt; the man is busy. &gt;&gt; Um, &gt;&gt; so clearly &gt;&gt; Yeah. Um, I was also contacted after he
+
+**[09:49]** and I broke up that he had apparently been seeing other women or he was still in active and like dating in Discord servers while we were together. Yeah, because I remember, if this was in November, I remember getting uh leaks of uh him talking to Sammy very graphically. I uh a lot of stuff was coming around at that time. &gt;&gt; Yeah. Um our relationship was between like maybe November 20th when we were actually like actively seeing
+
+**[10:26]** each other, maybe the 20th or the 25th in that area. So, um I don't know if you can screen share or just maybe email me uh those screenshots. We'll take a look at them. &gt;&gt; Yeah. &gt;&gt; Provided they're on the up and up. &gt;&gt; Mhm. I'm looking for &gt;&gt; So, you know what? Why don't we take uh let's say 10 minute break. &gt;&gt; Yeah. looking for these specific ones where he and I got into an argument.
+
+**[11:04]** &gt;&gt; Let's take a time break. Um, you find them, send them. I'll take a look at them. So, I'll actually know what I'm talking about and we'll uh &gt;&gt; Sounds good. Okay. &gt;&gt; All right. Thank you. &gt;&gt; And I don't know if he just has like a flood of emails or if he just wasn't interested in the subject, but I watched your video and figured it could help someone, you know. &gt;&gt; Yeah. Well, null deals with
+
+**[11:28]** like Okay, I deal my sphere of how many people I cover, it's like 20 people, 30 people. With Null, he's got what, thousands. So, he's got a bit of a backlog. &gt;&gt; Yeah, &gt;&gt; Kiwi Farms is [__] huge. &gt;&gt; But yeah, so, uh, once again, I'm I'm sorry. I'm gonna have to go back and reask two questions. Um, one was, um, &gt;&gt; Yep, you're fine. &gt;&gt; You mentioned, uh, his server was almost exclusively children. There was
+
+**[12:03]** a 13-year-old girl involved who he gave roles to. What What does that role entail? Like, how much responsibility, how much interaction is he having with these kids? &gt;&gt; Oh god. Um um he spent basically every hour of every day in his server if he was almost always in a video call with this one kid specifically that he called his best friend who was a 13-year-old boy. um this girl named Chloe who I believe was an admin
+
+**[12:50]** in his server and she was 12 13 years old. So he was spending every single day basically sleeping maybe a couple hours a day like his streams or he would spend 18 hours at a time streaming. He was basically keeping that up every day. &gt;&gt; It's uh really interesting. And the second thing I wanted to go back to and it's kind of slipping my mind. Hang on. What was the other thing? Uh oh [__] there was
+
+**[13:27]** another thing. Okay, so he was &gt;&gt; How was I introduced to &gt;&gt; Oh yeah. Yeah. Yeah. who uh how was it that you found out he was Kitty Style? And um what were what were your feelings about that? Like what did you see about this Kitty Style character who how was he different from Thomas? What did it make like how what did you learn or about it on the internet? Things like that. What were your thoughts?
+
+**[13:56]** Were you angry at the people who were saying these things about him, etc. So, I was introduced um I Thomas had spoken about how he was infamous before, which I feel like is a reach. Um someone from server messaged me and said that I needed to be be careful around him because he didn't have a very good uh publicity. He didn't have a very good past. He was known for being fairly violent towards women. And um
+
+**[14:32]** he Thomas had sent me a link to his old Kitty and said, "Have you ever heard of this person?" And I was like, "No." Um and I didn't know who it was. Um and I kind of put it together that Kitty Styles was Thomas's old stream name, persona, whatever you want to call it. um started looking up him on the internet and was really surprised with how much I'd found. After seeing pictures and things, I knew
+
+**[15:06]** that it was Thomas. Um immediately went to Kiwi Farms because I used Kiwi Farms for a lot of digging on people and um people were saying these awful things about them and I could not figure out why. Um, and then I'd seen the things that he had done, how he said he'd wished his girlfriend was dead, he'd wish his daughter was dead, he'd threatened um a politician's child to stab the child. Um, I listened to some
+
+**[15:43]** of the clips from his streams. He was saying just really disgusting, violent, vile things to adults, but also people who were underage, people who were watching his stream. He had no regard saying that, you know, if he ended up becoming a pedophile, it was uh James's fault or um you know, people who were harassing him, it was their fault if he became a pedophile. And I was sympathetic with him on the fact that people were taking
+
+**[16:15]** photos of his family, um, his family's information, family that had nothing to do with it, and putting that on the internet. But as far as the harassment and the publicity that he got, I honestly felt like he deserved it. &gt;&gt; In Kitty's defense, uh, James Smith is a bit of a [__] Sorry, that's a little joke. &gt;&gt; Yes, &gt;&gt; that's a throwaway joke because um &gt;&gt; saying you hope that like someone &gt;&gt; gets raped and dies,
+
+**[16:47]** you know. No, I I the only reason I'm saying that is I logged into Discord for the first time in maybe a month today and uh James Smith has changed his display name to my name and his display picture to an actual photograph of me, which took me a little off guard. I I don't really know James. I just know that I heard something about him saying he hopes James dies and if Kitty ends up being
+
+**[17:21]** a pedophile, it's James' fault because James was pressuring him into being a pedophile. So &gt;&gt; James is going to be so happy to hear that by the way. But yeah, we come from a really I'm guessing a very different corner of the internet than you come from. like we we are in a really really kind of dark corner of the internet. Um I I wouldn't call myself one of the Bitwave guys, but the Bitwave guys are
+
+**[17:50]** the ones who know him best. And I was one of the first people on that platform and uh &gt;&gt; I even I at some point had to go &gt;&gt; this is a little too dark for me. &gt;&gt; You know what? I didn't mind uh exposing diaper furs. &gt;&gt; Yeah. But having Yeah. Uh, so sorry, we're kind of getting off off track here. So, um, this is, uh, kind of going back to, uh, something you said. Um,
+
+**[18:21]** the actual, um, the meat of the bones of, um, the accusations, the pedophilic tendencies. What of that have you experienced? Oh. Um God, sorry. Um so as I stated, um he is 32 years old and at the time we dated I was 18. um which is not uh you know pedophilia but it is a little bit strange for someone who is all of four years younger than my dad to have an interest in me. Um &gt;&gt;
+
+**[19:19]** um sorry to kind of cut in. Uh you also mentioned that you have &gt;&gt; to an extent like &gt;&gt; sorry um you you also mentioned that you are um vulnerable because of a condition in your life. Um was he aware of that going into it? Um, it's not something that I really display on my server, but going into um a couple days into our relationship, um, I did end up discussing that with him. So, he he
+
+**[19:58]** did know of my situation. Let me uh but um sorry I'm talking kind of slow so I'm trying to figure out how I want to word things um with a lot of the things that Kitty was thing. I sent you a screenshot where you said he wanted to make me into a woman. I don't know if you read that. Um, that seemed a little bit strange. Um, God getting okay getting into the intimate uh parts of
+
+**[20:53]** our relationship. Um I had mentioned to him that I was not experienced. Um and that's something that he really was interested in the fact that I was young and not experienced and saying he wanted to make me into a woman. He some pretty rough and intense and kind of disturbing looking at it now. Uh statements that he made um of things that he wanted to do with me as being &gt;&gt; I know this is &gt;&gt; a
+
+**[21:43]** young virgin. &gt;&gt; I know this is going to be disturbing. disturbing go into a bit of details and trust me my audience knows this isn't you talking this is him talking but what kinds of things are we talking about &gt;&gt; um other than him saying he wanted to make me into a woman he'd said that he wanted me to have his children he wanted to impregnate me he wanted to use me Um he said he didn't
+
+**[22:19]** believe in marriage but he was grooming me in a sense which is something that other people I've spoken to have agreed with on things that he'd said kind of grooming me to be like little you know quiet mousy vessel of childbirth. That's really what he treated it like sometimes that I was to give him a child and that was the extent of it. He didn't want marriage, he wanted a kid. And how long into the relationship
+
+**[22:57]** in a just knowing you was he uh saying these things? Um well well I explained to you my line of work so I wasn't really shy about um intimacy but I would say maybe three 4 days into the relationship where he started to get really aggressive in some ways &gt;&gt; aggressive &gt;&gt; um as far as like intimacy went &gt;&gt; and is that a common thing that you experience or no? um with him, the aggression, not just
+
+**[23:54]** sexually, but also just generally through our conversations, he was. But as far as like a relationship standard goes, I have never had someone say things like that to me. &gt;&gt; Okay. Now, um I'm just gonna make sure um we've covered our bases here. Um hang on. Once again, having a boomer moment. Did he ever offer you a position on yugle.tv? &gt;&gt; No. Um, I also told him pretty quickly on that I wasn't interested in that just
+
+**[24:49]** because I feel like the line of work that I do and having like a younger audience of streaming video games or things like that, those things wouldn't go very well together. &gt;&gt; Okay. And um I'm trying to think h have I missed anything? Because the thing is I I've kind of and uh this is going to be edited out obviously. I kind of buried myself because now I have this rabbit hole to go down down into.
+
+**[25:24]** And uh I really I really didn't want to do do anything more with Kitty. I spent a month watching like 18 hours a day of this [__] It got so bad my internal monologue, you know, your thoughts, your internal monologue. My internal monologue started being in his voice. It made me go crazy. But um let's see. Anything else I wanted to cover? I don't really think so. Um, any final thoughts on um, anything you want to
+
+**[26:11]** say? Maybe. Um, I I normally I'd offer a plug, but I I think you want to I understand you want to be anonymous with this or as as anonymous as possible. &gt;&gt; Yeah. Um, &gt;&gt; um, &gt;&gt; yeah. just any uh message you want to give to maybe somebody &gt;&gt; who finds out that somebody they knew as Thomas was Kitty Style when you know finding out they're uh there's somebody they're involved with might have another life going
+
+**[26:46]** on anything like that. Uh, I just feel like um during all this I was really naive and ignored really all the the red flags. Um, uh, we had spoken about a meeting and things like that and just thinking of what could have happened to me if I had met this person. um in real life or gotten more involved with him. You know, things of me could gotten leaked on the internet. um you know my address. I
+
+**[27:34]** mean people did pretty messed up stuff to his friends and family and um just being manipulated the way that I was uh being with Thomas just made me feel disgusting afterwards that I'm still a month late trying to get my trust back as far as um relationships, you know, new friendships, relationships and things like that go. And just having that interaction and realizing afterwards how crazy and deranged he can act just scares me honestly. &gt;&gt; Yeah.
+
+**[28:17]** Um well um I think that's a good end to things. Um I I will follow up with uh a couple of things. Um, if you want I I will talk to your sister to get her angle on this. Um, just a bit of of advice um from a [__] boomer on the internet. I'm not really a boomer, but I'm old as [__] Um, you were young. You were in a vulnerable place in life. um first because
+
+**[28:56]** of the position you were in uh with your relationship. Clearly you you're vulnerable because of the condition that you have. And I know it feels like the the clock is ticking and there's bad feelings and you want to push them out, but the internet is not the best place to do that. I mean, I understand you have a Discord channel. I understand you have a on the internet kind of, right? &gt;&gt; And it's important to be
+
+**[29:28]** online. But &gt;&gt; honestly, like just just from a friendly place, &gt;&gt; get a little fresh air. See what's out there. See the things you can smell, taste, touch. Yeah. Feel &gt;&gt; because Discord is such a dark place. It really is. &gt;&gt; Yeah. &gt;&gt; But thank you so much. And um yeah, if um you have any questions for me or uh if you want to follow up, you know my email address, you know my uh Discord. Um
+
+**[30:11]** I'm gonna hang around. If you remember anything you want to quickly add. Uh &gt;&gt; yeah. &gt;&gt; All right. So, my two big questions is well were [__] I'm [__] up already. Your sister said that you immediately took a dislike. Your sister said you immediately took a dislike to uh uh Thomas. Um could you tell me what some of the red flags that you saw were? Yeah. So, their whole thing was like, um, Dakota and him were
+
+**[30:52]** like pretty close from the start, I'd say. Like they became friends rather quickly and um got along pretty well. He freaked me out from the beginning because he was super obsessive over her. like they'd known each other for like two days and he was talking about marriage and [__] and he was getting really weird with it and I messaged him and I was like, "Hey, so maybe you should like cool it a little bit because you're
+
+**[31:28]** you're really freaking me out and you're freaking her out." Um, and I messaged her and I was like, "You should be careful with this guy because guys who are this obsessive or just people who are this obsessive in general often turn out to be abusive later on in the relationship." So, I I was really messaging her and I was really worried about the fact that he was just a weirdo. And then he he said some like
+
+**[31:58]** strange things to me as well about like having a threesome with me and Dakota and some other weird [__] Um it really just put me off with him. Yeah, it it was mostly stuff like he I don't know. I don't know if it's because he was foreign or if he's just strange in general, but he would often take it as us like competing for her in a weird way, which is very strange because obviously with him
+
+**[32:29]** and her it was romantic with and with me and her it's more platonic because we're sisters, but it it was really strange. Um, and he he would just say stuff all the time that would allude to me being in love with her, vice versa, um, when we we made it very clear that's not what our relationship is. &gt;&gt; Did you know this time that you did have a relationship with a sister? &gt;&gt; Uh, no. Actually, neither
+
+**[33:02]** of us knew the I'm pretty sure like 5 minutes after Dakota found out, she called me on the phone. Uh, and she was like, "Pick up the call right now. You have to hear this." So, we both found out like pretty much the same time. the writing on the wall that this had become toxic. He when it really started for me when he would do this thing that really like seriously pissed me off and I would
+
+**[34:13]** snap at him all the time for it when we talked because he would um the more so after I found out about everything but he would always refer to his abusers and at first you know obviously extremely sympathetic because anyone who's been through abuse that's a very very serious ious thing and an awful thing. And as an abuse victim myself, um you know, I I was extremely sympathetic and I was awful. But um as we kind
+
+**[34:41]** of found out about everything, we later found out that the people he was referring to as his abusers were the people in his chat that called him a [__] Um so he was basically saying that everyone that like insulted him online had abused him. Um, hey, no, I know. Don't worry. I That really set me off. I was pissed. No, don't even worry about it because I was Oh, if I wasn't so mad, I probably would
+
+**[35:12]** have been dying laughing as well. But he was just absolutely ridiculous. And so he initially before we found out about everything, he would talk to me and I I would try to be, you know, really nice about it, like, "Hey, what you're doing is kind of coming across creepy, like a little bit obsessive. Maybe you could do this to show your affection instead that isn't as weird." Um, and he would very consistently say things like, "Well,
+
+**[35:44]** I act this way because I was abused or because I was neglected or this or that." And it's &gt;&gt; he wasn't just abused. He was torturing everybody who's been through to a certain extent. &gt;&gt; Oh yeah, for sure. For sure. No, but that was when I really started like I I think I outright said to him like, "Okay, I hate you. Like you're you're the worst." Because that on top of the fact, you know, his whole
+
+**[36:15]** thing was because something bad happened to me, it excuses my behavior, which is the most backwards thing ever because I, you know, me and Dakota both have had some very not great things happen to us in the past and we we've both ended up being like perfectly functioning human beings. Like there's you you can you will have residual trauma from it. Residual trauma. My bad. Um from anything like that, from abuse or assault or anything, but
+
+**[36:55]** it's not going to change your behavior so much that you can use it as an excuse to do things like guilt trip people. Well, the persecution complex is a very important part of being Kitty Style. His thing is he is Jesus on the cross and how dare you good. I I I'm dying for your sins. &gt;&gt; That is him o over and over every day. And I've had to listen to 18 hours a day for so
+
+**[37:27]** long trying to gather information on him. It is infuriating. It is. But um sorry uh enough about sorry I'm a little sidetracked just because like I was done. &gt;&gt; No no no problem. &gt;&gt; I wanted to put this to bed. Like I put out what I know about Kitty &gt;&gt; the dirt. I condensed it into 30 minutes. I was going to put it out there and I was going to forget him for the rest of my
+
+**[37:53]** life. Then this popped up &gt;&gt; and I think this is interesting because it is a side of Kitty we did not know. What was the side of Kitty you knew? Have you seen him interact with people? What kind of a person have you seen? &gt;&gt; He like publicly in the chat and in his own server and everything. His attitude was very much like, oh, you know, like I'm I'm the nice guy here. I don't want to
+
+**[38:24]** start any trouble. I don't want to step on any toes. You know, things like that. He he very much um tried to present himself as consistently innocent and anyone that argued with him or was mean to him, it he he didn't provoke any of it whatsoever. Um and I am I fully admit I'm a kind of a confrontational person. So he when he was playing innocent and yet he was uh like actively going against me at
+
+**[39:02]** the same time because he would do this where he'd play innocent and play nice and then I'd tell him like, "Hey, that's creepy or that's weird." you know, and then he he would continue to do it and then act like nobody told him not to. And it's like, you know, this is bad. What What is wrong with you? What I find interesting about this is, as I told your sister, I'm from a very different corner of
+
+**[39:32]** the internet. I know I'm from a very different space than you guys do. And uh he behaves the same around teenage girls as he does around adult men who make their entire living trolling people. Like we are the troll I Oh god, that sounds so gay when I say it. We're the trollosphere of the internet. We're the we're the we're the guys who think Kiwi Farms is too easy on people. We're out there like destroying lives
+
+**[40:01]** essentially. And then there's these teenage girls who are essentially, you know, trying to find their place on Discord and he behaves. It's the same I'm a victim whether it's a 18-year-old girl messing just telling you you're being creepy or, you know, a 30-year-old guy [__] discovering that you're putting out, you know, nudes and uh doing all these horrific things. It's the exact same flat attitude. It's like he doesn't understand context &gt;&gt; for sure. &gt;&gt; Um, anything
+
+**[40:40]** you'd like to add? Cuz &gt;&gt; Yeah, that was another thing that was &gt;&gt; Yeah. Oh, no. No problem at all. That was that was another thing that was really frustrating while talking to him. like you mentioned that he doesn't understand context, which is very much the the whole reason that like I'm I'm sure the whole reason Dakota ended up coming to you in the first place is because originally um it was so Dakota found out about
+
+**[41:17]** all this um about all the stuff he's done in the past and his old uh stream and everything and she called me on the phone and she's like, "Hey, I need you to do me a favor. Just look up the name Kitty Style and tell me what comes up." Um, and I'm like, "Okay." So, we do that. We take a few minutes to like research everything, write stuff down, really collect some a big thing against him
+
+**[41:42]** so that we can talk to him. Because initially the idea was, okay, we're going to talk to Thomas and we're going to get him him to disprove these things because obviously nobody wants to go and swing in just being like, okay, you're a pedophile. So, and at this point, Dakota was very interested in him. So, for her sake, I also didn't want him to be a pedophile. So, we went um and we got on like a
+
+**[42:11]** three-way phone call with him and uh her and me, and we talked for a little while, and he was very uh pretentious, I'd say. Um 100% couldn't understand that he could ever be in the wrong. So, I I tried to say uh uh one of the first things I brought up was the fact that he made a post that he got sent to jail for cuz he threatened to stab someone's baby. And the his whole defense
+
+**[42:41]** there was, "No, that's not true. The the uh tweet or whatever is doctorred, right?" So, I'm like, "Okay." So, I go and I find like old old screenshots that are in his language. Um, and I send them to him and I say, "Are these doctorred?" And he says, "No, that's what I said." So, I put it through Google Translate and I send him back the English translation where it says that he threatened someone's baby. And he's
+
+**[43:08]** like processing software. And I'm like, "Buddy, you're cornered. like I I've proven to you that this is real and you are still denying it. But he just absolutely couldn't understand that. And it was the same thing. I talked to him for a little while. It was basically Dakota was just kind of watching things go down. I was very much confrontational and angry because this guy was just such a utter scumbag. and his whole thing was why
+
+**[43:44]** aren't you letting me date your sister? So that was the the kind of conflict there between us primarily was that he was angry because I was saying you're not going to date Dakota, not over my dead body. Um so he his whole thing was trying to convince me for whatever reason that it'd be okay. And so we talked for a little while. Eventually, he admits to doing the things he did to his sister when she was
+
+**[44:15]** six. And we were like, "Oh my god." &gt;&gt; I'm sorry. Could we back up? How did he admit that? Because I want to hear the admission as he would present it to a different corner of the internet. &gt;&gt; What did he say to you &gt;&gt; as people less experienced? Well, his his thing to us was I was bringing to him. He was like, "Okay, these people Yeah. His his whole thing was that these people are making
+
+**[44:48]** hate forms against me. They're they're directing hate to towards me without even knowing me. They're judging me without knowing me, whatever." So, he said, "Bring me what you found and I'll explain it." So, I said, "Okay." And I brought him a few different things. And one of the things I brought him was the fact that people were saying he was a pedophile. And I was like, "Why are people saying this about you?" And he was like,
+
+**[45:07]** "I made a mistake when I was young. I did a I did a bad thing." I was like, "People are saying you fingered your six-year-old sister. Did you or did you not?" And he was like, "Yeah, but it was 20 years ago." And it was like he his whole thing was his whole defense was that it was a long time ago and people change and his parents neglected him and all this and I was like, you
+
+**[45:34]** understand that that doesn't excuse your actions, right? &gt;&gt; Did he say how old he was when he did it? &gt;&gt; Yeah. Um, he just didn't get it. Um, it honestly switched around. He, that's another thing he did. He switched his story a lot, but depending on what point of the night we were talking to him in, it would be anywhere from 14 to 17. So, &gt;&gt; yeah, that's that's a that's actually you know what, he wasn't
+
+**[46:08]** very &gt;&gt; uh he wasn't lying on that. Um, some people did the math and um it started when he was 15. It did not end until it was 17. Um, once people puzzled it together. And &gt;&gt; that was the most horrible thing about it. It's like he claims he made this one mistake once as a teenager. No, this was a period of abuse that lasted three years. &gt;&gt; Two to three years. &gt;&gt; I had no idea
+
+**[46:36]** it was an ongoing thing. &gt;&gt; Yes. &gt;&gt; Or like a a thing that lasted. I I thought it was just a thing that happened once, like you said. &gt;&gt; We all thought, &gt;&gt; oh god, that's so much. Um, we pieced it together with him and we talked to him. Um, and now at this time, null was involved, dispatch was involved. Um, I I actually was not involved at this time because I was bored by the whole
+
+**[47:00]** thing. Um, I thought this was just like some passing. Oh, look at this crazy freaking guy. He lives in a camper van and he talks a lot of crazy [__] There's a billion of these people out there. I I didn't understand the significance of Kitty Style at the time. But, uh, yeah, it it was a prolonged period of abuse, &gt;&gt; which really makes it &gt;&gt; Yeah, &gt;&gt; it it makes me &gt;&gt; see, if you look at
+
+**[47:32]** my channel, the stuff I cover, it's silly stuff. It's stupid stuff. I didn't want to do Kitty it gets because um he punches people in the street. He raped his sister for years. He &gt;&gt; Yeah. I don't know that this guy will not one day get a kitchen knife and just go into a public park and start stabbing children. I have absolutely no reason to believe that that will never happen with Kitty. He is very ill.
+
+**[48:14]** He is &gt;&gt; the crimes he has committed in his past are violent crimes. He has threatened violence. He has attacked people in bars. he has. We don't know how low he's gonna go. Which is, by the way, why I'm going to take extra special care to make sure that a nobody's going to know who you two guys are. I'm gonna [__] go through all the chat logs, block out your names, everything. Um, I'm not going to
+
+**[48:49]** alter your voices. I'm not going to go that far, but all girls on the internet sound the same. Sorry. Um &gt;&gt; Oh, yeah. I don't care. &gt;&gt; No, you should. And I'm gonna tell you why you should care. Because [__] you guys are young. Sometimes a girl on Discord gets beheaded. It's happened before. &gt;&gt; Oh my goodness. That's such a topical argument because Dakota was friends with her. &gt;&gt; Really? Holy [__] That that's a story for
+
+**[49:31]** another time. &gt;&gt; That's a that's a whole other can of worms. But &gt;&gt; yeah, &gt;&gt; maybe you'll do a follow. Maybe this is a new thing. Maybe it's gonna be me talking to teenagers &gt;&gt; and talking about their [__] on Discord. &gt;&gt; Oh, that's very creepy. &gt;&gt; I'm a teacher. I'm allowed to talk to kids. Oh, that did not help. &gt;&gt; What? &gt;&gt; All right, whatever. &gt;&gt; What's your name? &gt;&gt; I'm pony girl. I used to
+
+**[50:10]** be Turk February, but yeah, it's been out there. &gt;&gt; Yeah, my job is I'm a teacher. &gt;&gt; Pardon me? &gt;&gt; Oh, that's so fun. Yeah, I get to live the double life where I'm [__] &gt;&gt; I don't have a job. &gt;&gt; Yeah, don't expect to get one soon. Your generation's been kind of [__] out of that privilege. My generation got [__] out of it, too, but you guys got it worse. &gt;&gt; How old are you? &gt;&gt;
+
+**[50:38]** 30. &gt;&gt; You talk like you're 40. Oh [__] you're older than I expected. &gt;&gt; Yeah, I'm Yeah, we I'm a millennial. &gt;&gt; Okay, grandpa. &gt;&gt; Oh, [__] off. And by the way, you're supposed to say Oh, yeah. You won't say okay, boomer. Because that's not cool enough anymore. &gt;&gt; Oh, you people and your [__] internets and your [__] &gt;&gt; No. Well, listen. Once PewDiePie covers a meme, it's dead. It's long dead. All right. Yeah, but that
+
+**[51:15]** once a meme is dead, you can use it to insult people even more. You can insult somebody. Okay, you can now say okay boomer to somebody saying okay boomer unironically. That's the problem with you Jenzers. You guys never understood irony. I I'm from the generation of like I funny cucks. I I understand irony quite a bit more than I'd like to. &gt;&gt; All right, we're getting off topic here. Um uh any last message to um for
+
+**[51:58]** the people out there um the vulnerable people who um you know they might feel that somebody aggressively coming at them over Discord might be something good in their life. I I don't even know how to phrase this anymore. Uh, just any message out there, &gt;&gt; just don't [__] talk to strangers, man. It's such a bad idea. I That's just like I feel like the best advice you can give for Discord is just like don't don't give
+
+**[52:38]** anybody anything. Like, go by a fake name, go by a fake age, a fake state. Like, I don't give a [__] All right? Just do not don't [__] give anything that could be identifying to people on Discord because your parents taught it to you and you rolled your eyes, but godamn it's true. You don't know who you're talking to. So just just keep yourself safe for the love of God. &gt;&gt; That's awesome. Thank you so much.
+
+**[53:14]** Thank you. &gt;&gt; Bye.
+{% endraw %}
+  </div>
+</details>

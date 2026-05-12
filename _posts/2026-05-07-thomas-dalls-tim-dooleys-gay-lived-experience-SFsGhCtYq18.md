@@ -1,0 +1,81 @@
+---
+layout: post
+title: "Thomas Dall's (Tim Dooley's) Gay Lived Experience"
+date: 2026-05-07
+youtube_id: "SFsGhCtYq18"
+channel: "Thomas Dall Archive"
+category: "Thomas Dall Archive"
+---
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
+  <iframe src="https://www.youtube.com/embed/SFsGhCtYq18" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+### Video Information
+**Source Link:** [Watch on YouTube](https://www.youtube.com/watch?v=SFsGhCtYq18)
+**Channel:** Thomas Dall Archive
+
+### Description
+{% raw %}
+Thomas Dall tells the world about his gay lived experience. Considering Thomas' favorite slur he casts upon everyone else, it's clear that it's projection of a closeted queen.
+
+It starts out with the admission, and quickly upon realizing what he's done, he claims to have been drugged, graped, and had his revenge with his best friend's mother with a daring escape off the balcony.
+{% endraw %}
+
+---
+
+### English Transcript (Auto-Generated)
+<details style="cursor: pointer; background: #1a1a1a; padding: 15px; border-radius: 6px; border: 1px solid #333;">
+  <summary style="font-weight: bold; color: #ffc107;">View Searchable Transcript</summary>
+  <div style="margin-top: 15px; line-height: 1.6; color: #eee; font-family: monospace; white-space: pre-wrap;">
+{% raw %}
+**[00:00]** You probably have a child out there you don't know about. &gt;&gt; Okay. Can I ask this honestly? &gt;&gt; Yeah, I I I think I have a child, &gt;&gt; but she denies it. &gt;&gt; She denies it. She says it's somebody else, but I her child has &gt;&gt; Does you seem to have lived quite the life in your younger years? Did you ever go with a dude? Um I think no no comments but uh I &gt;&gt; I was
+
+**[00:30]** I was doing &gt;&gt; I was experimenting with some things when I was 16. &gt;&gt; I I I'll admit to that I was experience experimenting with some things when I was 16 but &gt;&gt; it just did it didn't really &gt;&gt; I had to I had to figure out &gt;&gt; everything through I &gt;&gt; had to figure out everything through experience, you know, is it like this? Is like that. I didn't know who I was. &gt;&gt; But um by
+
+**[00:58]** doing so, I also found out, you know, what I didn't really Yeah. It just wasn't really didn't feel right, you know. So, &gt;&gt; can't know if you're gay unless you try it, right? &gt;&gt; Exactly. That's how I felt about it at the time. and you know somebody you know there was a guy that wanted to be with me and so I just let it happen and then I never you know it was certainly not something for
+
+**[01:26]** me &gt;&gt; their first bird forever. &gt;&gt; So there you go. I know I'm not gay and I have no uh I don't have any, you know, like I'm not insecure about it because I know I'm not like I know experiment experientially I'm not gay because I just it wasn't interesting &gt;&gt; at Kitty Style. Did you let the guy suck your balls? Uh &gt;&gt; I'm not going to comment on sort of what happened. &gt;&gt; George didn't make
+
+**[01:57]** you gay. Prison must suck. Yeah, if you're not gay. Yeah, it's pretty lonely. You'll probably have company if you're No. Um, &gt;&gt; don't worry about the trolls. Tongue sticking out. &gt;&gt; It just it just felt wrong. Like I don't know what to say. It just didn't feel right. It was It was nothing like like I No, just no. I don't think I I would ever go out with a with a guy again. &gt;&gt; But why did
+
+**[02:24]** you [__] a dude's [__] It felt wrong to be abused. Well, congrats. That's how you know you're not gay. &gt;&gt; Yeah. So there I can say with confidence I'm not gay because he simply was not. &gt;&gt; Tell this story, kitty. &gt;&gt; I could tell you a million times I'm not gay and I'll be right every time because I know &gt;&gt; he older or younger. &gt;&gt; He was the same age as me. Maybe I got raped by
+
+**[02:50]** my best friend. &gt;&gt; Is it as good as a chick if you dress him like one? I got drugged and raped by my best friend. &gt;&gt; Shoot his picture. &gt;&gt; I have no proof of that. &gt;&gt; Like a martyr. &gt;&gt; I have no proof of that. But he did he did try to drug me. That's kind of [__] up. &gt;&gt; Implying sucking dick is fun. Oh well, wait. That twists the story a bit. D. &gt;&gt; Yeah,
+
+**[03:15]** I don't think I've told you this. I had these uh I had these suspicions. &gt;&gt; So this bag tried to drug you? &gt;&gt; Yeah. Did the balls touch? It's not gay if the balls don't touch. &gt;&gt; Yeah, somebody tried to drug me. I passed out in &gt;&gt; style. Did you ever get tested for HIV after the anal sex? &gt;&gt; H &gt;&gt; Oh [__] that's kind of [__] by him. Shh. &gt;&gt; Well, let's just put it like
+
+**[03:41]** this. He always wanted me to &gt;&gt; like a gay dude. &gt;&gt; He He seemed pretty gay, but he had a girlfriend. &gt;&gt; Trans aren't gay. &gt;&gt; He seemed pretty gay, but he had a girlfriend. And he there's clearly something that he he was holding back, you know. He never wanted to talk about girls. &gt;&gt; You're stuttering. &gt;&gt; He he thought that is it bad now. &gt;&gt; Well, so he thought it was gay to be with girls.
+
+**[04:05]** I mean, just he never really wanted to talk about it. So, it's just a little bit &gt;&gt; No, you're good. &gt;&gt; It's just weird, you know. &gt;&gt; Style look into the bug chasing and giftgiving scene. &gt;&gt; I know. I know. &gt;&gt; May need to be tested for HIV. &gt;&gt; Why? What's the signs and symptoms of it? I don't think I have it. Wouldn't I show signs and symptoms of that? When would you show that? &gt;&gt; So,
+
+**[04:29]** he raped you. &gt;&gt; Well, I don't know what happened, but um I can tell you this story if you want. &gt;&gt; I can tell you the story. So, it was like this. We were smoking some sore in the morning after. &gt;&gt; We we were smoking something um I don't know what it was. It was like weird. And then I was like getting like really high. I was like, "Holy [__] what the [__] is this?" You know,
+
+**[04:53]** and so I'm like I'm I'm getting up and then I get to the kitchen. I pass out and I wake up on my stomach in the kitchen &gt;&gt; and I don't understand how I got there. &gt;&gt; Man, you gay. &gt;&gt; Did you find sticky white liquid in your anal cavity? &gt;&gt; Lol. Let's just say let's just say that I uh I went out with his mother and I told her. &gt;&gt; Wow. Did you tell anyone? &gt;&gt;
+
+**[05:22]** I told her. &gt;&gt; Or have you been holding &gt;&gt; I told her but she couldn't she couldn't believe her shoulders. &gt;&gt; She couldn't believe it. &gt;&gt; You [__] the dude's mother at kitty style. You will feel better about this after a good O fashioned [__] drag. &gt;&gt; No. How we deal with he did this [__] first. &gt;&gt; So you [__] his mil mom but then he [__] you. No, no, he he [__] her first. &gt;&gt; You
+
+**[05:44]** [__] her mother as revenge for him raping you. He [__] his momo. You are a degenerate. Veilen so hot. &gt;&gt; He was abusing her. He her son was abusing her for money and [__] like that and extorting her. And so I made her stop doing that to him and I made her see what &gt;&gt; his mother too. &gt;&gt; No, no, no. But I made her see what he was doing to her and how he he was
+
+**[06:12]** abusing her. &gt;&gt; Was a cacap. Come on. &gt;&gt; And so I I like he he tried to kill me. He tried to come to my apartment and kill me. And I had to jump the window from the second floor. I did a heroic jump. It was even caught on camera. You can see it just I'm just coming down on a table. I'm just walking away from the table like just from second floor. I'm like jumping down
+
+**[06:32]** and then you can see me just walking away from it. I just drove up from second floor cuz he was he was in my he was he was in my apartment with a with a pole with a iron pole. He was he was breaking into my he was coming in my [__] front door with an iron rod. &gt;&gt; How funny. &gt;&gt; And he kicked in my [__] door in my living room. He He smashed down everything
+
+**[06:56]** in my apartment. He broke into my home like that. &gt;&gt; I had to jump the [__] window otherwise he was going to [__] kill me with a iron rod, bro. with an iron rod. &gt;&gt; Because of &gt;&gt; come in my front door with an iron rod. &gt;&gt; His lover was jealous. &gt;&gt; Why was &gt;&gt; surprised? Because you [__] his mother. &gt;&gt; Well, maybe he shouldn't have raped me. &gt;&gt; And kick bubblegum. And I'm all out of
+
+**[07:24]** bubble gum. &gt;&gt; Maybe maybe he shouldn't. Maybe he shouldn't have abused his own mother. Maybe he shouldn't, you know, maybe he shouldn't have done those things. So &gt;&gt; you gay man. His boner was so hard. Kitty is a madlet. &gt;&gt; How does it feel when you're gay for your best friend and then your best friend dates your mom? &gt;&gt; Kitty is a based homosexual. Godamn kitty lmfao at kitty style. I can PayPal you money for an
+
+**[07:54]** HIV test since it sounds like you may have had an exposure. &gt;&gt; Abusing mother equals taking advantage of mother's money. You raped, he will [__] He &gt;&gt; He stole uh he stole her her laptop and computers and things like that. She stole he even stole me. &gt;&gt; He stole a lot of things from her home and he just sort of like he he was just locking himself into the house and doing things like he was just
+
+**[08:18]** he was really not just abuser like he was really bad to his mother. She was crying half of the time because &gt;&gt; he was just abusing his own mother and he was he was on heroine. You understand that? Like he was he he read satanic books and [__] like that. Like he is &gt;&gt; there's something wrong with this dude. &gt;&gt; And I I keep on &gt;&gt; I help him by teaching his mom what uh what what
+
+**[08:47]** what &gt;&gt; he was really about. What was going on? &gt;&gt; Your wasn't a satan &gt;&gt; at kitty style. Sounds like this guy probably sold access to his anus and was sharing drug needles with other homos. I would get checked out. &gt;&gt; Yeah, if it happened, I don't know. &gt;&gt; So, it was that uni kebab friend. How old was she? And you? &gt;&gt; That's irrelevant. &gt;&gt; A [__] Well, the way you tell this story, I'm surprised you
+
+**[09:13]** weren't the top. You got raped by a Harian junky satanist. &gt;&gt; Maybe. I don't I just don't know because I don't have any recollection of it. &gt;&gt; Or a natural skimmed Vlad. &gt;&gt; Yeah, I'm I'm I'm skinny by natural nature. I'm naturally skinny. Yeah. So, &gt;&gt; he don't know what went down. Just that his ass was on fire the other day. Well, to bring it back to a positive light, that sounds like the last time someone
+
+**[09:42]** [__] with you at a land party. Maybe. &gt;&gt; Don't mess with me. And I don't I don't take it very well. Nah, let's just say &gt;&gt; mess with the kitty. &gt;&gt; Yeah, &gt;&gt; he will abuse you. Mess with the bull. You get the HIV. Did he finish inside you? &gt;&gt; Are you going to [__] Omar's mom? &gt;&gt; First, I have to figure out where he lives. Oh, [__] &gt;&gt; Anybody? Man on a mission. &gt;&gt; He lives
+
+**[10:30]** in Finland. &gt;&gt; I just just joking. No. Yeah. All right. &gt;&gt; Tell her to send Bobs over Facebook. &gt;&gt; He's going to be so pissed. No, I'm I'm not going to do it. I'm not going to do it. I'm I'm like I'm done messing with people like that. You know what I mean? Like no dirty tricks no more. No. You have the best [__] stories. Holy [__] man.
+{% endraw %}
+  </div>
+</details>

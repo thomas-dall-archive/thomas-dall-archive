@@ -1,0 +1,103 @@
+---
+layout: post
+title: "Kittystyle / Potato / Tim Dooley - Reads Psychiatric Report and Tells Story of BRUTALISING a Woman."
+date: 2024-10-16
+youtube_id: "SYt3U1r21l0"
+channel: "Mondo Cane"
+category: "Mondo Cane"
+---
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
+  <iframe src="https://www.youtube.com/embed/SYt3U1r21l0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+### Video Information
+**Source Link:** [Watch on YouTube](https://www.youtube.com/watch?v=SYt3U1r21l0)
+**Channel:** Mondo Cane
+
+### Description
+{% raw %}
+@PotatoOfLife reads a psychiatric assessment report and tells a story of ALLEGEDLY abusing a woman. 
+
+From a now deleted YT video on 15th Oct 2024.
+
+I have removed some dead air and him singing to some of his self praise AI songs, for your sanity.
+
+Feel free to use any of this content for yourself.
+{% endraw %}
+
+---
+
+### English Transcript (Auto-Generated)
+<details style="cursor: pointer; background: #1a1a1a; padding: 15px; border-radius: 6px; border: 1px solid #333;">
+  <summary style="font-weight: bold; color: #ffc107;">View Searchable Transcript</summary>
+  <div style="margin-top: 15px; line-height: 1.6; color: #eee; font-family: monospace; white-space: pre-wrap;">
+{% raw %}
+**[00:03]** so we can see here there was some there's some notes from psychiatric evaluation back in 2011 2011 that's when I had the dream remember but obviously it says that these dreams are Psy psychotic it doesn't say anything about the dreams though because um it they only talk about medication and about physical it doesn't actually say anything it just says you know they they talk a lot about drugs drugs and drugs and drugs like it says things
+
+**[00:45]** like here um when is this from this is like years later there's no he's very awake he's looking for dangers and negativity in his surroundings we see a patient with uh very oppositional Tendencies these can build a in an underlying anger in the patient um towards the world this 2013 this large this large anger and resistance against authorities can can lead to diff difficulties um fitting into the world regarding stress the patient the potato does not
+
+**[01:46]** have a uh strategy or this is 10 years ago the the non potato the non potato does not have a strategy to to deal with stress there's tendencies that the patient loses um focus and concentration and uh and and can't deal with the [__] especially if it's complexed and weakly defined it's the failing in in in in adhering to stressful situations can manifest in uh impulsivity and uncontrollable emotional um outbursts the patient self reflection is marked
+
+**[02:46]** by a tendency in a grandiose and externalization of responsibility and guilt this pattern uh seems to be a way to to cover for a low self-esteem and a negative self uh image in comparison with other people this inner conflict can lead to mood mood problems and unintended Behavior the patient has a hard time opening up to other people and identify and does not not identify with people he doesn't uh have around himself he does he only
+
+**[03:38]** identifies with people he has around himself regarding thought there's no sign of thought um disturbances his judgment and reality is intact we see thus no sign of psychosis there is a tendency that the patient from his own awake nature can misinterpret other people's intentions and actions in a negative way which can lead to conflicts and social withdrawal we see a tendency with the patient with the potato to not always uh process The Impressions from the surrounding
+
+**[04:28]** world World very much his ability for focus and overview is a is smaller than in other people in relation to the patient's ADHD diagnosis this makes sense it can also uh it also looks like the patient will avoid complicated or challenging situations like uh putting his goals within what is safe and and comfortable rather than believe that he has abilities to to make it in this world sd2 is a semi structured clinical interview which primarily is
+
+**[05:17]** primarily is um suited to uh re evaluation of Personality disturbances as well as uh uh as well as uh things within the personality at the moment um the potato has a hard time this was in 2013 By the way at the at the moment at this moment the potato has a hard time uh has a hard time describing him itself himself he does tell that he see himself as positive and friendly ly he does not like
+
+**[06:00]** to keep anybody outside of his Circle regarding a large sense he he has a large sense of justice and a need to protect towards other people re no matter if he agrees or with them or no he will protect people and their Injustice it doesn't regard it's not doesn't come down to his feelings uh regarding other people's view on the potato whether you like him or either you like him or you don't like him at all
+
+**[06:44]** somebody will think he's annoying and too too too upbeat you know too straight too um too full of himself he is he doesn't he he doesn't care about other people's opinion in regards to this and and other people think it's it's cool because he is his own person but blah blah blah especially parents uh they see him as lazy by important people in the patients life history uh he cannot remember any important people at this moment
+
+**[07:30]** in 2013 he he tells that he has a handful of friends which are important to him but none currently he could he he used to be uh trusting of his friends but at the moment he he says they you know that both him and Friends withdrawn from from friendships he is he says that uh his the way that he is has led to many conflicts in relationships and in the school and in other places he has
+
+**[08:10]** a large resistance against authorities which made him very provocative for instance in school if the teacher wanted to take charge over him and he had and he had resp and he did not respect the teachers it would always end in conflict in some years he was he would be making trouble where he would whizzle in in the class and throw tables around flip tables in class later he would withdraw himself in class and just take naps
+
+**[08:47]** at the moment the potato uses his everyday in front of his the the computer his daily rhythm is irregular when he sleeps he's tired or when he's tired he sleeps no matter if it's day or night he will sleep he eats only one meal per day he spends most of the time Home Alone he sees no friends if you ask him if he misses a social life uh he he he does say that he he could
+
+**[09:24]** miss us he could have more of a social life he does miss it a little bit he communicates he does communicate daily with friends via the computer though we asked the potato if he could um we asked whether potato could change his personality and he says he would not change a thing he thinks it's okay to not be like everybody else he does wish though that he could get more people in his life again because he
+
+**[10:01]** can be lonely as it is now personality psychology the potato has has moves has um has um has Essences of passive aggressive schizotypal narcissistic paranoid borderline and antisocial disturbances especially the three last minut mentioned are right underneath the threshold to be a an actual diagnosis the patient answers affirmative within um things which uh leads to Mis you know this dis Mis Faith or dis disbelief in other people he has a large um like like o you
+
+**[10:56]** know oh I you know you can offend him easily uh he has a t a tendency to carry a burden you know and not forgive and he can sense hidden threats and insults from other people the potato uh admits also a desperation in in relation to be abandoned large mood swing and impulsivity threats about suicide and high high intensity in the in the behavior like wait what threats about suicide and high intensity in emotional relations from
+
+**[11:47]** antisocial moves he admits that he has oppositional uh Behavior such as theft fighting use of drugs and drunk driving besides the background uh information clinical impression and test results we see no sign of psychosis uh neither in terms of judgment or reality the potato has a tendency to raise itself the the potato has a tendency to raise itself with this we interpret in a way that uh compensate for basic low self-esteem I just needed to get
+
+**[12:39]** rid of my ego I had I need no self-esteem and so I can raise myself the patient is especially um the potato is especially looking out for threats for betrayal or Injustice the potato looks for for Trails of betrayal and Injustice which means that he holds other people emotionally at a distance this um this impression of the world can lead to conflicts with authority like it can result in a social isolation uh from the above from
+
+**[13:21]** this exertion ERS the has ADHD and unspecified personality disturbances with moves as the ones described above so passive aggressive skiple narcissistic paranoid borderline antisocial disturbances including ADHD okay there you go so there you go I'm absolutely I'm absolutely insane guys and I'll eat all of your you know so if you ask a doctor they will tell you I'm very potato I'm very potato they'll tell you I'm very potato all the doctors they agree they agree on
+
+**[14:08]** potato and that's what it is it is what it is somebody has to be potato you know what I'm saying you know what I'm saying somebody has to be potato so what do you think about that see that's I went to a doctor and we they went to a doctor we had a we had a tech expert look over the potato and he said he said the potato is a passive aggressive skot typical narcissistic paranoid borderline
+
+**[14:43]** antisocial ADHD person but also moreover he's a potato and they don't know what to do about it the doctors they know it they said he can't fit in he can't fit into society he doesn't believe in it they can't they can't he doesn't they don't know like he has all of everything potatoes everything he transcends all everything it transcends all the everything so if you thought I was sick or something hell yeah hell yeah it's already
+
+**[15:17]** known like what the hell here's some other papers it says here the person has been mentally evalu by declaring 2nd of June July 2013 it's the it's in all the testimonies in all the testimonies we have listened to the person the potato was punching was punching the woman in the head in this court case it says that the potato was punching a woman in the head after after a after his friend his faithful friend and all
+
+**[16:01]** these people have witnessed it he he punch her in the face three to five times it's the in the in the diverging explanation how how many [Music] times and he he was kicking okay okay interesting okay and then he was released he was released he was released just like that they let him go the potato oh is that crazy the potato is [Music] crazy in all kinds of ways but the potato never did nothing wrong it's
+
+**[16:53]** [Music] crazy I had a dream I got chased by a T-Rex it's just a dream butt it's just a dream butt so [Music] yeah well so the court case that that really happened you know that that case with the lady with my you know all of that that was real that happened that really happened and uh the court they is there more about it I think it says that they just they let him go you know
+
+**[17:27]** they let him go that's the thing page four is there more these things are messed up you know you see I found a potato simple and small but when I sliced it it wasn't small little these are like personal documents and things guys it's okay there's only one page of this unfortunately all of the rest is missing but it says here that he brutalized her the potato brutalized her on the left side of the on the
+
+**[18:03]** on her arm on her arm she had four bruises that was Blue by one by 1 cm so blue marks that was like this four of them four of them so she had four four blue marks on her left arm you see from where the potato grabbed her arm about 2 cm between each blue Mark okay okay and the face she had a she had a raising of the left cheekbone bone the she her left cheekbone
+
+**[18:45]** her left cheekbone was raised and miscolored M her cranial you could see a mark of 3x 4 cm at the back of her skull that's where she bumped her head in the floor I guess by examination we found soreness on the left side so I guess it resolved the question about did Tim duli kick her hard or did Tim duli kick her soft it says here stomach upon examination of the stomach we have found lightly like
+
+**[19:26]** uh like like you have you have light ouch light ouch the flank on the left side she had a light like ooh ooh and the and the chest in the breast no blue marks on the thorax but she had muscular pains arrest my case so when I said that I was just marking her ribs I meant that because in the court case it says that nothing no damage no ribs broken no nothing she just had a
+
+**[20:07]** soreness at in her stomach around her ribs right because I was I was winding her right and I was kicking her right where the where the where you have the wind where you put the wind like so every time I kicked her like right but um yeah the most damage that she got by the way from that court case the most damage that she got you could see was the the back of her head the bump
+
+**[20:36]** 3x4 the back of her head her own body weight when she hit the floor bro that was the one thing that gave her the most damage like I could have squeezed her harder I could have kicked her harder I could have done that could have got done a lot of things but you can see the damage from me I just made her surrender I made her surrender and when she surrendered that's when she wanted to take
+
+**[21:00]** me to court there was Witnesses and you could see everything was done everything was documented and then I was allowed to go free because I was not guilty but it does say that I punched a woman in the face and then I kicked the woman when she was laying down and somehow I walked away from that completely unguilty because I was I was she was a crazy woman I told the story right she was crazy everybody
+
+**[21:31]** loved him the crackme was cool what crack may you kicked the woman yeah I was in a courtroom for it and then I went free I went free I I walked free because she was crazy she was crazy she tried to sue me she tried to sue me and after she sued me she lost the case and she had went to the hospital and everything right and call the police and start a case and get a
+
+**[22:01]** lawyer just to lose the case I didn't prepare much for the case at all I just said yeah yeah I yeah yeah smacked her yeah put her on the floor yeah yeah I kicked her in the rips yeah yep yep that's exactly what I did yep yeah smacked down the face kicked on the rips then I told her to [__] off and then then they said oh okay and then I was free so there you go
+
+**[22:28]** don't mess with me because I'll win in court I'll smack you I'll smack you down and then I'll win in court
+{% endraw %}
+  </div>
+</details>

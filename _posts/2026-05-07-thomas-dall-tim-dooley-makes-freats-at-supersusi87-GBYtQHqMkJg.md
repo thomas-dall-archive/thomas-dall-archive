@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Thomas Dall (Tim Dooley) Makes Freats at SuperSusi87"
+date: 2026-05-07
+youtube_id: "GBYtQHqMkJg"
+channel: "Thomas Dall Archive"
+category: "Thomas Dall Archive"
+---
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
+  <iframe src="https://www.youtube.com/embed/GBYtQHqMkJg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+### Video Information
+**Source Link:** [Watch on YouTube](https://www.youtube.com/watch?v=GBYtQHqMkJg)
+**Channel:** Thomas Dall Archive
+
+### Description
+{% raw %}
+Thomas sees SuperSusi87 in chat and goes mental, claims watching him is the same as deplatforming him. Freatens to go to her house.
+{% endraw %}
+
+---
+
+### English Transcript (Auto-Generated)
+<details style="cursor: pointer; background: #1a1a1a; padding: 15px; border-radius: 6px; border: 1px solid #333;">
+  <summary style="font-weight: bold; color: #ffc107;">View Searchable Transcript</summary>
+  <div style="margin-top: 15px; line-height: 1.6; color: #eee; font-family: monospace; white-space: pre-wrap;">
+{% raw %}
+**[00:00]** to people in my chat. How about you say sorry for once? How about you fix your [__] How about with the sensitivity? What? What? Test. Hello. What's the problem? Um, is it is it working? Okay. So anyways, you should apologize why you're here. Yeah, but s you should apologize. Susie should apologize cuz I want to ban you. What you've done is that you sit here and you leech on me and you give no thanks to the
+
+**[02:37]** things that you're given and you've been mean to me. You're a [__] sick stalker and you're sadistic and I want I want to ban you. I want to leave you out of my life. Why are you talking with my people here? You don't say sorry. You're not doing anything for me. What are you doing in my life? Get the [__] out of here. What are you doing? Say sorry, you piece of [__] I hate you. Okay,
+
+**[03:09]** I'm just going to ban you from my channel. I'm glad that you get benefits from my channel, but you're a sick stalker and you owe me an apology, if not a billion apologies. stalking me and talking [__] behind my back. dishonest. Why? Why are you here? You you don't get to be a part of my life in that way. Don't [__] leech your way into my life and sit here in my chat and think everything is
+
+**[04:49]** okay. You have something to apologize for, don't you? What have you been doing the past 40 days, huh, Susy? What have you been doing? Because it's not something honest. You've been mistreating me. You've been exploiting me. You've been treating me in a wrong way. And last time we spoke, you were there exploiting me and treating me in the wrong way. So, what are you doing here? Why are you talking to people in my chat? How about
+
+**[05:35]** you say sorry for once? How about you fix your [__] How about you repent for your [__] How about you guys fix the [__] that you ruined my life for in the past? You don't think it it hurt me the things that that you said when you were sitting with TXT and Metalorian when you were talking [__] about my father and my family and my life after you deplatform me and ruined my life. You don't think
+
+**[06:19]** that I feel hurt about that? You think you you just walk all over my life? You piece of [__] You're really piece of [__] You should be ashamed of yourself. You piece of [__] I hate you. I hate you. Get out of my life. You [__] Skank [__] Piece of [__] That's what you are. And you know it. Oh, you tried to be nice. No, you haven't. You talk behind my back. You're dishonest. You're lying. Piece
+
+**[07:01]** of [__] It's not a text for no no reason. You were there when you deplatform me with those other people. You were there. You were right there when you deplatform me with those other people. You sit and scheme with THOSE PEOPLE. YOU DIRTY [__] YOU PIECE OF [__] You should be ashamed of yourself. You're lying to me now. You were. You were. Okay. You were not there. Okay. You know you're lying to me. Lying sack of
+
+**[07:41]** [__] What's wrong with that? &gt;&gt; What's wrong? &gt;&gt; Yep. &gt;&gt; No, you wouldn't. &gt;&gt; Okay. Just a moment. &gt;&gt; Can never be a better place because so busy making it. &gt;&gt; You don't make it a better place. &gt;&gt; Posted 6 days ago. Are you going to lie about it now? Are you going to lie about it now that I caught you online saying the [__] that you did when you guys were deplatforming me and talking behind
+
+**[08:46]** my back and scheming against me and plotting to ruin my life? You [__] [__] You scaggy piece of [__] Go. You are a shameless piece of [__] You're lying to me right now. You're lying in front of everybody to MY FACE. YOU [__] PIECE OF [__] I had enough of you. I had enough of you and the people you you you belong somewhere filthy. &gt;&gt; You make it a worse place. You know &gt;&gt; what &gt;&gt; are
+
+**[09:26]** you going to lie about? You stalked me. You stalk me. YOU OBSESSIVELY stalk me. You [__] You going to say that's not you? Are you going to say that's not you in this clip? attention. &gt;&gt; So because &gt;&gt; do not kick us to &gt;&gt; your live. &gt;&gt; I didn't invite you here, did I? &gt;&gt; Yeah, but but you do not kick us to an invite. &gt;&gt; Lying sack of [__] Lacking lying sack of [__] Lying sack
+
+**[10:12]** of [__] You don't belong in my life. Get out of my life. Like, why do you keep stalking me? You sick piece of [__] How many times have I told you to get out of my life, Susie? You can't even apologize. You're even lying straight to my face. You sack of [__] You piece of [__] Get the [__] out of my life. Why do you continue to do the same thing? Why do you follow me around
+
+**[10:56]** if you can't do it in the right way? Why do you disrespect me in that way? Do you want me to come to your address and find you and take care of you personally? Because I will. I will find you and I will come to your address. I will tell you what's wrong with you. Do you want me to do that? Because I'm getting really [__] sick of you, Susy. It's been 6 years and you're stalking
+
+**[11:22]** me every [__] day. Do you want ME TO RETURN THE FAVOR? NO. You have nothing to say sorry for, right? You have nothing to apologize for. Not even if we're lying in this conversation and being dishonest. Piece of [__] A stalking sack of [__] A subhuman piece of [__] GET THE [__] OUT OF MY LIFE. LEAVE. That's it. Get the [__] out, you sack of [__] And I'm going to report you like whatever. Dude, you are
+
+**[12:25]** Get out. Get out. Get out. Leave me alone. Get the [__] out. Okay. Yeah. Thank you. You guys like you just don't get it. Yeah, thank you for standing with me because it's really sickening because you ruin every year of my life and it's never ending and so you got to get the [__] out of my life because it's you you leave me alone. Just leave me alone. If you can't be right to me, just leave
+
+**[13:04]** me alone. You really shouldn't [__] engage with me if you're going to ruin my life. You really belong in jail. AND THAT'S IT. LEAVE ME ALONE. SO, I'm in distress and I want you to leave me alone. I want I want you to like just leave me alone. Like these people, do they not get it? I have said it like a billion times and it makes me crazy and I don't think it's healthy for my mental
+
+**[13:44]** health and I don't think that it's good for your life either doing crimes against me. So stop stalking me you [__] sick pieces of [__] Get the [__] out of my life. Leave me alone and do something else with your life for once in the past six years. GET THE [__] OUT of my life if you cannot if you can't have my respect. If you can't treat me properly, get the [__] out. Leave
+{% endraw %}
+  </div>
+</details>
