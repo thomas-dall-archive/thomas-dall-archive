@@ -2,13 +2,10 @@
 layout: default
 ---
 <article class="forensic-log">
-{% comment %}
   <header>
-    <h1 style="color: #ffc107; text-transform: uppercase; font-weight: 800; margin-bottom: 5px;">
+    <h1 class="log-title" style="color: #ffc107 !important; text-transform: uppercase; font-weight: 800; margin-bottom: 5px; display: block !important;">
       {{ page.title }}
     </h1>
-  </header>
-{% endcomment %}
     
     <p style="color: #ffc107; font-family: monospace; border-bottom: 1px solid #444; padding-bottom: 10px; font-size: 0.9em;">
       FILE DATE: {{ page.date | date: "%B %d, %Y" }} | STATUS: LOGGED
@@ -24,15 +21,14 @@ layout: default
 </article>
 
 <style>
-  /* This ensures all sub-headings in the transcript/description also turn yellow */
-  .evidence-body h1, .evidence-body h2, .evidence-body h3 {
-    color: #ffc107 !important;
-    border-left: 3px solid #ffc107;
-    padding-left: 10px;
-    margin-top: 30px;
+  /* This hides the theme's default title so we don't get the double-header or the stray '#' */
+  header h1:first-child {
+    display: none;
   }
   
-  .evidence-body a {
-    color: #ffc107;
+  /* Ensure our custom log title actually shows up */
+  .log-title {
+    display: block !important;
+    visibility: visible !important;
   }
 </style>
