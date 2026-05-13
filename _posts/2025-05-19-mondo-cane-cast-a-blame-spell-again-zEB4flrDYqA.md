@@ -3,8 +3,8 @@ layout: post
 title: "Mondo Cane Cast a Blame Spell (Again)"
 date: 2025-05-19
 youtube_id: "zEB4flrDYqA"
-channel: "Tim "Scooter" Fooley (Kittystyles)"
-category: "Tim "Scooter" Fooley (Kittystyles)"
+channel: 'Tim "Scooter" Fooley (Kittystyles)'
+category: 'Tim "Scooter" Fooley (Kittystyles)'
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

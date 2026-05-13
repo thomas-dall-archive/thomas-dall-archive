@@ -3,8 +3,8 @@ layout: post
 title: "Devs Deadly Gayop on Potato (September 5. 2024)"
 date: 2025-03-30
 youtube_id: "a3gmBvyNuDs"
-channel: "Tim "Scooter" Fooley (Kittystyles)"
-category: "Tim "Scooter" Fooley (Kittystyles)"
+channel: 'Tim "Scooter" Fooley (Kittystyles)'
+category: 'Tim "Scooter" Fooley (Kittystyles)'
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

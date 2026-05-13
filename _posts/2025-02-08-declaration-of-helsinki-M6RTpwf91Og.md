@@ -3,8 +3,8 @@ layout: post
 title: "Declaration of Helsinki"
 date: 2025-02-08
 youtube_id: "M6RTpwf91Og"
-channel: "Tim "Scooter" Fooley (Kittystyles)"
-category: "Tim "Scooter" Fooley (Kittystyles)"
+channel: 'Tim "Scooter" Fooley (Kittystyles)'
+category: 'Tim "Scooter" Fooley (Kittystyles)'
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

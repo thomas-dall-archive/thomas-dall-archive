@@ -3,8 +3,8 @@ layout: post
 title: "Tim Dooley GIMME LIKES"
 date: 2024-11-28
 youtube_id: "TQfy5K71Kd0"
-channel: "Tim "Scooter" Fooley (Kittystyles)"
-category: "Tim "Scooter" Fooley (Kittystyles)"
+channel: 'Tim "Scooter" Fooley (Kittystyles)'
+category: 'Tim "Scooter" Fooley (Kittystyles)'
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
