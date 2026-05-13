@@ -1,64 +1,59 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <title>{{ page.title }} | {{ site.title }}</title>
-  </head>
+---
+layout: default
+---
 
-  <body>
-    <header>
-      <div class="inner">
-        <a href="{{ '/' | relative_url }}">
-          <h1>{{ site.title }}</h1>
-        </a>
-        <h2>{{ site.description }}</h2>
-        {% if site.github.is_project_page %}
-          <a href="{{ site.github.repository_url }}" class="button"><small>View On</small> GitHub</a>
-        {% endif %}
-      </div>
-    </header>
+<div class="forensic-log-wrapper">
+  <h1 class="intercept-title">{{ page.title }}</h1>
+  
+  <p class="intercept-meta">
+    FILE DATE: {{ page.date | date: "%B %d, %Y" }} | STATUS: LOGGED
+  </p>
 
-    <div id="content-wrapper">
-      <div class="inner clearfix">
-        <section id="main-content">
-          
-          <article class="forensic-log">
-            <header style="margin-bottom: 30px;">
-              <h1 style="color: #ffc107 !important; text-transform: uppercase; font-weight: 800; font-size: 2em; margin: 0;">
-                {{ page.title }}
-              </h1>
-              <p style="color: #ffc107; font-family: monospace; border-bottom: 1px solid #444; padding-bottom: 10px; font-size: 0.9em;">
-                FILE DATE: {{ page.date | date: "%B %d, %Y" }} | STATUS: LOGGED
-              </p>
-            </header>
+  <div class="intercept-content">
+    {{ content }}
+  </div>
 
-            <div class="evidence-body" style="color: #eee; line-height: 1.6;">
-              {{ content }}
-            </div>
+  <hr style="margin-top: 40px; border-color: #444;">
+  <p><a href="{{ '/' | relative_url }}" style="color: #ffc107; text-decoration: none;">⬅️ Return to Main Archive Terminal</a></p>
+</div>
 
-            <hr style="margin-top: 40px; border-color: #444;">
-            <p><a href="{{ '/' | relative_url }}" style="color: #ffc107; text-decoration: none;">⬅️ Return to Main Archive Terminal</a></p>
-          </article>
+<style>
+  /* 1. THE KILL SWITCH: Hides the theme's broken header (#) */
+  #main-content h1:first-child, 
+  section h1:first-child,
+  header h1:first-child {
+    display: none !important;
+  }
 
-        </section>
-      </div>
-    </div>
+  /* 2. THE RESTORATION: Styles your actual title */
+  .intercept-title {
+    color: #ffc107 !important;
+    text-transform: uppercase !important;
+    font-weight: 800 !important;
+    font-size: 2.2em !important;
+    margin-bottom: 5px !important;
+    display: block !important;
+    border: none !important; /* Removes theme underline */
+  }
 
-    <style>
-      #main-content h1:first-child { display: none; } /* Hide theme auto-header */
-      .forensic-log h1 { display: block !important; } /* Force our header visible */
-      
-      .evidence-body h3 {
-        color: #ffc107 !important;
-        border-left: 3px solid #ffc107;
-        padding-left: 10px;
-        margin-top: 30px;
-        text-transform: uppercase;
-      }
-      .evidence-body a { color: #ffc107; }
-    </style>
-  </body>
-</html>
+  .intercept-meta {
+    color: #ffc107 !important;
+    font-family: monospace !important;
+    border-bottom: 1px solid #444 !important;
+    padding-bottom: 10px !important;
+    font-size: 0.9em !important;
+  }
+
+  /* 3. TRANSCRIPT STYLING */
+  .intercept-content h3 {
+    color: #ffc107 !important;
+    border-left: 3px solid #ffc107;
+    padding-left: 10px;
+    margin-top: 30px;
+    text-transform: uppercase;
+  }
+
+  .intercept-content a {
+    color: #ffc107;
+  }
+</style>
