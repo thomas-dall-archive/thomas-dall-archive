@@ -4,10 +4,6 @@
 @import "{{ site.theme }}";
 
 
-
-
-header,
-section#downloads,
-.inner header {
+#header > nav > ul > li {
   display: none !important;
 }
