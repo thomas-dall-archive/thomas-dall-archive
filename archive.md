@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Forensic Database by Source
+permalink: /archive/:path/
 ---
 
 # 📂 Forensic Database by Source
