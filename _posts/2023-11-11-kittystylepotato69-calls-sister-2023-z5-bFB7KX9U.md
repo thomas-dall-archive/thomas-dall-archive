@@ -22,6 +22,32 @@ Thomas proves he has learned nothing and has no regrets about what he did to his
 
 ---
 
+### Translation & Context (by @ZugzugZugzugson)
+> *The following translation and analysis were provided by @ZugzugZugzugson in the comment section of Jan Dall's video in 2025.*
+
+**Analysis:**
+Well just watched the clip, there isn't much to translate but i'll do it anyway. First off he gets sent directly to voicemail, 4 times... probably because she is at work and hung up on him due to being busy. so of course he calls again because he is respectful like that.
+
+In other words, it wasn't a very sincere request on Laura's part and she clearly wasn't properly informed of the situation or what she was even asked to do and why.
+
+**Translation of Danish/Denglish segments:**
+* **Kitty:** "Hey whats up, uh whats it called, can't you uhh.. i'm sitting here talking to a guy who has been stalking me the past 6 years, can you not tell him that it should end and that he should get a life. he has to stop, WILL YOU NOT TELL HIM THAT?!"
+* **Laura is about to respond before kitty adds:**
+* **Kitty:** "ill put you on the phone with him now, can't you say in english what you want them to do. should they stop me, or should they leave me alone or what should happen with my life now?"
+* **Laura:** "But uh, what is it that-"
+* **Kitty:** "TELL THEM! BECAUSE HE WANTS TO STALK ME BECAUSE OF YOU, CAN YOU NOT TELL HIM THAT HE SHOULDN'T DO IT?"
+* **Laura:** "Why is it because of me?" 
+* **Kitty:** "BECAUSE... ERR... WELL ASK HIM, TALK TO HIM, HERE YOU GO, SAY SOMETHING"
+* **Laura:** "But i'm at work???"
+* **Kitty:** "So then you can't tell to stop stalking me or what, is that a problem for you? or would you like me to be stalked for the rest of my life?"
+* **Laura:** "but i would say: please stop" 
+* **Kitty:** "Okay, then say it"
+* **Laura:** "Pls stop"
+
+*The rest of the conversation proceeds in denglish. At the end he says "thank you, i'll talk to you later" and she says "have a nice evening".*
+
+---
+
 ### English Transcript (Auto-Generated)
 <details style="cursor: pointer; background: #1a1a1a; padding: 15px; border-radius: 6px; border: 1px solid #333;">
   <summary style="font-weight: bold; color: #ffc107;">View Searchable Transcript</summary>
