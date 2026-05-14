@@ -2,16 +2,18 @@
 layout: default
 ---
 <article class="forensic-log">
-{% comment %}
+  {% comment %}
   <header>
-    <h1 class="log-title" style="color: #ffc107 !important; text-transform: uppercase; font-weight: 800; margin-bottom: 5px;">
+    <h1 class="log-title"
+      style="color: #ffc107 !important; text-transform: uppercase; font-weight: 800; margin-bottom: 5px;">
       {{ page.title }}
     </h1>
   </header>
-{% endcomment %}
-    <p style="color: #ffc107; font-family: monospace; border-bottom: 1px solid #444; padding-bottom: 10px; font-size: 0.9em;">
-      FILE DATE: {{ page.date | date: "%B %d, %Y" }} | STATUS: LOGGED
-    </p>
+  {% endcomment %}
+  <p
+    style="color: #ffc107; font-family: monospace; border-bottom: 1px solid #444; padding-bottom: 10px; font-size: 0.9em;">
+    FILE DATE: {{ page.date | date: "%B %d, %Y" }} | STATUS: LOGGED
+  </p>
   </header>
 
   <div class="evidence-body" style="color: #eee; line-height: 1.6;">
@@ -19,8 +21,17 @@ layout: default
   </div>
 
   <hr style="margin-top: 40px; border-color: #444;">
-  <p><a href="{{ '/archive.html' | relative_url }}" style="color: #ffc107; text-decoration: none;">⬅️ Return to Evidence Archive</a></p>
-  <p><a href="{{ '/' | relative_url }}" style="color: #ffc107; text-decoration: none;">⬅️ Return to Main AArchive Page
+
+  <nav class="log-navigation" style="font-family: monospace; line-height: 1.5;">
+    <a href="{{ '/archive.html' | relative_url }}"
+      style="color: #ffc107; text-decoration: none; display: block; margin-bottom: 4px;">
+      ⬅️ [RETURN_TO_EVIDENCE_ARCHIVE]
+    </a>
+    <a href="{{ '/' | relative_url }}" style="color: #ffc107; text-decoration: none; display: block;">
+      ⬅️ [RETURN_TO_MAIN_PAGE]
+    </a>
+  </nav>
+
 </article>
 
 <style>
@@ -28,7 +39,7 @@ layout: default
   header h1:first-child {
     display: none;
   }
-  
+
   /* Ensure our custom log title actually shows up */
   .log-title {
     display: block !important;
