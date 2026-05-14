@@ -3,7 +3,11 @@
 
 @import "{{ site.theme }}";
 
+.log-title {
+    display: block !important;
+    visibility: visible !important;
+  }
 
-#header > nav > ul > li {
+#header > nav {
   display: none !important;
 }
