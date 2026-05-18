@@ -27,6 +27,7 @@ The definitive archive documenting the transition of Thomas Dall into Tim Dooley
 
 * [👕 SHIRT WATCH](./shirt-watch.html)
 * [📼 EVIDENCE ARCHIVE](./archive)
+* [🐦 TWITTER VAULT](./twitter-archive)
 
 ---
 
