@@ -4,7 +4,7 @@ title: "Tim Dooley | Transmissions Archive (X.com)"
 permalink: /twitter-archive/
 ---
 
-# 🐦 Transmissions Archive (X.com)
+# 📡 Transmissions Archive (X.com)
 **Entity:** @Rational_Potato (Tim Dooley)  
 **Status:** Static Data Vault (Offline Mirror)
 
