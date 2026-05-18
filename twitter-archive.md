@@ -13,7 +13,7 @@ This database contains a searchable, offline mirror of the subject's microbloggi
 ---
 
 <style>
-    /* Scoped CSS just for the search bar and tweet cards */
+    /* Scoped CSS for search engine and tweet cards */
     #searchBar {
         width: 100%;
         padding: 12px;
@@ -33,18 +33,67 @@ This database contains a searchable, offline mirror of the subject's microbloggi
         border-left: 3px solid #555;
         padding: 15px;
         margin-bottom: 15px;
+        transition: background-color 0.2s, border-color 0.2s;
+        display: flex;
+        flex-direction: column;
     }
-    .tweet-date {
+    /* Highlights the card if a visitor uses a deep-link anchor URL */
+    .tweet-card:target {
+        border-left-color: #00ff00;
+        background-color: #161a16;
+    }
+    
+    .tweet-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
         font-size: 0.85em;
-        color: #888;
-        display: block;
-        margin-bottom: 8px;
+        margin-bottom: 10px;
+        border-bottom: 1px dashed #222;
+        padding-bottom: 6px;
     }
+    
+    .tweet-source-link {
+        color: #888;
+        text-decoration: none;
+        display: inline-block;
+    }
+    .tweet-source-link:hover {
+        color: #4a90e2;
+        text-decoration: underline;
+    }
+    
+    .anchor-link {
+        text-decoration: none;
+        opacity: 0.4;
+        transition: opacity 0.2s;
+    }
+    .anchor-link:hover {
+        opacity: 1;
+    }
+    
     .tweet-text {
         white-space: pre-wrap; /* Preserves exact paragraph spacing */
         font-size: 0.95em;
         line-height: 1.5;
+        margin-bottom: 12px;
     }
+    
+    .tweet-footer {
+        display: flex;
+        justify-content: flex-end;
+        font-size: 0.8em;
+    }
+    
+    .view-on-x {
+        color: #4a90e2;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    .view-on-x:hover {
+        text-decoration: underline;
+    }
+    
     #statsDisplay { color: #888; font-size: 0.9em; margin-bottom: 15px; }
 </style>
 
@@ -54,6 +103,7 @@ This database contains a searchable, offline mirror of the subject's microbloggi
 
 <script>
     let allTweets = [];
+    const TARGET_USER = 'Rational_Potato';
 
     // Fetch the JSON from the repository root using Jekyll's relative_url filter
     fetch('{{ "/tweet_vault.json" | relative_url }}')
@@ -74,19 +124,31 @@ This database contains a searchable, offline mirror of the subject's microbloggi
         
         stats.innerText = `Displaying ${tweetsToRender.length} recorded transmissions.`;
 
-        // Only render the first 100 on load to prevent the browser from lagging
-        // The rest will instantly appear when searched
+        // Render first 100 on load to keep the page snappy; the rest match instantly via search
         const displayLimit = Math.min(tweetsToRender.length, 100);
 
         for (let i = 0; i < displayLimit; i++) {
             const tweet = tweetsToRender[i];
             const niceDate = new Date(tweet.date).toLocaleString();
             
+            // Generate direct source link to X.com
+            const sourceUrl = `https://x.com/${TARGET_USER}/status/${tweet.id}`;
+            
             const card = document.createElement('div');
             card.className = 'tweet-card';
+            card.id = `tweet-${tweet.id}`; // Sets up internal deep link anchors
+            
             card.innerHTML = `
-                <span class="tweet-date">[ID: ${tweet.id}] - ${niceDate}</span>
+                <div class="tweet-header">
+                    <a href="${sourceUrl}" target="_blank" class="tweet-source-link" title="Open original post on X.com">
+                        🗁 [ID: ${tweet.id}] — ${niceDate}
+                    </a>
+                    <a href="#tweet-${tweet.id}" class="anchor-link" title="Copy local deep-link">🔗</a>
+                </div>
                 <div class="tweet-text">${escapeHTML(tweet.text)}</div>
+                <div class="tweet-footer">
+                    <a href="${sourceUrl}" target="_blank" class="view-on-x">[ VIEW ON X.COM ]</a>
+                </div>
             `;
             container.appendChild(card);
         }
@@ -95,7 +157,9 @@ This database contains a searchable, offline mirror of the subject's microbloggi
             const notice = document.createElement('div');
             notice.style.color = "#888";
             notice.style.fontSize = "0.85em";
-            notice.innerText = `...and ${tweetsToRender.length - 100} more hidden. Use the search bar to filter.`;
+            notice.style.padding = "10px 0";
+            notice.style.textAlign = "center";
+            notice.innerText = `...and ${tweetsToRender.length - 100} more transmissions indexed. Use the filter field above to pull older files from memory.`;
             container.appendChild(notice);
         }
     }
