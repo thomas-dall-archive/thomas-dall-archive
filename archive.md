@@ -12,9 +12,9 @@ permalink: /archive/:path/
 {% for group in grouped_posts %}
   ### 📁 {{ group.name }}
   <ul>
-    {% for post in group.items %}
+    {% for item in group.items %}
       <li>
-        <a href="{{ post.url | relative_url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.title }}</a>
+        <a href="{{ item.url | relative_url }}">{{ item.date | date: "%Y-%m-%d" }} - {{ item.title }}</a>
       </li>
     {% endfor %}
   </ul>
