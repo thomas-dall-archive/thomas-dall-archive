@@ -7,9 +7,15 @@ permalink: /archive/:path/
 # 📂 Forensic Database by Source
 
 {% for category in site.categories %}
-  ### 📁 {{ category[0] }}
+  {% capture cat_name %}{{ category | first }}{% endcapture %}
+  
+  {% if cat_name == "Thomas" or cat_name == "commentary" %}
+    {% continue %}
+  {% endif %}
+
+  ### 📁 {{ cat_name }}
   <ul>
-    {% for post in category[1] %}
+    {% for post in category | last %}
       <li>
         <a href="{{ post.url | relative_url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.title }}</a>
       </li>
