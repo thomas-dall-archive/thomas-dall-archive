@@ -4,7 +4,7 @@ title: "Thomas Dall insults his ai and gets treated by said ai"
 date: 2026-05-15
 youtube_id: "6OdAXkqBrX4"
 channel: 'Dim Tooley'
-category: 'Dim Tooley'
+category: "Thomas"
 ---
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
   <iframe src="https://www.youtube.com/embed/6OdAXkqBrX4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>

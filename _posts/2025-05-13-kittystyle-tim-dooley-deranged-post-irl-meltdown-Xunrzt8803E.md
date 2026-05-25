@@ -4,7 +4,7 @@ title: "Kittystyle / Tim Dooley DERANGED Post IRL Meltdown"
 date: 2025-05-13
 youtube_id: "Xunrzt8803E"
 channel: "Mondo Cane"
-category: "Mondo Cane"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

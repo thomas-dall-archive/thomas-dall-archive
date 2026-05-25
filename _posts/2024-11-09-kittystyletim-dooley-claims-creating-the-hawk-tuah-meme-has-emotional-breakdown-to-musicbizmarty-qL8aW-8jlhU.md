@@ -4,7 +4,7 @@ title: "Kittystyle/Tim Dooley claims creating the HAWK TUAH meme & has EMOTIONAL
 date: 2024-11-09
 youtube_id: "qL8aW-8jlhU"
 channel: "Mondo Cane"
-category: "Mondo Cane"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

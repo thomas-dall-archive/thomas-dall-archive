@@ -4,7 +4,7 @@ title: "Thomas Dall: Unloved & Unhinged - His Reaction to Being Rejected by Supe
 date: 2025-04-13
 youtube_id: "nNRw43HDK5Q"
 channel: "Jan Dall"
-category: "Jan Dall"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

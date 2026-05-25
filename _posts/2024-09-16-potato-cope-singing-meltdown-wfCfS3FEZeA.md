@@ -4,7 +4,7 @@ title: "Potato cope singing meltdown"
 date: 2024-09-16
 youtube_id: "wfCfS3FEZeA"
 channel: "Zombies Archive and Friends"
-category: "Zombies Archive and Friends"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

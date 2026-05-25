@@ -4,7 +4,7 @@ title: "Dark Skies Over God's Kingdom"
 date: 2026-02-22
 youtube_id: "E3Hn5nsNpZ4"
 channel: 'GRIM'
-category: 'GRIM'
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

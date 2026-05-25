@@ -4,7 +4,7 @@ title: "Kittystyle VS Danish Police"
 date: 2018-12-05
 youtube_id: "YcdOqw2bakg"
 channel: "E D"
-category: "E D"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

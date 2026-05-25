@@ -4,7 +4,7 @@ title: "Tom Cooks Dirty burgers and only eats Tomatos Thomas Dall / Kittystyle /
 date: 2025-09-29
 youtube_id: "EyGEtQvzVPg"
 channel: "Zombies Archive and Friends"
-category: "Zombies Archive and Friends"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

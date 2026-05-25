@@ -4,7 +4,7 @@ title: "Kittystyle / Tim Dooley: The Rage of a Rejected Incel"
 date: 2025-01-24
 youtube_id: "cP97G6zXkgI"
 channel: "Jan Dall"
-category: "Jan Dall"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

@@ -4,7 +4,7 @@ title: "BigTech VS Potato69 - BANNED From Discord - Online Friendship ENDED"
 date: 2023-10-10
 youtube_id: "Vdn4mjBNz5E"
 channel: "NapTown"
-category: "NapTown"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

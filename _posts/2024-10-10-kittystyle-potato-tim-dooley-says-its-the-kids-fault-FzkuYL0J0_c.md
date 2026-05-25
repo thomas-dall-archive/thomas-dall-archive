@@ -4,7 +4,7 @@ title: "Kittystyle / Potato / Tim Dooley says “It’s the kid’s fault”"
 date: 2024-10-10
 youtube_id: "FzkuYL0J0_c"
 channel: "Mondo Cane"
-category: "Mondo Cane"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

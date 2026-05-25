@@ -4,7 +4,7 @@ title: "Thomas Dall's (Tim Dooley's) Gay Lived Experience"
 date: 2026-05-07
 youtube_id: "SFsGhCtYq18"
 channel: "Thomas Dall Archive"
-category: "Thomas Dall Archive"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

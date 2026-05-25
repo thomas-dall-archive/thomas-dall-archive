@@ -4,7 +4,7 @@ title: "Kittystyle / Potato69 06/10/24"
 date: 2024-10-07
 youtube_id: "bqNnQRwEWMY"
 channel: "Empresa"
-category: "Empresa"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

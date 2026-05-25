@@ -4,7 +4,7 @@ title: "Kittystyle (Thomas Dall) is dangerous around children #2"
 date: 2019-10-08
 youtube_id: "Ner_O-Bg4Xc"
 channel: "Nicole Narrows"
-category: "Nicole Narrows"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

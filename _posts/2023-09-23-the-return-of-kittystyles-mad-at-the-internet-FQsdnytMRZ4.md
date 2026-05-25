@@ -4,7 +4,7 @@ title: "The return of Kittystyles - Mad at the Internet"
 date: 2023-09-23
 youtube_id: "FQsdnytMRZ4"
 channel: "CJ Clips"
-category: "CJ Clips"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

@@ -4,7 +4,7 @@ title: "Kittystyle Butthurt at Rasmus Paludan, Tries to Intimidate Mai Mercado, 
 date: 2019-06-05
 youtube_id: "k8UaSSeVdQk"
 channel: "Retard Watcher"
-category: "Retard Watcher"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

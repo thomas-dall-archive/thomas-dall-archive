@@ -4,7 +4,7 @@ title: "Game of Potato featuring Juice (February 10, 2025)"
 date: 2025-04-02
 youtube_id: "k294xL5GfXQ"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
-category: 'Tim "Scooter" Fooley (Kittystyles)'
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

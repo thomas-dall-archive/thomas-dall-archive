@@ -4,7 +4,7 @@ title: "Thomas Dall (Tim Dooley) is the Center of the Spergverse (Monday After 3
 date: 2026-05-05
 youtube_id: "HyahFf0zuK4"
 channel: "Thomas Dall Archive"
-category: "Thomas Dall Archive"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

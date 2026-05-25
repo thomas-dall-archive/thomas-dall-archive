@@ -4,7 +4,7 @@ title: "Trash"
 date: 2024-11-25
 youtube_id: "hZtGo3L7c5o"
 channel: "Not Krystal Station Here"
-category: "Not Krystal Station Here"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

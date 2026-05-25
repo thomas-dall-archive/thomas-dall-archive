@@ -4,7 +4,7 @@ title: "Thomas Dall/ Kittystyle schizo ranting yet again"
 date: 2024-10-28
 youtube_id: "nEC2KVLSZE0"
 channel: "PKFC"
-category: "PKFC"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

@@ -4,7 +4,7 @@ title: "Thomas is a Poor"
 date: 2024-12-04
 youtube_id: "mjq59NdliO0"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
-category: 'Tim "Scooter" Fooley (Kittystyles)'
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

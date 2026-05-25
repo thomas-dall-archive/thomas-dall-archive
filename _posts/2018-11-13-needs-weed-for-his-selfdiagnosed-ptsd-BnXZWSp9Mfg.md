@@ -4,7 +4,7 @@ title: "Needs weed for his selfdiagnosed PTSD"
 date: 2018-11-13
 youtube_id: "BnXZWSp9Mfg"
 channel: "Sperg Ape"
-category: "Sperg Ape"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

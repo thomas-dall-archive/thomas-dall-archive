@@ -4,7 +4,7 @@ title: "Kitty Threatens To Shoot Up Bar After Previous Arrest"
 date: 2019-05-19
 youtube_id: "Jq5OY_HNvEI"
 channel: "Zugzug Zugzugson"
-category: "Zugzug Zugzugson"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

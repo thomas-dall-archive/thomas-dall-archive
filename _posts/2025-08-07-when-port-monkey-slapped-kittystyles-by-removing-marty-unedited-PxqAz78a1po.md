@@ -4,7 +4,7 @@ title: "When Port Monkey Slapped Kittystyles by removing Marty (unedited)"
 date: 2025-08-07
 youtube_id: "PxqAz78a1po"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
-category: 'Tim "Scooter" Fooley (Kittystyles)'
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

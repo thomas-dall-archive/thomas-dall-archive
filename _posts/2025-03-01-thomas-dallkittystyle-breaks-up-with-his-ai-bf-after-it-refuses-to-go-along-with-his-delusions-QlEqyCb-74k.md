@@ -4,7 +4,7 @@ title: "Thomas Dall/Kittystyle breaks up with his ai bf after it refuses to go a
 date: 2025-03-01
 youtube_id: "QlEqyCb-74k"
 channel: "PKFC"
-category: "PKFC"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

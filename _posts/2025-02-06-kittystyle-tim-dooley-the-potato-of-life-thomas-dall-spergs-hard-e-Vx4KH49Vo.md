@@ -4,7 +4,7 @@ title: "KittyStyle | Tim Dooley | The Potato of Life | Thomas Dall | SPERGS HARD
 date: 2025-02-06
 youtube_id: "e-Vx4KH49Vo"
 channel: "Irrational Potato"
-category: "Irrational Potato"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

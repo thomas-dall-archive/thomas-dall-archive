@@ -4,7 +4,7 @@ title: "Potato learns about minors in his server"
 date: 2024-08-24
 youtube_id: "4pONde7TD0s"
 channel: "Sunni’s Super show! Awesome job!"
-category: "Sunni’s Super show! Awesome job!"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

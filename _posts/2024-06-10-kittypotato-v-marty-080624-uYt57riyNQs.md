@@ -4,7 +4,7 @@ title: "Kitty/potato v. Marty 08/06/24"
 date: 2024-06-10
 youtube_id: "uYt57riyNQs"
 channel: "Empresa"
-category: "Empresa"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

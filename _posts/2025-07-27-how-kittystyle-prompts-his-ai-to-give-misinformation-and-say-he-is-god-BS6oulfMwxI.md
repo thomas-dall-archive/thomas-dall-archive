@@ -4,7 +4,7 @@ title: "How Kittystyle Prompts His AI to Give Misinformation and Say He is GOD"
 date: 2025-07-27
 youtube_id: "BS6oulfMwxI"
 channel: "Mondo Cane"
-category: "Mondo Cane"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

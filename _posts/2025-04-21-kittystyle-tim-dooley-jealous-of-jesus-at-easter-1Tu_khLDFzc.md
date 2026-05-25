@@ -4,7 +4,7 @@ title: "Kittystyle / Tim Dooley Jealous of Jesus at Easter"
 date: 2025-04-21
 youtube_id: "1Tu_khLDFzc"
 channel: "Mondo Cane"
-category: "Mondo Cane"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

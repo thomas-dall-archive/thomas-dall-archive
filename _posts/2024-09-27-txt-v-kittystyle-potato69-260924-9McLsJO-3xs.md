@@ -4,7 +4,7 @@ title: "Txt v. Kittystyle / Potato69 26/09/24"
 date: 2024-09-27
 youtube_id: "9McLsJO-3xs"
 channel: "Empresa"
-category: "Empresa"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

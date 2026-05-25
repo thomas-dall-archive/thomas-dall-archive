@@ -4,7 +4,7 @@ title: "Kittystyle / RationalPotato Admits to Vandalism (Bitwave Era)"
 date: 2024-09-26
 youtube_id: "u640wc8ps7s"
 channel: "Jan Dall"
-category: "Jan Dall"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

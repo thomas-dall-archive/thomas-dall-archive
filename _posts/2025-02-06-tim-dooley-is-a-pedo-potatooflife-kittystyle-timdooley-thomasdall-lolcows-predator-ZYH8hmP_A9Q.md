@@ -4,7 +4,7 @@ title: "Tim Dooley is a PEDO @PotatoOfLife  #kittyStyle  #timdooley #thomasdall 
 date: 2025-02-06
 youtube_id: "ZYH8hmP_A9Q"
 channel: "Irrational Potato"
-category: "Irrational Potato"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

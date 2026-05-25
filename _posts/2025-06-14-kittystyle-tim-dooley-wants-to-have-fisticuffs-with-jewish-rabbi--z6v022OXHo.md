@@ -4,7 +4,7 @@ title: "Kittystyle / Tim Dooley Wants to Have FISTICUFFS With Jewish Rabbi"
 date: 2025-06-14
 youtube_id: "-z6v022OXHo"
 channel: "Mondo Cane"
-category: "Mondo Cane"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

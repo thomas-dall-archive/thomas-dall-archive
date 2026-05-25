@@ -4,7 +4,7 @@ title: "Kittystyle/ Thomas Dall explaining the life or death situation of giving
 date: 2025-03-05
 youtube_id: "MM6kYNx55PI"
 channel: "PKFC"
-category: "PKFC"
+category: "Thomas"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
