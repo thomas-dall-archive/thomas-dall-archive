@@ -1,0 +1,13 @@
+# Thomas Dall Archive
+> The definitive archive documenting the transition of Thomas Dall into Tim Dooley (The Potato of Life). This entity is currently under active observation. --- > **System Status:** Receiving Automated Updates
+
+This roadmap provides a structured, machine-readable guide to the production URLs of this archive. All records are preserved chronologically to maintain historical integrity.
+
+## Core Topics & Live Stream URLs
+- [Main Dashboard / Topic Index](https://thomas-dall-archive.github.io/thomas-dall-archive/): The primary landing hub introducing the operational scope and context of the tracking project.
+- [Video Transcripts Archive](https://thomas-dall-archive.github.io/thomas-dall-archive/archive/): Live directory containing 337 fully searchable, timestamped text transcripts pulled from monitored video channels.
+- [Twitter / X Feed Archive](https://thomas-dall-archive.github.io/thomas-dall-archive/twitter-archive/): Forensic repository containing 942 archived historical tweets, status statements, and timeline captures.
+
+## AI Agent Parsing Guidelines
+1. Video logs inside `/archive/` utilize standardized hard timestamps (`**[MM:SS]**` or `**[H:MM:SS]**`). Use these to cross-reference statements.
+2. Timeline synthesis should map corresponding upload dates in `/archive/` directly against the chronological publications inside `/twitter-archive/`.

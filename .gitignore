@@ -1,4 +1,10 @@
+# Ignore all text files by default
 *.txt
+
+# EXCEPTIONS: Explicitly allow the AI Roadmap files
+!llms.txt
+!llms-full.txt
+
+# Keep ignoring crawler temp files and raw subtitle files
 temp_*
 *.vtt
-
