@@ -6,6 +6,8 @@ permalink: /archive/:path/
 
 # 📂 Forensic Database by Source
 
+[⬅️ Back to Main Feed]({{ '/' | relative_url }}) | [📺 View Secondary Analytics & Commentary]({{ '/commentary/' | relative_url }})
+
 {% assign primary_posts = site.categories.Thomas %}
 {% assign grouped_posts = primary_posts | group_by: "channel" %}
 
@@ -20,4 +22,4 @@ permalink: /archive/:path/
   </ul>
 {% endfor %}
 
-[⬅️ Back to Main Feed]({{ '/' | relative_url }})
+[⬅️ Back to Main Feed]({{ '/' | relative_url }}) | [📺 View Secondary Analytics & Commentary]({{ '/commentary/' | relative_url }})

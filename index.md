@@ -26,8 +26,9 @@ The definitive archive documenting the transition of Thomas Dall into Tim Dooley
 ## Historical Record & Clinical Files
 
 * [👕 SHIRT WATCH](./shirt-watch.html)
-* [📼 VIDEO EVIDENCE ARCHIVE](./archive)
 * [📡 TRANSMISSION ARCHIVE - TWEETS](./twitter-archive)
+* [📂 View Full Forensic Database by Source Channel]({{ '/archive/' | relative_url }})
+* [📺 View Secondary Analytics, Satire & Commentary Feed]({{ '/commentary/' | relative_url }})
 
 ---
 
