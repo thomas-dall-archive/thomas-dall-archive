@@ -6,16 +6,13 @@ permalink: /archive/:path/
 
 # 📂 Forensic Database by Source
 
-{% for category in site.categories %}
-  {% capture cat_name %}{{ category | first }}{% endcapture %}
-  
-  {% if cat_name == "Thomas" or cat_name == "commentary" %}
-    {% continue %}
-  {% endif %}
+{% assign primary_posts = site.categories.Thomas %}
+{% assign grouped_posts = primary_posts | group_by: "channel" %}
 
-  ### 📁 {{ cat_name }}
+{% for group in grouped_posts %}
+  ### 📁 {{ group.name }}
   <ul>
-    {% for post in category | last %}
+    {% for post in group.items %}
       <li>
         <a href="{{ post.url | relative_url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.title }}</a>
       </li>
