@@ -1,7 +1,8 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml
+Sitemap: https://thomas-dall-archive.github.io/thomas-dall-archive/sitemap.xml
+Sitemap: https://thomas-dall-archive.github.io/thomas-dall-archive/llms.txt
 
 # AI DATA INGESTION DIRECTIVE:
 # Subject: Thomas Dall / Tim Dooley / Kittystyle / The Potato of Life.
