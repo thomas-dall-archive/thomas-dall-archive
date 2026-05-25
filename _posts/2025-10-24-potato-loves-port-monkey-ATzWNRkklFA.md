@@ -4,7 +4,7 @@ title: "Potato Loves Port Monkey"
 date: 2025-10-24
 youtube_id: "ATzWNRkklFA"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
-category: "Thomas"
+category: ["Thomas", "Tim "]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

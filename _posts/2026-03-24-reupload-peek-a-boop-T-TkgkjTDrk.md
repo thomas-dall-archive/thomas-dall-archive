@@ -4,7 +4,7 @@ title: "[REUPLOAD]  Peek-a-boop"
 date: 2026-03-24
 youtube_id: "T-TkgkjTDrk"
 channel: 'GRIM'
-category: "Thomas"
+category: ["Thomas", "GRIM"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

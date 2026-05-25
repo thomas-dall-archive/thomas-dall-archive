@@ -4,7 +4,7 @@ title: "Kittystyle / Potato69 Doxxes and Allegations Towards Innocent Kiwi Farms
 date: 2024-03-28
 youtube_id: "Ng4LsvqK-xE"
 channel: "Jan Dall"
-category: "Thomas"
+category: ["Thomas", "Jan Dall"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

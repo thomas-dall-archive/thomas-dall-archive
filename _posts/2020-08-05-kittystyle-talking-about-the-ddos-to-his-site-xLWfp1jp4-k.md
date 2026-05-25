@@ -4,7 +4,7 @@ title: "Kittystyle talking about the DDOS to his site"
 date: 2020-08-05
 youtube_id: "xLWfp1jp4-k"
 channel: "James Smith"
-category: "Thomas"
+category: ["Thomas", "James Smith"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

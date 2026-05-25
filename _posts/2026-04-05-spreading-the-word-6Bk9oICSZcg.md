@@ -4,7 +4,7 @@ title: "Spreading the Word"
 date: 2026-04-05
 youtube_id: "6Bk9oICSZcg"
 channel: 'GRIM'
-category: "Thomas"
+category: ["Thomas", "GRIM"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

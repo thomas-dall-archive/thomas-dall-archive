@@ -4,7 +4,7 @@ title: "Kitty Makes 10 Deaf Freats To Susi and Kovalski In 40 Min."
 date: 2019-03-27
 youtube_id: "wOamVzgu9fY"
 channel: "Zugzug Zugzugson"
-category: "Thomas"
+category: ["Thomas", "Zugzug Zugzugson"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

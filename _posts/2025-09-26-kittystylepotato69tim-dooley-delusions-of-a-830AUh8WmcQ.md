@@ -4,7 +4,7 @@ title: "KITTYSTYLE/Potato69/Tim Dooley  Delusions of a 🛋🥔"
 date: 2025-09-26
 youtube_id: "830AUh8WmcQ"
 channel: "420Moon☪️💚"
-category: "Thomas"
+category: ["Thomas", "420Moon☪️💚"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

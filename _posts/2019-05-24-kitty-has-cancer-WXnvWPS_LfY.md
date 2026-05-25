@@ -4,7 +4,7 @@ title: "Kitty has Cancer"
 date: 2019-05-24
 youtube_id: "WXnvWPS_LfY"
 channel: "Wheat Fields"
-category: "Thomas"
+category: ["Thomas", "Wheat Fields"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

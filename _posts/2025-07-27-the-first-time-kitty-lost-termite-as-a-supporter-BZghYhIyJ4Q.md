@@ -4,7 +4,7 @@ title: "The first time Kitty  lost Termite as a supporter"
 date: 2025-07-27
 youtube_id: "BZghYhIyJ4Q"
 channel: "Hidden agenda"
-category: "Thomas"
+category: ["Thomas", "Hidden agenda"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

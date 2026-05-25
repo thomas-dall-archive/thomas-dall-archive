@@ -4,7 +4,7 @@ title: "Kittystyle / Tim Dooley NUCLEAR MELTDOWNS and CALLS the POLICE on his ch
 date: 2025-04-14
 youtube_id: "ZZXGr41ybbE"
 channel: "Mondo Cane"
-category: "Thomas"
+category: ["Thomas", "Mondo Cane"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

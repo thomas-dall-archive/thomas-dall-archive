@@ -4,7 +4,7 @@ title: "Kittystyle / Tim Dooley Discusses Doxing Chatters & Having Minors in his
 date: 2025-01-02
 youtube_id: "uCBlUaai3fQ"
 channel: "Mondo Cane"
-category: "Thomas"
+category: ["Thomas", "Mondo Cane"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

@@ -4,7 +4,7 @@ title: "Some of the most bizarre ramblings I've ever heard this schizophrenic p*
 date: 2026-05-15
 youtube_id: "vh2f_Va8stA"
 channel: 'Dim Tooley'
-category: "Thomas"
+category: ["Thomas", "Dim Tooley"]
 ---
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
   <iframe src="https://www.youtube.com/embed/vh2f_Va8stA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>

@@ -4,7 +4,7 @@ title: "The Evolution of Thomas Dall into Tim Dooley"
 date: 2026-04-27
 youtube_id: "T0jdVnTv7zc"
 channel: "Thomas Dall Archive"
-category: "Thomas"
+category: ["Thomas", "Thomas Dall Archive"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

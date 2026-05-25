@@ -4,7 +4,7 @@ title: "The Tomlight Zone"
 date: 2025-12-16
 youtube_id: "E9wbazRi6DM"
 channel: "Tactical Squint"
-category: "Thomas"
+category: ["Thomas", "Tactical Squint"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

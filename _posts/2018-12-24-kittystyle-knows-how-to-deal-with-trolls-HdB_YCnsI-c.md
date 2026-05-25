@@ -4,7 +4,7 @@ title: "Kittystyle knows how to deal with trolls"
 date: 2018-12-24
 youtube_id: "HdB_YCnsI-c"
 channel: "Retard Watcher"
-category: "Thomas"
+category: ["Thomas", "Retard Watcher"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

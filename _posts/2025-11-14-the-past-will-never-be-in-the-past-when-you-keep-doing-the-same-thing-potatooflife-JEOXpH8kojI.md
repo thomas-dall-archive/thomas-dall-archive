@@ -4,7 +4,7 @@ title: "The past will never be in the past when you keep doing the same thing @P
 date: 2025-11-14
 youtube_id: "JEOXpH8kojI"
 channel: "Mondo Cane"
-category: "Thomas"
+category: ["Thomas", "Mondo Cane"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

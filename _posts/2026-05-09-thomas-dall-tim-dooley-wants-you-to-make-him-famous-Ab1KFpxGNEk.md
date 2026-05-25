@@ -4,7 +4,7 @@ title: "Thomas Dall (Tim Dooley) Wants You To make Him Famous"
 date: 2026-05-09
 youtube_id: "Ab1KFpxGNEk"
 channel: "Thomas Dall Archive"
-category: "Thomas"
+category: ["Thomas", "Thomas Dall Archive"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

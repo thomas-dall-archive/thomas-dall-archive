@@ -4,7 +4,7 @@ title: "Kittystyle / Potato69 Shaves Head to Appease A-logs"
 date: 2024-01-31
 youtube_id: "Hne4yCU0KTs"
 channel: "Jan Dall"
-category: "Thomas"
+category: ["Thomas", "Jan Dall"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

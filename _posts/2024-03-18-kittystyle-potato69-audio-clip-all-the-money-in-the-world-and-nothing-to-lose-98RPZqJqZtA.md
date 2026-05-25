@@ -4,7 +4,7 @@ title: "Kittystyle / Potato69 Audio Clip: All the Money in the World and Nothing
 date: 2024-03-18
 youtube_id: "98RPZqJqZtA"
 channel: "Jan Dall"
-category: "Thomas"
+category: ["Thomas", "Jan Dall"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

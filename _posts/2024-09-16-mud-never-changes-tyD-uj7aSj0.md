@@ -4,7 +4,7 @@ title: "Mud never changes"
 date: 2024-09-16
 youtube_id: "tyD-uj7aSj0"
 channel: "Zombies Archive and Friends"
-category: "Thomas"
+category: ["Thomas", "Zombies Archive and Friends"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

@@ -4,7 +4,7 @@ title: "Thomas Goes on a Bizarre Rant (May 2, 2026)"
 date: 2026-05-03
 youtube_id: "8N8gYmaSTr4"
 channel: "Thomas Dall Archive"
-category: "Thomas"
+category: ["Thomas", "Thomas Dall Archive"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

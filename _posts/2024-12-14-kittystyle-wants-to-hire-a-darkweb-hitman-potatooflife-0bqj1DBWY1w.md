@@ -4,7 +4,7 @@ title: "Kittystyle wants to hire a darkweb hitman @PotatoOfLife"
 date: 2024-12-14
 youtube_id: "0bqj1DBWY1w"
 channel: "Thorgrax"
-category: "Thomas"
+category: ["Thomas", "Thorgrax"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

@@ -4,7 +4,7 @@ title: "KittyStyle | The potato of life | Tim dooley | AKA Thomas Dall | SISTER 
 date: 2025-01-19
 youtube_id: "Fvonudc_RoY"
 channel: "Irrational Potato"
-category: "Thomas"
+category: ["Thomas", "Irrational Potato"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

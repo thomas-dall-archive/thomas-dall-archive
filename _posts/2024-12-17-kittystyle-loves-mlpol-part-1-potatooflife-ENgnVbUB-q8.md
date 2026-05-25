@@ -4,7 +4,7 @@ title: "Kittystyle loves /mlpol/ - Part 1- @PotatoOfLife"
 date: 2024-12-17
 youtube_id: "ENgnVbUB-q8"
 channel: "Thorgrax"
-category: "Thomas"
+category: ["Thomas", "Thorgrax"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

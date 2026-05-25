@@ -4,7 +4,7 @@ title: "Mondo Cane Cast a Blame Spell (Again)"
 date: 2025-05-06
 youtube_id: "pLXGX8otVD4"
 channel: "Not Krystal Station Here"
-category: "Thomas"
+category: ["Thomas", "Not Krystal Station Here"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

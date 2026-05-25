@@ -4,7 +4,7 @@ title: "Kittystyle / Potato v. Lemon 04/02/25"
 date: 2025-02-12
 youtube_id: "MGFdOYNCcTw"
 channel: "Empresa"
-category: "Thomas"
+category: ["Thomas", "Empresa"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

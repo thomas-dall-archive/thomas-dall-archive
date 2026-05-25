@@ -4,7 +4,7 @@ title: "kittystyle / potato 25/02/25"
 date: 2025-02-26
 youtube_id: "WKMC1plNIfM"
 channel: "Emp"
-category: "Thomas"
+category: ["Thomas", "Emp"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

@@ -4,7 +4,7 @@ title: "The Kota Prelude"
 date: 2025-10-16
 youtube_id: "eeSFSYwxiPY"
 channel: "James Smith"
-category: "Thomas"
+category: ["Thomas", "James Smith"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

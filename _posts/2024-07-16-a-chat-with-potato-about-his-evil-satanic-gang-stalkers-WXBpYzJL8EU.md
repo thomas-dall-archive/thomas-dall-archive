@@ -4,7 +4,7 @@ title: "A chat with potato about his evil satanic gang stalkers"
 date: 2024-07-16
 youtube_id: "WXBpYzJL8EU"
 channel: "PKFC"
-category: "Thomas"
+category: ["Thomas", "PKFC"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

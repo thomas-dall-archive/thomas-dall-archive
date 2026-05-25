@@ -4,7 +4,7 @@ title: "🥔s tarot card reading🌜🐶s🤔"
 date: 2025-07-30
 youtube_id: "og2jOolWLic"
 channel: "420Moon☪️💚"
-category: "Thomas"
+category: ["Thomas", "420Moon☪️💚"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

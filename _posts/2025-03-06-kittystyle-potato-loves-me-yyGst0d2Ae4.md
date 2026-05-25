@@ -4,7 +4,7 @@ title: "Kittystyle/ Potato loves me"
 date: 2025-03-06
 youtube_id: "yyGst0d2Ae4"
 channel: "PKFC"
-category: "Thomas"
+category: ["Thomas", "PKFC"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

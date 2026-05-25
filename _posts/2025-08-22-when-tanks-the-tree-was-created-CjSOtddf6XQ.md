@@ -4,7 +4,7 @@ title: "When Tanks (The Tree) was created"
 date: 2025-08-22
 youtube_id: "CjSOtddf6XQ"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
-category: "Thomas"
+category: ["Thomas", "Tim "]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

@@ -4,7 +4,7 @@ title: "Thomas Dall of 3 Lansenervej Haderslev Denmark crying over his broken mo
 date: 2025-03-16
 youtube_id: "Dr7NLffqj1o"
 channel: "3 lansenervej haderslev denmark"
-category: "Thomas"
+category: ["Thomas", "3 lansenervej haderslev denmark"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

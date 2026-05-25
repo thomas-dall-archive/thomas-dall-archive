@@ -4,7 +4,7 @@ title: "Kittystyle / Tim Dooley Says He's Dying Because People Won't Give Him Mo
 date: 2025-08-02
 youtube_id: "S8tzyUenyw0"
 channel: "Mondo Cane"
-category: "Thomas"
+category: ["Thomas", "Mondo Cane"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

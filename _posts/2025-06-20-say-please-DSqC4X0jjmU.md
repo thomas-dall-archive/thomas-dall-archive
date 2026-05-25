@@ -4,7 +4,7 @@ title: "🥔🧐Say Please"
 date: 2025-06-20
 youtube_id: "DSqC4X0jjmU"
 channel: "420Moon☪️💚"
-category: "Thomas"
+category: ["Thomas", "420Moon☪️💚"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

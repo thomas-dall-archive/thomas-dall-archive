@@ -4,7 +4,7 @@ title: "THE LIST - When Tanks (The Tree) was created."
 date: 2024-11-25
 youtube_id: "6koWE9IldYE"
 channel: "Not Krystal Station Here"
-category: "Thomas"
+category: ["Thomas", "Not Krystal Station Here"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

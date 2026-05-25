@@ -4,7 +4,7 @@ title: "Antman v. Kittystyle / Potato69 05/10/24"
 date: 2024-10-06
 youtube_id: "YqO2xKj7-mE"
 channel: "Empresa"
-category: "Thomas"
+category: ["Thomas", "Empresa"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

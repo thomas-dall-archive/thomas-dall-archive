@@ -4,7 +4,7 @@ title: "Kittystyle / Thomas Dall / Tim Dooley: 38-year-old Danish Schizophrenic 
 date: 2025-09-13
 youtube_id: "5h3cZBo4c0I"
 channel: "Jan Dall"
-category: "Thomas"
+category: ["Thomas", "Jan Dall"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

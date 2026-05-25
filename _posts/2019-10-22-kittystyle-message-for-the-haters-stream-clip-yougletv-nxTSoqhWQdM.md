@@ -4,7 +4,7 @@ title: "Kittystyle | Message for the haters | Stream Clip | Yougle.tv"
 date: 2019-10-22
 youtube_id: "nxTSoqhWQdM"
 channel: "Yougle Tv"
-category: "Thomas"
+category: ["Thomas", "Yougle Tv"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

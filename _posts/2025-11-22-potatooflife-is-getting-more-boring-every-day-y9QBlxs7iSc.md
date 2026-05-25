@@ -4,7 +4,7 @@ title: "@PotatoOfLife IS GETTING MORE BORING EVERY DAY"
 date: 2025-11-22
 youtube_id: "y9QBlxs7iSc"
 channel: "Mondo Cane"
-category: "Thomas"
+category: ["Thomas", "Mondo Cane"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

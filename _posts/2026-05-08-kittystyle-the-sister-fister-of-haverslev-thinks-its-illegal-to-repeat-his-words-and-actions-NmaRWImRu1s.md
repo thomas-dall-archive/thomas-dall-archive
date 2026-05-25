@@ -4,7 +4,7 @@ title: "Kittystyle. The sister fister of Haverslev thinks it's illegal to repeat
 date: 2026-05-08
 youtube_id: "NmaRWImRu1s"
 channel: "Dim Tooley"
-category: "Thomas"
+category: ["Thomas", "Dim Tooley"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

@@ -4,7 +4,7 @@ title: "Kittyrage 1"
 date: 2018-12-23
 youtube_id: "W9arLitxh4I"
 channel: "Retard Watcher"
-category: "Thomas"
+category: ["Thomas", "Retard Watcher"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

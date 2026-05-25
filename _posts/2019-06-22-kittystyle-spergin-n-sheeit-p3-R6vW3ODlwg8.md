@@ -4,7 +4,7 @@ title: "Kittystyle Spergin N Sheeit P3"
 date: 2019-06-22
 youtube_id: "R6vW3ODlwg8"
 channel: "Troll Media"
-category: "Thomas"
+category: ["Thomas", "Troll Media"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

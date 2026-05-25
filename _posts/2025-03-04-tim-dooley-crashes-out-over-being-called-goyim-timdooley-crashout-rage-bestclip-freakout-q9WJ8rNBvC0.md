@@ -4,7 +4,7 @@ title: "Tim Dooley Crashes Out Over Being Called 'Goyim' #timdooley #crashout #r
 date: 2025-03-04
 youtube_id: "q9WJ8rNBvC0"
 channel: "The Bridge Trolls"
-category: "Thomas"
+category: ["Thomas", "The Bridge Trolls"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

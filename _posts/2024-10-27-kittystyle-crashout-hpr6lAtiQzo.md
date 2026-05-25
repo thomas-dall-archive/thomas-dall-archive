@@ -4,7 +4,7 @@ title: "Kittystyle crashout"
 date: 2024-10-27
 youtube_id: "hpr6lAtiQzo"
 channel: "Sunni’s Super show! Awesome job!"
-category: "Thomas"
+category: ["Thomas", "Sunni’s Super show! Awesome job!"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

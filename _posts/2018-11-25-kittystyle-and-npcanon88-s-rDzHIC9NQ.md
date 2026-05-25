@@ -4,7 +4,7 @@ title: "kittystyle and npcanon88"
 date: 2018-11-25
 youtube_id: "s-rDzHIC9NQ"
 channel: "Barry O's Big Iron"
-category: "Thomas"
+category: ["Thomas", "Barry O"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

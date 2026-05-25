@@ -4,7 +4,7 @@ title: "The Legend Of KittyStyles"
 date: 2019-03-17
 youtube_id: "JNMkFySsP20"
 channel: "MegaZakari"
-category: "Thomas"
+category: ["Thomas", "MegaZakari"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
