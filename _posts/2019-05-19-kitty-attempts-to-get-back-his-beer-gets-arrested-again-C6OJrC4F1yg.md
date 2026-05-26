@@ -5,6 +5,7 @@ date: 2019-05-19
 youtube_id: "C6OJrC4F1yg"
 channel: "Zugzug Zugzugson"
 category: ["Thomas", "Zugzug Zugzugson"]
+ia_id: "thomas-dall-archive-2019-05-19-kitty-attempts-to-get-back-his-beer-gets-arrested-again-c6ojrc4f1yg"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

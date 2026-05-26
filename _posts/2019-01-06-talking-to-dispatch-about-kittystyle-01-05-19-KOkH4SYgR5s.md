@@ -5,6 +5,7 @@ date: 2019-01-06
 youtube_id: "KOkH4SYgR5s"
 channel: 'Church of Kiwi Archive'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2019-01-06-talking-to-dispatch-about-kittystyle-01-05-19-kokh4sygr5s"
 ---
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
   <iframe src="https://www.youtube.com/embed/KOkH4SYgR5s" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>

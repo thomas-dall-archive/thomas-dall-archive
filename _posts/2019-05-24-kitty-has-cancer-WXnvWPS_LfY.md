@@ -5,6 +5,7 @@ date: 2019-05-24
 youtube_id: "WXnvWPS_LfY"
 channel: "Wheat Fields"
 category: ["Thomas", "Wheat Fields"]
+ia_id: "thomas-dall-archive-2019-05-24-kitty-has-cancer-wxnvwps-lfy"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

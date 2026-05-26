@@ -5,6 +5,7 @@ date: 2019-05-19
 youtube_id: "Jq5OY_HNvEI"
 channel: "Zugzug Zugzugson"
 category: ["Thomas", "Zugzug Zugzugson"]
+ia_id: "thomas-dall-archive-2019-05-19-kitty-threatens-to-shoot-up-bar-after-previous-arrest-jq5oy-hnvei"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

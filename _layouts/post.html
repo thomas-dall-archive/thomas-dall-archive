@@ -2,19 +2,42 @@
 layout: default
 ---
 <article class="forensic-log">
-  {% comment %}
-  <header>
-    <h1 class="log-title"
-      style="color: #ffc107 !important; text-transform: uppercase; font-weight: 800; margin-bottom: 5px;">
-      {{ page.title }}
-    </h1>
-  </header>
-  {% endcomment %}
   <p
     style="color: #ffc107; font-family: monospace; border-bottom: 1px solid #444; padding-bottom: 10px; font-size: 0.9em;">
     FILE DATE: {{ page.date | date: "%B %d, %Y" }} | STATUS: LOGGED
   </p>
   </header>
+
+  {% comment %} --- VIDEO FALLBACK LOGIC --- {% endcomment %}
+  {% if page.youtube_id %}
+  <div class="media-container" style="margin-bottom: 20px;">
+    <div id="yt-player">
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/{{ page.youtube_id }}" frameborder="0" allowfullscreen></iframe>
+    </div>
+    
+    {% if page.ia_id %}
+    <div id="ia-player" style="display: none;">
+      <iframe src="https://archive.org/embed/{{ page.ia_id }}" width="100%" height="315" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <button onclick="toggleVideo()" style="background: #333; color: #ffc107; border: 1px solid #ffc107; padding: 5px 10px; cursor: pointer; margin-top: 10px;">
+      🔄 Toggle: YouTube / Internet Archive Mirror
+    </button>
+    <script>
+      function toggleVideo() {
+        var yt = document.getElementById('yt-player');
+        var ia = document.getElementById('ia-player');
+        if (yt.style.display === 'none') {
+          yt.style.display = 'block';
+          ia.style.display = 'none';
+        } else {
+          yt.style.display = 'none';
+          ia.style.display = 'block';
+        }
+      }
+    </script>
+    {% endif %}
+  </div>
+  {% endif %}
 
   <div class="evidence-body" style="color: #eee; line-height: 1.6;">
     {{ content }}
@@ -35,14 +58,6 @@ layout: default
 </article>
 
 <style>
-  /* This hides the theme's default title so we don't get the double-header or the stray '#' */
-  header h1:first-child {
-    display: none;
-  }
-
-  /* Ensure our custom log title actually shows up */
-  .log-title {
-    display: block !important;
-    visibility: visible !important;
-  }
+  header h1:first-child { display: none; }
+  .log-title { display: block !important; visibility: visible !important; }
 </style>

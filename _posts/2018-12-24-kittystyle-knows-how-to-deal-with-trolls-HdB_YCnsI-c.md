@@ -5,6 +5,7 @@ date: 2018-12-24
 youtube_id: "HdB_YCnsI-c"
 channel: "Retard Watcher"
 category: ["Thomas", "Retard Watcher"]
+ia_id: "thomas-dall-archive-2018-12-24-kittystyle-knows-how-to-deal-with-trolls-hdb-ycnsi-c"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

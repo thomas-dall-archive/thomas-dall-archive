@@ -5,6 +5,7 @@ date: 2018-12-23
 youtube_id: "OUK398ZjVqY"
 channel: "Retard Watcher"
 category: ["Thomas", "Retard Watcher"]
+ia_id: "thomas-dall-archive-2018-12-23-kittyrage-2-ouk398zjvqy"
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
