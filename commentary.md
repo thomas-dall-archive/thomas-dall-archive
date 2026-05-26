@@ -8,18 +8,15 @@ permalink: /commentary/
 
 [⬅️ Back to Main Feed]({{ '/' | relative_url }}) | [📂 View Forensic Database]({{ '/archive/' | relative_url }})
 
----
+{% assign commentary_posts = site.categories.commentary %}
 
-{% assign commentary_posts = site.categories.commentary | sort: 'date' | reverse %}
-
-{% if commentary_posts.size > 0 %}
+### 📁 Community & Satire
+<ul>
   {% for post in commentary_posts %}
-    ### {{ post.date | date: "%Y-%m-%d" }} - [{{ post.title }}]({{ post.url | relative_url }})
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.title }}</a>
+    </li>
   {% endfor %}
-{% else %}
-  _No commentary entries have been synchronized to this node yet._
-{% endif %}
-
----
+</ul>
 
 [⬅️ Back to Main Feed]({{ '/' | relative_url }}) | [📂 View Forensic Database]({{ '/archive/' | relative_url }})
