@@ -8,9 +8,7 @@ category: ["Thomas", "Troll Media"]
 ia_id: "thomas-dall-archive-2019-06-22-kittystyle-spergin-n-sheeit-pt2-mqnxiqod-je"
 ---
 
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
-  <iframe src="https://www.youtube.com/embed/MqnXiqoD-jE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
-</div>
+
 
 ### Video Information
 **Source Link:** [Watch on YouTube](https://www.youtube.com/watch?v=MqnXiqoD-jE)

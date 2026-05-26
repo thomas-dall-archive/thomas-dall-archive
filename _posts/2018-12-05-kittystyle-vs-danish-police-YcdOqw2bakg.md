@@ -8,9 +8,7 @@ category: ["Thomas", "E D"]
 ia_id: "thomas-dall-archive-2018-12-05-kittystyle-vs-danish-police-ycdoqw2bakg"
 ---
 
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
-  <iframe src="https://www.youtube.com/embed/YcdOqw2bakg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
-</div>
+
 
 ### Video Information
 **Source Link:** [Watch on YouTube](https://www.youtube.com/watch?v=YcdOqw2bakg)

@@ -5,11 +5,10 @@ date: 2019-08-25
 youtube_id: "N-487Rc53ZY"
 channel: "Troll Media"
 category: ["commentary", "Troll Media"]
+ia_id: "thomas-dall-archive-2019-08-25-kittystyle-on-alex-arizona-special-guest-sammy-hell-vicodin-dead-peop"
 ---
 
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
-  <iframe src="https://www.youtube.com/embed/N-487Rc53ZY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
-</div>
+
 
 ### Video Information
 **Source Link:** [Watch on YouTube](https://www.youtube.com/watch?v=N-487Rc53ZY)

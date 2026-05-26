@@ -8,9 +8,7 @@ category: ["Thomas", "E D"]
 ia_id: "thomas-dall-archive-2018-11-23-kitty-style-harassment-ilwtoxy3sw0"
 ---
 
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
-  <iframe src="https://www.youtube.com/embed/IlwToxY3sW0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
-</div>
+
 
 ### Video Information
 **Source Link:** [Watch on YouTube](https://www.youtube.com/watch?v=IlwToxY3sW0)
