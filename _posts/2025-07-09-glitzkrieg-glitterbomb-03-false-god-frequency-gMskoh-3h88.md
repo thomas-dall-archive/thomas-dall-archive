@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GLITZKRIEG [Glitterbomb] - 03 - False God Frequency"
+title: "GLITZKRIEG [Glitterbombs] - 03 - False God Frequency"
 date: 2025-07-09
 youtube_id: "gMskoh-3h88"
 channel: 'Teddy Divine'
