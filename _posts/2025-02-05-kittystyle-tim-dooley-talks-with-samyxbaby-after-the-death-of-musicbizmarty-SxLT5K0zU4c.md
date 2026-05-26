@@ -4,7 +4,7 @@ title: "Kittystyle / Tim Dooley talks with SamyxBaby after the death of MusicBiz
 date: 2025-02-05
 youtube_id: "SxLT5K0zU4c"
 channel: "Mondo Cane"
-category: ["Thomas", "Mondo Cane"]
+category: ["commentary", "Mondo Cane"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

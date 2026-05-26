@@ -4,7 +4,7 @@ title: "Kittystyles and Onion King (Sept 5 2024)"
 date: 2025-03-30
 youtube_id: "rfxPwqCG7LU"
 channel: "Still Not Krystal Station"
-category: ["Thomas", "Still Not Krystal Station"]
+category: ["commentary", "Still Not Krystal Station"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

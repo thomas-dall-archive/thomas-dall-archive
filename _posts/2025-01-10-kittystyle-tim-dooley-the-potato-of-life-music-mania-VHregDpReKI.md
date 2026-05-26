@@ -4,7 +4,7 @@ title: "KittyStyle | Tim dooley | The potato of life | music mania! |"
 date: 2025-01-10
 youtube_id: "VHregDpReKI"
 channel: "Irrational Potato"
-category: ["Thomas", "Irrational Potato"]
+category: ["commentary", "Irrational Potato"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

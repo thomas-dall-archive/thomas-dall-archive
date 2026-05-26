@@ -4,7 +4,7 @@ title: "Kittystyle on Alex Arizona special guest Sammy - Hell, Vicodin, dead peo
 date: 2019-08-25
 youtube_id: "N-487Rc53ZY"
 channel: "Troll Media"
-category: ["Thomas", "Troll Media"]
+category: ["commentary", "Troll Media"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

@@ -4,7 +4,7 @@ title: "Thomas Dall is a Terrorist!!!!!!!"
 date: 2024-11-09
 youtube_id: "Lpznl8Ne4MU"
 channel: "Tomatos against Tim"
-category: ["Thomas", "Tomatos against Tim"]
+category: ["commentary", "Tomatos against Tim"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">

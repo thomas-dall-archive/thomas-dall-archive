@@ -4,7 +4,7 @@ title: "Kittystyle / Potato 06/12/24"
 date: 2024-12-06
 youtube_id: "Fx5Nah_DnkY"
 channel: "Empresa"
-category: ["Thomas", "Empresa"]
+category: ["commentary", "Empresa"]
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; border-radius: 8px; border: 1px solid #333;">
