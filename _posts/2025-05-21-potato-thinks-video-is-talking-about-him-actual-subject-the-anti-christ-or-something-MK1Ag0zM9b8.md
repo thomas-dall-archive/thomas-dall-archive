@@ -5,6 +5,7 @@ date: 2025-05-21
 youtube_id: "MK1Ag0zM9b8"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-05-21-potato-thinks-video-is-talking-about-him-actual-subject-the-anti-chri"
 ---
 
 

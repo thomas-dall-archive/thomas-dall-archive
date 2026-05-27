@@ -5,6 +5,7 @@ date: 2025-05-19
 youtube_id: "zEB4flrDYqA"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
 category: ["Thomas", "Tim "]
+ia_id: "thomas-dall-archive-2025-05-19-mondo-cane-cast-a-blame-spell-again-zeb4flrdyqa"
 ---
 
 

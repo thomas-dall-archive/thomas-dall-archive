@@ -5,6 +5,7 @@ date: 2025-05-18
 youtube_id: "d40SURtGWDQ"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-05-18-potato-tries-to-recruit-king-david-talks-about-a-vision-from-2011-and"
 ---
 
 
