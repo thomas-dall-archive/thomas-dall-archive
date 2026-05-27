@@ -5,6 +5,7 @@ date: 2025-01-24
 youtube_id: "cP97G6zXkgI"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2025-01-24-kittystyle-tim-dooley-the-rage-of-a-rejected-incel-cp97g6zxkgi"
 ---
 
 

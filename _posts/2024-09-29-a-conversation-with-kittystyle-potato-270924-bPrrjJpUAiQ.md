@@ -5,6 +5,7 @@ date: 2024-09-29
 youtube_id: "bPrrjJpUAiQ"
 channel: "Emp"
 category: ["commentary", "Emp"]
+ia_id: "thomas-dall-archive-2024-09-29-a-conversation-with-kittystyle-potato-270924-bprrjjpuaiq"
 ---
 
 

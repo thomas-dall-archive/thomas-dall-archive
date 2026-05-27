@@ -5,6 +5,7 @@ date: 2023-12-27
 youtube_id: "Du9q_W4SbNU"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2023-12-27-kittystyle-potato69-unmuted-friendless-and-eternally-victimized-du9q-"
 ---
 
 

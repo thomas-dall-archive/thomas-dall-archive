@@ -5,6 +5,7 @@ date: 2025-01-07
 youtube_id: "yorf8otlTY4"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-01-07-thomas-noodlearms-yorf8otlty4"
 ---
 
 

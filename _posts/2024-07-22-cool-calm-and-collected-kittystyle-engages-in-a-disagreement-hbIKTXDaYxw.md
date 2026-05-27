@@ -5,6 +5,7 @@ date: 2024-07-22
 youtube_id: "hbIKTXDaYxw"
 channel: "FUNNYAF"
 category: ["Thomas", "FUNNYAF"]
+ia_id: "thomas-dall-archive-2024-07-22-cool-calm-and-collected-kittystyle-engages-in-a-disagreement-hbiktxda"
 ---
 
 

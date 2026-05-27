@@ -5,6 +5,7 @@ date: 2024-11-26
 youtube_id: "ZnnVKXyJ44E"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2024-11-26-kittystyle-8mbit-talks-about-poosay-2019-znnvkxyj44e"
 ---
 
 

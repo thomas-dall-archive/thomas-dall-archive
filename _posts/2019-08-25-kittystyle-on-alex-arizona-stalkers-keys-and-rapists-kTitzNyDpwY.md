@@ -5,6 +5,7 @@ date: 2019-08-25
 youtube_id: "kTitzNyDpwY"
 channel: "Troll Media"
 category: ["commentary", "Troll Media"]
+ia_id: "thomas-dall-archive-2019-08-25-kittystyle-on-alex-arizona-stalkers-keys-and-rapists-ktitznydpwy"
 ---
 
 

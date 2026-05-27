@@ -5,6 +5,7 @@ date: 2025-01-02
 youtube_id: "uCBlUaai3fQ"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-01-02-kittystyle-tim-dooley-discusses-doxing-chatters-having-minors-in-his-"
 ---
 
 

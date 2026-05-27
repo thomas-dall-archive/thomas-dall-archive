@@ -5,6 +5,7 @@ date: 2023-12-16
 youtube_id: "E6001FRmdUA"
 channel: 'Zugzug Zugzugson'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2023-12-16-capy-and-kitty-hungers-to-talk-to-zugzug-wish-granted-e6001frmdua"
 ---
 
 

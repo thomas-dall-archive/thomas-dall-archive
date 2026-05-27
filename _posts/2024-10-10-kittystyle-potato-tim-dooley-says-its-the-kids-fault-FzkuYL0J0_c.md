@@ -5,6 +5,7 @@ date: 2024-10-10
 youtube_id: "FzkuYL0J0_c"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2024-10-10-kittystyle-potato-tim-dooley-says-its-the-kids-fault-fzkuyl0j0-c"
 ---
 
 

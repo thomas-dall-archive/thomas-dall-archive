@@ -5,6 +5,7 @@ date: 2024-11-09
 youtube_id: "Lpznl8Ne4MU"
 channel: "Tomatos against Tim"
 category: ["commentary", "Tomatos against Tim"]
+ia_id: "thomas-dall-archive-2024-11-09-thomas-dall-is-a-terrorist-lpznl8ne4mu"
 ---
 
 

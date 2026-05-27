@@ -5,6 +5,7 @@ date: 2019-10-08
 youtube_id: "5GQRw0juLqU"
 channel: "Nicole Narrows"
 category: ["Thomas", "Nicole Narrows"]
+ia_id: "thomas-dall-archive-2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-1-5gqrw0julqu"
 ---
 
 

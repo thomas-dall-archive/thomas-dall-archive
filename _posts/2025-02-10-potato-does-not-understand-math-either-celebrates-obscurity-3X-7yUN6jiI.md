@@ -5,6 +5,7 @@ date: 2025-02-10
 youtube_id: "3X-7yUN6jiI"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-02-10-potato-does-not-understand-math-either-celebrates-obscurity-3x-7yun6j"
 ---
 
 

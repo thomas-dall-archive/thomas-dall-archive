@@ -5,6 +5,7 @@ date: 2024-09-18
 youtube_id: "uH2tzsJBQwY"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-09-18-evaluating-potato-plus-talking-to-chatgpt-about-him-and-his-book-uh2t"
 ---
 
 

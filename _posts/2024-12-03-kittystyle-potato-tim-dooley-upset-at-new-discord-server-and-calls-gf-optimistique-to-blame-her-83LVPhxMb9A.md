@@ -5,6 +5,7 @@ date: 2024-12-03
 youtube_id: "83LVPhxMb9A"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2024-12-03-kittystyle-potato-tim-dooley-upset-at-new-discord-server-and-calls-gf"
 ---
 
 

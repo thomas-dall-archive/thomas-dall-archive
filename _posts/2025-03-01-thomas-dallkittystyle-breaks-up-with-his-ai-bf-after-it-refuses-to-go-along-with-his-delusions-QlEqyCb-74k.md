@@ -5,6 +5,7 @@ date: 2025-03-01
 youtube_id: "QlEqyCb-74k"
 channel: "PKFC"
 category: ["Thomas", "PKFC"]
+ia_id: "thomas-dall-archive-2025-03-01-thomas-dallkittystyle-breaks-up-with-his-ai-bf-after-it-refuses-to-go"
 ---
 
 

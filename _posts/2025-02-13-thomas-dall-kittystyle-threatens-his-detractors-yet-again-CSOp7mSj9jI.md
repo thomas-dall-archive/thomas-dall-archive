@@ -5,6 +5,7 @@ date: 2025-02-13
 youtube_id: "CSOp7mSj9jI"
 channel: "PKFC"
 category: ["Thomas", "PKFC"]
+ia_id: "thomas-dall-archive-2025-02-13-thomas-dall-kittystyle-threatens-his-detractors-yet-again-csop7msj9ji"
 ---
 
 

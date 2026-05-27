@@ -5,6 +5,7 @@ date: 2025-02-22
 youtube_id: "ljUGHtXUens"
 channel: "Emp"
 category: ["commentary", "Emp"]
+ia_id: "thomas-dall-archive-2025-02-22-kittystyle-potato-110225-ljughtxuens"
 ---
 
 

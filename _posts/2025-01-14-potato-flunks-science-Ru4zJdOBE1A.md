@@ -5,6 +5,7 @@ date: 2025-01-14
 youtube_id: "Ru4zJdOBE1A"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-01-14-potato-flunks-science-ru4zjdobe1a"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-02-19
 youtube_id: "FnRtD9SBm5Q"
 channel: "Empresa"
 category: ["commentary", "Empresa"]
+ia_id: "thomas-dall-archive-2025-02-19-kop-v-kittystyle-potato-190225-fnrtd9sbm5q"
 ---
 
 

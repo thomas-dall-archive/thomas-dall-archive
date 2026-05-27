@@ -5,6 +5,7 @@ date: 2024-12-10
 youtube_id: "tEE8-doan8g"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-12-10-tim-vs-thump-tee8-doan8g"
 ---
 
 

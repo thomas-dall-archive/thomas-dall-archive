@@ -5,6 +5,7 @@ date: 2025-01-31
 youtube_id: "7E0mtiWW_jc"
 channel: "Irrational Potato"
 category: ["Thomas", "Irrational Potato"]
+ia_id: "thomas-dall-archive-2025-01-31-kittystyle-tim-dooley-the-potato-of-life-thomas-dall-plays-the-victim"
 ---
 
 

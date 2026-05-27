@@ -5,6 +5,7 @@ date: 2025-02-08
 youtube_id: "M6RTpwf91Og"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
 category: ["Thomas", "Tim "]
+ia_id: "thomas-dall-archive-2025-02-08-declaration-of-helsinki-m6rtpwf91og"
 ---
 
 

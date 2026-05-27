@@ -5,6 +5,7 @@ date: 2025-01-12
 youtube_id: "5E5DCd5reEk"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-01-12-potato-responds-poorly-to-one-of-our-videos-owns-self-more-than-once-"
 ---
 
 

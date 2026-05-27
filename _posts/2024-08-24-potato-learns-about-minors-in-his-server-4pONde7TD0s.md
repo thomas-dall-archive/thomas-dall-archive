@@ -5,6 +5,7 @@ date: 2024-08-24
 youtube_id: "4pONde7TD0s"
 channel: "Sunni’s Super show! Awesome job!"
 category: ["Thomas", "Sunni’s Super show! Awesome job!"]
+ia_id: "thomas-dall-archive-2024-08-24-potato-learns-about-minors-in-his-server-4ponde7td0s"
 ---
 
 

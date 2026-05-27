@@ -5,6 +5,7 @@ date: 2024-12-04
 youtube_id: "mjq59NdliO0"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
 category: ["Thomas", "Tim "]
+ia_id: "thomas-dall-archive-2024-12-04-thomas-is-a-poor-mjq59ndlio0"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-02-06
 youtube_id: "FpMP4gdM1qg"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
 category: ["Thomas", "Tim "]
+ia_id: "thomas-dall-archive-2025-02-06-marty-charged-with-homocide-fpmp4gdm1qg"
 ---
 
 

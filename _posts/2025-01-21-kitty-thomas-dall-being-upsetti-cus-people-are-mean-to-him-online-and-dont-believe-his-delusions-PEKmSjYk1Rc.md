@@ -5,6 +5,7 @@ date: 2025-01-21
 youtube_id: "PEKmSjYk1Rc"
 channel: "PKFC"
 category: ["Thomas", "PKFC"]
+ia_id: "thomas-dall-archive-2025-01-21-kitty-thomas-dall-being-upsetti-cus-people-are-mean-to-him-online-and"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-02-21
 youtube_id: "xXZeKOG6Cww"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-02-21-potato-rejects-reality-demands-likes-treats-a-woman-like-a-creep-agai"
 ---
 
 

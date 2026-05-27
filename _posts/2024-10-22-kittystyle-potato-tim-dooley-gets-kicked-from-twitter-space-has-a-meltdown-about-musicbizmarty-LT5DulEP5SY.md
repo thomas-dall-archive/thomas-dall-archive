@@ -5,6 +5,7 @@ date: 2024-10-22
 youtube_id: "LT5DulEP5SY"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2024-10-22-kittystyle-potato-tim-dooley-gets-kicked-from-twitter-space-has-a-mel"
 ---
 
 

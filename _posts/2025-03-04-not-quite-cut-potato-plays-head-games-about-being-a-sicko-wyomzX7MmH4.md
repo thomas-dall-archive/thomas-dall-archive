@@ -5,6 +5,7 @@ date: 2025-03-04
 youtube_id: "wyomzX7MmH4"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-03-04-not-quite-cut-potato-plays-head-games-about-being-a-sicko-wyomzx7mmh4"
 ---
 
 

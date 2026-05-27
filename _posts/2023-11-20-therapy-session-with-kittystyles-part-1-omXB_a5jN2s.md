@@ -5,6 +5,7 @@ date: 2023-11-20
 youtube_id: "omXB_a5jN2s"
 channel: 'Zugzug Zugzugson'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2023-11-20-therapy-session-with-kittystyles-part-1-omxb-a5jn2s"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-02-19
 youtube_id: "uk3U3V4ALK8"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-02-19-quickie-potato-flunks-astronomyprojects-uk3u3v4alk8"
 ---
 
 

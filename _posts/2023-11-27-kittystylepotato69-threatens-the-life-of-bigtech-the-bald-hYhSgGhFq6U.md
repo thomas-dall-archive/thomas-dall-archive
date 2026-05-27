@@ -5,6 +5,7 @@ date: 2023-11-27
 youtube_id: "hYhSgGhFq6U"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2023-11-27-kittystylepotato69-threatens-the-life-of-bigtech-the-bald-hyhsgghfq6u"
 ---
 
 

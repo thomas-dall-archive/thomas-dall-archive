@@ -5,6 +5,7 @@ date: 2025-03-03
 youtube_id: "6vnshufF55A"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-03-03-potato-poser-proof-6vnshuff55a"
 ---
 
 

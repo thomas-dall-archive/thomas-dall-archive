@@ -5,6 +5,7 @@ date: 2024-11-10
 youtube_id: "8d8vebv2Zp0"
 channel: "RBgg allin ™"
 category: ["commentary", "RBgg allin ™"]
+ia_id: "thomas-dall-archive-2024-11-10-turnipper-the-turnip-tim-dooly-8d8vebv2zp0"
 ---
 
 

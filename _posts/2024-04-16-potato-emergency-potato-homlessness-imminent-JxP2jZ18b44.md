@@ -5,6 +5,7 @@ date: 2024-04-16
 youtube_id: "JxP2jZ18b44"
 channel: "RBgg allin ™"
 category: ["commentary", "RBgg allin ™"]
+ia_id: "thomas-dall-archive-2024-04-16-potato-emergency-potato-homlessness-imminent-jxp2jz18b44"
 ---
 
 

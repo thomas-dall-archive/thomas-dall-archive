@@ -5,6 +5,7 @@ date: 2024-09-15
 youtube_id: "D091Cr1yyp0"
 channel: "Empresa"
 category: ["commentary", "Empresa"]
+ia_id: "thomas-dall-archive-2024-09-15-kittystyle-potato-040924-d091cr1yyp0"
 ---
 
 

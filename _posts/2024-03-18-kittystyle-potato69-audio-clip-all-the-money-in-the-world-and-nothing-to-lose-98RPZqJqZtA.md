@@ -5,6 +5,7 @@ date: 2024-03-18
 youtube_id: "98RPZqJqZtA"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2024-03-18-kittystyle-potato69-audio-clip-all-the-money-in-the-world-and-nothing"
 ---
 
 

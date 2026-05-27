@@ -5,6 +5,7 @@ date: 2025-01-11
 youtube_id: "uBmp91Ow2u0"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-01-11-potato-celebrates-israeli-embassy-closure-in-ireland-virtue-signals-b"
 ---
 
 

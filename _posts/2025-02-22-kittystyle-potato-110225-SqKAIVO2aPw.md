@@ -5,6 +5,7 @@ date: 2025-02-22
 youtube_id: "SqKAIVO2aPw"
 channel: "Empresa"
 category: ["commentary", "Empresa"]
+ia_id: "thomas-dall-archive-2025-02-22-kittystyle-potato-110225-sqkaivo2apw"
 ---
 
 

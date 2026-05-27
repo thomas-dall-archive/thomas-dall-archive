@@ -5,6 +5,7 @@ date: 2024-01-31
 youtube_id: "1HTNJBKcJ1Q"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2024-01-31-kittystyle-potato69-returns-to-quiplash-6-years-later-1htnjbkcj1q"
 ---
 
 

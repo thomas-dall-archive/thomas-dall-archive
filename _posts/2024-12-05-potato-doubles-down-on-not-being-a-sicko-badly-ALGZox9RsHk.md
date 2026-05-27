@@ -5,6 +5,7 @@ date: 2024-12-05
 youtube_id: "ALGZox9RsHk"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-12-05-potato-doubles-down-on-not-being-a-sicko-badly-algzox9rshk"
 ---
 
 

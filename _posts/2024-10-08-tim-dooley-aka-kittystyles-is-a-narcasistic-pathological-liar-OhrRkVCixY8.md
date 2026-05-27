@@ -5,6 +5,7 @@ date: 2024-10-08
 youtube_id: "OhrRkVCixY8"
 channel: 'Tomatos against Tim'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-10-08-tim-dooley-aka-kittystyles-is-a-narcasistic-pathological-liar-ohrrkvc"
 ---
 
 

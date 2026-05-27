@@ -5,6 +5,7 @@ date: 2024-05-27
 youtube_id: "QIrmysS4Pnw"
 channel: "Empresa"
 category: ["commentary", "Empresa"]
+ia_id: "thomas-dall-archive-2024-05-27-kittystyle-potato69-260524-qirmyss4pnw"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-02-03
 youtube_id: "oRfRtmUKoBM"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-02-03-potato-has-ai-come-up-with-a-story-about-knocking-up-a-woman-in-chat-"
 ---
 
 

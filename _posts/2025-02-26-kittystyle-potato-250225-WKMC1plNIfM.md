@@ -5,6 +5,7 @@ date: 2025-02-26
 youtube_id: "WKMC1plNIfM"
 channel: "Emp"
 category: ["Thomas", "Emp"]
+ia_id: "thomas-dall-archive-2025-02-26-kittystyle-potato-250225-wkmc1plnifm"
 ---
 
 

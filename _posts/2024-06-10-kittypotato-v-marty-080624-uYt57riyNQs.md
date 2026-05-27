@@ -5,6 +5,7 @@ date: 2024-06-10
 youtube_id: "uYt57riyNQs"
 channel: "Empresa"
 category: ["commentary", "Empresa"]
+ia_id: "thomas-dall-archive-2024-06-10-kittypotato-v-marty-080624-uyt57riynqs"
 ---
 
 

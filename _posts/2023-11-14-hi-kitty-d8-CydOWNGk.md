@@ -5,6 +5,7 @@ date: 2023-11-14
 youtube_id: "d8-CydOWNGk"
 channel: 'Zugzug Zugzugson'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2023-11-14-hi-kitty-d8-cydowngk"
 ---
 
 

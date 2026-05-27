@@ -5,6 +5,7 @@ date: 2025-01-20
 youtube_id: "CtpGGgvRF-8"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-01-20-kittystyle-tim-dooley-paternal-ctpgggvrf-8"
 ---
 
 

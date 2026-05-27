@@ -5,6 +5,7 @@ date: 2024-11-26
 youtube_id: "6oriBc_gEyk"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2024-11-26-kittystyle-8mbit-curses-in-danish-at-detractors-2019-6oribc-geyk"
 ---
 
 

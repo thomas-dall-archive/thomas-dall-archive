@@ -5,6 +5,7 @@ date: 2024-10-28
 youtube_id: "nEC2KVLSZE0"
 channel: "PKFC"
 category: ["Thomas", "PKFC"]
+ia_id: "thomas-dall-archive-2024-10-28-thomas-dall-kittystyle-schizo-ranting-yet-again-nec2kvlsze0"
 ---
 
 

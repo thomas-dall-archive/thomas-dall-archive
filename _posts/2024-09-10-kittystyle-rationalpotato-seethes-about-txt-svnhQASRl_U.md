@@ -5,6 +5,7 @@ date: 2024-09-10
 youtube_id: "svnhQASRl_U"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2024-09-10-kittystyle-rationalpotato-seethes-about-txt-svnhqasrl-u"
 ---
 
 

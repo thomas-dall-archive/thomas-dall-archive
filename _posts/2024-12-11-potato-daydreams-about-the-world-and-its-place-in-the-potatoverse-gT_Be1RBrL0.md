@@ -5,6 +5,7 @@ date: 2024-12-11
 youtube_id: "gT_Be1RBrL0"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-12-11-potato-daydreams-about-the-world-and-its-place-in-the-potatoverse-gt-"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2024-12-06
 youtube_id: "Fx5Nah_DnkY"
 channel: "Empresa"
 category: ["commentary", "Empresa"]
+ia_id: "thomas-dall-archive-2024-12-06-kittystyle-potato-061224-fx5nah-dnky"
 ---
 
 

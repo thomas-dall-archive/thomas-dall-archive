@@ -5,6 +5,7 @@ date: 2024-05-01
 youtube_id: "_QrGOBxPtKI"
 channel: "Colonel J (The Sheriff)"
 category: ["commentary", "Colonel J (The Sheriff)"]
+ia_id: "thomas-dall-archive-2024-05-01-kittystyles-is-hungry-mad-at-the-internet--qrgobxptki"
 ---
 
 

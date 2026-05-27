@@ -5,6 +5,7 @@ date: 2024-11-19
 youtube_id: "HVbWiKEANA4"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2024-11-19-kittystyle-tim-dooley-is-an-emotional-man-hvbwikeana4"
 ---
 
 

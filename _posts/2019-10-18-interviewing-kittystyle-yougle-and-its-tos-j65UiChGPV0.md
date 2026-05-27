@@ -5,6 +5,7 @@ date: 2019-10-18
 youtube_id: "j65UiChGPV0"
 channel: 'Zugzug Zugzugson'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2019-10-18-interviewing-kittystyle-yougle-and-its-tos-j65uichgpv0"
 ---
 
 

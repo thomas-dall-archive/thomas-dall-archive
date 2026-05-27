@@ -5,6 +5,7 @@ date: 2024-12-13
 youtube_id: "5xKlpuad9aE"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-12-13-potato-spills-information-out-of-two-holes-5xklpuad9ae"
 ---
 
 

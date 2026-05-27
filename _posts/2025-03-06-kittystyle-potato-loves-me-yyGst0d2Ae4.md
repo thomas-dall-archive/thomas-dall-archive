@@ -5,6 +5,7 @@ date: 2025-03-06
 youtube_id: "yyGst0d2Ae4"
 channel: "PKFC"
 category: ["Thomas", "PKFC"]
+ia_id: "thomas-dall-archive-2025-03-06-kittystyle-potato-loves-me-yygst0d2ae4"
 ---
 
 

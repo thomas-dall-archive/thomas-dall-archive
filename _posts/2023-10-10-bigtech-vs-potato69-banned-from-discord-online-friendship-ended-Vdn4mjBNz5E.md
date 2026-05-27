@@ -5,6 +5,7 @@ date: 2023-10-10
 youtube_id: "Vdn4mjBNz5E"
 channel: "NapTown"
 category: ["Thomas", "NapTown"]
+ia_id: "thomas-dall-archive-2023-10-10-bigtech-vs-potato69-banned-from-discord-online-friendship-ended-vdn4m"
 ---
 
 

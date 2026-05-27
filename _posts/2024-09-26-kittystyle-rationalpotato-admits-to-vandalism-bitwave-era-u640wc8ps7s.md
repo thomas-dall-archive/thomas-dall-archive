@@ -5,6 +5,7 @@ date: 2024-09-26
 youtube_id: "u640wc8ps7s"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2024-09-26-kittystyle-rationalpotato-admits-to-vandalism-bitwave-era-u640wc8ps7s"
 ---
 
 

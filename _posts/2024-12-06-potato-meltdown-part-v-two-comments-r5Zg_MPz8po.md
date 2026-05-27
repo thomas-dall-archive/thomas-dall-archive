@@ -5,6 +5,7 @@ date: 2024-12-06
 youtube_id: "r5Zg_MPz8po"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-12-06-potato-meltdown-part-v-two-comments-r5zg-mpz8po"
 ---
 
 

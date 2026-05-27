@@ -5,6 +5,7 @@ date: 2025-02-06
 youtube_id: "e-Vx4KH49Vo"
 channel: "Irrational Potato"
 category: ["Thomas", "Irrational Potato"]
+ia_id: "thomas-dall-archive-2025-02-06-kittystyle-tim-dooley-the-potato-of-life-thomas-dall-spergs-hard-e-vx"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2024-02-12
 youtube_id: "QpPIkNcImxU"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2024-02-12-thomas-tells-the-truth-qppikncimxu"
 ---
 
 

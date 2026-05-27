@@ -5,6 +5,7 @@ date: 2025-02-04
 youtube_id: "mSUtTEMIxN4"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
 category: ["Thomas", "Tim "]
+ia_id: "thomas-dall-archive-2025-02-04-kitty-spiritually-competes-with-cats-msuttemixn4"
 ---
 
 

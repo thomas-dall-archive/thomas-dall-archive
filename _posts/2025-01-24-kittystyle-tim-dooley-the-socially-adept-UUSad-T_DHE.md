@@ -5,6 +5,7 @@ date: 2025-01-24
 youtube_id: "UUSad-T_DHE"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2025-01-24-kittystyle-tim-dooley-the-socially-adept-uusad-t-dhe"
 ---
 
 

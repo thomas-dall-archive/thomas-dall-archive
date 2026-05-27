@@ -5,6 +5,7 @@ date: 2019-10-22
 youtube_id: "nxTSoqhWQdM"
 channel: "Yougle Tv"
 category: ["Thomas", "Yougle Tv"]
+ia_id: "thomas-dall-archive-2019-10-22-kittystyle-message-for-the-haters-stream-clip-yougletv-nxtsoqhwqdm"
 ---
 
 

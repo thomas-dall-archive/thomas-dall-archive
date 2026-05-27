@@ -5,6 +5,7 @@ date: 2025-03-05
 youtube_id: "MM6kYNx55PI"
 channel: "PKFC"
 category: ["Thomas", "PKFC"]
+ia_id: "thomas-dall-archive-2025-03-05-kittystyle-thomas-dall-explaining-the-life-or-death-situation-of-givi"
 ---
 
 

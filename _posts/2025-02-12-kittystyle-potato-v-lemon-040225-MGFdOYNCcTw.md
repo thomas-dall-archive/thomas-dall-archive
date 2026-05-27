@@ -5,6 +5,7 @@ date: 2025-02-12
 youtube_id: "MGFdOYNCcTw"
 channel: "Empresa"
 category: ["commentary", "Empresa"]
+ia_id: "thomas-dall-archive-2025-02-12-kittystyle-potato-v-lemon-040225-mgfdoyncctw"
 ---
 
 

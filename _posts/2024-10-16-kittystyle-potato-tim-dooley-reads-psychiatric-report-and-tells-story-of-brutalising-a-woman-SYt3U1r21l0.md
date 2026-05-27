@@ -5,6 +5,7 @@ date: 2024-10-16
 youtube_id: "SYt3U1r21l0"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2024-10-16-kittystyle-potato-tim-dooley-reads-psychiatric-report-and-tells-story"
 ---
 
 

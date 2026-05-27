@@ -5,6 +5,7 @@ date: 2024-09-03
 youtube_id: "GFen6IsbUN8"
 channel: "Zombies Archive and Friends"
 category: ["Thomas", "Zombies Archive and Friends"]
+ia_id: "thomas-dall-archive-2024-09-03-potato-highlight-sept-02-2024-gfen6isbun8"
 ---
 
 

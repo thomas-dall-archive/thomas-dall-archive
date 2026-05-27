@@ -5,6 +5,7 @@ date: 2024-10-06
 youtube_id: "YqO2xKj7-mE"
 channel: "Empresa"
 category: ["commentary", "Empresa"]
+ia_id: "thomas-dall-archive-2024-10-06-antman-v-kittystyle-potato69-051024-yqo2xkj7-me"
 ---
 
 

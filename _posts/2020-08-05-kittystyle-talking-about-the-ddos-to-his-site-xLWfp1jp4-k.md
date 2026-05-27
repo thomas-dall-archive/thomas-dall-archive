@@ -5,6 +5,7 @@ date: 2020-08-05
 youtube_id: "xLWfp1jp4-k"
 channel: "James Smith"
 category: ["Thomas", "James Smith"]
+ia_id: "thomas-dall-archive-2020-08-05-kittystyle-talking-about-the-ddos-to-his-site-xlwfp1jp4-k"
 ---
 
 
