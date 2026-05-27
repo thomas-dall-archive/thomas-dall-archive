@@ -5,6 +5,7 @@ date: 2025-07-15
 youtube_id: "aLfT-zgxPBc"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-07-15-kittystyle-tim-dooley-smacks-himself-in-the-face-over-make-believe-is"
 ---
 
 

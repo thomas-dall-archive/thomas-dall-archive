@@ -5,6 +5,7 @@ date: 2026-04-05
 youtube_id: "6Bk9oICSZcg"
 channel: 'GRIM'
 category: ["Thomas", "GRIM"]
+ia_id: "thomas-dall-archive-2026-04-05-spreading-the-word-6bk9oicszcg"
 ---
 
 

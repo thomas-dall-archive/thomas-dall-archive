@@ -5,6 +5,7 @@ date: 2025-05-27
 youtube_id: "rWYnHHOJurI"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-05-27-kittystyle-tim-dooley-learns-what-the-word-narcissist-means-rwynhhoju"
 ---
 
 

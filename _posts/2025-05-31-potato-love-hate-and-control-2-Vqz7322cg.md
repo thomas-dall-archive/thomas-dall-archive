@@ -5,6 +5,7 @@ date: 2025-05-31
 youtube_id: "2-Vqz7322cg"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-05-31-potato-love-hate-and-control-2-vqz7322cg"
 ---
 
 

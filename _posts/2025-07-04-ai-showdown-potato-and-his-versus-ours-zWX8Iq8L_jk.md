@@ -5,6 +5,7 @@ date: 2025-07-04
 youtube_id: "zWX8Iq8L_jk"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-04-ai-showdown-potato-and-his-versus-ours-zwx8iq8l-jk"
 ---
 
 

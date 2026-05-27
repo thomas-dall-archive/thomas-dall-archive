@@ -5,6 +5,7 @@ date: 2025-10-28
 youtube_id: "439-5sVIo_A"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-10-28-the-crumpling-facade-439-5svio-a"
 ---
 
 

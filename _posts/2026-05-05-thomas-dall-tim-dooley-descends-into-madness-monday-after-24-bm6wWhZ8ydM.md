@@ -5,6 +5,7 @@ date: 2026-05-05
 youtube_id: "bm6wWhZ8ydM"
 channel: "Thomas Dall Archive"
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-05-05-thomas-dall-tim-dooley-descends-into-madness-monday-after-24-bm6wwhz8"
 ---
 
 

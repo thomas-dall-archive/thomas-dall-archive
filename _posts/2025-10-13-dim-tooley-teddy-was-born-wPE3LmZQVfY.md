@@ -5,6 +5,7 @@ date: 2025-10-13
 youtube_id: "wPE3LmZQVfY"
 channel: "420Moon☪️💚"
 category: ["Thomas", "420Moon☪️💚"]
+ia_id: "thomas-dall-archive-2025-10-13-dim-tooley-teddy-was-born-wpe3lmzqvfy"
 ---
 
 

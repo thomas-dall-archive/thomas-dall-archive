@@ -5,6 +5,7 @@ date: 2025-07-09
 youtube_id: "JdrB9HJpkuU"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-09-glitzkrieg-glitterbombs-05-broadcast-the-breakdown-jdrb9hjpkuu"
 ---
 
 

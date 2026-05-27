@@ -5,6 +5,7 @@ date: 2026-03-22
 youtube_id: "Ys2nPxzZwL0"
 channel: 'GRIM'
 category: ["Thomas", "GRIM"]
+ia_id: "thomas-dall-archive-2026-03-22-self-imposed-suffering-ys2npxzzwl0"
 ---
 
 

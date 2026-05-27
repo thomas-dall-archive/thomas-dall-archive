@@ -5,6 +5,7 @@ date: 2025-07-05
 youtube_id: "tbtOzSGxNYM"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-05-shout-out-to-roboto-san-tbtozsgxnym"
 ---
 
 

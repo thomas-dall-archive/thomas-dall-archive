@@ -5,6 +5,7 @@ date: 2025-07-16
 youtube_id: "QCqjlO4t-sE"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-16-the-digital-altar-qcqjlo4t-se"
 ---
 
 

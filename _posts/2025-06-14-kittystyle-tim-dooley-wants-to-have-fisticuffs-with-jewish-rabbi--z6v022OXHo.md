@@ -5,6 +5,7 @@ date: 2025-06-14
 youtube_id: "-z6v022OXHo"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-06-14-kittystyle-tim-dooley-wants-to-have-fisticuffs-with-jewish-rabbi--z6v"
 ---
 
 

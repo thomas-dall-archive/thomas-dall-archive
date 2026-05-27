@@ -5,6 +5,7 @@ date: 2025-07-16
 youtube_id: "5sGd0j40Pos"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-16-flag-denied-cry-harder-5sgd0j40pos"
 ---
 
 

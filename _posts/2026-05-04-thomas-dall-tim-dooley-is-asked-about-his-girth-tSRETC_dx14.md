@@ -5,6 +5,7 @@ date: 2026-05-04
 youtube_id: "tSRETC_dx14"
 channel: "Thomas Dall Archive"
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-05-04-thomas-dall-tim-dooley-is-asked-about-his-girth-tsretc-dx14"
 ---
 
 

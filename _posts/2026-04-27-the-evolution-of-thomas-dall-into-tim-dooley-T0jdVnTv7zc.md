@@ -5,6 +5,7 @@ date: 2026-04-27
 youtube_id: "T0jdVnTv7zc"
 channel: "Thomas Dall Archive"
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-04-27-the-evolution-of-thomas-dall-into-tim-dooley-t0jdvntv7zc"
 ---
 
 

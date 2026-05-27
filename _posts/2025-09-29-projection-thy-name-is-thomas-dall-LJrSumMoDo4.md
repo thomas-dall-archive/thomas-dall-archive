@@ -5,6 +5,7 @@ date: 2025-09-29
 youtube_id: "LJrSumMoDo4"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2025-09-29-projection-thy-name-is-thomas-dall-ljrsummodo4"
 ---
 
 

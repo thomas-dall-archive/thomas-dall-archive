@@ -5,6 +5,7 @@ date: 2025-05-27
 youtube_id: "yKy0wLAewLY"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-05-27-kittystyle-tim-dooleys-mom-calls-him-a-lolcow-at-christmas-yky0wlaewl"
 ---
 
 

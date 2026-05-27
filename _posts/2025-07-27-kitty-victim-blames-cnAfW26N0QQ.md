@@ -5,6 +5,7 @@ date: 2025-07-27
 youtube_id: "cnAfW26N0QQ"
 channel: "Hidden agenda"
 category: ["Thomas", "Hidden agenda"]
+ia_id: "thomas-dall-archive-2025-07-27-kitty-victim-blames-cnafw26n0qq"
 ---
 
 

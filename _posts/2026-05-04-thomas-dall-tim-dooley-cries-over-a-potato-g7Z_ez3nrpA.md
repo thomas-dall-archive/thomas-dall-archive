@@ -5,6 +5,7 @@ date: 2026-05-04
 youtube_id: "g7Z_ez3nrpA"
 channel: "Thomas Dall Archive"
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-05-04-thomas-dall-tim-dooley-cries-over-a-potato-g7z-ez3nrpa"
 ---
 
 

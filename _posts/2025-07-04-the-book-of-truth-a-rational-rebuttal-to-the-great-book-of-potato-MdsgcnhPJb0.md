@@ -5,6 +5,7 @@ date: 2025-07-04
 youtube_id: "MdsgcnhPJb0"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-04-the-book-of-truth-a-rational-rebuttal-to-the-great-book-of-potato-mds"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-05-29
 youtube_id: "kB-YnvdMhUo"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-05-29-potato-fails-a-test-of-ego-and-godly-intelligence-kb-ynvdmhuo"
 ---
 
 

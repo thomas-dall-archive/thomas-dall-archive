@@ -5,6 +5,7 @@ date: 2025-05-30
 youtube_id: "oOvo0fvUay4"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-05-30-kittystyle-tim-dooley-smash-cut-dissection-of-ai-slop-story-oovo0fvua"
 ---
 
 

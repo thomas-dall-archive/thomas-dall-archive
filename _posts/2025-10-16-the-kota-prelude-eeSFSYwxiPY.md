@@ -5,6 +5,7 @@ date: 2025-10-16
 youtube_id: "eeSFSYwxiPY"
 channel: "James Smith"
 category: ["Thomas", "James Smith"]
+ia_id: "thomas-dall-archive-2025-10-16-the-kota-prelude-eesfsywxipy"
 ---
 
 

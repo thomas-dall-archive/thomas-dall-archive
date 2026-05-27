@@ -5,6 +5,7 @@ date: 2025-06-30
 youtube_id: "Yh33ecy83Ag"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-06-30-the-ballas-of-thomas-the-banished-failed-streamer-yh33ecy83ag"
 ---
 
 

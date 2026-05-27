@@ -5,6 +5,7 @@ date: 2025-09-29
 youtube_id: "EyGEtQvzVPg"
 channel: "Zombies Archive and Friends"
 category: ["Thomas", "Zombies Archive and Friends"]
+ia_id: "thomas-dall-archive-2025-09-29-tom-cooks-dirty-burgers-and-only-eats-tomatos-thomas-dall-kittystyle-"
 ---
 
 

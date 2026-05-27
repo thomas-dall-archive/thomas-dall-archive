@@ -5,6 +5,7 @@ date: 2025-07-06
 youtube_id: "Xb9CwPIoAcw"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-07-06-kittystyle-tim-dooley-loves-you-hates-you-nuclear-xb9cwpioacw"
 ---
 
 

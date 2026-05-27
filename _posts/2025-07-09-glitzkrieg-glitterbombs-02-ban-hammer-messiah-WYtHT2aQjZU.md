@@ -5,6 +5,7 @@ date: 2025-07-09
 youtube_id: "WYtHT2aQjZU"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-09-glitzkrieg-glitterbombs-02-ban-hammer-messiah-wytht2aqjzu"
 ---
 
 

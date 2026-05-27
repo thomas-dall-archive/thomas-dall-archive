@@ -5,6 +5,7 @@ date: 2025-07-21
 youtube_id: "qB4AbzGLS2k"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-21-an-active-danger-qb4abzgls2k"
 ---
 
 

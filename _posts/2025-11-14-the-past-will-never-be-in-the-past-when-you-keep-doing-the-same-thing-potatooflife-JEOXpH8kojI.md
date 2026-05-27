@@ -5,6 +5,7 @@ date: 2025-11-14
 youtube_id: "JEOXpH8kojI"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-11-14-the-past-will-never-be-in-the-past-when-you-keep-doing-the-same-thing"
 ---
 
 

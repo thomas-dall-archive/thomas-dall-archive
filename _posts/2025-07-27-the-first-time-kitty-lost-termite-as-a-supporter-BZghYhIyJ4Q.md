@@ -5,6 +5,7 @@ date: 2025-07-27
 youtube_id: "BZghYhIyJ4Q"
 channel: "Hidden agenda"
 category: ["Thomas", "Hidden agenda"]
+ia_id: "thomas-dall-archive-2025-07-27-the-first-time-kitty-lost-termite-as-a-supporter-bzghyhiyj4q"
 ---
 
 

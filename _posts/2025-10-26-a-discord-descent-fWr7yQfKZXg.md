@@ -5,6 +5,7 @@ date: 2025-10-26
 youtube_id: "fWr7yQfKZXg"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-10-26-a-discord-descent-fwr7yqfkzxg"
 ---
 
 

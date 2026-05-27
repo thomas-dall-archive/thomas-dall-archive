@@ -5,6 +5,7 @@ date: 2025-06-20
 youtube_id: "QOziTNxwals"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-06-20-the-potato-primer-qozitnxwals"
 ---
 
 

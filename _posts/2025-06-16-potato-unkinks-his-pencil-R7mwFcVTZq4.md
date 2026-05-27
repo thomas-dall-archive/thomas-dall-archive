@@ -5,6 +5,7 @@ date: 2025-06-16
 youtube_id: "R7mwFcVTZq4"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-06-16-potato-unkinks-his-pencil-r7mwfcvtzq4"
 ---
 
 

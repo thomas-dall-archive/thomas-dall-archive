@@ -5,6 +5,7 @@ date: 2026-02-23
 youtube_id: "5RUG7E_yu7Q"
 channel: 'GRIM'
 category: ["Thomas", "GRIM"]
+ia_id: "thomas-dall-archive-2026-02-23-god-woke-up-screaming-5rug7e-yu7q"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-06-24
 youtube_id: "BR77eCdycGI"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-06-24-kittystyle-tim-dooley-lies-about-education-and-work-experience-br77ec"
 ---
 
 

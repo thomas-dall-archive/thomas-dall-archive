@@ -5,6 +5,7 @@ date: 2025-05-31
 youtube_id: "VOFDmG8I6-U"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-05-31-kittystyle-tim-dooley-has-nuclear-meltdown-over-simple-question-vofdm"
 ---
 
 

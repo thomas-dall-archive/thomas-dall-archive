@@ -5,6 +5,7 @@ date: 2025-07-27
 youtube_id: "BS6oulfMwxI"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-07-27-how-kittystyle-prompts-his-ai-to-give-misinformation-and-say-he-is-go"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-12-10
 youtube_id: "AFUNG_LvQnQ"
 channel: "420Moon☪️💚"
 category: ["Thomas", "420Moon☪️💚"]
+ia_id: "thomas-dall-archive-2025-12-10--afung-lvqnq"
 ---
 
 

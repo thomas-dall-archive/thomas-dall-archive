@@ -5,6 +5,7 @@ date: 2025-07-09
 youtube_id: "-muWrtg3VVg"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-09-glitzkrieg-glitterbombs-01-prelude-to-detonation--muwrtg3vvg"
 ---
 
 

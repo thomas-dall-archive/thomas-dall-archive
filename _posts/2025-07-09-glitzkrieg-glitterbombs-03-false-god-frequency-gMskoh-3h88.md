@@ -5,6 +5,7 @@ date: 2025-07-09
 youtube_id: "gMskoh-3h88"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-09-glitzkrieg-glitterbombs-03-false-god-frequency-gmskoh-3h88"
 ---
 
 

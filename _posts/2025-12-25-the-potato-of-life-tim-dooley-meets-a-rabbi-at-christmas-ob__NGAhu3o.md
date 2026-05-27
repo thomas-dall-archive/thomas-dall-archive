@@ -5,6 +5,7 @@ date: 2025-12-25
 youtube_id: "ob__NGAhu3o"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-12-25-the-potato-of-life-tim-dooley-meets-a-rabbi-at-christmas-ob--ngahu3o"
 ---
 
 

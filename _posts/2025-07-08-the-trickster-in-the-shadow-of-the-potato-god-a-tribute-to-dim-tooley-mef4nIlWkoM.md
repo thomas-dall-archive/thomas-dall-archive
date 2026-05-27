@@ -5,6 +5,7 @@ date: 2025-07-08
 youtube_id: "mef4nIlWkoM"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-08-the-trickster-in-the-shadow-of-the-potato-god-a-tribute-to-dim-tooley"
 ---
 
 

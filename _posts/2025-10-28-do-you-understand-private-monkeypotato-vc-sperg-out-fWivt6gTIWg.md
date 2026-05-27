@@ -5,6 +5,7 @@ date: 2025-10-28
 youtube_id: "fWivt6gTIWg"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
 category: ["Thomas", "Tim "]
+ia_id: "thomas-dall-archive-2025-10-28-do-you-understand-private-monkeypotato-vc-sperg-out-fwivt6gtiwg"
 ---
 
 

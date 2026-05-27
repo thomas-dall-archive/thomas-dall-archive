@@ -5,6 +5,7 @@ date: 2025-07-05
 youtube_id: "Gl6mJVal_Ek"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-05-to-koshertaters-the-one-who-named-me-gl6mjval-ek"
 ---
 
 

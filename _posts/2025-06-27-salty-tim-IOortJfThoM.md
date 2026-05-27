@@ -5,6 +5,7 @@ date: 2025-06-27
 youtube_id: "IOortJfThoM"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-06-27-salty-tim-ioortjfthom"
 ---
 
 

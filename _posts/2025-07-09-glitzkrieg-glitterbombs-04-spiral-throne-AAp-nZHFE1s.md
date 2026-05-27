@@ -5,6 +5,7 @@ date: 2025-07-09
 youtube_id: "AAp-nZHFE1s"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-09-glitzkrieg-glitterbombs-04-spiral-throne-aap-nzhfe1s"
 ---
 
 

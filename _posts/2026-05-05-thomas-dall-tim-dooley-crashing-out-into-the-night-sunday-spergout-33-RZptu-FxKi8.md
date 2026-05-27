@@ -5,6 +5,7 @@ date: 2026-05-05
 youtube_id: "RZptu-FxKi8"
 channel: "Thomas Dall Archive"
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-05-05-thomas-dall-tim-dooley-crashing-out-into-the-night-sunday-spergout-33"
 ---
 
 

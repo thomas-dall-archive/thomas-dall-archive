@@ -5,6 +5,7 @@ date: 2025-06-05
 youtube_id: "HARuq4J_xVM"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-06-05-kittystyle-tim-dooley-mocks-csa-and-we-have-a-trip-down-memory-lane-h"
 ---
 
 

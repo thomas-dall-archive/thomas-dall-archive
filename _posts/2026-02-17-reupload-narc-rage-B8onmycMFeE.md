@@ -5,6 +5,7 @@ date: 2026-02-17
 youtube_id: "B8onmycMFeE"
 channel: 'GRIM'
 category: ["Thomas", "GRIM"]
+ia_id: "thomas-dall-archive-2026-02-17-reupload-narc-rage-b8onmycmfee"
 ---
 
 

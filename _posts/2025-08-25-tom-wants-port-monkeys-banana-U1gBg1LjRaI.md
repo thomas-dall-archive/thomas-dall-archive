@@ -5,6 +5,7 @@ date: 2025-08-25
 youtube_id: "U1gBg1LjRaI"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
 category: ["Thomas", "Tim "]
+ia_id: "thomas-dall-archive-2025-08-25-tom-wants-port-monkeys-banana-u1gbg1ljrai"
 ---
 
 

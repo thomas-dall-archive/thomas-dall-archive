@@ -5,6 +5,7 @@ date: 2025-07-27
 youtube_id: "hfegggmMbp4"
 channel: "Hidden agenda"
 category: ["Thomas", "Hidden agenda"]
+ia_id: "thomas-dall-archive-2025-07-27-kitty-0-meta-1-again-hfegggmmbp4"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-07-09
 youtube_id: "oKeAwkkwesI"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-09-glitzkrieg-glitterbombs-07-glamfire-rebellion-okeawkkwesi"
 ---
 
 

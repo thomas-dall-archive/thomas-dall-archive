@@ -5,6 +5,7 @@ date: 2025-07-05
 youtube_id: "cB-G9rMS9XI"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-05-die-knolle-muss-sterben-cb-g9rms9xi"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-06-29
 youtube_id: "iEjahl4Q52A"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-06-29-thomas-bans-his-own-chat-iejahl4q52a"
 ---
 
 

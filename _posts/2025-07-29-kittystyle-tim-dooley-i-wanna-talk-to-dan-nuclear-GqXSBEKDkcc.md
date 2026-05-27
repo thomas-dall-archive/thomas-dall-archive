@@ -5,6 +5,7 @@ date: 2025-07-29
 youtube_id: "GqXSBEKDkcc"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-07-29-kittystyle-tim-dooley-i-wanna-talk-to-dan-nuclear-gqxsbekdkcc"
 ---
 
 

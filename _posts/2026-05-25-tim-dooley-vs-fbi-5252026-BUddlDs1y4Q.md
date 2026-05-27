@@ -5,6 +5,7 @@ date: 2026-05-25
 youtube_id: "BUddlDs1y4Q"
 channel: '[PRAVUS]'
 category: ["Thomas", "[PRAVUS]"]
+ia_id: "thomas-dall-archive-2026-05-25-tim-dooley-vs-fbi-5252026-buddlds1y4q"
 ---
 
 

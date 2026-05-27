@@ -5,6 +5,7 @@ date: 2025-07-08
 youtube_id: "gsVLyjvtkeo"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-08-fraulein-susi-the-super-gsvlyjvtkeo"
 ---
 
 

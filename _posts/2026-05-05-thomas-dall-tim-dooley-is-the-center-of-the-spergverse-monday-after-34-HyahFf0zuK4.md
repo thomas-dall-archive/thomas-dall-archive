@@ -5,6 +5,7 @@ date: 2026-05-05
 youtube_id: "HyahFf0zuK4"
 channel: "Thomas Dall Archive"
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-05-05-thomas-dall-tim-dooley-is-the-center-of-the-spergverse-monday-after-3"
 ---
 
 

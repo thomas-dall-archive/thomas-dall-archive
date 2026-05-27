@@ -5,6 +5,7 @@ date: 2025-07-04
 youtube_id: "jLeCEMldw5Y"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-07-04-kittystyle-tim-dooley-has-a-delusional-homophobic-meltdown-jlecemldw5"
 ---
 
 

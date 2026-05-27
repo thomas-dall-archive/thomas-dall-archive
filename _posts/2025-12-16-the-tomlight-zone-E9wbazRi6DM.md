@@ -5,6 +5,7 @@ date: 2025-12-16
 youtube_id: "E9wbazRi6DM"
 channel: "Tactical Squint"
 category: ["Thomas", "Tactical Squint"]
+ia_id: "thomas-dall-archive-2025-12-16-the-tomlight-zone-e9wbazri6dm"
 ---
 
 

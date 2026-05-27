@@ -5,6 +5,7 @@ date: 2026-05-09
 youtube_id: "Ab1KFpxGNEk"
 channel: "Thomas Dall Archive"
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-05-09-thomas-dall-tim-dooley-wants-you-to-make-him-famous-ab1kfpxgnek"
 ---
 
 

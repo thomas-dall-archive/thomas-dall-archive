@@ -5,6 +5,7 @@ date: 2025-06-07
 youtube_id: "gbg5knE7EEU"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-06-07-song-for-potato-spud-dud-steals-a-scooter-gbg5kne7eeu"
 ---
 
 

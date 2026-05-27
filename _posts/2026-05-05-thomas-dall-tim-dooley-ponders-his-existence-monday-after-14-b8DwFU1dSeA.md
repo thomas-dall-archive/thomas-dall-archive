@@ -5,6 +5,7 @@ date: 2026-05-05
 youtube_id: "b8DwFU1dSeA"
 channel: "Thomas Dall Archive"
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-05-05-thomas-dall-tim-dooley-ponders-his-existence-monday-after-14-b8dwfu1d"
 ---
 
 

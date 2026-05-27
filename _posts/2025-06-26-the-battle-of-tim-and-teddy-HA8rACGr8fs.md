@@ -5,6 +5,7 @@ date: 2025-06-26
 youtube_id: "HA8rACGr8fs"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-06-26-the-battle-of-tim-and-teddy-ha8racgr8fs"
 ---
 
 

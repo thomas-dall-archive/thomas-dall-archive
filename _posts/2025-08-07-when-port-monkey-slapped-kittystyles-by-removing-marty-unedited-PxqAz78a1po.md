@@ -5,6 +5,7 @@ date: 2025-08-07
 youtube_id: "PxqAz78a1po"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
 category: ["Thomas", "Tim "]
+ia_id: "thomas-dall-archive-2025-08-07-when-port-monkey-slapped-kittystyles-by-removing-marty-unedited-pxqaz"
 ---
 
 

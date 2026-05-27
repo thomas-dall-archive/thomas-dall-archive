@@ -5,6 +5,7 @@ date: 2025-10-25
 youtube_id: "in9KTJWaBeI"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
 category: ["Thomas", "Tim "]
+ia_id: "thomas-dall-archive-2025-10-25-pkfc-starts-at-104-in9ktjwabei"
 ---
 
 

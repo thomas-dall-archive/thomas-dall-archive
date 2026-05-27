@@ -5,6 +5,7 @@ date: 2026-04-06
 youtube_id: "RvrplCOCg3U"
 channel: 'GRIM'
 category: ["Thomas", "GRIM"]
+ia_id: "thomas-dall-archive-2026-04-06-case-of-the-mondays-rvrplcocg3u"
 ---
 
 

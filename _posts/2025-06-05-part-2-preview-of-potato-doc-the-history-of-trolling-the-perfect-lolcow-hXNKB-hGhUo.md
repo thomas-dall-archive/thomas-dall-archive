@@ -5,6 +5,7 @@ date: 2025-06-05
 youtube_id: "hXNKB-hGhUo"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-06-05-part-2-preview-of-potato-doc-the-history-of-trolling-the-perfect-lolc"
 ---
 
 

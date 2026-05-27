@@ -5,6 +5,7 @@ date: 2025-06-29
 youtube_id: "TmSqijQ3vQU"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-06-29-the-king-of-nothing-tmsqijq3vqu"
 ---
 
 

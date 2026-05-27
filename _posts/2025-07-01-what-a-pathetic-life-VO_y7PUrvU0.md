@@ -5,6 +5,7 @@ date: 2025-07-01
 youtube_id: "VO_y7PUrvU0"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-01-what-a-pathetic-life-vo-y7purvu0"
 ---
 
 

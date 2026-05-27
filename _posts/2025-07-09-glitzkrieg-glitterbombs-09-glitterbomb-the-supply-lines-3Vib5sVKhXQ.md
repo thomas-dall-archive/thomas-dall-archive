@@ -5,6 +5,7 @@ date: 2025-07-09
 youtube_id: "3Vib5sVKhXQ"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-09-glitzkrieg-glitterbombs-09-glitterbomb-the-supply-lines-3vib5svkhxq"
 ---
 
 

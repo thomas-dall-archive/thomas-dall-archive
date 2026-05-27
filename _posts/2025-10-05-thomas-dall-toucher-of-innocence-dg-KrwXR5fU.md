@@ -5,6 +5,7 @@ date: 2025-10-05
 youtube_id: "dg-KrwXR5fU"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2025-10-05-thomas-dall-toucher-of-innocence-dg-krwxr5fu"
 ---
 
 

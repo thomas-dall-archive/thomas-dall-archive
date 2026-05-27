@@ -5,6 +5,7 @@ date: 2026-05-03
 youtube_id: "8N8gYmaSTr4"
 channel: "Thomas Dall Archive"
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-05-03-thomas-goes-on-a-bizarre-rant-may-2-2026-8n8gymastr4"
 ---
 
 

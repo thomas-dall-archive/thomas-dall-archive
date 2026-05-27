@@ -5,6 +5,7 @@ date: 2025-10-08
 youtube_id: "UujUvyBOtho"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2025-10-08-kitty-fights-his-past-and-loses-uujuvybotho"
 ---
 
 

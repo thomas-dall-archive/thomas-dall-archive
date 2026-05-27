@@ -5,6 +5,7 @@ date: 2025-07-26
 youtube_id: "2AAduE02Q78"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-07-26-expert-political-analysis-from-potatooflife-2aadue02q78"
 ---
 
 

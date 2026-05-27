@@ -5,6 +5,7 @@ date: 2025-08-27
 youtube_id: "Uuzv_a7n6xg"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
 category: ["Thomas", "Tim "]
+ia_id: "thomas-dall-archive-2025-08-27-tim-proves-he-is-a-schizophrenic-idiot-uuzv-a7n6xg"
 ---
 
 

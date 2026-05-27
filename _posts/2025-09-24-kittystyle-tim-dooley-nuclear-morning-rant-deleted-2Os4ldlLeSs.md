@@ -5,6 +5,7 @@ date: 2025-09-24
 youtube_id: "2Os4ldlLeSs"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-09-24-kittystyle-tim-dooley-nuclear-morning-rant-deleted-2os4ldlless"
 ---
 
 

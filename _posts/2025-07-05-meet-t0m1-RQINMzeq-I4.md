@@ -5,6 +5,7 @@ date: 2025-07-05
 youtube_id: "RQINMzeq-I4"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-05-meet-t0m1-rqinmzeq-i4"
 ---
 
 

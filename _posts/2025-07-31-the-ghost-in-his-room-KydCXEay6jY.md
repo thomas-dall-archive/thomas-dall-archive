@@ -5,6 +5,7 @@ date: 2025-07-31
 youtube_id: "KydCXEay6jY"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-31-the-ghost-in-his-room-kydcxeay6jy"
 ---
 
 

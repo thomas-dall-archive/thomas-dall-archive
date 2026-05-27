@@ -5,6 +5,7 @@ date: 2025-07-28
 youtube_id: "flPIFLmRwlo"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-28-report-report-flpiflmrwlo"
 ---
 
 

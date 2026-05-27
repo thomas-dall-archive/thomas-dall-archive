@@ -5,6 +5,7 @@ date: 2025-11-22
 youtube_id: "y9QBlxs7iSc"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-11-22-potatooflife-is-getting-more-boring-every-day-y9qblxs7isc"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-08-02
 youtube_id: "KIAzMg566dw"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-08-02-help-me-i-need-dan-kiazmg566dw"
 ---
 
 

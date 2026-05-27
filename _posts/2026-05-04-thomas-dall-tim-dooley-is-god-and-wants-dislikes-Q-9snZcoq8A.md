@@ -5,6 +5,7 @@ date: 2026-05-04
 youtube_id: "Q-9snZcoq8A"
 channel: "Thomas Dall Archive"
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-05-04-thomas-dall-tim-dooley-is-god-and-wants-dislikes-q-9snzcoq8a"
 ---
 
 

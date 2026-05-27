@@ -5,6 +5,7 @@ date: 2026-05-15
 youtube_id: "6OdAXkqBrX4"
 channel: 'Dim Tooley'
 category: ["Thomas", "Dim Tooley"]
+ia_id: "thomas-dall-archive-2026-05-15-thomas-dall-insults-his-ai-and-gets-treated-by-said-ai-6odaxkqbrx4"
 ---
 
 

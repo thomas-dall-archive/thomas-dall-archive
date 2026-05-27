@@ -5,6 +5,7 @@ date: 2026-05-18
 youtube_id: "THLLt2dRU7Y"
 channel: 'Dim Tooley'
 category: ["Thomas", "Dim Tooley"]
+ia_id: "thomas-dall-archive-2026-05-18-5172026-panel-with-hebrew-txt-and-pdf-thomas-dall-thllt2dru7y"
 ---
 
 

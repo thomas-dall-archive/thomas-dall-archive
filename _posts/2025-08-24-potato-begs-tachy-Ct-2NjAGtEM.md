@@ -5,6 +5,7 @@ date: 2025-08-24
 youtube_id: "Ct-2NjAGtEM"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
 category: ["Thomas", "Tim "]
+ia_id: "thomas-dall-archive-2025-08-24-potato-begs-tachy-ct-2njagtem"
 ---
 
 

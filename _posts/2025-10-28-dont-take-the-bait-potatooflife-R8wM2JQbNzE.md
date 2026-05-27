@@ -5,6 +5,7 @@ date: 2025-10-28
 youtube_id: "R8wM2JQbNzE"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-10-28-dont-take-the-bait-potatooflife-r8wm2jqbnze"
 ---
 
 

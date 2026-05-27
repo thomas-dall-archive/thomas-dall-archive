@@ -5,6 +5,7 @@ date: 2025-07-09
 youtube_id: "3C4OM0IA02E"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-09-glitzkrieg-glitterbombs-06-eyes-of-the-watchers-3c4om0ia02e"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-06-01
 youtube_id: "xlNxcPdU9_4"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-06-01-potato-talks-about-his-dad-money-dodges-blame-xlnxcpdu9-4"
 ---
 
 

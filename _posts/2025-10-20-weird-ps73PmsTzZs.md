@@ -5,6 +5,7 @@ date: 2025-10-20
 youtube_id: "ps73PmsTzZs"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
 category: ["Thomas", "Tim "]
+ia_id: "thomas-dall-archive-2025-10-20-weird-ps73pmstzzs"
 ---
 
 

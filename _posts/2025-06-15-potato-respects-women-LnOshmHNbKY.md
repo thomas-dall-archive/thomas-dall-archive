@@ -5,6 +5,7 @@ date: 2025-06-15
 youtube_id: "LnOshmHNbKY"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-06-15-potato-respects-women-lnoshmhnbky"
 ---
 
 

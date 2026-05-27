@@ -5,6 +5,7 @@ date: 2025-08-08
 youtube_id: "diJzp-e2-1c"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-08-08-c8anc3-t0m1-sing-goodbye-horses-dijzp-e2-1c"
 ---
 
 

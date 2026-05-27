@@ -5,6 +5,7 @@ date: 2026-05-12
 youtube_id: "8qF1ZKtZePw"
 channel: 'Dim Tooley'
 category: ["Thomas", "Dim Tooley"]
+ia_id: "thomas-dall-archive-2026-05-12-potatooflife-thinks-he-should-have-access-to-children-8qf1zktzepw"
 ---
 
 

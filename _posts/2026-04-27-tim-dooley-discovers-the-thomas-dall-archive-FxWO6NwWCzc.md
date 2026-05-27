@@ -5,6 +5,7 @@ date: 2026-04-27
 youtube_id: "FxWO6NwWCzc"
 channel: "Thomas Dall Archive"
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-04-27-tim-dooley-discovers-the-thomas-dall-archive-fxwo6nwwczc"
 ---
 
 

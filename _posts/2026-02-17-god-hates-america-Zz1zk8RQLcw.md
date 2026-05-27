@@ -5,6 +5,7 @@ date: 2026-02-17
 youtube_id: "Zz1zk8RQLcw"
 channel: 'GRIM'
 category: ["Thomas", "GRIM"]
+ia_id: "thomas-dall-archive-2026-02-17-god-hates-america-zz1zk8rqlcw"
 ---
 
 

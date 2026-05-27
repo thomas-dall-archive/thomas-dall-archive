@@ -5,6 +5,7 @@ date: 2025-07-05
 youtube_id: "21AqJ1VM8FI"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-05-metalorian-bounty-of-the-stars-21aqj1vm8fi"
 ---
 
 

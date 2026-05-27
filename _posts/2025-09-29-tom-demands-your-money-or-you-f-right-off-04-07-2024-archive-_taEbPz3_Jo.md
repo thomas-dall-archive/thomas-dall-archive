@@ -5,6 +5,7 @@ date: 2025-09-29
 youtube_id: "_taEbPz3_Jo"
 channel: "Zombies Archive and Friends"
 category: ["Thomas", "Zombies Archive and Friends"]
+ia_id: "thomas-dall-archive-2025-09-29-tom-demands-your-money-or-you-f-right-off-04-07-2024-archive--taebpz3"
 ---
 
 

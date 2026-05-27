@@ -5,6 +5,7 @@ date: 2025-08-18
 youtube_id: "ycFNEA3AOgA"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-08-18-tool-of-the-prophet-ycfnea3aoga"
 ---
 
 

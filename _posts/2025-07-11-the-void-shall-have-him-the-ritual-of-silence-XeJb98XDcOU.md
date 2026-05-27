@@ -5,6 +5,7 @@ date: 2025-07-11
 youtube_id: "XeJb98XDcOU"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-11-the-void-shall-have-him-the-ritual-of-silence-xejb98xdcou"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-07-30
 youtube_id: "og2jOolWLic"
 channel: "420Moon☪️💚"
 category: ["Thomas", "420Moon☪️💚"]
+ia_id: "thomas-dall-archive-2025-07-30-s-tarot-card-readings-og2joolwlic"
 ---
 
 

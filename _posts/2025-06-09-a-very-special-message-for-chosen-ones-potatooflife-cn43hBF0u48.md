@@ -5,6 +5,7 @@ date: 2025-06-09
 youtube_id: "cn43hBF0u48"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-06-09-a-very-special-message-for-chosen-ones-potatooflife-cn43hbf0u48"
 ---
 
 

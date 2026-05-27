@@ -5,6 +5,7 @@ date: 2025-09-28
 youtube_id: "bEOojyqR8-c"
 channel: "Zombies Archive and Friends"
 category: ["Thomas", "Zombies Archive and Friends"]
+ia_id: "thomas-dall-archive-2025-09-28-mashed-potato-kitty-claims-160-iq-beoojyqr8-c"
 ---
 
 

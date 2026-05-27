@@ -5,6 +5,7 @@ date: 2025-07-31
 youtube_id: "gh8EwknO23Y"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-07-31-quick-rage-potato-said-something-dumb-gh8ewkno23y"
 ---
 
 

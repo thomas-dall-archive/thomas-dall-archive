@@ -5,6 +5,7 @@ date: 2025-06-12
 youtube_id: "oQTlbXlFifo"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-06-12-potato-lays-out-his-resurrection-formula-says-it-would-work-for-peopl"
 ---
 
 

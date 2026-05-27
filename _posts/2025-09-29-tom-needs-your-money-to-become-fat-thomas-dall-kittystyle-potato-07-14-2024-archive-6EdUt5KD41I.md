@@ -5,6 +5,7 @@ date: 2025-09-29
 youtube_id: "6EdUt5KD41I"
 channel: "Zombies Archive and Friends"
 category: ["Thomas", "Zombies Archive and Friends"]
+ia_id: "thomas-dall-archive-2025-09-29-tom-needs-your-money-to-become-fat-thomas-dall-kittystyle-potato-07-1"
 ---
 
 
