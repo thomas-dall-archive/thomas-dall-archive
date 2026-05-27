@@ -5,6 +5,7 @@ date: 2025-04-08
 youtube_id: "DW7StR0xfbg"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-04-08-deepseek-trolls-potato-and-we-evaluate-his-claims-of-being-crucified-"
 ---
 
 

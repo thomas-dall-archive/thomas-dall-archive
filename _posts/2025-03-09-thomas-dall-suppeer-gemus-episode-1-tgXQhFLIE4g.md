@@ -5,6 +5,7 @@ date: 2025-03-09
 youtube_id: "tgXQhFLIE4g"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-03-09-thomas-dall-suppeer-gemus-episode-1-tgxqhflie4g"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-04-12
 youtube_id: "6btneLxR-wI"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2025-04-12-thomas-dall-making-friends-6btnelxr-wi"
 ---
 
 

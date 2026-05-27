@@ -5,6 +5,7 @@ date: 2025-04-02
 youtube_id: "0Lgio2JTiA0"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-04-02-potato-demonstrates-ideal-potato-behavior-0lgio2jtia0"
 ---
 
 

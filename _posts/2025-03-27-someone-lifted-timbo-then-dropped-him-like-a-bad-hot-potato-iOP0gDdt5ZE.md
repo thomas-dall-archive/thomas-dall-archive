@@ -5,6 +5,7 @@ date: 2025-03-27
 youtube_id: "iOP0gDdt5ZE"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-03-27-someone-lifted-timbo-then-dropped-him-like-a-bad-hot-potato-iop0gddt5"
 ---
 
 

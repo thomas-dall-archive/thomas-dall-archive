@@ -5,6 +5,7 @@ date: 2025-04-28
 youtube_id: "eMT3badjK58"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2025-04-28-once-upon-a-time-in-haderslev-emt3badjk58"
 ---
 
 

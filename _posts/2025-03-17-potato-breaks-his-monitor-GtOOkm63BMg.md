@@ -5,6 +5,7 @@ date: 2025-03-17
 youtube_id: "GtOOkm63BMg"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-03-17-potato-breaks-his-monitor-gtookm63bmg"
 ---
 
 

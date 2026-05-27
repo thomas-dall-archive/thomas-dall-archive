@@ -5,6 +5,7 @@ date: 2025-04-14
 youtube_id: "u6ecoDbzd7s"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-04-14-is-potato-the-new-cyraxx-and-andy-ditch-defender-several-reasons-why-"
 ---
 
 

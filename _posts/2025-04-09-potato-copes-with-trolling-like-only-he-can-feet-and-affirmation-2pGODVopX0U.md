@@ -5,6 +5,7 @@ date: 2025-04-09
 youtube_id: "2pGODVopX0U"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-04-09-potato-copes-with-trolling-like-only-he-can-feet-and-affirmation-2pgo"
 ---
 
 

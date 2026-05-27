@@ -5,6 +5,7 @@ date: 2025-04-14
 youtube_id: "4uiAwwhHtfg"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2025-04-14-thomas-yells-until-out-of-breath-and-calls-the-danish-police-4uiawwhh"
 ---
 
 

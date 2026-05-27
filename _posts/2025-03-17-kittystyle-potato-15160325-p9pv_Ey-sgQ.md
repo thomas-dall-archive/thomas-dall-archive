@@ -5,6 +5,7 @@ date: 2025-03-17
 youtube_id: "p9pv_Ey-sgQ"
 channel: "Emp"
 category: ["commentary", "Emp"]
+ia_id: "thomas-dall-archive-2025-03-17-kittystyle-potato-15160325-p9pv-ey-sgq"
 ---
 
 

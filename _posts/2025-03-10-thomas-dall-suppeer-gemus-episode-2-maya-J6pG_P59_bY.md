@@ -5,6 +5,7 @@ date: 2025-03-10
 youtube_id: "J6pG_P59_bY"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-03-10-thomas-dall-suppeer-gemus-episode-2-maya-j6pg-p59-by"
 ---
 
 

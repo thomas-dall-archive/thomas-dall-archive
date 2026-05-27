@@ -5,6 +5,7 @@ date: 2025-03-16
 youtube_id: "GKCnbI647B4"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-03-16-kittystyle-tim-dooley-smashes-his-computer-screen-and-blames-it-on-tr"
 ---
 
 

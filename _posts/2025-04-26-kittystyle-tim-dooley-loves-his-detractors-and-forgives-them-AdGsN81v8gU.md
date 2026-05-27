@@ -5,6 +5,7 @@ date: 2025-04-26
 youtube_id: "AdGsN81v8gU"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2025-04-26-kittystyle-tim-dooley-loves-his-detractors-and-forgives-them-adgsn81v"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-05-13
 youtube_id: "Gxkzoe3zMN4"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-05-13-what-if-potato-were-big-brother-the-12-minutes-or-so-of-hate-gxkzoe3z"
 ---
 
 

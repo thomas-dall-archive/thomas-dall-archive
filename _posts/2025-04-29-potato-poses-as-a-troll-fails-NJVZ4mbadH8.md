@@ -5,6 +5,7 @@ date: 2025-04-29
 youtube_id: "NJVZ4mbadH8"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-04-29-potato-poses-as-a-troll-fails-njvz4mbadh8"
 ---
 
 

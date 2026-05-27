@@ -5,6 +5,7 @@ date: 2025-04-04
 youtube_id: "iFQpjV2mmzg"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-04-04-potato-struggles-with-understanding-reality-again-ifqpjv2mmzg"
 ---
 
 

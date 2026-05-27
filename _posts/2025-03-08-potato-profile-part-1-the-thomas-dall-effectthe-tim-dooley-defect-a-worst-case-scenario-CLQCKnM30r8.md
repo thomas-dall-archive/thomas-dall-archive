@@ -5,6 +5,7 @@ date: 2025-03-08
 youtube_id: "CLQCKnM30r8"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-03-08-potato-profile-part-1-the-thomas-dall-effectthe-tim-dooley-defect-a-w"
 ---
 
 

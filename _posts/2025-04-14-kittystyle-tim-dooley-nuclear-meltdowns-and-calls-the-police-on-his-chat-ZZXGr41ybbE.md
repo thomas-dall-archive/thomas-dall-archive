@@ -5,6 +5,7 @@ date: 2025-04-14
 youtube_id: "ZZXGr41ybbE"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-04-14-kittystyle-tim-dooley-nuclear-meltdowns-and-calls-the-police-on-his-c"
 ---
 
 

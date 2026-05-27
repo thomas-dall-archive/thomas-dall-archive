@@ -5,6 +5,7 @@ date: 2025-05-13
 youtube_id: "Xunrzt8803E"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-05-13-kittystyle-tim-dooley-deranged-post-irl-meltdown-xunrzt8803e"
 ---
 
 

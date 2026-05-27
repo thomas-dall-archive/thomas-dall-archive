@@ -5,6 +5,7 @@ date: 2025-03-16
 youtube_id: "Dr7NLffqj1o"
 channel: "3 lansenervej haderslev denmark"
 category: ["Thomas", "3 lansenervej haderslev denmark"]
+ia_id: "thomas-dall-archive-2025-03-16-thomas-dall-of-3-lansenervej-haderslev-denmark-crying-over-his-broken"
 ---
 
 

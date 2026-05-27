@@ -5,6 +5,7 @@ date: 2025-05-05
 youtube_id: "Q-BHSwGllFg"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-05-05-potato-finds-an-ai-unwilling-to-support-his-delusion-tries-breaking-i"
 ---
 
 

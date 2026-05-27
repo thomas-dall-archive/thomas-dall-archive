@@ -5,6 +5,7 @@ date: 2025-05-16
 youtube_id: "j0J3YxwBLWY"
 channel: "420Moon☪️💚"
 category: ["Thomas", "420Moon☪️💚"]
+ia_id: "thomas-dall-archive-2025-05-16-ai-tells-man-no-j0j3yxwblwy"
 ---
 
 

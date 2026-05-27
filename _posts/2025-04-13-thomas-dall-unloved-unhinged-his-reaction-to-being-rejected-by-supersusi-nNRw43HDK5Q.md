@@ -5,6 +5,7 @@ date: 2025-04-13
 youtube_id: "nNRw43HDK5Q"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2025-04-13-thomas-dall-unloved-unhinged-his-reaction-to-being-rejected-by-supers"
 ---
 
 

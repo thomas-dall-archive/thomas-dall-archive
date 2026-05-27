@@ -5,6 +5,7 @@ date: 2025-04-12
 youtube_id: "A0sot0Dk8OY"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2025-04-12-thomas-breaks-his-screen-makes-mommy-pay-when-he-receives-no-donation"
 ---
 
 

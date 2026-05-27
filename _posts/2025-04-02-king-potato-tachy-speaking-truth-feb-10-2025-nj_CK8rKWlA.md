@@ -5,6 +5,7 @@ date: 2025-04-02
 youtube_id: "nj_CK8rKWlA"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
 category: ["Thomas", "Tim "]
+ia_id: "thomas-dall-archive-2025-04-02-king-potato-tachy-speaking-truth-feb-10-2025-nj-ck8rkwla"
 ---
 
 

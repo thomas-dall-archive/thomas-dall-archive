@@ -5,6 +5,7 @@ date: 2025-04-10
 youtube_id: "HS_QtIEGxs0"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-04-10-potato-says-not-talking-to-him-is-discrimination-because-he-has-adhd-"
 ---
 
 

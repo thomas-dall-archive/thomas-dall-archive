@@ -5,6 +5,7 @@ date: 2025-03-17
 youtube_id: "s-nshGI5x5I"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
 category: ["commentary", "Tim "]
+ia_id: "thomas-dall-archive-2025-03-17-noopy-borrows-money-from-marty-to-donate-to-potato-s-nshgi5x5i"
 ---
 
 

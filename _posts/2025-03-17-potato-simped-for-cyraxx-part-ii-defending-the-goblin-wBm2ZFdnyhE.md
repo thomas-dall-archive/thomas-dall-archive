@@ -5,6 +5,7 @@ date: 2025-03-17
 youtube_id: "wBm2ZFdnyhE"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-03-17-potato-simped-for-cyraxx-part-ii-defending-the-goblin-wbm2zfdnyhe"
 ---
 
 
