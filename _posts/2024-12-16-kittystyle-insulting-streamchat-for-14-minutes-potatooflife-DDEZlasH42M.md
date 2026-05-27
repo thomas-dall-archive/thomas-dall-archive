@@ -5,6 +5,7 @@ date: 2024-12-16
 youtube_id: "DDEZlasH42M"
 channel: "Thorgrax"
 category: ["Thomas", "Thorgrax"]
+ia_id: "thomas-dall-archive-2024-12-16-kittystyle-insulting-streamchat-for-14-minutes-potatooflife-ddezlash4"
 ---
 
 

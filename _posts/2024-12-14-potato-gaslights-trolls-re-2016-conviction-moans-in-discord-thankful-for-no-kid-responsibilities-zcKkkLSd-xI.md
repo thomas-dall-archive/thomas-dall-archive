@@ -5,6 +5,7 @@ date: 2024-12-14
 youtube_id: "zcKkkLSd-xI"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-12-14-potato-gaslights-trolls-re-2016-conviction-moans-in-discord-thankful-"
 ---
 
 
