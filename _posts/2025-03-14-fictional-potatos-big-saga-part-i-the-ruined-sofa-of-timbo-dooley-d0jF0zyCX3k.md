@@ -5,6 +5,7 @@ date: 2025-03-14
 youtube_id: "d0jF0zyCX3k"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-03-14-fictional-potato-d0jf0zycx3k"
 ---
 
 

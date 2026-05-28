@@ -5,6 +5,7 @@ date: 2024-12-31
 youtube_id: "qXKOPQvWGcA"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-12-31-potato-misses-the-point-again-again-qxkopqvwgca"
 ---
 
 

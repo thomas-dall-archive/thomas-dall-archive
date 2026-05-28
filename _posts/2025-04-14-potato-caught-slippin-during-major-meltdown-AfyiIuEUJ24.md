@@ -5,6 +5,7 @@ date: 2025-04-14
 youtube_id: "AfyiIuEUJ24"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-04-14-potato-caught-slippin-afyiiueuj24"
 ---
 
 

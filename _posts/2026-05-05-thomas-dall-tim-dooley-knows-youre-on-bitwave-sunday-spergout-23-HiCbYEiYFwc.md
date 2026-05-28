@@ -5,6 +5,7 @@ date: 2026-05-05
 youtube_id: "HiCbYEiYFwc"
 channel: "Thomas Dall Archive"
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-05-05-thomas-dall-tim-dooley-knows-you-hicbyeiyfwc"
 ---
 
 

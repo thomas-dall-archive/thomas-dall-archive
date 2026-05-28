@@ -5,6 +5,7 @@ date: 2024-12-17
 youtube_id: "nrSl3-KR2tU"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-12-17-potato-admits-he-didn-nrsl3-kr2tu"
 ---
 
 

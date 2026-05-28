@@ -5,6 +5,7 @@ date: 2024-12-17
 youtube_id: "qcBF4EubyMk"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-12-17-potato-fails-to-make-friends-avoids-jail-though-qcbf4eubymk"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-01-05
 youtube_id: "rU0S4tP5fWU"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-01-05-potato-claims-ridiculous-record-wonders-why-he-isn-ru0s4tp5fwu"
 ---
 
 

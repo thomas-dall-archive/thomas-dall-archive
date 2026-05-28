@@ -5,6 +5,7 @@ date: 2024-12-09
 youtube_id: "Q6KL51PTiyM"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-12-09-potato-q6kl51ptiym"
 ---
 
 

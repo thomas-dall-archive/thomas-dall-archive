@@ -5,6 +5,7 @@ date: 2025-03-20
 youtube_id: "xWYQIC2xIZQ"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-03-20-potato-moos-about-xwyqic2xizq"
 ---
 
 

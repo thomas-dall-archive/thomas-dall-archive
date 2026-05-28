@@ -5,6 +5,7 @@ date: 2024-12-27
 youtube_id: "wVGHAkZMZU0"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-12-27-potato-blows-a-chance-turns-on-gg-leaves-marty-out-to-dry-part-ii-wvg"
 ---
 
 

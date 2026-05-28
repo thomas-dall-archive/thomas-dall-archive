@@ -5,6 +5,7 @@ date: 2024-12-03
 youtube_id: "lenEMeGOW-8"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-12-03-potato-lenemegow-8"
 ---
 
 

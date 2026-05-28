@@ -5,6 +5,7 @@ date: 2024-12-22
 youtube_id: "NS4P9xWF0Zc"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-12-22-to-potato-from-me-ns4p9xwf0zc"
 ---
 
 

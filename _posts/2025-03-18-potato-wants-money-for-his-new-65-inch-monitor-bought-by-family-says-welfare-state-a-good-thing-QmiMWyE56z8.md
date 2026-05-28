@@ -5,6 +5,7 @@ date: 2025-03-18
 youtube_id: "QmiMWyE56z8"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-03-18-potato-wants-money-for-his-new-65-inch-qmimwye56z8"
 ---
 
 

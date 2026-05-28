@@ -5,6 +5,7 @@ date: 2024-12-02
 youtube_id: "1HkesP52X8k"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-12-02-potato-thinks-he-isn-1hkesp52x8k"
 ---
 
 

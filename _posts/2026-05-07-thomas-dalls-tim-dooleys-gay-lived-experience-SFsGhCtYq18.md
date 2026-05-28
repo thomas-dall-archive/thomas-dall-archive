@@ -5,6 +5,7 @@ date: 2026-05-07
 youtube_id: "SFsGhCtYq18"
 channel: "Thomas Dall Archive"
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-05-07-thomas-dall-sfsghctyq18"
 ---
 
 

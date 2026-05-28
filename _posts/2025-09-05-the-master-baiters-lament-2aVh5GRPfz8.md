@@ -5,6 +5,7 @@ date: 2025-09-05
 youtube_id: "2aVh5GRPfz8"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-09-05-the-master-baiter-2avh5grpfz8"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-02-05
 youtube_id: "IrgDHZtKSD4"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-02-05-potato-exposed-after-15-hour-grift-fest-about-marty-irgdhztksd4"
 ---
 
 

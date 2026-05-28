@@ -5,6 +5,7 @@ date: 2023-11-24
 youtube_id: "8Kjo-v5zEU0"
 channel: 'Zugzug Zugzugson'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2023-11-24-luckiest-guy-in-the-world-enters-kitty-8kjo-v5zeu0"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2023-11-14
 youtube_id: "hhMXQiYFtec"
 channel: 'Zugzug Zugzugson'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2023-11-14-morning-confessions-in-kitty-hhmxqiyftec"
 ---
 
 

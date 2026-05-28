@@ -5,6 +5,7 @@ date: 2025-10-13
 youtube_id: "pVOQH1bHwkk"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-10-13-ai-declares-a-god-it-pvoqh1bhwkk"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-01-19
 youtube_id: "Fvonudc_RoY"
 channel: "Irrational Potato"
 category: ["Thomas", "Irrational Potato"]
+ia_id: "thomas-dall-archive-2025-01-19-kittystyle-the-potato-of-life-tim-dooley-aka-thomas-dall-sister-fiste"
 ---
 
 

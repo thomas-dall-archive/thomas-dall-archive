@@ -5,6 +5,7 @@ date: 2026-05-15
 youtube_id: "vh2f_Va8stA"
 channel: 'Dim Tooley'
 category: ["Thomas", "Dim Tooley"]
+ia_id: "thomas-dall-archive-2026-05-15-some-of-the-most-bizarre-ramblings-i-vh2f-va8sta"
 ---
 
 

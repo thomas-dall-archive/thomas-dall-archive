@@ -5,6 +5,7 @@ date: 2025-01-07
 youtube_id: "2a3_DgYdotY"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-01-07-potato-blames-adhd-talks-women-reveals-past-and-gets-trolled-hard-2a3"
 ---
 
 

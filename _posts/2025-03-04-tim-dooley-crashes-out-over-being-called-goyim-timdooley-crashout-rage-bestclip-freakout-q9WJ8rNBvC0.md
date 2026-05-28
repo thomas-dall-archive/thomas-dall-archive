@@ -5,6 +5,7 @@ date: 2025-03-04
 youtube_id: "q9WJ8rNBvC0"
 channel: "The Bridge Trolls"
 category: ["commentary", "The Bridge Trolls"]
+ia_id: "thomas-dall-archive-2025-03-04-tim-dooley-crashes-out-over-being-called-q9wj8rnbvc0"
 ---
 
 

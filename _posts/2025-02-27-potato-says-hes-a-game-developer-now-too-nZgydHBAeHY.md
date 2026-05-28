@@ -5,6 +5,7 @@ date: 2025-02-27
 youtube_id: "nZgydHBAeHY"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-02-27-potato-says-he-nzgydhbaehy"
 ---
 
 

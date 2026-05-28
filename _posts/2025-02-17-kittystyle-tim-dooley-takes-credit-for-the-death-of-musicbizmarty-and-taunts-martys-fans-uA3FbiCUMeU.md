@@ -5,6 +5,7 @@ date: 2025-02-17
 youtube_id: "uA3FbiCUMeU"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-02-17-kittystyle-tim-dooley-takes-credit-for-the-death-of-musicbizmarty-and"
 ---
 
 

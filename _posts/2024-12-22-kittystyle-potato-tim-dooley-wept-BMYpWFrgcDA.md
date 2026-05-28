@@ -5,6 +5,7 @@ date: 2024-12-22
 youtube_id: "BMYpWFrgcDA"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2024-12-22-kittystyle-potato-tim-dooley-wept-bmypwfrgcda"
 ---
 
 

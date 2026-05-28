@@ -5,6 +5,7 @@ date: 2025-03-19
 youtube_id: "jj1xB6QsK3A"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-03-19-timbo-jj1xb6qsk3a"
 ---
 
 

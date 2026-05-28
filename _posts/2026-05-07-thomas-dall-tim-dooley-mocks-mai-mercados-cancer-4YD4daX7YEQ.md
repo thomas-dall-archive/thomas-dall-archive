@@ -5,6 +5,7 @@ date: 2026-05-07
 youtube_id: "4YD4daX7YEQ"
 channel: "Thomas Dall Archive"
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-05-07-thomas-dall-tim-dooley-mocks-mai-mercado-4yd4dax7yeq"
 ---
 
 

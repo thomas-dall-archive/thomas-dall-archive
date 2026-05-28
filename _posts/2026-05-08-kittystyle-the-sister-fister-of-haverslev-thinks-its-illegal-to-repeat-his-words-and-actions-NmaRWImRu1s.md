@@ -5,6 +5,7 @@ date: 2026-05-08
 youtube_id: "NmaRWImRu1s"
 channel: "Dim Tooley"
 category: ["Thomas", "Dim Tooley"]
+ia_id: "thomas-dall-archive-2026-05-08-kittystyle-the-sister-fister-of-haverslev-thinks-it-nmarwimru1s"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-08-02
 youtube_id: "S8tzyUenyw0"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2025-08-02-kittystyle-tim-dooley-says-he-s8tzyuenyw0"
 ---
 
 

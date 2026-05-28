@@ -5,6 +5,7 @@ date: 2025-06-02
 youtube_id: "7w2zal7vvoU"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-06-02-song-for-potato-crap-7w2zal7vvou"
 ---
 
 

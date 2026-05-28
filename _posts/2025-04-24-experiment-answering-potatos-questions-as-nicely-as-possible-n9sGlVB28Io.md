@@ -5,6 +5,7 @@ date: 2025-04-24
 youtube_id: "n9sGlVB28Io"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-04-24-experiment-answering-potato-n9sglvb28io"
 ---
 
 

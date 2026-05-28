@@ -5,6 +5,7 @@ date: 2024-12-27
 youtube_id: "fr_XIAUBg14"
 channel: "Mondo Cane"
 category: ["Thomas", "Mondo Cane"]
+ia_id: "thomas-dall-archive-2024-12-27-kittystyle-tim-dooley-does-not-like-hats-fr-xiaubg14"
 ---
 
 

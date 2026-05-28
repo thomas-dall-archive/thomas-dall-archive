@@ -5,6 +5,7 @@ date: 2025-05-12
 youtube_id: "F9YBvyDNjOU"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-05-12-liar-arc-quick-update-potato-lies-about-mother-f9ybvydnjou"
 ---
 
 

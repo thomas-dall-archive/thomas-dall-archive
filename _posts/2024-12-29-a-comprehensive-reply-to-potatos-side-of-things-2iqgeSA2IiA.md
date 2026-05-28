@@ -5,6 +5,7 @@ date: 2024-12-29
 youtube_id: "2iqgeSA2IiA"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-12-29-a-comprehensive-reply-to-potato-2iqgesa2iia"
 ---
 
 

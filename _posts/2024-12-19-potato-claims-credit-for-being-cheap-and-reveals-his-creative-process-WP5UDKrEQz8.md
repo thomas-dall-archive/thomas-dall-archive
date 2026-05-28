@@ -5,6 +5,7 @@ date: 2024-12-19
 youtube_id: "WP5UDKrEQz8"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-12-19-potato-claims-credit-for-being-cheap-and-reveals-his-wp5udkreqz8"
 ---
 
 

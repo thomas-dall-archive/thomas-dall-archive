@@ -5,6 +5,7 @@ date: 2025-05-22
 youtube_id: "rcwZlZmHQhg"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-05-22-potato-acts-goofy-thinks-random-psychic-is-talking-to-him-and-admits-"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-02-01
 youtube_id: "mlAx51oXtxQ"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-02-01-song-a-pimple-in-humanity-mlax51oxtxq"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2026-05-15
 youtube_id: "SvXr31rSKig"
 channel: 'Thomas Dall Archive'
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-05-15-thomas-dall-tim-dooley-the-svxr31rskig"
 ---
 
 

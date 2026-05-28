@@ -5,6 +5,7 @@ date: 2025-02-11
 youtube_id: "nZfpGBR-ghE"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-02-11-potato-has-a-meltdown-can-nzfpgbr-ghe"
 ---
 
 

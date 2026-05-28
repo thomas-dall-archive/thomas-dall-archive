@@ -5,6 +5,7 @@ date: 2025-06-09
 youtube_id: "CSTCOV4pQq0"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-06-09-potatooflife-cstcov4pqq0"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2025-05-07
 youtube_id: "Ln7LXlTMDZo"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-05-07-meltdown-potato-he-ln7lxltmdzo"
 ---
 
 

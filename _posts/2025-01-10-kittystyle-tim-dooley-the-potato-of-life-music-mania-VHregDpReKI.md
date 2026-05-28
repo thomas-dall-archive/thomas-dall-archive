@@ -5,6 +5,7 @@ date: 2025-01-10
 youtube_id: "VHregDpReKI"
 channel: "Irrational Potato"
 category: ["commentary", "Irrational Potato"]
+ia_id: "thomas-dall-archive-2025-01-10-kittystyle-tim-dooley-the-potato-of-life-music-mania-vhregdpreki"
 ---
 
 

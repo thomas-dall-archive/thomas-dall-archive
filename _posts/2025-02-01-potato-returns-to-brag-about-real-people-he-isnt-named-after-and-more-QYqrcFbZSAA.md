@@ -5,6 +5,7 @@ date: 2025-02-01
 youtube_id: "QYqrcFbZSAA"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-02-01-potato-returns-to-brag-about-real-people-he-isn-qyqrcfbzsaa"
 ---
 
 

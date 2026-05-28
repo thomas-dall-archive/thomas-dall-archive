@@ -5,6 +5,7 @@ date: 2025-03-15
 youtube_id: "yrAjTP6BdvI"
 channel: 'Tim "Scooter" Fooley (Kittystyles)'
 category: ["Thomas", "Tim "]
+ia_id: "thomas-dall-archive-2025-03-15-the-tachy-tiddie-tantrum-didn-yrajtp6bdvi"
 ---
 
 

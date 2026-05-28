@@ -5,6 +5,7 @@ date: 2025-01-21
 youtube_id: "aRLZKV4_vak"
 channel: "Jan Dall"
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2025-01-21-juice6000-arlzkv4-vak"
 ---
 
 

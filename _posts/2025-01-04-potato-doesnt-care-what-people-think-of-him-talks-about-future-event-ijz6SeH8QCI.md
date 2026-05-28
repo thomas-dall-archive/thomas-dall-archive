@@ -5,6 +5,7 @@ date: 2025-01-04
 youtube_id: "ijz6SeH8QCI"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2025-01-04-potato-doesn-ijz6seh8qci"
 ---
 
 

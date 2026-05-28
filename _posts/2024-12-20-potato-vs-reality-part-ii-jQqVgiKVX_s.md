@@ -5,6 +5,7 @@ date: 2024-12-20
 youtube_id: "jQqVgiKVX_s"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2024-12-20-potato-vs-reality-part-ii-jqqvgikvx-s"
 ---
 
 
