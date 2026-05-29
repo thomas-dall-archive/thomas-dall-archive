@@ -44,7 +44,7 @@ title: Thomas Dall Shirt Watch
       
       // Calculate Days Worn
       const diffTime = Math.abs(today - currentObjDate);
-      const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+      const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24)) + 1;
       
       document.getElementById('days-worn').innerText = diffDays;
       document.getElementById('last-changed-date').innerText = currentObjDate.toLocaleDateString() + " at " + currentObjDate.toLocaleTimeString();
@@ -60,7 +60,7 @@ title: Thomas Dall Shirt Watch
         const thisChange = new Date(item.timestamp);
         // If there is a previous shirt in the list, calculate how long THIS shirt lasted
         const nextChange = data[index - 1] ? new Date(data[index - 1].timestamp) : new Date();
-        const daysLasted = Math.floor(Math.abs(nextChange - thisChange) / (1000 * 60 * 60 * 24));
+        const daysLasted = Math.floor(Math.abs(nextChange - thisChange) / (1000 * 60 * 60 * 24)) + 1;
 
         historyContainer.innerHTML += `
             <div style="background: #1a1a1a; padding: 15px; border-radius: 5px; display: flex; align-items: center; gap: 20px; margin-bottom: 10px; border: 1px solid #333;">
