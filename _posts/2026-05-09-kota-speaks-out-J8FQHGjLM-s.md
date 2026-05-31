@@ -5,6 +5,7 @@ date: 2026-05-09
 youtube_id: "J8FQHGjLM-s"
 channel: 'Teddy Divine'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-05-09-kota-speaks-out-j8fqhgjlm-s"
 ---
 
 
