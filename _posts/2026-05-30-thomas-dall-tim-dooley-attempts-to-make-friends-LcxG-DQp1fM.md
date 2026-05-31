@@ -5,6 +5,7 @@ date: 2026-05-30
 youtube_id: "LcxG-DQp1fM"
 channel: 'Thomas Dall Archive'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-05-30-thomas-dall-tim-dooley-attempts-to-make-friends-lcxg-dqp1fm"
 ---
 
 

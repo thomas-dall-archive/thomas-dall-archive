@@ -5,6 +5,7 @@ date: 2026-05-30
 youtube_id: "7lsQQq8pSHc"
 channel: '[PRAVUS]'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-05-30-tim-dooley-53026-7lsqqq8pshc"
 ---
 
 
