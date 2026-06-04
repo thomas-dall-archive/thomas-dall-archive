@@ -5,6 +5,7 @@ date: 2026-06-04
 youtube_id: "pKEvDEQU8f4"
 channel: 'Zombies Archive and Friends'
 category: ["Thomas", "Zombies Archive and Friends"]
+ia_id: "thomas-dall-archive-2026-06-04-kittystylesthomas-dall-burnt-pkevdequ8f4"
 ---
 
 ### Video Information

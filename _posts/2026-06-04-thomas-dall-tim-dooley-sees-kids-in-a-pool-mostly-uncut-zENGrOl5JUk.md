@@ -5,6 +5,7 @@ date: 2026-06-04
 youtube_id: "zENGrOl5JUk"
 channel: 'Thomas Dall Archive'
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-06-04-thomas-dall-tim-dooley-sees-kids-in-a-pool-mostly-uncut-zengrol5juk"
 ---
 
 ### Video Information
