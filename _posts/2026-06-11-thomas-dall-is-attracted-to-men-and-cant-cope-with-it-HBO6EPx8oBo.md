@@ -5,6 +5,7 @@ date: 2026-06-11
 youtube_id: "HBO6EPx8oBo"
 channel: 'Dim Tooley'
 category: ["Thomas", "Dim Tooley"]
+ia_id: "thomas-dall-archive-2026-06-11-thomas-dall-is-attracted-to-men-and-can-hbo6epx8obo"
 ---
 
 ### Video Information
