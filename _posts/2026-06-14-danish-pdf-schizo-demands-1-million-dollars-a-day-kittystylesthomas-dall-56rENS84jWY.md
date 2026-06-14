@@ -5,6 +5,7 @@ date: 2026-06-14
 youtube_id: "56rENS84jWY"
 channel: 'Zombies Archive and Friends'
 category: ["Thomas", "Zombies Archive and Friends"]
+ia_id: "thomas-dall-archive-2026-06-14-danish-pdf-schizo-demands-1-million-dollars-a-day-kittystylesthomas-d"
 ---
 
 ### Video Information
