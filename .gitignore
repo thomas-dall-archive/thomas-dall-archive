@@ -8,3 +8,8 @@
 # Keep ignoring crawler temp files and raw subtitle files
 temp_*
 *.vtt
+
+# Ignore Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/

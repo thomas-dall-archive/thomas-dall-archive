@@ -29,6 +29,7 @@ The definitive archive documenting the transition of Thomas Dall into Tim Dooley
 * [📡 TRANSMISSION ARCHIVE - TWEETS](./twitter-archive)
 * [📂 View Full Forensic Database by Source Channel]({{ '/archive/' | relative_url }})
 * [📺 View Secondary Analytics, Satire & Commentary Feed]({{ '/commentary/' | relative_url }})
+* [📡 LIVE OBSERVATION ROOM]({{ '/observation.html' | relative_url }})
 
 ---
 
