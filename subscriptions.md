@@ -78,9 +78,12 @@ This page displays a searchable archive of all indexed channel subscriptions, in
     
     .channel-description {
         white-space: pre-wrap;
+        overflow-wrap: break-word;
+        word-break: break-word;
         font-size: 0.9em;
         line-height: 1.4;
         color: #ccc;
+        max-width: 100%;
     }
     
     #statsDisplay { color: #888; font-size: 0.9em; margin-bottom: 15px; }
