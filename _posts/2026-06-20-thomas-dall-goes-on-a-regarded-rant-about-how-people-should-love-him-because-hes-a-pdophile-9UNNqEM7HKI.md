@@ -5,6 +5,7 @@ date: 2026-06-20
 youtube_id: "9UNNqEM7HKI"
 channel: 'Dim Tooley'
 category: ["Thomas", "Dim Tooley"]
+ia_id: "thomas-dall-archive-2026-06-20-thomas-dall-goes-on-a-regarded-rant-about-how-people-should-love-him-"
 ---
 
 ### Video Information
