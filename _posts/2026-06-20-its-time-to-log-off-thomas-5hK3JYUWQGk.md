@@ -5,6 +5,7 @@ date: 2026-06-20
 youtube_id: "5hK3JYUWQGk"
 channel: 'Dim Tooley'
 category: ["Thomas", "Dim Tooley"]
+ia_id: "thomas-dall-archive-2026-06-20-it-5hk3jyuwqgk"
 ---
 
 ### Video Information
