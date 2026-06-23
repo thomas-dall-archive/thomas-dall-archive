@@ -6,7 +6,6 @@ youtube_id: "0vF7GJWCVxI"
 channel: 'Roboto San'
 category: ["commentary"]
 ia_id: "thomas-dall-archive-2025-04-07-potato-doesn-0vf7gjwcvxi"
-ia_id: "thomas-dall-archive-2024-05-24-kittystyle-potato69-is-dangerous-around-children-2024-jhkieu8wi-i"
 ---
 
 
