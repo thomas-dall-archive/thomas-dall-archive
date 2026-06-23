@@ -163,7 +163,7 @@ Despite claiming to be a "new being," the subject continues to utilize graphic t
 * **Graphic Public Threats:** The subject recorded an explicit monologue detailing ideations of sexual violence against minors as a "might as well" response to his public reputation.
 * Evidence: [Kittystyle (Thomas Dall) is dangerous around children #1]({% post_url 2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-1-5GQRw0juLqU %})
 * Evidence: [Kittystyle (Thomas Dall) is dangerous around children #2]({% post_url 2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-2-Ner_O-Bg4Xc %})
-* * Evidence: [Kittystyle / Potato69 is Dangerous Around Children 2024]({% post_url 2024-05-24-kittystyle-potato69-is-dangerous-around-children-2024-JhKiEU8WI-I %})
+* Evidence: [Kittystyle / Potato69 is Dangerous Around Children 2024]({% post_url 2024-05-24-kittystyle-potato69-is-dangerous-around-children-2024-JhKiEU8WI-I %})
 
 
 ### ⚔️ Religious Extremism & "Loving Fists" Doctrine
@@ -174,6 +174,7 @@ In 2025 broadcasts, the subject escalated his rhetoric to include explicit ideat
 * **Anti-Semitic Rhetoric:** Content includes derogatory caricatures and threats of "reckoning" against Jewish people who do not recognize his divinity.
 * Evidence: [Kittystyle / Tim Dooley Wants to Have FISTICUFFS With Jewish Rabbi]({% post_url 2025-06-14-kittystyle-tim-dooley-wants-to-have-fisticuffs-with-jewish-rabbi--z6v022OXHo %})
 * Evidence: [The Potato of Life Tim Dooley Meets a Rabbi at Christmas ]({% post_url 2025-12-25-the-potato-of-life-tim-dooley-meets-a-rabbi-at-christmas-ob__NGAhu3o %}) 
+
 ### 🛡️ Paranoid Defense Mechanisms: The "Mossad" Narrative
 As a primary method of dismissing documented evidence of his conduct, the subject utilizes paranoid conspiracies involving the state of Israel and intelligence agencies.
 
@@ -296,7 +297,6 @@ The "disappearing" nature of the subject's original uploads is a deliberate tact
 
 ### Primary Video Documentation
 
-> [!NOTE]
 > Evidence links are now post in-line with claims, this section kept as historical record of past iterations of the archive.
 
 * **Mondo Cane.** (2025, June 14). *Kittystyle / Tim Dooley Wants to Have FISTICUFFS With Jewish Rabbi* [Video]. YouTube. [https://www.youtube.com/watch?v=-z6v022OXHo](https://www.youtube.com/watch?v=-z6v022OXHo)
