@@ -91,6 +91,7 @@ In June 2016, the subject (operating as Thomas Dall) was arrested following a se
 * Evidence: [Kittystyle / Potato69 Audio Clip: A Question for Mai Mercado]({% post_url 2024-03-18-kittystyle-potato69-audio-clip-a-question-for-mai-mercado-lX4vFgCL800 %})
 * **Evidence:** [CPH Post News Archive (June 2016) "Danish MP receives death threats after praising police anti-drug raids on Facebook"](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/)
 * Evidence: [Kittystyle / Potato69 Seethes About Mai Mercado 2024]({% post_url 2024-03-18-kittystyle-potato69-seethes-about-mai-mercado-2024-zP6Ke-mz0sQ %})
+* Evidence: [Thomas Dall (Tim Dooley) Mocks Mai Mercado's Cancer]({% post_url 2026-05-07-thomas-dall-tim-dooley-mocks-mai-mercados-cancer-4YD4daX7YEQ %})
 
 >**Archival Insight:** This 2016 conviction establishes a legal precedent for the subject’s "Reactive Malice." It proves that his current (2024) threats against the families and children of his critics are not "empty words" but are part of a documented, recurring criminal behavior for which he has already been incarcerated.
 
@@ -194,7 +195,6 @@ In May 2024, the subject demonstrated a willingness to use the private informati
 * Evidence: [Kittystyle / Potato69 Threatens to Dox Family Members]({% post_url 2024-05-13-kittystyle-potato69-threatens-to-dox-family-members-nE48DugKCVE %}) 
 * Evidence: [God is Tims Hitman]({% post_url 2025-08-24-god-is-tims-hitman-1vmVNkKwFrc %})
 * Evidence: [Kittystyle / Tim Dooley Discusses Doxing Chatters & Having Minors in his Discord Server]({% post_url 2025-01-02-kittystyle-tim-dooley-discusses-doxing-chatters-having-minors-in-his-discord-server-uCBlUaai3fQ %})
-* Evidence: [Thomas Dall (Tim Dooley) Mocks Mai Mercado's Cancer]({% post_url 2026-05-07-thomas-dall-tim-dooley-mocks-mai-mercados-cancer-4YD4daX7YEQ %})
 * Evidence: [Kittystyle / Potato69 is Dangerous Around Children 2024]({% post_url 2024-05-24-kittystyle-potato69-is-dangerous-around-children-2024-JhKiEU8WI-I %})
 
 >**Archival Insight:** This behavior confirms that the subject's pattern of "reactive malice" has expanded to include the targeting of families and children, utilizing doxing as a primary tool of enforcement for his digital "boundaries."
