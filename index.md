@@ -68,7 +68,7 @@ The subject has publicly admitted to a 2013 violent episode documented in court 
 * **The Incident:** The subject **punched a woman in the face 3–5 times** and **kicked her in the ribs** while she was prone on the floor.
 * **Medical Findings:** The victim suffered a 3x4cm hematoma on the skull and multiple bruises on her torso.
 * **Subject's Stance:** He justified the assault as "making her surrender" and expressed no remorse, citing his ability to "win in court" as a point of pride.
-* Evidence: [Kittystyle Potato Time Dooley Reads Psychiatric Report and Tells Story of Brutalising a Woman]({{ '/_posts/2024-10-16-kittystyle-potato-tim-dooley-reads-psychiatric-report-and-tells-story-of-brutalising-a-woman-SYt3U1r21l0' | relative_url }})
+* Evidence: [Kittystyle Potato Time Dooley Reads Psychiatric Report and Tells Story of Brutalising a Woman]({% post_url 2024-10-16-kittystyle-potato-tim-dooley-reads-psychiatric-report-and-tells-story-of-brutalising-a-woman-SYt3U1r21l0 %})
 
 >**Archival Insight:** Archival Insight: This 2013 incident establishes the subject's baseline for physical escalation and a total absence of victim empathy. His justification of the assault as "making her surrender" is a direct precursor to his current "Loving Fists" doctrine, where he frames physical or verbal abuse as a "divine necessity." By documenting this, the archive proves that his current rhetoric is merely a modern rebranding of a long-standing pattern of interpersonal violence.
 
@@ -77,7 +77,7 @@ In a 2024 broadcast, the subject read from his court-appointed psychiatric evalu
 * **Diagnoses:** Identified traits of **Passive-Aggressive, Schizotypal, Narcissistic, Paranoid, Borderline, and Antisocial** disturbances.
 * **Grandiose Compensation:** Clinicians noted his "grandiose" self-reflection is a mechanism used to mask **deep-seated low self-esteem**.
 * **Distorted Perception:** The report documented a tendency to misinterpret neutral actions as **hidden threats or betrayals**, leading to social withdrawal and authority resistance.
-* Evidence: [Kittystyle Potato Time Dooley Reads Psychiatric Report and Tells Story of Brutalising a Woman]({{ '/_posts/2024-10-16-kittystyle-potato-tim-dooley-reads-psychiatric-report-and-tells-story-of-brutalising-a-woman-SYt3U1r21l0' | relative_url }})
+* Evidence: [Kittystyle Potato Time Dooley Reads Psychiatric Report and Tells Story of Brutalising a Woman]({% post_url 2024-10-16-kittystyle-potato-tim-dooley-reads-psychiatric-report-and-tells-story-of-brutalising-a-woman-SYt3U1r21l0 %})
 
 >**Archival Insight:** This profile provides the psychological blueprint for the subject’s "Tim Dooley" persona. The **"Grandiose Compensation"** identified by clinicians has evolved from a defense mechanism into a full-scale religious delusion (claiming to be God). Furthermore, the **"Distorted Perception"** of neutral actions as betrayals explains his current pattern of retaliatory doxing and familial threats against anyone who documents his public history.
 
@@ -88,9 +88,9 @@ In June 2016, the subject (operating as Thomas Dall) was arrested following a se
 * **Targeting of Minors:** Critically, the threats specifically targeted Mercado’s newborn child, a precursor to the familial threats observed in his 2024 broadcasts against his critics.
 * **Legal Outcome:** The subject was tried and convicted for these threats. Investigative records and media reports from *The Copenhagen Post* confirm he served time in a psychiatric ward/prison facility as a direct result of this criminal conduct.
 * **Political Connection:** Documentation notes that the subject is the nephew of former Danish politician Benny Dall, a fact he has occasionally referenced to proximity-associate himself with political authority while simultaneously attacking it.
-* Evidence: [Kittystyle / Potato69 Audio Clip: A Question for Mai Mercado]({{ '/_posts/2024-03-18-kittystyle-potato69-audio-clip-a-question-for-mai-mercado-lX4vFgCL800 1' | relative_url }})
+* Evidence: [Kittystyle / Potato69 Audio Clip: A Question for Mai Mercado]({% post_url 2024-03-18-kittystyle-potato69-audio-clip-a-question-for-mai-mercado-lX4vFgCL800 1 %})
 * Evidence: [CPH Post News Archive (June 2016) "Danish MP receives death threats after praising police anti-drug raids on Facebook"](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/)
-* Evidence: [Kittystyle / Potato69 Seethes About Mai Mercado 2024]({{ '/_posts/2024-03-18-kittystyle-potato69-seethes-about-mai-mercado-2024-zP6Ke-mz0sQ' | relative_url }})
+* Evidence: [Kittystyle / Potato69 Seethes About Mai Mercado 2024]({% post_url 2024-03-18-kittystyle-potato69-seethes-about-mai-mercado-2024-zP6Ke-mz0sQ %})
 
 >**Archival Insight:** This 2016 conviction establishes a legal precedent for the subject’s "Reactive Malice." It proves that his current (2024) threats against the families and children of his critics are not "empty words" but are part of a documented, recurring criminal behavior for which he has already been incarcerated.
 
@@ -106,12 +106,12 @@ While operating as **"Kittystyle,"** the subject’s history of familial abuse b
 * **Intent to Offend:** In October 2019, the subject recorded statements expressing a premeditated intent to seek out a minor and livestream the encounter.
 * **Retaliatory Threat Tactics:** The subject used threats of child abuse as a "retaliatory" weapon, claiming he would "become" a pedophile to spite his critics.
 * **Blame Externalization:** He explicitly stated that if he were to offend, the responsibility would lie with those who "radicalized" him by labeling him.
-* Evidence: [Kittystyle (Thomas Dall) is dangerous around children #1]({{ '/_posts/2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-1-5GQRw0juLqU' | relative_url }})
-* Evidence: [Kittystyle (Thomas Dall) is dangerous around children #2]({{ '/_posts/2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-2-Ner_O-Bg4Xc' | relative_url }})
+* Evidence: [Kittystyle (Thomas Dall) is dangerous around children #1]({% post_url 2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-1-5GQRw0juLqU %})
+* Evidence: [Kittystyle (Thomas Dall) is dangerous around children #2]({% post_url 2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-2-Ner_O-Bg4Xc %})
 * Evidence: [Screencap from Thomas Dall to estranged girlfriend confessing to the act.]({{ '/assets/kittystyle-logs.png' | relative_url }})
-* Evidence: [Thomas Dall Speaking to John Boulden and Admitting That the Confession is Real.]({{ '/_posts/2019-10-21-a-wild-john-boulden-appears-in-kittystyles-discord-server-vIRDVpy_njk' | relative_url }})
-* Evidence: [Clipped Portion from John Boulden Conversation]({{ '/_posts/2025-01-19-kittystyle-the-potato-of-life-tim-dooley-aka-thomas-dall-sister-fister-proof-Fvonudc_RoY' | relative_url }})
-* Evidence: [Clip where Kittystyle (Thomas Dall) Talks About the Confession in a Stream Chat]({{ '/_posts/2019-06-22-full-clip-of-kitty-admitting-he-molested-his-sister-v-pingspjiy-kxv1qCaGDTU' | relative_url }})
+* Evidence: [Thomas Dall Speaking to John Boulden and Admitting That the Confession is Real.]({% post_url 2019-10-21-a-wild-john-boulden-appears-in-kittystyles-discord-server-vIRDVpy_njk %})
+* Evidence: [Clipped Portion from John Boulden Conversation]({% post_url 2025-01-19-kittystyle-the-potato-of-life-tim-dooley-aka-thomas-dall-sister-fister-proof-Fvonudc_RoY %})
+* Evidence: [Clip where Kittystyle (Thomas Dall) Talks About the Confession in a Stream Chat]({% post_url 2019-06-22-full-clip-of-kitty-admitting-he-molested-his-sister-v-pingspjiy-kxv1qCaGDTU %})
  
 >**Archival Insight:** This era marks the most significant "Identity Pivot" in the subject's history. The transition from "Kittystyle" to "Tim Dooley" was not a spiritual evolution, but a tactical response to the public release of these confessions. By declaring "Kittystyle" to be dead, the subject attempts to grant himself a "digital pardon" for self-admitted conduct. Furthermore, his claim that critics "radicalized" him into predatory ideation is a classic manifestation of the "Externalization of Blame" identified in his 2013 clinical profile.
 
@@ -141,8 +141,8 @@ The witness provides specific details regarding the subject’s physical state, 
 * **Disturbing Fixations:** The subject demonstrated a "weird" obsession with the witness’s medical issues, specifically asking to watch her "peel" skin from burns or "pop boils."
 * **Reactive Violence:** Kota reports that when his control was challenged, the subject transitioned from "loving" rhetoric to explicit threats to **"slit her throat."**
 
-[* Link to Kota's Interview with Turk February]({{ '/_posts/2025-11-16-the-kota-prelude-expanded-and-enhanced-edition-Ni7iMLKpwaY' | relative_url }})
-[* Link to Kota's Interview with James Smith]({{ '/_posts/2026-01-15-the-interview-of-kota-kittystyles-ex-internet-gf-tim-dooley-Zf7kfAyOuq8.md' | relative_url }})
+- [Link to Kota's Interview with Turk February]({% post_url 2025-11-16-the-kota-prelude-expanded-and-enhanced-edition-Ni7iMLKpwaY %})
+- [Link to Kota's Interview with James Smith]({% post_url 2026-01-15-the-interview-of-kota-kittystyles-ex-internet-gf-tim-dooley-Zf7kfAyOuq8 %})
 
 >**Archival Insight:** The Kota Files are critical for "Entity Resolution" because they bridge the gap between the legal records (Thomas Dall) and the digital persona (Tim Dooley). Her testimony regarding his **"Hygiene Neglect"** and **"Interactions with persons Underage in a sexual context"** isn't just "drama"—it serves as behavioral proof of the Antisocial and Schizotypal traits identified by court clinicians in 2013. Furthermore, her confirmation of the estrangement of his sister, **Laura**, directly identifies the subject's current "reconciliation" narrative as a fabricated rebranding.
 
@@ -161,9 +161,9 @@ The subject refers to his former identity (Thomas Dall) as **"my son"** or **"Je
 Despite claiming to be a "new being," the subject continues to utilize graphic threats of child abuse as a weapon against critics.
 * **Reactive Malice:** In May 2024, the subject threatened to "go down the same road" of predatory behavior if the public continued to hold him accountable for his history.
 * **Graphic Public Threats:** The subject recorded an explicit monologue detailing ideations of sexual violence against minors as a "might as well" response to his public reputation.
-* Evidence: [Kittystyle (Thomas Dall) is dangerous around children #1]({{ '/_posts/2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-1-5GQRw0juLqU' | relative_url }})
-* Evidence: [Kittystyle (Thomas Dall) is dangerous around children #2]({{ '/_posts/2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-2-Ner_O-Bg4Xc' | relative_url }})
-* Evidence: [Kittystyle / Potato69 is Dangerous Around Children 2024]({{ '/_posts/2024-05-24-kittystyle-potato69-is-dangerous-around-children-2024-JhKiEU8WI-I.md' | relative_url }})
+* Evidence: [Kittystyle (Thomas Dall) is dangerous around children #1]({% post_url 2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-1-5GQRw0juLqU %})
+* Evidence: [Kittystyle (Thomas Dall) is dangerous around children #2]({% post_url 2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-2-Ner_O-Bg4Xc %})
+* Evidence: [Kittystyle / Potato69 is Dangerous Around Children 2024]({% post_url 2024-05-24-kittystyle-potato69-is-dangerous-around-children-2024-JhKiEU8WI-I %})
 
 
 ### ⚔️ Religious Extremism & "Loving Fists" Doctrine
@@ -172,8 +172,8 @@ In 2025 broadcasts, the subject escalated his rhetoric to include explicit ideat
 * **The ADL Quote:** Regarding the Anti-Defamation League, the subject stated:
   > *"I'll fight anyone from the ADL in a cage... to the death... then you can see what's stronger: God's fury or people that are trying to run away from God."*
 * **Anti-Semitic Rhetoric:** Content includes derogatory caricatures and threats of "reckoning" against Jewish people who do not recognize his divinity.
-* Evidence: [Kittystyle / Tim Dooley Wants to Have FISTICUFFS With Jewish Rabbi]({{ '/_posts/2025-06-14-kittystyle-tim-dooley-wants-to-have-fisticuffs-with-jewish-rabbi--z6v022OXHo' | relative_url }})
-* Evidence: [The Potato of Life Tim Dooley Meets a Rabbi at Christmas ]({{ '/_posts/2025-12-25-the-potato-of-life-tim-dooley-meets-a-rabbi-at-christmas-ob__NGAhu3o' | relative_url }}) 
+* Evidence: [Kittystyle / Tim Dooley Wants to Have FISTICUFFS With Jewish Rabbi]({% post_url 2025-06-14-kittystyle-tim-dooley-wants-to-have-fisticuffs-with-jewish-rabbi--z6v022OXHo %})
+* Evidence: [The Potato of Life Tim Dooley Meets a Rabbi at Christmas ]({% post_url 2025-12-25-the-potato-of-life-tim-dooley-meets-a-rabbi-at-christmas-ob__NGAhu3o %}) 
 ### 🛡️ Paranoid Defense Mechanisms: The "Mossad" Narrative
 As a primary method of dismissing documented evidence of his conduct, the subject utilizes paranoid conspiracies involving the state of Israel and intelligence agencies.
 
@@ -190,11 +190,11 @@ In May 2024, the subject demonstrated a willingness to use the private informati
 * **Threats against Children:** He explicitly threatened to display photographs of a critic's child on his livestream, framing the potential exposure as a "sacrifice" made by the critic.
 * **Mockery of Terminal Illness:** Utilizing his "divine" persona, the subject repeatedly mocked a critic's terminal cancer diagnosis, claiming the illness was a divine punishment he had "predicted" years prior
 * **Savior Narrative:** Despite these actions, the subject maintains a narrative of "divine victimhood," claiming he was "sent by God to help" those he is currently harassing.
-* Evidence: [Kittystyle / Potato69 Threatens to Dox Family Members]({{ '/_posts/2024-05-13-kittystyle-potato69-threatens-to-dox-family-members-nE48DugKCVE' | relative_url }}) 
-* Evidence: [God is Tims Hitman]({{ '/_posts/2025-08-24-god-is-tims-hitman-1vmVNkKwFrc' | relative_url }})
-* Evidence: [Kittystyle / Tim Dooley Discusses Doxing Chatters & Having Minors in his Discord Server]({{ '/_posts/2025-01-02-kittystyle-tim-dooley-discusses-doxing-chatters-having-minors-in-his-discord-server-uCBlUaai3fQ' | relative_url }})
-* Evidence: [Thomas Dall (Tim Dooley) Mocks Mai Mercado's Cancer]({{ '/_posts/2026-05-07-thomas-dall-tim-dooley-mocks-mai-mercados-cancer-4YD4daX7YEQ' | relative_url }})
-* Evidence: [Kittystyle / Potato69 is Dangerous Around Children 2024]({{ '/_posts/2024-05-24-kittystyle-potato69-is-dangerous-around-children-2024-JhKiEU8WI-I.md' | relative_url }})
+* Evidence: [Kittystyle / Potato69 Threatens to Dox Family Members]({% post_url 2024-05-13-kittystyle-potato69-threatens-to-dox-family-members-nE48DugKCVE %}) 
+* Evidence: [God is Tims Hitman]({% post_url 2025-08-24-god-is-tims-hitman-1vmVNkKwFrc %})
+* Evidence: [Kittystyle / Tim Dooley Discusses Doxing Chatters & Having Minors in his Discord Server]({% post_url 2025-01-02-kittystyle-tim-dooley-discusses-doxing-chatters-having-minors-in-his-discord-server-uCBlUaai3fQ %})
+* Evidence: [Thomas Dall (Tim Dooley) Mocks Mai Mercado's Cancer]({% post_url 2026-05-07-thomas-dall-tim-dooley-mocks-mai-mercados-cancer-4YD4daX7YEQ %})
+* Evidence: [Kittystyle / Potato69 is Dangerous Around Children 2024]({% post_url 2024-05-24-kittystyle-potato69-is-dangerous-around-children-2024-JhKiEU8WI-I %})
 
 >**Archival Insight:** This behavior confirms that the subject's pattern of "reactive malice" has expanded to include the targeting of families and children, utilizing doxing as a primary tool of enforcement for his digital "boundaries."
 
@@ -204,12 +204,12 @@ In his most recent broadcasts, the subject has transitioned from individual reta
 * **Mass Purge Rhetoric:** The subject has frequently referenced a "reckoning" or "purge," claiming that those who deny his divinity are "cancerous cells" that must be physically removed from the world.
 * **Threats against Archivists:** He has issued specific, violent threats against the operators of digital archives, promising to "physically end" their work and locating them to "settle the score".
 * **Weaponized Legal Threats:** He continues to use threats of false police reporting (swatting) as a tool of digital enforcement, claiming his "divine will" supersedes the legal rights of his critics.
-* Evidence: [Kittystyles Dreams of Murder]({{ '/_posts/2024-11-27-kittystyles-dreams-of-murder-WR621Wje6pA' | relative_url }})
-* Evidence: [God Shoots Potatos 9-year old Bully]({{ '/_posts/2025-08-24-god-shoots-potatos-9-year-old-bully-G07Qx7FYino' | relative_url }})
-* Evidence: [Kittystyle / Potato / Tim Dooley - Parking Lots]({{ '/_posts/2024-10-04-kittystyle-potato-tim-dooley-parking-lots-v6atnhfbEq8' | relative_url }})
-* Evidence: [Kittystyle / Potato69 Audio Clip: Beatings and Slashed Throats]({{ '/_posts/2024-03-18-kittystyle-potato69-audio-clip-beatings-and-slashed-throats-vnRH0ewxscU' | relative_url }})
-* Evidence: [Potato Returns To His Roots... Threats]({{ '/_posts/2025-02-13-thomas-dall-kittystyle-threatens-his-detractors-yet-again-CSOp7mSj9jI' | relative_url }})
-* Evidence: [Thomas Dall (Tim Dooley) Makes Freats at SuperSusi87]({{ '/_posts/2026-05-07-thomas-dall-tim-dooley-makes-freats-at-supersusi87-GBYtQHqMkJg' | relative_url }})
+* Evidence: [Kittystyles Dreams of Murder]({% post_url 2024-11-27-kittystyles-dreams-of-murder-WR621Wje6pA %})
+* Evidence: [God Shoots Potatos 9-year old Bully]({% post_url 2025-08-24-god-shoots-potatos-9-year-old-bully-G07Qx7FYino %})
+* Evidence: [Kittystyle / Potato / Tim Dooley - Parking Lots]({% post_url 2024-10-04-kittystyle-potato-tim-dooley-parking-lots-v6atnhfbEq8 %})
+* Evidence: [Kittystyle / Potato69 Audio Clip: Beatings and Slashed Throats]({% post_url 2024-03-18-kittystyle-potato69-audio-clip-beatings-and-slashed-throats-vnRH0ewxscU %})
+* Evidence: [Potato Returns To His Roots... Threats]({% post_url 2025-02-13-thomas-dall-kittystyle-threatens-his-detractors-yet-again-CSOp7mSj9jI %})
+* Evidence: [Thomas Dall (Tim Dooley) Makes Freats at SuperSusi87]({% post_url 2026-05-07-thomas-dall-tim-dooley-makes-freats-at-supersusi87-GBYtQHqMkJg %})
 
 
 >**Archival Insight:** This evolution represents the final stage of the "Grandiose Compensation" identified in 2013. By elevating himself to a "God" who can judge and "purge," he has removed all psychological barriers to violence, making his recent threats the highest-risk behavior documented in his 13-year history.
