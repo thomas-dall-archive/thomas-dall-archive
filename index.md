@@ -163,7 +163,7 @@ Despite claiming to be a "new being," the subject continues to utilize graphic t
 * **Graphic Public Threats:** The subject recorded an explicit monologue detailing ideations of sexual violence against minors as a "might as well" response to his public reputation.
 * Evidence: [Kittystyle (Thomas Dall) is dangerous around children #1]({{ '/_posts/2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-1-5GQRw0juLqU' | relative_url }})
 * Evidence: [Kittystyle (Thomas Dall) is dangerous around children #2]({{ '/_posts/2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-2-Ner_O-Bg4Xc' | relative_url }})
-* * Evidence: [Kittystyle / Potato69 is Dangerous Around Children 2024]({{ '/_posts/2024-05-24-kittystyle-potato69-is-dangerous-around-children-2024-JhKiEU8WI-I.md' | relative_url }})
+* Evidence: [Kittystyle / Potato69 is Dangerous Around Children 2024]({{ '/_posts/2024-05-24-kittystyle-potato69-is-dangerous-around-children-2024-JhKiEU8WI-I.md' | relative_url }})
 
 
 ### ⚔️ Religious Extremism & "Loving Fists" Doctrine
