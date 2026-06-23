@@ -5,6 +5,7 @@ date: 2026-01-15
 youtube_id: "Zf7kfAyOuq8"
 channel: 'James Smith'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-01-15-the-interview-of-kota-kittystyle-zf7kfayouq8"
 ---
 
 ### Video Information
