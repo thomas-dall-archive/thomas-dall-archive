@@ -13,3 +13,6 @@ temp_*
 _site/
 .sass-cache/
 .jekyll-cache/
+
+#ignore obsidian config
+.obsidian/
