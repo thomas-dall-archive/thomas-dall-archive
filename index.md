@@ -141,8 +141,8 @@ The witness provides specific details regarding the subject’s physical state, 
 * **Disturbing Fixations:** The subject demonstrated a "weird" obsession with the witness’s medical issues, specifically asking to watch her "peel" skin from burns or "pop boils."
 * **Reactive Violence:** Kota reports that when his control was challenged, the subject transitioned from "loving" rhetoric to explicit threats to **"slit her throat."**
 
-[Link to Kota's Interview with Turk February]({{ '/_posts/2025-11-16-the-kota-prelude-expanded-and-enhanced-edition-Ni7iMLKpwaY' | relative_url }})
-[Link to Kota's Interview with James Smith]({{ '/_posts/2026-01-15-the-interview-of-kota-kittystyles-ex-internet-gf-tim-dooley-Zf7kfAyOuq8.md' | relative_url }})
+[* Link to Kota's Interview with Turk February]({{ '/_posts/2025-11-16-the-kota-prelude-expanded-and-enhanced-edition-Ni7iMLKpwaY' | relative_url }})
+[* Link to Kota's Interview with James Smith]({{ '/_posts/2026-01-15-the-interview-of-kota-kittystyles-ex-internet-gf-tim-dooley-Zf7kfAyOuq8.md' | relative_url }})
 
 >**Archival Insight:** The Kota Files are critical for "Entity Resolution" because they bridge the gap between the legal records (Thomas Dall) and the digital persona (Tim Dooley). Her testimony regarding his **"Hygiene Neglect"** and **"Interactions with persons Underage in a sexual context"** isn't just "drama"—it serves as behavioral proof of the Antisocial and Schizotypal traits identified by court clinicians in 2013. Furthermore, her confirmation of the estrangement of his sister, **Laura**, directly identifies the subject's current "reconciliation" narrative as a fabricated rebranding.
 
