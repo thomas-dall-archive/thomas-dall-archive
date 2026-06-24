@@ -8,7 +8,7 @@ baseurl: "/thomas-dall-archive"
 # THEME & PLUGINS
 # -----------------------------------------------------------------------------
 # remote_theme: pages-themes/midnight@v0.2.0
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
 
 plugins:
   - jekyll-seo-tag
