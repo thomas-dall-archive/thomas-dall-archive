@@ -20,13 +20,33 @@ description: "Comprehensive dossier documenting the identity transitions, clinic
 
 ## Historical Record & Clinical Files
 
-* [👕 SHIRT WATCH]({{ '/shirt-watch.html' | relative_url }})
-* [📱 TRANSMISSION ARCHIVE - TWEETS]({{ '/twitter-archive' | relative_url }})
-* [🗄️ VIEW FULL FORENSIC DATABASE BY SOURCE CHANNEL]({{ '/archive/' | relative_url }})
-* [📊 VIEW SECONDARY ANALYTICS, SATIRE & COMMENTARY FEED]({{ '/commentary/' | relative_url }})
-* [👁️ LIVE OBSERVATION ROOM]({{ '/observation.html' | relative_url }})
-* [▶️ SUBJECT SUBSCRIPTIONS]({{ '/subscriptions/' | relative_url }})
-* [🎨 ART GALLERY]({{ '/gallery/' | relative_url }})
+<div style="display: flex; gap: 40px; margin: 20px 0;">
+  
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 15px;">
+    <a href="{{ '/archive/' | relative_url }}">🗄️ VIEW FULL FORENSIC DATABASE BY SOURCE CHANNEL</a>
+    <a href="{{ '/commentary/' | relative_url }}">📊 VIEW SECONDARY ANALYTICS, SATIRE & COMMENTARY FEED</a>
+    <a href="{{ '/twitter-archive' | relative_url }}">📱 TRANSMISSION ARCHIVE - TWEETS</a>
+    <a href="{{ '/shirt-watch.html' | relative_url }}">👕 SHIRT WATCH</a>
+    <a href="{{ '/subscriptions/' | relative_url }}">▶️ SUBJECT SUBSCRIPTIONS</a>
+    <a href="{{ '/observation.html' | relative_url }}">👁️ LIVE OBSERVATION ROOM</a>
+  </div>
+
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 15px;">
+    <a href="{{ '/gallery/' | relative_url }}">🎨 ART GALLERY</a>
+    <a href="{{ 'evidence-lockers/2019_01_05_Incest_Confession/ | relative_url}}"> Evidence Locker: 2019_01_05_Incest_Confession</a>
+    <a href="{{ 'evidence-lockers/2019_03_15_Disowns_Daughter/ | relative_url}}"> Evidence Locker: 2019_03_15_Disowns_Daughter/a>
+    <a href="{{ 'evidence-lockers/2019_03_29_Abandoned_Simba/ | relative_url}}"> Evidence Locker: 2019_03_29_Abandoned_Simba</a>
+  </div>
+
+</div>
+
+ [👕 SHIRT WATCH]({{ '/shirt-watch.html' | relative_url }})
+ [📱 TRANSMISSION ARCHIVE - TWEETS]({{ '/twitter-archive' | relative_url }})
+ [🗄️ VIEW FULL FORENSIC DATABASE BY SOURCE CHANNEL]({{ '/archive/' | relative_url }})
+ [📊 VIEW SECONDARY ANALYTICS, SATIRE & COMMENTARY FEED]({{ '/commentary/' | relative_url }})
+ [👁️ LIVE OBSERVATION ROOM]({{ '/observation.html' | relative_url }})
+ [▶️ SUBJECT SUBSCRIPTIONS]({{ '/subscriptions/' | relative_url }})
+ [🎨 ART GALLERY]({{ '/gallery/' | relative_url }})
 
 ---
 
