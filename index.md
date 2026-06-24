@@ -89,7 +89,8 @@ In June 2016, the subject (operating as Thomas Dall) was arrested following a se
 * **Legal Outcome:** The subject was tried and convicted for these threats. Investigative records and media reports from *The Copenhagen Post* confirm he served time in a psychiatric ward/prison facility as a direct result of this criminal conduct.
 * **Political Connection:** Documentation notes that the subject is the nephew of former Danish politician Benny Dall, a fact he has occasionally referenced to proximity-associate himself with political authority while simultaneously attacking it.
 * Evidence: [Kittystyle / Potato69 Audio Clip: A Question for Mai Mercado]({% post_url 2024-03-18-kittystyle-potato69-audio-clip-a-question-for-mai-mercado-lX4vFgCL800 %})
-* **Evidence:** [CPH Post News Archive (June 2016) "Danish MP receives death threats after praising police anti-drug raids on Facebook"](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/)
+* Evidence: [CPH Post News Archive (June 2016) "Danish MP receives death threats after praising police anti-drug raids on Facebook"](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/)
+* Evidence: [TV2.DK News Archive (June 2016) "After being charged with threats against politician: Man continued harassment"](https://nyheder.tv2.dk/krimi/2016-06-21-efter-sigtelse-for-trusler-mod-politiker-mand-fortsatte-chikane)
 * Evidence: [Kittystyle / Potato69 Seethes About Mai Mercado 2024]({% post_url 2024-03-18-kittystyle-potato69-seethes-about-mai-mercado-2024-zP6Ke-mz0sQ %})
 * Evidence: [Thomas Dall (Tim Dooley) Mocks Mai Mercado's Cancer]({% post_url 2026-05-07-thomas-dall-tim-dooley-mocks-mai-mercados-cancer-4YD4daX7YEQ %})
 
