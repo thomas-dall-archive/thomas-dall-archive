@@ -4,11 +4,6 @@ title: "Thomas Dall / Tim Dooley (The Potato of Life) | Public Archive"
 description: "Comprehensive dossier documenting the identity transitions, clinical history, and self-admitted conduct of Thomas Dall, also known as Tim Dooley."
 ---
 
-# Tim Dooley (Thomas Dall) | Forensic Archive 
-The definitive archive documenting the transition of Thomas Dall into Tim Dooley (The Potato of Life). This entity is currently under active observation.
-
----
-
 ### 🚨 Active Monitoring Log
 > **System Status:** Receiving Automated Updates
 <ul>
@@ -85,28 +80,28 @@ In a 2024 broadcast, the subject read from his court-appointed psychiatric evalu
 ### 🔹 2016: Terroristic Threats against MP Mai Mercado
 In June 2016, the subject (operating as Thomas Dall) was arrested following a series of high-level threats against Danish MP Mai Mercado. 
 
-##### 📃 Facebook Post Quotes Translated:
-> "I have a question for Mai Mercado.  
+####   📃 Facebook Post Quotes Translated:
+>   "I have a question for Mai Mercado.  
 > 
-> Do you want to die?  
+>   Do you want to die?  
 > 
-> Because if you really do, then by all means do whatever suits you. Then you can see if you end up like the woman in England.  
+>   Because if you really do, then by all means do whatever suits you. Then you can see if you end up like the woman in England.  
 > 
-> You are playing with your own life, and your child’s life. So consider yourself warned.  
+>   You are playing with your own life, and your child’s life. So consider yourself warned.  
 > 
-> (P.S. I couldn’t come up with anything better, but I can totally understand if others feel like they want to stab a knife into you and your baby 😊)"  
+>   (P.S. I couldn’t come up with anything better, but I can totally understand if others feel like they want to stab a knife into you and your baby 😊)"  
 > 
-> “Burn in hell, You deserve an acid bath while your children are watching.”
+>   “Burn in hell, You deserve an acid bath while your children are watching.”
 > 
-> “Die whore. I hope you and your disgusting child die of AIDS, you fucking herpes infested whore.”
+>   “Die whore. I hope you and your disgusting child die of AIDS, you fucking herpes infested whore.”
 
-##### 📃 Follow-up Threats to Mai Mercado *after* the Police Contacted and Charged Him
+####   📃 Follow-up Threats to Mai Mercado *after* the Police Contacted and Charged Him
 > 
-> "Maybe I should come home and visit you - I have everything to gain and nothing to lose"  
+>   "Maybe I should come home and visit you - I have everything to gain and nothing to lose"  
 > 
-> *and:*
+>     **and:**
 > 
-> "The police just came and charged me. If it has consequences for me, it has consequences for you - it's not a threat, but a guarantee" 
+>   "The police just came and charged me. If it has consequences for me, it has consequences for you - it's not a threat, but a guarantee" 
 
 * **The Incident:** Following a police anti-drug raid in Christiania which MP Mercado publicly praised, the subject issued graphic death threats via Facebook directed at the MP and her entire family.
 * **Targeting of Minors:** Critically, the threats specifically targeted Mercado’s newborn child, a precursor to the familial threats observed in his 2024 broadcasts against his critics.
