@@ -93,6 +93,14 @@ In June 2016, the subject (operating as Thomas Dall) was arrested following a se
 * Evidence: [TV2.DK News Archive (June 2016) "After being charged with threats against politician: Man continued harassment"](https://nyheder.tv2.dk/krimi/2016-06-21-efter-sigtelse-for-trusler-mod-politiker-mand-fortsatte-chikane) - [\[Archived\]](https://archive.ph/m2rDF)
 * Evidence: [Kittystyle / Potato69 Seethes About Mai Mercado 2024]({% post_url 2024-03-18-kittystyle-potato69-seethes-about-mai-mercado-2024-zP6Ke-mz0sQ %})
 * Evidence: [Thomas Dall (Tim Dooley) Mocks Mai Mercado's Cancer]({% post_url 2026-05-07-thomas-dall-tim-dooley-mocks-mai-mercados-cancer-4YD4daX7YEQ %})
+>**Facebook Post Quote Translated:**  
+>
+> "I have a question for Mai Mercado.  
+> Do you want to die?  
+> Because if you really do, then by all means do whatever suits you. Then you can see if you end up like the woman in England.  
+> You are playing with your own life, and your child’s life. So consider yourself warned.  
+> (P.S. I couldn’t come up with anything better, but I can totally understand if others feel like they want to stab a knife into you and your baby 😊)"
+
 
 >**Archival Insight:** This 2016 conviction establishes a legal precedent for the subject’s "Reactive Malice." It proves that his current (2024) threats against the families and children of his critics are not "empty words" but are part of a documented, recurring criminal behavior for which he has already been incarcerated.
 
