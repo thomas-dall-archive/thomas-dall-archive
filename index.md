@@ -225,14 +225,14 @@ A significant portion of the evidence regarding Thomas Dall / Tim Dooley is diff
 ### Verified Account Terminations
 The subject has been deplatformed from the following services for conduct that violates universal safety standards, specifically regarding harassment, graphic threats, the targeting of individuals, and hate speech.
 
-* **Twitch:** Multiple accounts (e.g., *jeffbezosofficial*, *currentworldevents*, *cantescapefate*) permanently suspended for "Abusive Behavior" and "Harassment".
-* **YouTube:** Frequent channel (e.g., *invisible man*, *8mbit*, *RationalPotato*) terminations resulting in the loss of primary source broadcasts.
-* **X (Twitter):** Historical account *Kittystyle420* suspended following targeted harassment campaigns and TOS-breaking rhetoric.
-* **Kick.com:** Permanent removal of account *potato69* following broadcasts involving prohibited threats and hostile conduct.
-* **Rumble.com:** Account *Potatoism* terminated for violations involving hate speech and inciting behavior.
-* **Stream.me:** Banned on account *Kittystyle* for community guideline breaches the final one being for "Minor Exploitation."
-* **DLive.tv:** Removal of account *CurrentWorldEvents* necessitated by the subject's use of the platform to abuse staff of dlive.tv.
-* **Vimm.tv:** Access revoked on account *Kittystyle* following reports of abusive streaming sessions and non-compliance with safety protocols.
+* **Twitch:** Multiple accounts (e.g., **jeffbezosofficial**, **currentworldevents**, **cantescapefate**) permanently suspended for "Abusive Behavior" and "Harassment".
+* **YouTube:** Frequent channel (e.g., **invisible man**, **8mbit**, **RationalPotato**) terminations resulting in the loss of primary source broadcasts.
+* **X (Twitter):** Historical account **Kittystyle420** suspended following targeted harassment campaigns and TOS-breaking rhetoric.
+* **Kick.com:** Permanent removal of account **potato69** following broadcasts involving prohibited threats and hostile conduct.
+* **Rumble.com:** Account **Potatoism** terminated for violations involving hate speech and inciting behavior.
+* **Stream.me:** Banned on account **Kittystyle** for community guideline breaches the final one being for "Minor Exploitation."
+* **DLive.tv:** Removal of account **CurrentWorldEvents** necessitated by the subject's use of the platform to abuse staff of dlive.tv.
+* **Vimm.tv:** Access revoked on account **Kittystyle** following reports of abusive streaming sessions and non-compliance with safety protocols.
 
 ### Archival Justification
 The "disappearing" nature of the subject's content is a deliberate result of his conduct. This archive serves as a **Persistence Layer** to ensure that:
