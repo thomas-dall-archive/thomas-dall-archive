@@ -33,12 +33,13 @@ description: "Comprehensive dossier documenting the identity transitions, clinic
 
   <div style="flex: 1; display: flex; flex-direction: column; gap: 15px;">
     <a href="{{ '/gallery/' | relative_url }}">🎨 ART GALLERY</a>
-    <a href="{{ 'evidence-lockers/2019_01_05_Incest_Confession/ | relative_url}}"> Evidence Locker: 2019_01_05_Incest_Confession</a>
-    <a href="{{ 'evidence-lockers/2019_03_15_Disowns_Daughter/ | relative_url}}"> Evidence Locker: 2019_03_15_Disowns_Daughter/a>
-    <a href="{{ 'evidence-lockers/2019_03_29_Abandoned_Simba/ | relative_url}}"> Evidence Locker: 2019_03_29_Abandoned_Simba</a>
+    <a href="{{ '/evidence-lockers/2019_01_05_Incest_Confession/' | relative_url }}"> Evidence Locker: 2019_01_05_Incest_Confession</a>
+    <a href="{{ '/evidence-lockers/2019_03_15_Disowns_Daughter/' | relative_url }}"> Evidence Locker: 2019_03_15_Disowns_Daughter</a>
+    <a href="{{ '/evidence-lockers/2019_03_29_Abandoned_Simba/' | relative_url }}"> Evidence Locker: 2019_03_29_Abandoned_Simba</a>
   </div>
 
 </div>
+
 
  [👕 SHIRT WATCH]({{ '/shirt-watch.html' | relative_url }})
  [📱 TRANSMISSION ARCHIVE - TWEETS]({{ '/twitter-archive' | relative_url }})
