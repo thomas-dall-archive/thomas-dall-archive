@@ -98,9 +98,7 @@ In June 2016, the subject (operating as Thomas Dall) was arrested following a se
 ####   📃 Follow-up Threats to Mai Mercado *after* the Police Contacted and Charged Him
 > 
 >   "Maybe I should come home and visit you - I have everything to gain and nothing to lose"  
-> 
->     **and:**
-> 
+>  
 >   "The police just came and charged me. If it has consequences for me, it has consequences for you - it's not a threat, but a guarantee" 
 
 * **The Incident:** Following a police anti-drug raid in Christiania which MP Mercado publicly praised, the subject issued graphic death threats via Facebook directed at the MP and her entire family.
