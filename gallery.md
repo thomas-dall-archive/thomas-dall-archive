@@ -13,18 +13,13 @@ permalink: /gallery/
   {% for image in images %}
     {% if image.extname == ".jpg" or image.extname == ".jpeg" or image.extname == ".png" or image.extname == ".gif" %}
 
-      {% comment %}Improved subfolder detection - avoids printing "0"{% endcomment %}
+      {% comment %}Subfolder detection (works even if no subfolders){% endcomment %}
       {% assign path_parts = image.path | split: '/' %}
-      {% assign folder_depth = path_parts.size | minus: 1 %}
-      {% assign subfolder_raw = path_parts[folder_depth | minus: 1] %}
+      {% assign subfolder = path_parts[path_parts.size | minus: 2] | replace: '-', ' ' | replace: '_', ' ' | capitalize %}
 
-      {% if subfolder_raw != "art" and subfolder_raw != "ai-slop" and subfolder_raw != nil %}
-        {% assign subfolder = subfolder_raw | replace: '-', ' ' | replace: '_', ' ' | capitalize %}
-        
-        {% if subfolder != prev_subfolder %}
-          <h2 class="gallery-section">{{ subfolder }}</h2>
-          {% assign prev_subfolder = subfolder %}
-        {% endif %}
+      {% if subfolder != prev_subfolder and subfolder != nil %}
+        <h2 class="gallery-section">{{ subfolder }}</h2>
+        {% assign prev_subfolder = subfolder %}
       {% endif %}
 
       {% assign image_data = site.data.artworks | where: "path", image.path | first %}
@@ -48,7 +43,7 @@ permalink: /gallery/
 </div>
 
 {% if images.size == 0 %}
-  <p><em>No images found yet. Add them to <code>assets/art/</code> or <code>assets/ai-slop/</code>.</em></p>
+  <p><em>No images found yet. Add them to <code>assets/art/</code> or <code>assets/ai-slop/</code> (subfolders are optional).</em></p>
 {% endif %}
 
 {% include lightbox.html %}
