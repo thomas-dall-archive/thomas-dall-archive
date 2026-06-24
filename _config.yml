@@ -7,13 +7,14 @@ baseurl: "/thomas-dall-archive"
 # -----------------------------------------------------------------------------
 # THEME & PLUGINS
 # -----------------------------------------------------------------------------
-remote_theme: pages-themes/midnight@v0.2.0
-layout: default # Forces the theme to use its internal layout
+# remote_theme: pages-themes/midnight@v0.2.0
+theme: jekyll-theme-midnight
+
 plugins:
-  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+
 
 # -----------------------------------------------------------------------------
 # SEO & IDENTITY TRAP (Targeting Tim Dooley / The Potato of Life)
