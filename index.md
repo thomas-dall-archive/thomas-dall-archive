@@ -281,7 +281,7 @@ The subject has a persistent history of permanent bans across major streaming an
 
 ### The Role of Independent Archivists
 Because the subject frequently deletes his own content to evade legal or social consequences, the public record is preserved by independent third parties.
-* **Mondo Cane, Jan Dall, PKFC, James Smith, et al}:** These are independent entities who have reached identical conclusions regarding the subject’s risk profile. 
+* **Mondo Cane, Jan Dall, PKFC, James Smith, et al:** These are independent entities who have reached identical conclusions regarding the subject’s risk profile. 
 * **Independent Mirroring:** They maintain mirrors of the subject’s original livestreams to prevent "digital evaporation" and historical revisionism.
 * **Verification:** The existence of multiple, unrelated archive channels (Mondo Cane, Jan Dall, Nicole Narrows, Dim Tooley, James Smith, etc.) provides cross-platform verification that the subject's conduct is a matter of broad public concern, not a "coordinated" conspiracy.
 
