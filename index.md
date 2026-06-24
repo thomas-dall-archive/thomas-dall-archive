@@ -33,21 +33,12 @@ description: "Comprehensive dossier documenting the identity transitions, clinic
 
   <div style="flex: 1; display: flex; flex-direction: column; gap: 15px;">
     <a href="{{ '/gallery/' | relative_url }}">🎨 ART GALLERY</a>
-    <a href="{{ '/evidence-lockers/2019_01_05_Incest_Confession/' | relative_url }}"> Evidence Locker: 2019_01_05_Incest_Confession</a>
-    <a href="{{ '/evidence-lockers/2019_03_15_Disowns_Daughter/' | relative_url }}"> Evidence Locker: 2019_03_15_Disowns_Daughter</a>
-    <a href="{{ '/evidence-lockers/2019_03_29_Abandoned_Simba/' | relative_url }}"> Evidence Locker: 2019_03_29_Abandoned_Simba</a>
+    <a href="{{ '/evidence-lockers/2019_01_05_Incest_Confession/' | relative_url }}"> 🗃️ Evidence Locker: 2019_01_05_Incest_Confession</a>
+    <a href="{{ '/evidence-lockers/2019_03_15_Disowns_Daughter/' | relative_url }}"> 🗃️ Evidence Locker: 2019_03_15_Disowns_Daughter</a>
+    <a href="{{ '/evidence-lockers/2019_03_29_Abandoned_Simba/' | relative_url }}"> 🗃️ Evidence Locker: 2019_03_29_Abandoned_Simba</a>
   </div>
 
 </div>
-
-
- [👕 SHIRT WATCH]({{ '/shirt-watch.html' | relative_url }})
- [📱 TRANSMISSION ARCHIVE - TWEETS]({{ '/twitter-archive' | relative_url }})
- [🗄️ VIEW FULL FORENSIC DATABASE BY SOURCE CHANNEL]({{ '/archive/' | relative_url }})
- [📊 VIEW SECONDARY ANALYTICS, SATIRE & COMMENTARY FEED]({{ '/commentary/' | relative_url }})
- [👁️ LIVE OBSERVATION ROOM]({{ '/observation.html' | relative_url }})
- [▶️ SUBJECT SUBSCRIPTIONS]({{ '/subscriptions/' | relative_url }})
- [🎨 ART GALLERY]({{ '/gallery/' | relative_url }})
 
 ---
 
@@ -146,13 +137,13 @@ While operating as **"Kittystyle,"** the subject’s history of familial abuse b
 * **Intent to Offend:** In October 2019, the subject recorded statements expressing a premeditated intent to seek out a minor and livestream the encounter.
 * **Retaliatory Threat Tactics:** The subject used threats of child abuse as a "retaliatory" weapon, claiming he would "become" a pedophile to spite his critics.
 * **Blame Externalization:** He explicitly stated that if he were to offend, the responsibility would lie with those who "radicalized" him by labeling him.
-* Evidence: [Kittystyle (Thomas Dall) is dangerous around children #1]({% post_url 2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-1-5GQRw0juLqU %})
-* Evidence: [Kittystyle (Thomas Dall) is dangerous around children #2]({% post_url 2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-2-Ner_O-Bg4Xc %})
-* Evidence: [Screencap from Thomas Dall to estranged girlfriend confessing to the act.]({{ '/assets/kittystyle-logs.png' | relative_url }})
+* Evidence: [🗃️ Evidence Locker: 2019_01_05_Incest_Confession]({{ '/evidence-lockers/2019_01_05_Incest_Confession/' | relative_url }}) 
 * Evidence: [Thomas Dall Speaking to John Boulden and Admitting That the Confession is Real.]({% post_url 2019-10-21-a-wild-john-boulden-appears-in-kittystyles-discord-server-vIRDVpy_njk %})
 * Evidence: [Clipped Portion from John Boulden Conversation]({% post_url 2025-01-19-kittystyle-the-potato-of-life-tim-dooley-aka-thomas-dall-sister-fister-proof-Fvonudc_RoY %})
 * Evidence: [Clip where Kittystyle (Thomas Dall) Talks About the Confession in a Stream Chat]({% post_url 2019-06-22-full-clip-of-kitty-admitting-he-molested-his-sister-v-pingspjiy-kxv1qCaGDTU %})
 * Evidence: [Discord Log of Kittystyle (Thomas Dall) in the stream.me era where he admits the allegations are true]({{ '/archives/kittystyle-discord/' | relative_url }})
+* Evidence: [Kittystyle (Thomas Dall) is dangerous around children #1]({% post_url 2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-1-5GQRw0juLqU %})
+* Evidence: [Kittystyle (Thomas Dall) is dangerous around children #2]({% post_url 2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-2-Ner_O-Bg4Xc %})
 
 >**Archival Insight:** This era marks the most significant "Identity Pivot" in the subject's history. The transition from "Kittystyle" to "Tim Dooley" was not a spiritual evolution, but a tactical response to the public release of these confessions. By declaring "Kittystyle" to be dead, the subject attempts to grant himself a "digital pardon" for self-admitted conduct. Furthermore, his claim that critics "radicalized" him into predatory ideation is a classic manifestation of the "Externalization of Blame" identified in his 2013 clinical profile.
 
