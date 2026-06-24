@@ -4,7 +4,8 @@ layout: default
 permalink: /gallery/
 ---
 
-<h1>Art Gallery</h1>
+# Art Gallery
+#### The MSPAINT Machinations of Thomas Dall
 
 <div class="masonry-container">
 
@@ -43,7 +44,7 @@ permalink: /gallery/
 </div>
 
 {% if images.size == 0 %}
-  <p><em>No images found yet. Add them to <code>assets/art/</code> or <code>assets/ai-slop/</code> (subfolders are optional).</em></p>
+  <p><em>No images found yet. </em></p>
 {% endif %}
 
 {% include lightbox.html %}

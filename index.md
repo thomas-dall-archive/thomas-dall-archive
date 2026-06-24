@@ -31,6 +31,7 @@ The definitive archive documenting the transition of Thomas Dall into Tim Dooley
 * [📊 VIEW SECONDARY ANALYTICS, SATIRE & COMMENTARY FEED]({{ '/commentary/' | relative_url }})
 * [👁️ LIVE OBSERVATION ROOM]({{ '/observation.html' | relative_url }})
 * [▶️ SUBJECT SUBSCRIPTIONS]({{ '/subscriptions/' | relative_url }})
+* [🎨 ART GALLERY]({{ '/gallery/' | relative_url }})
 
 ---
 
@@ -70,7 +71,7 @@ The subject has publicly admitted to a 2013 violent episode documented in court 
 * **Subject's Stance:** He justified the assault as "making her surrender" and expressed no remorse, citing his ability to "win in court" as a point of pride.
 * Evidence: [Kittystyle Potato Time Dooley Reads Psychiatric Report and Tells Story of Brutalising a Woman]({% post_url 2024-10-16-kittystyle-potato-tim-dooley-reads-psychiatric-report-and-tells-story-of-brutalising-a-woman-SYt3U1r21l0 %})
 
->**Archival Insight:** Archival Insight: This 2013 incident establishes the subject's baseline for physical escalation and a total absence of victim empathy. His justification of the assault as "making her surrender" is a direct precursor to his current "Loving Fists" doctrine, where he frames physical or verbal abuse as a "divine necessity." By documenting this, the archive proves that his current rhetoric is merely a modern rebranding of a long-standing pattern of interpersonal violence.
+>**Archival Insight:** This 2013 incident establishes the subject's baseline for physical escalation and a total absence of victim empathy. His justification of the assault as "making her surrender" is a direct precursor to his current "Loving Fists" doctrine, where he frames physical or verbal abuse as a "divine necessity." By documenting this, the archive proves that his current rhetoric is merely a modern rebranding of a long-standing pattern of interpersonal violence.
 
 ### 🏥 Clinical Profile (2011-2013 Court Evaluation)
 In a 2024 broadcast, the subject read from his court-appointed psychiatric evaluation (conducted circa 2013).
