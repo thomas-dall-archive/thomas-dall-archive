@@ -130,6 +130,7 @@ While operating as **"Kittystyle,"** the subject’s history of familial abuse b
 * Evidence: [Clipped Portion from John Boulden Conversation]({% post_url 2025-01-19-kittystyle-the-potato-of-life-tim-dooley-aka-thomas-dall-sister-fister-proof-Fvonudc_RoY %})
 * Evidence: [Clip where Kittystyle (Thomas Dall) Talks About the Confession in a Stream Chat]({% post_url 2019-06-22-full-clip-of-kitty-admitting-he-molested-his-sister-v-pingspjiy-kxv1qCaGDTU %})
 * Evidence: [Discord Log of Kittystyle (Thomas Dall) in the stream.me era where he admits the allegations are true]({{ '/archives/kittystyle-discord/' | relative_url }})
+
 >**Archival Insight:** This era marks the most significant "Identity Pivot" in the subject's history. The transition from "Kittystyle" to "Tim Dooley" was not a spiritual evolution, but a tactical response to the public release of these confessions. By declaring "Kittystyle" to be dead, the subject attempts to grant himself a "digital pardon" for self-admitted conduct. Furthermore, his claim that critics "radicalized" him into predatory ideation is a classic manifestation of the "Externalization of Blame" identified in his 2013 clinical profile.
 
 ---
