@@ -82,20 +82,8 @@ In a 2024 broadcast, the subject read from his court-appointed psychiatric evalu
 >**Archival Insight:** This profile provides the psychological blueprint for the subject’s "Tim Dooley" persona. The **"Grandiose Compensation"** identified by clinicians has evolved from a defense mechanism into a full-scale religious delusion (claiming to be God). Furthermore, the **"Distorted Perception"** of neutral actions as betrayals explains his current pattern of retaliatory doxing and familial threats against anyone who documents his public history.
 
 ### 🔹 2016: Terroristic Threats against MP Mai Mercado
-In June 2016, the subject (operating as Thomas Dall) was arrested following a series of high-level threats against Danish MP Mai Mercado.
+In June 2016, the subject (operating as Thomas Dall) was arrested following a series of high-level threats against Danish MP Mai Mercado. 
 
-* **The Incident:** Following a police anti-drug raid in Christiania which MP Mercado publicly praised, the subject issued graphic death threats via Facebook directed at the MP and her entire family.
-* **Targeting of Minors:** Critically, the threats specifically targeted Mercado’s newborn child, a precursor to the familial threats observed in his 2024 broadcasts against his critics.
-* **Legal Outcome:** The subject was tried and convicted for these threats. Investigative records and media reports from *The Copenhagen Post* confirm he served time in a psychiatric ward/prison facility as a direct result of this criminal conduct.
-* **Political Connection:** Documentation notes that the subject is the nephew of former Danish politician Benny Dall, a fact he has occasionally referenced to proximity-associate himself with political authority while simultaneously attacking it.
-* Evidence: [Kittystyle / Potato69 Audio Clip: A Question for Mai Mercado]({% post_url 2024-03-18-kittystyle-potato69-audio-clip-a-question-for-mai-mercado-lX4vFgCL800 %})
-* Evidence: [CPH Post News Archive (June 2016) "Danish MP receives death threats after praising police anti-drug raids on Facebook"](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/) - [\[Archived\]](https://archive.ph/d7RT0)
-* Evidence: [TV2.DK News Archive (June 2016) "After being charged with threats against politician: Man continued harassment"](https://nyheder.tv2.dk/krimi/2016-06-21-efter-sigtelse-for-trusler-mod-politiker-mand-fortsatte-chikane) - [\[Archived\]](https://archive.ph/m2rDF)
-* Evidence: [Kittystyle / Potato69 Seethes About Mai Mercado 2024]({% post_url 2024-03-18-kittystyle-potato69-seethes-about-mai-mercado-2024-zP6Ke-mz0sQ %})
-* Evidence: [Thomas Dall (Tim Dooley) Mocks Mai Mercado's Cancer]({% post_url 2026-05-07-thomas-dall-tim-dooley-mocks-mai-mercados-cancer-4YD4daX7YEQ %})
-
-
-> [!QUOTE]
 > **Facebook Post Quotes Translated:**  
 > 
 > "I have a question for Mai Mercado.  
@@ -106,7 +94,7 @@ In June 2016, the subject (operating as Thomas Dall) was arrested following a se
 > 
 > You are playing with your own life, and your child’s life. So consider yourself warned.  
 > 
-> (P.S. I couldn’t come up with anything better, but I can totally understand if others feel like theywant to stab a knife into you and your baby 😊)"  
+> (P.S. I couldn’t come up with anything better, but I can totally understand if others feel like they want to stab a knife into you and your baby 😊)"  
 > 
 > “Burn in hell, You deserve an acid bath while your children are watching.”
 > 
@@ -119,6 +107,16 @@ In June 2016, the subject (operating as Thomas Dall) was arrested following a se
 > ***and:***
 > 
 > "The police just came and charged me. If it has consequences for me, it has consequences for you - it's not a threat, but a guarantee" 
+
+* **The Incident:** Following a police anti-drug raid in Christiania which MP Mercado publicly praised, the subject issued graphic death threats via Facebook directed at the MP and her entire family.
+* **Targeting of Minors:** Critically, the threats specifically targeted Mercado’s newborn child, a precursor to the familial threats observed in his 2024 broadcasts against his critics.
+* **Legal Outcome:** The subject was tried and convicted for these threats. Investigative records and media reports from *The Copenhagen Post* confirm he served time in a psychiatric ward/prison facility as a direct result of this criminal conduct.
+* **Political Connection:** Documentation notes that the subject is the nephew of former Danish politician Benny Dall, a fact he has occasionally referenced to proximity-associate himself with political authority while simultaneously attacking it.
+* Evidence: [Kittystyle / Potato69 Audio Clip: A Question for Mai Mercado]({% post_url 2024-03-18-kittystyle-potato69-audio-clip-a-question-for-mai-mercado-lX4vFgCL800 %})
+* Evidence: [CPH Post News Archive (June 2016) "Danish MP receives death threats after praising police anti-drug raids on Facebook"](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/) - [\[Archived\]](https://archive.ph/d7RT0)
+* Evidence: [TV2.DK News Archive (June 2016) "After being charged with threats against politician: Man continued harassment"](https://nyheder.tv2.dk/krimi/2016-06-21-efter-sigtelse-for-trusler-mod-politiker-mand-fortsatte-chikane) - [\[Archived\]](https://archive.ph/m2rDF)
+* Evidence: [Kittystyle / Potato69 Seethes About Mai Mercado 2024]({% post_url 2024-03-18-kittystyle-potato69-seethes-about-mai-mercado-2024-zP6Ke-mz0sQ %})
+* Evidence: [Thomas Dall (Tim Dooley) Mocks Mai Mercado's Cancer]({% post_url 2026-05-07-thomas-dall-tim-dooley-mocks-mai-mercados-cancer-4YD4daX7YEQ %})
 
 >**Archival Insight:** This 2016 conviction establishes a legal precedent for the subject’s "Reactive Malice." It proves that his current (2024) threats against the families and children of his critics are not "empty words" but are part of a documented, recurring criminal behavior for which he has already been incarcerated.
 
