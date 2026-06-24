@@ -104,7 +104,9 @@ In June 2016, the subject (operating as Thomas Dall) was arrested following a se
 >**Follow-up Threats to Mai Mercado after the Police Contacted and Charged Him**
 >
 >"Maybe I should come home and visit you - I have everything to gain and nothing to lose"  
+>
 >*and:*
+>
 >"The police just came and charged me. If it has consequences for me, it has consequences for you - it's not a threat, but a guarantee,"  
 
 >**Archival Insight:** This 2016 conviction establishes a legal precedent for the subject’s "Reactive Malice." It proves that his current (2024) threats against the families and children of his critics are not "empty words" but are part of a documented, recurring criminal behavior for which he has already been incarcerated.
