@@ -5,7 +5,7 @@ permalink: /evidence-lockers/2019_01_05_Incest_Confession/
 ---
 
 # Evidence Locker: 2019_01_05_Incest_Confession
-#### Initial Revelation About Thomas Dall's Confession With His Six Year Old Sister
+#### Initial Revelation About Thomas Dall's Confession of Incest With His Six Year Old Sister
 
 <div class="gallery-grid">
 
