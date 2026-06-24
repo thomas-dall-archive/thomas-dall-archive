@@ -84,8 +84,7 @@ In a 2024 broadcast, the subject read from his court-appointed psychiatric evalu
 ### 🔹 2016: Terroristic Threats against MP Mai Mercado
 In June 2016, the subject (operating as Thomas Dall) was arrested following a series of high-level threats against Danish MP Mai Mercado. 
 
-> **Facebook Post Quotes Translated:**  
-> 
+##### 📃 Facebook Post Quotes Translated:
 > "I have a question for Mai Mercado.  
 > 
 > Do you want to die?  
@@ -99,12 +98,12 @@ In June 2016, the subject (operating as Thomas Dall) was arrested following a se
 > “Burn in hell, You deserve an acid bath while your children are watching.”
 > 
 > “Die whore. I hope you and your disgusting child die of AIDS, you fucking herpes infested whore.”
-> 
-> **Follow-up Threats to Mai Mercado after the Police Contacted and Charged Him**
+
+##### 📃 Follow-up Threats to Mai Mercado *after* the Police Contacted and Charged Him
 > 
 > "Maybe I should come home and visit you - I have everything to gain and nothing to lose"  
 > 
-> ***and:***
+> *and:*
 > 
 > "The police just came and charged me. If it has consequences for me, it has consequences for you - it's not a threat, but a guarantee" 
 
