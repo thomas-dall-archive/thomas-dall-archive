@@ -89,8 +89,8 @@ In June 2016, the subject (operating as Thomas Dall) was arrested following a se
 * **Legal Outcome:** The subject was tried and convicted for these threats. Investigative records and media reports from *The Copenhagen Post* confirm he served time in a psychiatric ward/prison facility as a direct result of this criminal conduct.
 * **Political Connection:** Documentation notes that the subject is the nephew of former Danish politician Benny Dall, a fact he has occasionally referenced to proximity-associate himself with political authority while simultaneously attacking it.
 * Evidence: [Kittystyle / Potato69 Audio Clip: A Question for Mai Mercado]({% post_url 2024-03-18-kittystyle-potato69-audio-clip-a-question-for-mai-mercado-lX4vFgCL800 %})
-* Evidence: [CPH Post News Archive (June 2016) "Danish MP receives death threats after praising police anti-drug raids on Facebook"](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/)
-* Evidence: [TV2.DK News Archive (June 2016) "After being charged with threats against politician: Man continued harassment"](https://nyheder.tv2.dk/krimi/2016-06-21-efter-sigtelse-for-trusler-mod-politiker-mand-fortsatte-chikane)
+* Evidence: [CPH Post News Archive (June 2016) "Danish MP receives death threats after praising police anti-drug raids on Facebook"](https://cphpost.dk/2016-06-21/news/danish-mp-receives-death-threats-after-praising-police-anti-drug-raids-on-facebook/) [Archived](https://archive.ph/d7RT0)
+* Evidence: [TV2.DK News Archive (June 2016) "After being charged with threats against politician: Man continued harassment"](https://nyheder.tv2.dk/krimi/2016-06-21-efter-sigtelse-for-trusler-mod-politiker-mand-fortsatte-chikane) [Archived](https://archive.ph/m2rDF)
 * Evidence: [Kittystyle / Potato69 Seethes About Mai Mercado 2024]({% post_url 2024-03-18-kittystyle-potato69-seethes-about-mai-mercado-2024-zP6Ke-mz0sQ %})
 * Evidence: [Thomas Dall (Tim Dooley) Mocks Mai Mercado's Cancer]({% post_url 2026-05-07-thomas-dall-tim-dooley-mocks-mai-mercados-cancer-4YD4daX7YEQ %})
 
@@ -143,8 +143,8 @@ The witness provides specific details regarding the subject’s physical state, 
 * **Disturbing Fixations:** The subject demonstrated a "weird" obsession with the witness’s medical issues, specifically asking to watch her "peel" skin from burns or "pop boils."
 * **Reactive Violence:** Kota reports that when his control was challenged, the subject transitioned from "loving" rhetoric to explicit threats to **"slit her throat."**
 
-* [Link to Kota's Interview with Turk February]({% post_url 2025-11-16-the-kota-prelude-expanded-and-enhanced-edition-Ni7iMLKpwaY %})
-* [Link to Kota's Interview with James Smith]({% post_url 2026-01-15-the-interview-of-kota-kittystyles-ex-internet-gf-tim-dooley-Zf7kfAyOuq8 %})
+* [Kota's Interview with Turk February]({% post_url 2025-11-16-the-kota-prelude-expanded-and-enhanced-edition-Ni7iMLKpwaY %})
+* [Kota's Interview with James Smith]({% post_url 2026-01-15-the-interview-of-kota-kittystyles-ex-internet-gf-tim-dooley-Zf7kfAyOuq8 %})
 
 >**Archival Insight:** The Kota Files are critical for "Entity Resolution" because they bridge the gap between the legal records (Thomas Dall) and the digital persona (Tim Dooley). Her testimony regarding his **"Hygiene Neglect"** and **"Interactions with persons Underage in a sexual context"** isn't just "drama"—it serves as behavioral proof of the Antisocial and Schizotypal traits identified by court clinicians in 2013. Furthermore, her confirmation of the estrangement of his sister, **Laura**, directly identifies the subject's current "reconciliation" narrative as a fabricated rebranding.
 
@@ -225,14 +225,14 @@ A significant portion of the evidence regarding Thomas Dall / Tim Dooley is diff
 ### Verified Account Terminations
 The subject has been deplatformed from the following services for conduct that violates universal safety standards, specifically regarding harassment, graphic threats, the targeting of individuals, and hate speech.
 
-* **Twitch:** Multiple accounts permanently suspended for "Abusive Behavior" and "Harassment".
-* **YouTube:** Frequent channel terminations (e.g., *invisible man*, *8mbit*) resulting in the loss of primary source broadcasts.
-* **X (Twitter):** Historical accounts suspended following targeted harassment campaigns and TOS-breaking rhetoric.
-* **Kick.com:** Permanent removal following broadcasts involving prohibited threats and hostile conduct.
-* **Rumble.com:** Account terminated for violations involving hate speech and inciting behavior.
-* **Stream.me:** Banned for repeated instances of aggressive ideation and community guideline breaches.
-* **DLive.tv:** Removal necessitated by the subject's use of the platform to abuse staff of dlive.tv.
-* **Vimm.tv:** Access revoked following reports of abusive streaming sessions and non-compliance with safety protocols.
+* **Twitch:** Multiple accounts (e.g., *jeffbezosofficial*, *currentworldevents*, *cantescapefate*) permanently suspended for "Abusive Behavior" and "Harassment".
+* **YouTube:** Frequent channel (e.g., *invisible man*, *8mbit*, *RationalPotato*) terminations resulting in the loss of primary source broadcasts.
+* **X (Twitter):** Historical account *Kittystyle420* suspended following targeted harassment campaigns and TOS-breaking rhetoric.
+* **Kick.com:** Permanent removal of account *potato69* following broadcasts involving prohibited threats and hostile conduct.
+* **Rumble.com:** Account *Potatoism* terminated for violations involving hate speech and inciting behavior.
+* **Stream.me:** Banned on account *Kittystyle* for community guideline breaches the final one being for "Minor Exploitation."
+* **DLive.tv:** Removal of account *CurrentWorldEvents* necessitated by the subject's use of the platform to abuse staff of dlive.tv.
+* **Vimm.tv:** Access revoked on account *Kittystyle* following reports of abusive streaming sessions and non-compliance with safety protocols.
 
 ### Archival Justification
 The "disappearing" nature of the subject's content is a deliberate result of his conduct. This archive serves as a **Persistence Layer** to ensure that:
