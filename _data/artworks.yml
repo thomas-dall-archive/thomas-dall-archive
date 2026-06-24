@@ -1,0 +1,20 @@
+# _data/artworks.yml
+# Add entries only for images you want custom metadata for
+
+- path: "/assets/art/example-painting.jpg"
+  title: "Midnight Reverie"
+  date: "2025-04-12"
+  medium: "Digital painting"
+  description: "Exploration of shadow and light in dark tones"
+
+- path: "/assets/ai-slop/potato-overlord.jpg"
+  title: "The Potato Overlord"
+  date: "2026-02-01"
+  medium: "Midjourney v6"
+  description: "Peak absurdity"
+
+- path: "/assets/evidence/screenshot-2025-06-01.jpg"
+  title: "Key Evidence #47"
+  date: "2025-06-01"
+  medium: "Screenshot"
+  description: "Important conversation thread"

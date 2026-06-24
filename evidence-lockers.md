@@ -1,36 +1,33 @@
 ---
-title: Art Gallery
+title: Evidence Lockers
 layout: default
-permalink: /gallery/
+permalink: /evidence-lockers/
 ---
 
-<h1>Art Gallery</h1>
+<h1>Evidence Lockers</h1>
 
-<div class="masonry-container">
+<p>Screenshots, documents, and supporting materials</p>
 
-  {% assign images = site.static_files | where_exp: 'item', 'item.path contains "/assets/art/" or item.path contains "/assets/ai-slop/"' %}
+<div class="gallery-grid">
+
+  {% assign images = site.static_files | where_exp: 'item', 'item.path contains "/assets/evidence/"' %}
 
   {% for image in images %}
     {% if image.extname == ".jpg" or image.extname == ".jpeg" or image.extname == ".png" or image.extname == ".gif" %}
 
-      {% comment %}Improved subfolder detection - avoids printing "0"{% endcomment %}
+      {% comment %}Get subfolder name for section header{% endcomment %}
       {% assign path_parts = image.path | split: '/' %}
-      {% assign folder_depth = path_parts.size | minus: 1 %}
-      {% assign subfolder_raw = path_parts[folder_depth | minus: 1] %}
+      {% assign subfolder = path_parts[path_parts.size | minus: 2] | replace: '-', ' ' | replace: '_', ' ' | capitalize %}
 
-      {% if subfolder_raw != "art" and subfolder_raw != "ai-slop" and subfolder_raw != nil %}
-        {% assign subfolder = subfolder_raw | replace: '-', ' ' | replace: '_', ' ' | capitalize %}
-        
-        {% if subfolder != prev_subfolder %}
-          <h2 class="gallery-section">{{ subfolder }}</h2>
-          {% assign prev_subfolder = subfolder %}
-        {% endif %}
+      {% if subfolder != prev_subfolder and subfolder != nil %}
+        <h2 class="gallery-section">{{ subfolder }}</h2>
+        {% assign prev_subfolder = subfolder %}
       {% endif %}
 
       {% assign image_data = site.data.artworks | where: "path", image.path | first %}
 
       <div class="gallery-item">
-        <a href="{{ image.path | relative_url }}" class="lightbox-link" data-lightbox="artgallery">
+        <a href="{{ image.path | relative_url }}" class="lightbox-link" data-lightbox="evidence">
           <img src="{{ image.path | relative_url }}" 
                alt="{{ image_data.title | default: image.basename | replace: '-', ' ' | replace: '_', ' ' }}" 
                loading="lazy">
@@ -48,7 +45,7 @@ permalink: /gallery/
 </div>
 
 {% if images.size == 0 %}
-  <p><em>No images found yet. Add them to <code>assets/art/</code> or <code>assets/ai-slop/</code>.</em></p>
+  <p><em>No images found yet. Add them to <code>assets/evidence/</code> (you can use subfolders).</em></p>
 {% endif %}
 
 {% include lightbox.html %}

@@ -312,29 +312,69 @@ section {
     display: none;
   }
 }
-/* ====================== Art Gallery Styles ====================== */
+/* ====================== Gallery System ====================== */
 
+/* Shared styles for both galleries */
+.gallery-item {
+  margin-bottom: 2rem;
+  background: #1e1e1e;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.gallery-item:hover img {
+  transform: scale(1.04);
+}
+
+.image-info {
+  padding: 12px 12px 16px;
+  font-size: 0.95rem;
+  color: #bbb;
+  text-align: center;
+}
+
+.image-info strong {
+  color: #fff;
+  display: block;
+}
+
+/* Regular Grid - used by Evidence Lockers */
 .gallery-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 1.5rem;
+  gap: 1.8rem;
   margin: 2rem 0;
-  padding: 0;
 }
 
-.gallery-grid img {
-  width: 100%;
-  height: auto;
-  border-radius: 6px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+/* Masonry Layout - used by Art Gallery */
+.masonry-container {
+  column-count: 3;
+  column-gap: 1.8rem;
+  margin: 2rem 0;
 }
 
-.gallery-grid img:hover {
-  transform: scale(1.04);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.8);
+.gallery-section {
+  margin: 3rem 0 1.5rem 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #555;
+  color: #ddd;
 }
 
-.gallery-grid a {
-  text-decoration: none;
+/* Responsive adjustments */
+@media (max-width: 900px) {
+  .masonry-container { column-count: 2; }
+}
+
+@media (max-width: 600px) {
+  .masonry-container { column-count: 1; }
+  .gallery-grid {
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  }
 }
