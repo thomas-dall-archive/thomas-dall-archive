@@ -7,17 +7,29 @@ layout: default
   </p>
 
   {% comment %} --- DYNAMIC VIDEO PLAYER --- {% endcomment %}
-  {% if page.youtube_id %}
+  {% if page.youtube_id or page.ia_id %}
   <div class="media-container" style="margin-bottom: 20px;">
     
-    <div id="yt-player" style="display: block;">
-      <iframe width="100%" height="315" src="https://www.youtube.com/embed/{{ page.youtube_id }}" frameborder="0" allowfullscreen></iframe>
-    </div>
+    {% if page.youtube_id %}
+      <div id="yt-player" style="display: block;">
+        <iframe width="100%" height="315" 
+                src="https://www.youtube.com/embed/{{ page.youtube_id }}" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen></iframe>
+      </div>
+    {% endif %}
     
     {% if page.ia_id %}
-      <div id="ia-player" style="display: none;">
-        <iframe src="https://archive.org/embed/{{ page.ia_id }}" width="100%" height="315" frameborder="0" allowfullscreen></iframe>
+      <div id="ia-player" style="{% if page.youtube_id %}display: none;{% else %}display: block;{% endif %}">
+        <iframe src="https://archive.org/embed/{{ page.ia_id }}" 
+                width="100%" height="315" 
+                frameborder="0" 
+                allowfullscreen></iframe>
       </div>
+    {% endif %}
+
+    {% if page.youtube_id and page.ia_id %}
       <button onclick="toggleVideo()" style="background: #333; color: #ffc107; border: 1px solid #ffc107; padding: 5px 10px; cursor: pointer; margin-top: 10px;">
         🔄 Toggle: YouTube / Internet Archive Mirror
       </button>
@@ -41,4 +53,4 @@ layout: default
   <div class="evidence-body" style="color: #eee; line-height: 1.6;">
     {{ content }}
   </div>
-  ...
+</article>

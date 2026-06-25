@@ -2,7 +2,7 @@
 
 ---
 
-@import "jekyll-theme-midnight";
+@use "jekyll-theme-midnight";
 
 .log-title {
     display: block !important;
@@ -11,4 +11,38 @@
 
 #header {
   display: none !important;
+}
+
+/* Archive Section Styling */
+.archive-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+  margin-bottom: 40px; /* Adds space before the next element */
+}
+
+.archive-column {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.archive-link {
+  display: block;
+  padding: 12px 15px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-left: 4px solid #444;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  color: #ddd;
+  border-radius: 2px;
+}
+
+.archive-link:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-left-color: #ffcc00;
+;
+  transform: translateX(5px);
 }

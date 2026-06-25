@@ -16,7 +16,9 @@ permalink: /gallery/
 
       {% comment %}Subfolder detection (works even if no subfolders){% endcomment %}
       {% assign path_parts = image.path | split: '/' %}
-      {% assign subfolder = path_parts[path_parts.size | minus: 2] | replace: '-', ' ' | replace: '_', ' ' | capitalize %}
+      
+      {% capture index %}{{ path_parts.size | minus: 2 }}{% endcapture %}
+      {% assign subfolder = path_parts[index] | replace: '-', ' ' | replace: '_', ' ' | capitalize %}
 
       {% if subfolder != prev_subfolder and subfolder != nil %}
         <h2 class="gallery-section">{{ subfolder }}</h2>
