@@ -20,9 +20,9 @@ description: "Comprehensive dossier documenting the identity transitions, clinic
 
 ## Historical Record & Clinical Files
 
-<div style="display: flex; gap: 40px; margin: 20px 0;">
+<div style="display: flex; justify-content: center; gap: 40px; margin: 20px 0;">
   
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 15px;">
+  <div style="display: flex; flex-direction: column; gap: 15px;">
     <a href="{{ '/archive/' | relative_url }}">🗄️ VIEW FULL FORENSIC DATABASE BY SOURCE CHANNEL</a>
     <a href="{{ '/commentary/' | relative_url }}">📊 VIEW SECONDARY ANALYTICS, SATIRE & COMMENTARY FEED</a>
     <a href="{{ '/twitter-archive' | relative_url }}">📱 TRANSMISSION ARCHIVE - TWEETS</a>
@@ -31,7 +31,7 @@ description: "Comprehensive dossier documenting the identity transitions, clinic
     <a href="{{ '/observation.html' | relative_url }}">👁️ LIVE OBSERVATION ROOM</a>
   </div>
 
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 15px;">
+  <div style="display: flex; flex-direction: column; gap: 15px;">
     <a href="{{ '/gallery/' | relative_url }}">🎨 ART GALLERY</a>
     <a href="{{ '/evidence-lockers/2019_01_05_Incest_Confession/' | relative_url }}"> 🗃️ Evidence Locker: 2019_01_05_Incest_Confession</a>
     <a href="{{ '/evidence-lockers/2019_03_15_Disowns_Daughter/' | relative_url }}"> 🗃️ Evidence Locker: 2019_03_15_Disowns_Daughter</a>
