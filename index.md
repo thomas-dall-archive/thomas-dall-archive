@@ -125,8 +125,6 @@ In June 2016, the subject (operating as Thomas Dall) was arrested following a se
 
 >**Archival Insight:** This 2016 conviction establishes a legal precedent for the subject’s "Reactive Malice." It proves that his current (2024) threats against the families and children of his critics are not "empty words" but are part of a documented, recurring criminal behavior for which he has already been incarcerated.
 
-
-
 ---
 
 ## ⚠️ The "Kittystyle" Era (2017–2019)
