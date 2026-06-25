@@ -9,7 +9,7 @@ title: "Live Observation Room"
 <div class="offline-placeholder" style="text-align: center; margin: 40px 0;">
     <img src="{{ '/assets/images/offline-placeholder.png' | relative_url }}" 
          alt="Observation Room Offline" 
-         style="max-width: 300px; border-radius: 10px; margin-bottom: 15px;">
+         style="width: 100%; border-radius: 10px; margin-bottom: 15px;">
     <p><em>The Observation Room is currently offline.</em></p>
 </div>
 {% else %}
