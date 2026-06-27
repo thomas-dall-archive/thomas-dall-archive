@@ -31,6 +31,7 @@ description: "Comprehensive dossier documenting the identity transitions, clinic
   </div>
 
   <div class="archive-column">
+    <a href="{{ '/archives/discord-archives/' |relative_url}}" class="archive-link"> 💼 DISCORD LOGS</a>>
     <a href="{{ '/gallery/' | relative_url }}" class="archive-link">🎨 ART GALLERY</a>
     <a href="{{ '/evidence-lockers/2019_01_05_Incest_Confession/' | relative_url }}" class="archive-link">🗃️ EVIDENCE LOCKER: INCEST CONFESSION</a>
     <a href="{{ '/evidence-lockers/2019_03_15_Disowns_Daughter/' | relative_url }}" class="archive-link">🗃️ EVIDENCE LOCKER: DAUGHTER DISOWNMENT</a>
