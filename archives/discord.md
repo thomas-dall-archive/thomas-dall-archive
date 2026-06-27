@@ -27,4 +27,4 @@ You can view the full, un-curated chat log below.
 ---
 ### 📄 Source Document
 You can view the full, un-curated chat log below. 
-[Click here to view raw transcript]({{ '/assets/discord_archive_2019.html' | relative_url }})
+[Click here to view raw transcript]({{ '/assets/discord_archive_2025_to_2026.html' | relative_url }})
