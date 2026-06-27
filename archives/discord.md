@@ -20,7 +20,7 @@ You can view the full, un-curated chat log below.
 [Click here to view raw transcript]({{ '/assets/discord_archive_2019.html' | relative_url }})
 
 ### 📂 Case File: "Potato of Life" Discord Archives
-**Context:** Review of 6-month communication log (Archive ID: discord_archive_2025_to_2026). 
+**Context:** Review of 17-month communication log (Archive ID: discord_archive_2025_to_2026). 
 
 [a very long archive of Thomas' Discord he calls "Heaven" partly so he can tell people to "come be with him in 'heaven'" and partly to feed his delusions. This is an extremely large html file, performance may suffer, but it is indexed by date and searchable as the previous was a straight copy.]
 
