@@ -68,7 +68,7 @@ class RestreamerService:
     EXPIRY_REFRESH_MARGIN_SECONDS = 300      # swap to a fresh URL this long before the known expiry, not after a 403
 
     # --- RTMP destination rejection handling ---
-    RTMP_REJECTION_BACKOFF_SECONDS = 45
+    RTMP_REJECTION_BACKOFF_SECONDS = 60
     RTMP_REJECTION_PHRASES = ["invalid stream key", "server error"]
 
     # --- Input-lag based stall detection ---
