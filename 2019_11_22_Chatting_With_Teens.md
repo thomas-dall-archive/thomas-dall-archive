@@ -1,11 +1,11 @@
 ---
 title: 2019 November 22 - Thomas Dall as imBed chatting with teenagers
 layout: default
-permalink: /evidence-lockers/2019_11_22_Chatting_With_Teens/
+permalink: /evidence-lockers/2019_05_11_Chatting_With_Teens/
 ---
 
-# Evidence Locker: 2019_11_22_Chatting_With_Teens
-#### Discord Messages Between Thomas Dall and Teenagers as young as 13
+# Evidence Locker: 2019_05_11_Chatting_With_Teens
+#### Discord Messages Between Thomas Dall and Teenagers as young as 13 Between April 2019 to Jan 2020
 
 Thomas Dall DMs with "Kota" from the "Kota Files" that he denies even knowing. Also Thomas Dall participating in a teenage dating server, there is identity resolution between Thomas as he posts his demographics and speaks about his experiences with "STALKING GANGS." Furthermore it was revealed and the Discord Mod Ruben that Thomas was kicked from the "What is Life" server because he was being "creepy towards girls"
 
@@ -20,7 +20,7 @@ Ages:
 
 <div class="gallery-grid">
 
-  {% assign images = site.static_files | where_exp: 'item', 'item.path contains "/assets/evidence/2019_11_22_Chatting_With_Teens/"' %}
+  {% assign images = site.static_files | where_exp: 'item', 'item.path contains "/assets/evidence/2019_05_11_Chatting_With_Teens/"' %}
 
   {% for image in images %}
     {% if image.extname == ".jpg" or image.extname == ".jpeg" or image.extname == ".png" or image.extname == ".gif" %}
