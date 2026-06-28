@@ -1,7 +1,7 @@
 ---
 title: 2026 June 15 - DMs With Raven
 layout: default
-permalink: /evidence-lockers/2026_06_15_DMs_with_Raven
+permalink: /evidence-lockers/2026_06_15_DMs_with_Raven/
 ---
 
 # Evidence Locker: 2026_06_15_DMs_with_Raven
