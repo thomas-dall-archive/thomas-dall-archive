@@ -36,6 +36,7 @@ description: "Comprehensive dossier documenting the identity transitions, clinic
     <a href="{{ '/evidence-lockers/2019_01_05_Incest_Confession/' | relative_url }}" class="archive-link">🗃️ EVIDENCE LOCKER: INCEST CONFESSION</a>
     <a href="{{ '/evidence-lockers/2019_03_15_Disowns_Daughter/' | relative_url }}" class="archive-link">🗃️ EVIDENCE LOCKER: DAUGHTER DISOWNMENT</a>
     <a href="{{ '/evidence-lockers/2019_03_29_Abandoned_Simba/' | relative_url }}" class="archive-link">🗃️ EVIDENCE LOCKER: PET ABANDONMENT</a>
+    <a href="{{ '/evidence-lockers/2026_06_15_DMs_with_Raven/' | relative_url }}" class="archive-link">🗃️ EVIDENCE LOCKER: DMS WITH RAVEN /(15YO/)</a>
   </div>
 </div>
 
