@@ -77,7 +77,7 @@ The subject has publicly admitted to a 2013 violent episode documented in court 
 * **The Incident:** The subject **punched a woman in the face 3–5 times** and **kicked her in the ribs** while she was prone on the floor. The victim was identified as "Maria" in past livestreams in 2019, and unnamed in recurring discussions in 2024.
 * **Medical Findings:** The victim suffered a 3x4cm hematoma on the skull and multiple bruises on her torso.
 * **Subject's Stance:** He justified the assault as "making her surrender" and expressed no remorse, citing his ability to "win in court" as a point of pride.
-* Evidence: [Kittystyle Potato Time Dooley Reads Psychiatric Report and Tells Story of Brutalising a Woman]({% post_url 2024-10-16-kittystyle-potato-tim-dooley-reads-psychiatric-report-and-tells-story-of-brutalising-a-woman-SYt3U1r21l0 %})
+* Evidence: [Kittystyle Potato Tim Dooley Reads Psychiatric Report and Tells Story of Brutalising a Woman]({% post_url 2024-10-16-kittystyle-potato-tim-dooley-reads-psychiatric-report-and-tells-story-of-brutalising-a-woman-SYt3U1r21l0 %})
 
 >**Archival Insight:** This 2013 incident establishes the subject's baseline for physical escalation and a total absence of victim empathy. His justification of the assault as "making her surrender" is a direct precursor to his current "Loving Fists" doctrine, where he frames physical or verbal abuse as a "divine necessity." By documenting this, the archive proves that his current rhetoric is merely a modern rebranding of a long-standing pattern of interpersonal violence.
 
@@ -86,7 +86,7 @@ In a 2024 broadcast, the subject read from his court-appointed psychiatric evalu
 * **Diagnoses:** Identified traits of **Passive-Aggressive, Schizotypal, Narcissistic, Paranoid, Borderline, and Antisocial** disturbances.
 * **Grandiose Compensation:** Clinicians noted his "grandiose" self-reflection is a mechanism used to mask **deep-seated low self-esteem**.
 * **Distorted Perception:** The report documented a tendency to misinterpret neutral actions as **hidden threats or betrayals**, leading to social withdrawal and authority resistance.
-* Evidence: [Kittystyle Potato Time Dooley Reads Psychiatric Report and Tells Story of Brutalising a Woman]({% post_url 2024-10-16-kittystyle-potato-tim-dooley-reads-psychiatric-report-and-tells-story-of-brutalising-a-woman-SYt3U1r21l0 %})
+* Evidence: [Kittystyle Potato Tim Dooley Reads Psychiatric Report and Tells Story of Brutalising a Woman]({% post_url 2024-10-16-kittystyle-potato-tim-dooley-reads-psychiatric-report-and-tells-story-of-brutalising-a-woman-SYt3U1r21l0 %})
 
 >**Archival Insight:** This profile provides the psychological blueprint for the subject’s "Tim Dooley" persona. The **"Grandiose Compensation"** identified by clinicians has evolved from a defense mechanism into a full-scale religious delusion (claiming to be God). Furthermore, the **"Distorted Perception"** of neutral actions as betrayals explains his current pattern of retaliatory doxing and familial threats against anyone who documents his public history.
 
