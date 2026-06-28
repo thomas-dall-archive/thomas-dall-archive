@@ -9,7 +9,7 @@ permalink: /evidence-lockers/2019_11_22_Chatting_With_Teens/
 
 Thomas Dall DMs with "Kota" from the "Kota Files" that he denies even knowing. Also Thomas Dall participating in a teenage dating server, there is identity resolution between Thomas as he posts his demographics and speaks about his experiences with "STALKING GANGS." Furthermore it was revealed and the Discord Mod Ruben that Thomas was kicked from the "What is Life" server because he was being "creepy towards girls"
 
-It's important to remember that Thomas self-admits he's 32 years old while talking to teens.
+**It's important to remember that Thomas self-admits he's 32 years old while talking to teens.**
 
 Ages: 
 "Tokay:" boy - 13
