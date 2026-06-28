@@ -12,6 +12,8 @@ Thomas Dall DMs with "Kota" from the "Kota Files" that he denies even knowing. A
 It's important to remember that Thomas self-admits he's 32 years old while talking to teens.
 
 Ages: 
+"Tokay:" boy - 13
+"Shiela:" girl - undisclosed but according to Thomas "very young"
 "Eddie and Julia:" a couple that use one discord account - 15
 "SopelSky:" boy - 15
 "Kota:" girl - 17
