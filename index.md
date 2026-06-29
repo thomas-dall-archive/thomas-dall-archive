@@ -22,17 +22,17 @@ description: "Comprehensive dossier documenting the identity transitions, clinic
 
 <div class="archive-grid">
   <div class="archive-column">
-    <a href="{{ '/archive/' | relative_url }}" class="archive-link">🗄️ VIEW FULL FORENSIC DATABASE</a>
-    <a href="{{ '/commentary/' | relative_url }}" class="archive-link">📊 VIEW SECONDARY ANALYTICS</a>
-    <a href="{{ '/twitter-archive' | relative_url }}" class="archive-link">📱 TRANSMISSION ARCHIVE</a>
-    <a href="{{ '/shirt-watch.html' | relative_url }}" class="archive-link">👕 SHIRT WATCH</a>
-    <a href="{{ '/subscriptions/' | relative_url }}" class="archive-link">▶️ SUBJECT SUBSCRIPTIONS</a>
     <a href="{{ '/observation.html' | relative_url }}" class="archive-link">👁️ LIVE OBSERVATION ROOM</a>
+    <a href="{{ '/archive/' | relative_url }}" class="archive-link">🗄️ FULL FORENSIC VIDEO DATABASE</a>
+    <a href="{{ '/commentary/' | relative_url }}" class="archive-link">📊 COMMENTARY VIDEO DATABASE</a>
+    <a href="{{ '/twitter-archive' | relative_url }}" class="archive-link">📱 X TRANSMISSION ARCHIVE</a>
+    <a href="{{ '/subscriptions/' | relative_url }}" class="archive-link">▶️ CURRENT YOUTUBE SUBSCRIPTIONS</a>
+    <a href="{{ '/shirt-watch.html' | relative_url }}" class="archive-link">👕 SHIRT WATCH</a>
+    <a href="{{ '/gallery/' | relative_url }}" class="archive-link">🎨 ART GALLERY</a>   
   </div>
 
   <div class="archive-column">
-    <a href="{{ '/archives/discord-archives/' |relative_url}}" class="archive-link"> 💼 DISCORD LOGS</a>
-    <a href="{{ '/gallery/' | relative_url }}" class="archive-link">🎨 ART GALLERY</a>
+    <a href="{{ '/archives/discord-archives/' |relative_url}}" class="archive-link"> 💼 DISCORD LOGS</a>    
     <a href="{{ '/evidence-lockers/2019_01_05_Incest_Confession/' | relative_url }}" class="archive-link">🗃️ EVIDENCE LOCKER: INCEST CONFESSION</a>
     <a href="{{ '/evidence-lockers/2019_03_15_Disowns_Daughter/' | relative_url }}" class="archive-link">🗃️ EVIDENCE LOCKER: DAUGHTER DISOWNMENT</a>
     <a href="{{ '/evidence-lockers/2019_03_29_Abandoned_Simba/' | relative_url }}" class="archive-link">🗃️ EVIDENCE LOCKER: PET ABANDONMENT</a>
