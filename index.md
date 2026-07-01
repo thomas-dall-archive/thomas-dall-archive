@@ -140,7 +140,7 @@ While operating as **"Kittystyle,"** the subject’s history of familial abuse b
 * Evidence: [Thomas Dall Speaking to John Boulden and Admitting That the Confession is Real.]({% post_url 2019-10-21-a-wild-john-boulden-appears-in-kittystyles-discord-server-vIRDVpy_njk %})
 * Evidence: [Clipped Portion from John Boulden Conversation]({% post_url 2025-01-19-kittystyle-the-potato-of-life-tim-dooley-aka-thomas-dall-sister-fister-proof-Fvonudc_RoY %})
 * Evidence: [Clip where Kittystyle (Thomas Dall) Talks About the Confession in a Stream Chat]({% post_url 2019-06-22-full-clip-of-kitty-admitting-he-molested-his-sister-v-pingspjiy-kxv1qCaGDTU %})
-* Evidence: [Discord Log of Kittystyle (Thomas Dall) in the stream.me era where he admits the allegations are true](/archives/kittystyle_discord_admission.png)
+* Evidence: [Discord Log of Kittystyle (Thomas Dall) in the stream.me era where he admits the allegations are true]({{ '/assets/kittystyle_discord_admission.png)
 * Evidence: [Kittystyle (Thomas Dall) is dangerous around children #1]({% post_url 2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-1-5GQRw0juLqU %})
 * Evidence: [Kittystyle (Thomas Dall) is dangerous around children #2]({% post_url 2019-10-08-kittystyle-thomas-dall-is-dangerous-around-children-2-Ner_O-Bg4Xc %})
 
