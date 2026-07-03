@@ -26,5 +26,6 @@ You can view the full, un-curated chat log below.
 
 ---
 ### 📄 Source Document
-You can view the full, un-curated chat log below. 
-[Click here to view raw transcript]({{ '/assets/discord_archive_2025_to_2026.html' | relative_url }})
+You can view the full, un-curated chat logs below.  
+[Click here to view 2025 transcript]({{ '/assets/discord_archive_2025.html' | relative_url }})
+[Click here to view 2026 transcript]({{ '/assets/discord_archive_2026.html' | relative_url }})
