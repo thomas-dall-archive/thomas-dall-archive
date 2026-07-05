@@ -5,6 +5,7 @@ date: 2026-07-04
 youtube_id: "lVNnacMUOMg"
 channel: 'The Alogatog Show'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-07-04-tim-dooley-and-the-rubble-baby-access-system-lvnnacmuomg"
 ---
 
 ### Video Information
