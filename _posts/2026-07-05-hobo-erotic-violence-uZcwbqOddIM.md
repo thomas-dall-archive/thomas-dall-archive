@@ -5,6 +5,7 @@ date: 2026-07-05
 youtube_id: "uZcwbqOddIM"
 channel: 'GRIM'
 category: ["Thomas", "GRIM"]
+ia_id: "thomas-dall-archive-2026-07-05-hobo-erotic-violence-uzcwbqoddim"
 ---
 
 ### Video Information
