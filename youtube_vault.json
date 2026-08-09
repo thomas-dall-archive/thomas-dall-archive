@@ -1,7 +1,7 @@
 {
   "channel": {
     "kind": "youtube#channel",
-    "etag": "HkBauqJUuEeo22erhMhhxihmM5k",
+    "etag": "9otF0fJAbLhHbBs6mg4KtPAQU8Y",
     "id": "UCPS2alXY7fcD0IygPmskr8Q",
     "snippet": {
       "title": "Tim Dooley",
@@ -32,16 +32,16 @@
       "country": "DK"
     },
     "statistics": {
-      "viewCount": "231706",
-      "subscriberCount": "871",
+      "viewCount": "233636",
+      "subscriberCount": "882",
       "hiddenSubscriberCount": false,
-      "videoCount": "1288"
+      "videoCount": "1307"
     }
   },
   "subscriptions": [
     {
       "kind": "youtube#subscription",
-      "etag": "g-nufTr0OQcv7XMt19ShNdkeJxc",
+      "etag": "ilNvTF9_C3yR_BtC6T-ixgi8uXM",
       "id": "OIf7h1vXOiRMhVaVUZpiniw07ipG_RvFwZy67JAvktM",
       "snippet": {
         "publishedAt": "2025-09-15T11:15:10.819706Z",
@@ -65,14 +65,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1201,
+        "totalItemCount": 1213,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "gwwh1xKE5LtnkI-ey0sFrwRXdrs",
+      "etag": "aBzOsLPLQyvOO8sPo8iIsaLT-f8",
       "id": "OIf7h1vXOiT-zuYU1AknPUO2FBPkvcpa4EjW8g5sGQM",
       "snippet": {
         "publishedAt": "2025-07-21T17:39:31.730481Z",
@@ -96,14 +96,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 432,
+        "totalItemCount": 439,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "2_VrsIQ1V6Ph2q3Qz9OTsKyHBPU",
+      "etag": "hE0m0fGXNtGVtU0q6UcHopjl8og",
       "id": "OIf7h1vXOiTOyLj5P0NffLtia0riVf4tnlVPVAm-Nds",
       "snippet": {
         "publishedAt": "2024-10-16T17:20:03.152656Z",
@@ -127,7 +127,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1068,
+        "totalItemCount": 1077,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -165,7 +165,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "3BDVs_PSo2tIt42YtVYfXQEvSeM",
+      "etag": "F95UYeCnZApEvJaavZJk9YTy1o4",
       "id": "OIf7h1vXOiRMhVaVUZpiniYj_SHSro7g9EhxkCz7fpU",
       "snippet": {
         "publishedAt": "2025-09-22T23:20:01.445198Z",
@@ -189,7 +189,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 2084,
+        "totalItemCount": 2097,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -227,7 +227,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "z-RuCmvbJOst33gKN8I_yoB7R_o",
+      "etag": "W2Ds2xxkpX8lzKDg2Set7Z986Yg",
       "id": "OIf7h1vXOiRMhVaVUZpinqcMOPICqjnoKU3Gi0YnrzA",
       "snippet": {
         "publishedAt": "2026-01-08T00:33:32.440844Z",
@@ -251,14 +251,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1206,
+        "totalItemCount": 1213,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "_dg_a1TpZk004jSlxWaoJQ1Ml_o",
+      "etag": "lRQn9fZgbcyTWsX7dz47B6NksyA",
       "id": "OIf7h1vXOiRMhVaVUZpinr7kmfQc2MLEhdsToa5dyoI",
       "snippet": {
         "publishedAt": "2026-01-08T05:41:26.604203Z",
@@ -282,7 +282,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 7331,
+        "totalItemCount": 7352,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -351,7 +351,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "E1OCm0F9rJIhxDfUPNx_mXPSfmI",
+      "etag": "6btWlcRNmd6s4Rf93LkK-DcfB_M",
       "id": "OIf7h1vXOiRYNwGA0E3AWuULwWerUvIEt-lpFAjSigg",
       "snippet": {
         "publishedAt": "2026-04-01T08:04:46.505282Z",
@@ -375,14 +375,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 13061,
+        "totalItemCount": 13094,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "r6ICPjPLl6lXiXz3AwqYlpgfhik",
+      "etag": "kzyadfvNcx9Kw6UWJOVndH-4YQQ",
       "id": "OIf7h1vXOiRMhVaVUZpinn9uy79Rji5CiOkjY-9WqZo",
       "snippet": {
         "publishedAt": "2025-07-08T20:16:13.925425Z",
@@ -406,14 +406,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 7560,
+        "totalItemCount": 7579,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "UvocysoWGRgtaRdtTugJ6jAnjQs",
+      "etag": "Cef7wubdvimMbxtm7-8MTC6H2qo",
       "id": "OIf7h1vXOiRMhVaVUZpintxzsfquxNYNC-CZeCXWGKk",
       "snippet": {
         "publishedAt": "2026-05-24T13:05:17.916465Z",
@@ -437,14 +437,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 7436,
+        "totalItemCount": 7450,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "xJauAj6ZZ6eMXegssW3BotUAiBc",
+      "etag": "JDhJJO_N8bcXxdi0KOfRVif2suQ",
       "id": "OIf7h1vXOiRYNwGA0E3AWmBOhlM__OeioJT5eg8hEp0",
       "snippet": {
         "publishedAt": "2024-11-06T02:06:10.716225Z",
@@ -468,19 +468,19 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 3812,
+        "totalItemCount": 3820,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "ti8JNVIucN41ZRhDSOc-VOaXRW0",
+      "etag": "0hAN2DGY7Tn03Lh8qnGJIzGWjt8",
       "id": "OIf7h1vXOiRmF7UFqJiY0qnCuIk9VK1QqyUDfhlJsik",
       "snippet": {
         "publishedAt": "2025-05-25T15:44:55.400832Z",
         "title": "KingdomSaints-Rising ",
-        "description": "▪︎ Devotionals ▪︎ Bible Reading ▪ Encouragement ▪︎ End Times ▪︎ \n\nJesus Christ is the Son of God, and He is coming back soon. Believe the Gospel that saves the soul -\n\n1 CORINTHIANS 15:1-4 \n\"Jesus Christ died for the forgiveness of sin, was crucified, buried, and on the third day was raised from the dead.\"\n\nEPHESIANS 2:8-9\n\"For by GRACE you have been saved through faith, not of yourselves; it is the GIFT of God, not of works, so NONE can boast.\"\n\nROMANS 3:23-25\n\"For ALL have sinned and fallen short of God's Glory, who are saved FREELY by His grace through the redemption in Jesus Christ, by His blood, through faith, demonstrating His righteousness.",
+        "description": "▪︎ Devotionals ▪︎ Bible Reading ▪ Encouragement ▪︎ End Times ▪︎\n \nAn online Christian ministry dedicated to sharing the gospel. My name is Kevin, and this is KingdomSaints-Rising. \n\nJesus Christ is the Son of God, and He is coming back soon. Believe the Gospel that saves the soul -\n\n▪︎1 CORINTHIANS 15:1-4 \n\"Jesus Christ died for the forgiveness of sin, was crucified, buried, and on the third day was raised from the dead.\"\n\n▪︎EPHESIANS 2:8-9\n\"For by GRACE you have been saved through faith, not of yourselves; it is the GIFT of God, not of works, so NONE can boast.\"\n\n▪︎ROMANS 10:9\n\"If you confess with your mouth Jesus is Lord and BELIEVE in your heart God raised Him from the dead, you WILL be saved. \"",
         "resourceId": {
           "kind": "youtube#channel",
           "channelId": "UC1Q8deanMGZVmWJCXhxgvMQ"
@@ -499,14 +499,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 197,
+        "totalItemCount": 199,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "-tqdSr-cvj-YVOjHhODf4ndP2I4",
+      "etag": "AvNCN4xMQ5uyKazfNpeveaP1IjY",
       "id": "OIf7h1vXOiT-zuYU1AknPfd3k0q-haMafBiGk1cTfec",
       "snippet": {
         "publishedAt": "2025-11-19T04:32:35.772091Z",
@@ -530,14 +530,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 605,
+        "totalItemCount": 611,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "VSyViVg8HUxtZrch2vYyU8eFtgI",
+      "etag": "Rl65sl5Qc7uzWB8s4kLca3oKdKo",
       "id": "OIf7h1vXOiRMhVaVUZpinn7nlsMnZq4Y6Etm8X_Pa68",
       "snippet": {
         "publishedAt": "2026-06-02T10:25:40.690445Z",
@@ -561,7 +561,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 3739,
+        "totalItemCount": 3881,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -599,7 +599,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "aEe8U73hATBS8q6ClUNU9mJYypY",
+      "etag": "eqbZNlTI6vvV2dIb7OaT368tojY",
       "id": "OIf7h1vXOiRp-6H39UfJ3atQLTY5DSCFj6MhJrLXoLk",
       "snippet": {
         "publishedAt": "2026-07-23T22:40:34.107413Z",
@@ -623,7 +623,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 582,
+        "totalItemCount": 583,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -661,7 +661,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "gbUpyXIT_W30EDcrawYhf11fzdk",
+      "etag": "LfyZYmNuIwmQyumwrOSB3_IxNEE",
       "id": "OIf7h1vXOiRMhVaVUZpinry8NeFmRPIjSDANNPajEu4",
       "snippet": {
         "publishedAt": "2024-10-11T02:09:07.674095Z",
@@ -685,19 +685,19 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 72871,
+        "totalItemCount": 72967,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "_48_5Qp7lyZuRdhh5tevzMVTm3A",
+      "etag": "ZCjhG1rUOg-PXx346v6PprxiIQI",
       "id": "OIf7h1vXOiRmF7UFqJiY0mNaGmiePqzrfdn6pQSu4HE",
       "snippet": {
         "publishedAt": "2026-01-27T08:28:54.765709Z",
         "title": "A potato's eye",
-        "description": "'A potato's Eye' goes live Sundays at 4 PM EST and Tater Talks Thursday open panels goes live Thursdays 7 pm EST \nI am just a potato from the BFE of USA and trying to understand why the starch in the people these days .... i am the one with starch ... not humans... why such \"stiff\" backs? why no ability to bend for others concerns anymore?\n\nI also runs a show called \"down deep with the potato\" where I interview interesting obscure people.\n\nI also has a reaction series where we look into different topics not spoke a lot about, discussing comment sections as well as viewers can send in content for him to react to. All videos within the reaction series are comedy or satire.",
+        "description": "'A potato's Eye' goes live Sundays at 2 PM start and 4 PM EST open panel and Tater Talks Thursday open panels goes live Thursdays 7 pm EST \nI am just a potato from the BFE of USA and trying to understand why the starch in the people these days .... i am the one with starch ... not humans... why such \"stiff\" backs? why no ability to bend for others concerns anymore?\n\nI also runs a show called \"down deep with the potato\" where I interview interesting obscure people.\n\nI also has a reaction series where we look into different topics not spoke a lot about, discussing comment sections as well as viewers can send in content for him to react to. All videos within the reaction series are comedy or satire.",
         "resourceId": {
           "kind": "youtube#channel",
           "channelId": "UC1yCGOdez8zMIhWUbEY5zPA"
@@ -716,14 +716,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 166,
+        "totalItemCount": 171,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "WnSrh3lL3hqih1wefPD6Mw91NKA",
+      "etag": "RELTQlehO0KmsOtaE92uCUSRq-Y",
       "id": "OIf7h1vXOiRMhVaVUZpingoRMTvBLVeMICaGuaRPSSw",
       "snippet": {
         "publishedAt": "2026-03-20T16:01:47.082013Z",
@@ -747,7 +747,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1184,
+        "totalItemCount": 1189,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -785,7 +785,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "9bDS8MJjLd5ZyiYro0ABHGV2vJs",
+      "etag": "Pxe9AbTjdXkJgTPzQlQjmgB_cN0",
       "id": "OIf7h1vXOiT-zuYU1AknPYaAMs8RPuQLhwVF1k28zfM",
       "snippet": {
         "publishedAt": "2024-12-06T11:32:49.353498Z",
@@ -809,14 +809,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 634,
+        "totalItemCount": 637,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "y_G7au4aK7k9hHUfTRLeIsvSVMo",
+      "etag": "ViY976vlFZ7iK8CGIQCTtBA5hs4",
       "id": "OIf7h1vXOiRMhVaVUZpinpDuH609GevXE8Ggn47j7f4",
       "snippet": {
         "publishedAt": "2024-10-28T23:51:27.336747Z",
@@ -840,7 +840,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 5343,
+        "totalItemCount": 5354,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -878,7 +878,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "8NsWCZ8pUuikaPdFiOUbrJrlLLs",
+      "etag": "yyn4Eyy68FwdPFaXitDO6lpUJk0",
       "id": "OIf7h1vXOiSYYKaloSRPsw7A467ufSNgMsoPVd9sBPg",
       "snippet": {
         "publishedAt": "2025-04-16T09:14:14.605073Z",
@@ -902,14 +902,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 155,
+        "totalItemCount": 156,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "gEV4v3RQ1jE2wckqAKEXNpIZDXM",
+      "etag": "c9DUZmpjmbHnesJ0adGBknaO5C0",
       "id": "OIf7h1vXOiSYYKaloSRPs5T-UCMNguDC7kIiDLTGNcY",
       "snippet": {
         "publishedAt": "2025-08-21T00:02:38.390043Z",
@@ -933,19 +933,19 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 139,
+        "totalItemCount": 142,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "HY0mrWZgEcfFbDSl8sVY-bXnsdA",
+      "etag": "1WD-IjZobXYIxT15my2mOTvTGD4",
       "id": "OIf7h1vXOiSYYKaloSRPs1KWgsUS6eYlx95PUFztMJ0",
       "snippet": {
         "publishedAt": "2026-02-26T10:26:39.375177Z",
         "title": "The Inquisitor",
-        "description": "Not all doors should be opened.\nI opened them for you.\n\nI originally create, edit and voice over my videos.\nAll stories are written by me. 🖤\n\nInquiries:\ntheinquisitor1122@gmail.com",
+        "description": "Not all doors should be opened.\nI opened them for you.\n\nI originally create, edit and voice over my videos.\nAll stories are written by me. 🖤\n\nInquiries:\ntheinquisitor1122@gmail.com\n\n\nI make entirely original videos about the strange, beautiful, and sometimes painful experience of being alive. My scripts are written entirely by me, from scratch, from my own thoughts, feelings, reflections, and imagination. Every piece of artwork you see here is also created by me, imagined and designed specifically for each story.\n\n\nThere is no perfect version of you waiting somewhere in the future. There is only the person you are becoming, slowly, strangely, beautifully.\n\nSo stay for a while.\n\nTake what you need.\n\nAnd whenever the world feels a little too heavy, you can always come back here.\n\nyou are welcome here. always. ❤️",
         "resourceId": {
           "kind": "youtube#channel",
           "channelId": "UC3Jbq8iQl-_C5upAJtsiRzg"
@@ -971,7 +971,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "6hmlSBncYgrWQtKvxT2Ez0lLaXk",
+      "etag": "BUjWdHq9te8mDpCxcVtaOSlsowA",
       "id": "OIf7h1vXOiRMhVaVUZpinkGHR4ZUTzftJpM_U_uZLR4",
       "snippet": {
         "publishedAt": "2025-04-16T00:18:52.378181Z",
@@ -995,14 +995,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1746,
+        "totalItemCount": 1749,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "GqFkBRwfIrSSHRaNEs_E_V2xqIQ",
+      "etag": "oJzse6btepsppKtYqFZ7ITJbgxw",
       "id": "OIf7h1vXOiRMhVaVUZpinv1P2uPpdQ6rHDCU7h7FG6M",
       "snippet": {
         "publishedAt": "2025-05-13T03:30:22.005868Z",
@@ -1026,7 +1026,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 2629,
+        "totalItemCount": 2648,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -1126,7 +1126,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "GcD54xUkGHdOhwom0rjxgmIu3pQ",
+      "etag": "vRwiOGDcI56v0A37Rstbwuz1SGg",
       "id": "OIf7h1vXOiRMhVaVUZpinhopJciNVfHu7PN7El8z0sk",
       "snippet": {
         "publishedAt": "2024-10-02T18:11:09.506618Z",
@@ -1150,14 +1150,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1202,
+        "totalItemCount": 1212,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "lodqbWSuVm7dDMp2By04rHA16O8",
+      "etag": "Gt-kWQm21_Ar1G_UehDhJMPFNAY",
       "id": "OIf7h1vXOiRYNwGA0E3AWoUukcEKakFdrxQW-stkb2g",
       "snippet": {
         "publishedAt": "2025-02-06T20:16:40.486627Z",
@@ -1181,14 +1181,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 497,
+        "totalItemCount": 498,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "2R4Li96hcklYbSIetz12D8z5yWY",
+      "etag": "QEaxHtKNejSZCXFazlHSVVqSP0U",
       "id": "OIf7h1vXOiRHF3hkRxKsdT05xdPV9O6sF24zyD2JKWo",
       "snippet": {
         "publishedAt": "2026-02-26T11:37:06.099761Z",
@@ -1212,14 +1212,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 62,
+        "totalItemCount": 63,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "IkQVmjax6LbJa_hc0XIW7ZSBJH8",
+      "etag": "TvGIStWhCVoRLVuQ0tD9QihOPIw",
       "id": "OIf7h1vXOiT-zuYU1AknPU6-IQkV9h8FgzynfoAQFX0",
       "snippet": {
         "publishedAt": "2025-12-08T02:51:20.383507Z",
@@ -1243,14 +1243,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 590,
+        "totalItemCount": 597,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "g_LDBR52Lj1HGxlt15MtWs9LjuM",
+      "etag": "JsUncTbae6lnA2tVuAwZ4sc1WdM",
       "id": "OIf7h1vXOiRp-6H39UfJ3cBxYScthJGX3bJRgujieVg",
       "snippet": {
         "publishedAt": "2026-05-24T15:33:56.235452Z",
@@ -1274,14 +1274,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 795,
+        "totalItemCount": 799,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "SsP7l1LWfquT1YIWySf_y2O4sws",
+      "etag": "EgjYhdWiq9EvlEtxGdWeokV0Mmk",
       "id": "OIf7h1vXOiRMhVaVUZpinlbe9yregZDd39mUE6S7AGc",
       "snippet": {
         "publishedAt": "2025-09-06T08:00:25.669785Z",
@@ -1305,7 +1305,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 273,
+        "totalItemCount": 275,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -1374,7 +1374,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "foTIdXbNIIT5Fm8oQuI3qThwF0o",
+      "etag": "26UUPUhpUzCBvUcCmLiXTX4R0D0",
       "id": "OIf7h1vXOiRMhVaVUZpinrDoACAae0hxcDqtGustmG8",
       "snippet": {
         "publishedAt": "2024-10-31T18:31:56.883871Z",
@@ -1398,14 +1398,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 20760,
+        "totalItemCount": 20781,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "qFXEicc4PuGwPWomSdVoM-jz4Gw",
+      "etag": "sAkd9WFWPg96yWip6EE6oI-dUmM",
       "id": "OIf7h1vXOiRMhVaVUZpinhYhOkQmbIEjrmoquSy-MzA",
       "snippet": {
         "publishedAt": "2025-03-06T19:12:08.142247Z",
@@ -1429,14 +1429,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 2457,
+        "totalItemCount": 2480,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "w0SDwkd9YAuMOOGpHwNjpYM6f20",
+      "etag": "syhfVRNNQbT0hZHS07ExPUc4UK8",
       "id": "OIf7h1vXOiRMhVaVUZpinjwb32UlnVDSRNh9sKIT20g",
       "snippet": {
         "publishedAt": "2024-10-05T18:35:32.769222Z",
@@ -1460,7 +1460,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 2203,
+        "totalItemCount": 2208,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -1498,7 +1498,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "W1qzEVCJNSUH5RFhh6Wai9kn_ew",
+      "etag": "TUJmfQqtzeloZFixgA5zh451yN4",
       "id": "OIf7h1vXOiRYNwGA0E3AWkkv3_5FqcZKXugj_w7kXoM",
       "snippet": {
         "publishedAt": "2025-10-10T12:09:16.320649Z",
@@ -1522,14 +1522,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1602,
+        "totalItemCount": 1617,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "opJEGZ51T4q-ZllQ8puab7TxOXI",
+      "etag": "1uTrH5DR5PvoLQLmScSDtTJBsJs",
       "id": "OIf7h1vXOiRMhVaVUZpinnSQOsh_OCs_5vacnE55APU",
       "snippet": {
         "publishedAt": "2025-06-13T12:10:47.017263Z",
@@ -1553,14 +1553,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1324,
+        "totalItemCount": 1343,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "B0feJpnpS543ZVU67qSjMAmYWLo",
+      "etag": "vjOR1xTG8dXdb6PUtm-thZdyNLo",
       "id": "OIf7h1vXOiRHF3hkRxKsdfswqd7xb41twf6Vx5CqncA",
       "snippet": {
         "publishedAt": "2026-02-23T19:24:55.814712Z",
@@ -1584,14 +1584,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 516,
+        "totalItemCount": 537,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "F7xzZnOxQ-G89K4cD8J1k5GXsJE",
+      "etag": "l6P3-q-cl8pimMFzW0QWdwGHlIc",
       "id": "OIf7h1vXOiRMhVaVUZpinqMlIpqk_EYIAOtlGc6VvuM",
       "snippet": {
         "publishedAt": "2025-07-04T21:36:00.187811Z",
@@ -1615,14 +1615,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 2076,
+        "totalItemCount": 2083,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "idb6opVM3-ftfYo1nXMsxaULuqc",
+      "etag": "41Zry8LlUB18LduxgVSGibE3MDc",
       "id": "OIf7h1vXOiTOyLj5P0NffDklNBZnDD8o6Rda-lHqwPs",
       "snippet": {
         "publishedAt": "2025-09-02T13:37:42.117512Z",
@@ -1646,7 +1646,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 2019,
+        "totalItemCount": 2026,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -1684,7 +1684,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "2RnrPlX43Ni2EOPrCfk67pbmbLU",
+      "etag": "6eTpNSfoztoV_xdlRzJodiX3Jt8",
       "id": "OIf7h1vXOiRmF7UFqJiY0iBrIvfmgI47LmBzIJC2EUM",
       "snippet": {
         "publishedAt": "2025-10-19T18:57:18.731813Z",
@@ -1708,14 +1708,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 408,
+        "totalItemCount": 414,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "lbRBR_0DZnsLIiAoWmgcKsbpwCQ",
+      "etag": "CBTdstWkJYE_9NI11uT-RBJf_ko",
       "id": "OIf7h1vXOiRMhVaVUZpinjREpwHL1iNxM8MZpGONXuc",
       "snippet": {
         "publishedAt": "2025-01-07T05:18:59.044734Z",
@@ -1739,7 +1739,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 102,
+        "totalItemCount": 103,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -1777,7 +1777,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "t3BsIwPzBbYpMYzSm6hwUrzJuwo",
+      "etag": "RIK9An7PaLlNsP-g7SQCkIH6dtQ",
       "id": "OIf7h1vXOiRMhVaVUZpinrWJuMhQtIy3tq1MsEuRras",
       "snippet": {
         "publishedAt": "2026-01-13T05:32:27.675477Z",
@@ -1801,7 +1801,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 662,
+        "totalItemCount": 676,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -1839,7 +1839,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "mpFwAfATBWB_ah_7rE0HXY9uUVs",
+      "etag": "cfFwWAytCkMQ7Ka1seAxXPuG3AQ",
       "id": "OIf7h1vXOiRmF7UFqJiY0qNRAi29IlSNgq3SK3VBn6g",
       "snippet": {
         "publishedAt": "2026-02-04T19:28:45.838727Z",
@@ -1863,14 +1863,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 3843,
+        "totalItemCount": 3886,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "6VfgKtyY30UBh6_rxPYNu8eHsB0",
+      "etag": "0jEsA1ghoXlsDAW2UgiX7pPONjQ",
       "id": "OIf7h1vXOiRYNwGA0E3AWvEHAG026fCd21D6m72woJ0",
       "snippet": {
         "publishedAt": "2026-05-23T17:28:51.154823Z",
@@ -1894,7 +1894,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 5057,
+        "totalItemCount": 5067,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -1932,7 +1932,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "0tFpupBGBlnfGHHWac-yFNmfc8o",
+      "etag": "CjdGrh2C2_QUuvidcDfzcotgbJM",
       "id": "OIf7h1vXOiRMhVaVUZpingIAEMFc2rrwfXdHqJmw-wI",
       "snippet": {
         "publishedAt": "2026-02-26T01:19:00.654733Z",
@@ -1956,7 +1956,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 439,
+        "totalItemCount": 440,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -1994,7 +1994,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "qs55BmJ3oczlJMmCGbjO-fUUvDQ",
+      "etag": "_z_zgfscLegEPXbSrp-d0tC_Dsw",
       "id": "OIf7h1vXOiTOyLj5P0NffB2_NkmzDcxOXnhCDxqptg8",
       "snippet": {
         "publishedAt": "2026-06-30T11:43:11.557456Z",
@@ -2018,7 +2018,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 797,
+        "totalItemCount": 801,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -2056,7 +2056,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "Ey6thBt5o9jZL4ilYG-p0mFOfRY",
+      "etag": "0f3XlMB_17ikisQgxz59M86g3rU",
       "id": "OIf7h1vXOiRHF3hkRxKsdeTmZoAizSqWAmYujgHkVMw",
       "snippet": {
         "publishedAt": "2026-04-01T15:24:49.921049Z",
@@ -2080,14 +2080,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1375,
+        "totalItemCount": 1453,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "B9E2K9XSc__cqB48L8oxGsKL15Q",
+      "etag": "BWiByzLxLEgyjgqdjTPLvx2J6nI",
       "id": "OIf7h1vXOiSYYKaloSRPsxHBtimAVgMUq49AsOh7Sjk",
       "snippet": {
         "publishedAt": "2026-01-09T07:05:34.000821Z",
@@ -2111,7 +2111,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 245,
+        "totalItemCount": 247,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -2149,7 +2149,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "KOfu0whKvD1TkVMbHEfMjk4AmPg",
+      "etag": "Y5u36S6K8AoeEwzT6hv6-S6eaAM",
       "id": "OIf7h1vXOiSYYKaloSRPswBaws6es-151HQJyeLUAjE",
       "snippet": {
         "publishedAt": "2024-09-24T17:34:39.55059Z",
@@ -2173,14 +2173,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 880,
+        "totalItemCount": 886,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "4GgHNSiRRdvqKrgpbP-le8eMDUE",
+      "etag": "Kjko24zLiXmSKh4jyxK_EaxUMOw",
       "id": "OIf7h1vXOiRMhVaVUZpinjftmN_4KtzoJoJ09m3uxBg",
       "snippet": {
         "publishedAt": "2026-01-12T00:39:10.065737Z",
@@ -2204,7 +2204,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 23780,
+        "totalItemCount": 23896,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -2242,7 +2242,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "vwoqD8eZozEGXUqbw2zvtBtUGLo",
+      "etag": "RgniRcJ5pEXb5HAk0VfWwZpL-Vw",
       "id": "OIf7h1vXOiRMhVaVUZpinsrvzWUcQN1zxTjQMiWHCFY",
       "snippet": {
         "publishedAt": "2025-08-02T16:52:52.123012Z",
@@ -2266,14 +2266,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 658,
+        "totalItemCount": 670,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "49YIEpGcOnlrJSOO-JrdX0FqKyk",
+      "etag": "vkA1NJOC9MnXz7dXZTRGsZoII2Q",
       "id": "OIf7h1vXOiRYNwGA0E3AWvOznge6SjmBcIKcr6RDTPE",
       "snippet": {
         "publishedAt": "2025-12-27T23:01:17.442175Z",
@@ -2297,14 +2297,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 473,
+        "totalItemCount": 474,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "yEIPRlGye5udQtNbx1m5w00ZwvE",
+      "etag": "BeXmAc9sXvJVGjZznwhrHZhXD7g",
       "id": "OIf7h1vXOiTOyLj5P0NffJTkQHaiw92aEa149sFDIAs",
       "snippet": {
         "publishedAt": "2025-09-27T11:15:56.294298Z",
@@ -2328,14 +2328,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 975,
+        "totalItemCount": 983,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "GDvHIi6HpgUXgHBePQtu158In9I",
+      "etag": "oUPvnUSOIFNGjtXBsv5ogTp6p30",
       "id": "OIf7h1vXOiRMhVaVUZpinoSuNV-IyFnkcmirtBQ7PCM",
       "snippet": {
         "publishedAt": "2025-06-13T13:07:18.646347Z",
@@ -2359,14 +2359,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 701,
+        "totalItemCount": 715,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "qXNgEZ-A2vLqsR3O5PsNdQzEJKc",
+      "etag": "rpAw-7RIa9xpreffig41NcMUXh0",
       "id": "OIf7h1vXOiRp-6H39UfJ3YqgA9gvPYM0t3ca0ttHYmo",
       "snippet": {
         "publishedAt": "2026-01-27T14:32:48.500041Z",
@@ -2390,7 +2390,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 915,
+        "totalItemCount": 927,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -2428,7 +2428,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "0UPbccHaapynr1Hj4mX6Y_PC6uU",
+      "etag": "TOM_glKqJBJQC_sUb4PCj_k9gSw",
       "id": "OIf7h1vXOiRHF3hkRxKsdUobp6GQo2vnrLlMHpyVJQg",
       "snippet": {
         "publishedAt": "2026-02-16T06:04:21.116467Z",
@@ -2441,18 +2441,18 @@
         "channelId": "UCPS2alXY7fcD0IygPmskr8Q",
         "thumbnails": {
           "default": {
-            "url": "https://yt3.ggpht.com/zMIt-M3MeADCtVOHR8klvvpZRueB-SJmoNcrF6EjhYZP4nQ5hFozo2Gnoa27zQkYKDvmz1ze=s88-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/izS-DRJcRvzOCOCC755nx8k_VIhntIelRWrHCqW-JKdIF7kEbt3RYW1CYLe-oamwLluyuOAv=s88-c-k-c0x00ffffff-no-rj"
           },
           "medium": {
-            "url": "https://yt3.ggpht.com/zMIt-M3MeADCtVOHR8klvvpZRueB-SJmoNcrF6EjhYZP4nQ5hFozo2Gnoa27zQkYKDvmz1ze=s240-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/izS-DRJcRvzOCOCC755nx8k_VIhntIelRWrHCqW-JKdIF7kEbt3RYW1CYLe-oamwLluyuOAv=s240-c-k-c0x00ffffff-no-rj"
           },
           "high": {
-            "url": "https://yt3.ggpht.com/zMIt-M3MeADCtVOHR8klvvpZRueB-SJmoNcrF6EjhYZP4nQ5hFozo2Gnoa27zQkYKDvmz1ze=s800-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/izS-DRJcRvzOCOCC755nx8k_VIhntIelRWrHCqW-JKdIF7kEbt3RYW1CYLe-oamwLluyuOAv=s800-c-k-c0x00ffffff-no-rj"
           }
         }
       },
       "contentDetails": {
-        "totalItemCount": 389,
+        "totalItemCount": 410,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -2490,7 +2490,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "gO6sy5Ex1mWDS5JzSjGuTvlvPcE",
+      "etag": "HlP8cUkClR9W1V1GAwrou8o3sbI",
       "id": "OIf7h1vXOiSYYKaloSRPs-9eD2ADJbRBhsRYxYeDg4M",
       "snippet": {
         "publishedAt": "2026-01-08T00:41:50.214302Z",
@@ -2514,7 +2514,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1517,
+        "totalItemCount": 1520,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -2552,7 +2552,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "1lX5-6O2lF9DmiI3l-Z0V0Pbdm0",
+      "etag": "rFW2joDtrArVTzkhOyaL2N5Hco8",
       "id": "OIf7h1vXOiRYNwGA0E3AWlJwUOdhgu2jwfc_1Rsjdbk",
       "snippet": {
         "publishedAt": "2026-02-24T20:29:05.11734Z",
@@ -2576,14 +2576,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 521,
+        "totalItemCount": 527,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "M3xMHtP1iX3rautaWfy2VeEBY7w",
+      "etag": "O1vc-h6r57d1ftvPFl-BPXs6Wlo",
       "id": "OIf7h1vXOiRYNwGA0E3AWorWaXXisDcsmjRjy10hsT8",
       "snippet": {
         "publishedAt": "2026-01-13T20:18:46.528336Z",
@@ -2607,14 +2607,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1588,
+        "totalItemCount": 1591,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "IKml6u0yj_e_3mmfWtOWBioCgCs",
+      "etag": "hjtp3FkqPl3HlCOgl-JNne325C0",
       "id": "OIf7h1vXOiRMhVaVUZpingSc7a-xQIpF9MwWSgzbTZ4",
       "snippet": {
         "publishedAt": "2025-04-30T03:36:21.764499Z",
@@ -2638,7 +2638,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 707,
+        "totalItemCount": 715,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -2676,12 +2676,12 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "qayYh4nbTcylMSR74FafrFWpKFc",
+      "etag": "uOm0LhhzEDdDp5FYDvhXiHel0W0",
       "id": "OIf7h1vXOiRHF3hkRxKsdVq_lu5e27UXgR1dx5naTCg",
       "snippet": {
         "publishedAt": "2026-07-31T07:18:03.212982Z",
         "title": "Ruddy Records",
-        "description": "The Ruddy Boyz\nUnapologetic worship music dedicated to the ruddy King.\nBold faith anthems, powerful ballads, and songs that glorify Jesus with full submission.\nFrom the album \"Circumcised Hearts\" and beyond.\nDeus Vult.\n\nFollow the boys on X: @TheRuddyBoyz",
+        "description": "Ruddy Records\nHome of The Ruddy Boyz and Canaan Cowboys.\nReal Christian music for real believers.\nBoy band worship. Country anthems. Songs about faith, family, and following Rabbi Jesus all the way.\nFrom circumcised hearts to proud Christian nations, we make music that lifts the spirit and strengthens the soul.\n@theruddyboyz\n\nFollow the boys on X: @TheRuddyBoyz",
         "resourceId": {
           "kind": "youtube#channel",
           "channelId": "UCD5LHjSSr7dBaeiAPUif_9Q"
@@ -2689,18 +2689,18 @@
         "channelId": "UCPS2alXY7fcD0IygPmskr8Q",
         "thumbnails": {
           "default": {
-            "url": "https://yt3.ggpht.com/AhLZ37MEe3E0LDTJyiDfvlgZjotBdlaFuk94mtSSGBB3qo7KNTanSuqgA4PxuYHNjkAGR9gB=s88-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/gsaENSx0PmUiDMpBrUS3otxv2J8eGoE4IAtZACF3DNoubIe99XE2_HvWQaB0V1cqVb_elAc8IQ=s88-c-k-c0x00ffffff-no-rj"
           },
           "medium": {
-            "url": "https://yt3.ggpht.com/AhLZ37MEe3E0LDTJyiDfvlgZjotBdlaFuk94mtSSGBB3qo7KNTanSuqgA4PxuYHNjkAGR9gB=s240-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/gsaENSx0PmUiDMpBrUS3otxv2J8eGoE4IAtZACF3DNoubIe99XE2_HvWQaB0V1cqVb_elAc8IQ=s240-c-k-c0x00ffffff-no-rj"
           },
           "high": {
-            "url": "https://yt3.ggpht.com/AhLZ37MEe3E0LDTJyiDfvlgZjotBdlaFuk94mtSSGBB3qo7KNTanSuqgA4PxuYHNjkAGR9gB=s800-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/gsaENSx0PmUiDMpBrUS3otxv2J8eGoE4IAtZACF3DNoubIe99XE2_HvWQaB0V1cqVb_elAc8IQ=s800-c-k-c0x00ffffff-no-rj"
           }
         }
       },
       "contentDetails": {
-        "totalItemCount": 19,
+        "totalItemCount": 22,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -2738,7 +2738,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "u9UMyTMa1EppQ0lX1W1sfvbVEdA",
+      "etag": "eVbtDwRqh3TErsnkpvhbZWF3Jrc",
       "id": "OIf7h1vXOiRp-6H39UfJ3RslYOwaC6uyrKhdnbtN2V8",
       "snippet": {
         "publishedAt": "2026-04-28T01:31:38.166402Z",
@@ -2762,14 +2762,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 188,
+        "totalItemCount": 190,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "6Kxl2ZNNhYbm0hfvp-i-yu1fUf0",
+      "etag": "iChfXrSpXUdUeW4JOpoV_B2vF8M",
       "id": "OIf7h1vXOiT-zuYU1AknPXCIou8rQJceDc3geeIsjd4",
       "snippet": {
         "publishedAt": "2026-01-20T02:19:00.373141Z",
@@ -2793,14 +2793,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 8783,
+        "totalItemCount": 8810,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "3Q-uXebFYKYilCUKNQQmWR6qO_0",
+      "etag": "YZomAiIzS122ThrhZgJFcUv9gFo",
       "id": "OIf7h1vXOiRMhVaVUZpinmdiKkZS05OO3LbT0DCXRec",
       "snippet": {
         "publishedAt": "2025-09-21T21:23:17.90279Z",
@@ -2824,7 +2824,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1426,
+        "totalItemCount": 1441,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -2893,7 +2893,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "N5gForyWnedCQih8P_qM21tUQnM",
+      "etag": "14gRG-t2mduMNigJO8LhirMhQ98",
       "id": "OIf7h1vXOiTOyLj5P0NffOdYh8XR7mP05KT-uOIB9N8",
       "snippet": {
         "publishedAt": "2025-09-29T23:26:22.187302Z",
@@ -2917,18 +2917,18 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 18,
+        "totalItemCount": 19,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "Um7LQNgusv8QsQhv6YmEq5WPZks",
+      "etag": "BW0KjDgC1KLYRLGILuJbDMsBzQw",
       "id": "OIf7h1vXOiSYYKaloSRPs76k9UUNaJVuDatzMNLhtI8",
       "snippet": {
         "publishedAt": "2024-12-26T08:43:17.687588Z",
-        "title": "NO KUT T.V. ",
+        "title": "NO KUT T.V. -ERR CITY SECTOR-",
         "description": "\"No KUT T.V. (Mind-Frame)”, we embody an unwavering commitment to resilience, righteousness, and authenticity. We stand tall against adversity, embracing challenges as opportunities for growth. Our foundation rests on principles that refuse compromise in matters of integrity and moral compass. We take no losses in our pursuit of delivering content that reflects what's right, just, and meaningful. Solidarity is our cornerstone. We shun mediocrity and superficiality, advocating for authenticity in every aspect of our programming.We embrace the rawness of truth, presenting narratives that speak to the core of human experiences, unfiltered and unapologetic.\nOur resolve is unwavering, as we navigate the diverse landscapes of storytelling, entertainment, and knowledge.We champion being bias as we can when it comes to NO KUT MIND-FRAME  \"LIVE PANEL REACTION CHANNEL\" & KNOWLEDGE U CANT GET IN COLLEGE ---- THANK U FOR COMING",
         "resourceId": {
           "kind": "youtube#channel",
@@ -2937,25 +2937,25 @@
         "channelId": "UCPS2alXY7fcD0IygPmskr8Q",
         "thumbnails": {
           "default": {
-            "url": "https://yt3.ggpht.com/u4K7qnO1kGQhl4UqbFn5HEF85zUEE_-lZgZWD7U3p85YbEsfgDyswn2h7RyqEiFqTVUBuF-w6Q=s88-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/eszg9fufeTd6UdC5YppBm8sdhcnMxpLcIpqv7HvqY_Ikl5XbIBFS_B8Xg-EHNL8mLo71ygVVVJY=s88-c-k-c0x00ffffff-no-rj"
           },
           "medium": {
-            "url": "https://yt3.ggpht.com/u4K7qnO1kGQhl4UqbFn5HEF85zUEE_-lZgZWD7U3p85YbEsfgDyswn2h7RyqEiFqTVUBuF-w6Q=s240-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/eszg9fufeTd6UdC5YppBm8sdhcnMxpLcIpqv7HvqY_Ikl5XbIBFS_B8Xg-EHNL8mLo71ygVVVJY=s240-c-k-c0x00ffffff-no-rj"
           },
           "high": {
-            "url": "https://yt3.ggpht.com/u4K7qnO1kGQhl4UqbFn5HEF85zUEE_-lZgZWD7U3p85YbEsfgDyswn2h7RyqEiFqTVUBuF-w6Q=s800-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/eszg9fufeTd6UdC5YppBm8sdhcnMxpLcIpqv7HvqY_Ikl5XbIBFS_B8Xg-EHNL8mLo71ygVVVJY=s800-c-k-c0x00ffffff-no-rj"
           }
         }
       },
       "contentDetails": {
-        "totalItemCount": 473,
+        "totalItemCount": 487,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "OryK9f_6zZeQWNT1a8sceRdflBM",
+      "etag": "JF1_gxe0GQ8ncj9o_CpQTwlagtU",
       "id": "OIf7h1vXOiRp-6H39UfJ3bDyZVb28SboPoC5g-xQUek",
       "snippet": {
         "publishedAt": "2026-04-18T15:18:00.30627Z",
@@ -2979,7 +2979,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 464,
+        "totalItemCount": 470,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -3048,7 +3048,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "tC9CmXobmC_CZBAildcLlKXAI5Q",
+      "etag": "2Lj5gTe5S6SUwkPFfK1GUp0b6kA",
       "id": "OIf7h1vXOiRMhVaVUZpinn0Sp596amvh9GvAA6fMRdg",
       "snippet": {
         "publishedAt": "2025-01-06T17:43:17.27577Z",
@@ -3072,14 +3072,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 2696,
+        "totalItemCount": 2702,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "lb6pjtH-DoZr763lcYxH1pJmo6U",
+      "etag": "0GxEM6fggBjrgx3AKM0lRqiIxds",
       "id": "OIf7h1vXOiTOyLj5P0NffHyZkjmlqotjTUAit2aADqY",
       "snippet": {
         "publishedAt": "2025-10-14T11:14:45.080638Z",
@@ -3103,7 +3103,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 101,
+        "totalItemCount": 103,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -3172,7 +3172,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "3JwxgUwxG1TGHZq8b56F4a-eFCQ",
+      "etag": "_784hvS1vCl2PYHMbdnWunp9uoM",
       "id": "OIf7h1vXOiRMhVaVUZpintlB861cm09BorYjSUgMfTk",
       "snippet": {
         "publishedAt": "2025-01-30T11:09:37.729204Z",
@@ -3196,7 +3196,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 979,
+        "totalItemCount": 996,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -3296,7 +3296,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "9DZqYAezyeqZSis7TSFLhPIy0gg",
+      "etag": "zlB_YX9iy65VLSAqwrzGTKxXUDE",
       "id": "OIf7h1vXOiRYNwGA0E3AWsKe0SPIJt2gezcfZsc9NlQ",
       "snippet": {
         "publishedAt": "2026-01-15T06:10:05.489789Z",
@@ -3320,14 +3320,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 13265,
+        "totalItemCount": 13388,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "_lUzegBvRlWfGzWFicO7TZ-dsFM",
+      "etag": "_KY-vWhCMp3Uo82tFA34nBKUUII",
       "id": "OIf7h1vXOiSYYKaloSRPsy5RR4jZnrMEZRSJ3xy_XtI",
       "snippet": {
         "publishedAt": "2025-01-03T09:42:50.327475Z",
@@ -3351,14 +3351,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 176,
+        "totalItemCount": 179,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "ATPFQGBV3xznLMUPqoaW_uHWhVQ",
+      "etag": "rJXYFHRrnmjwQu1PReUjQdGQfXI",
       "id": "OIf7h1vXOiRp-6H39UfJ3f_0tZ3aaOuP0aG4cC173Dc",
       "snippet": {
         "publishedAt": "2024-09-27T22:22:12.906011Z",
@@ -3382,38 +3382,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 3712,
-        "newItemCount": 0,
-        "activityType": "uploads"
-      }
-    },
-    {
-      "kind": "youtube#subscription",
-      "etag": "syhXbmTGXPRQVuieBUFVpkHMiqg",
-      "id": "OIf7h1vXOiRHF3hkRxKsdT-FZsxdOgW97q7hWwDISmo",
-      "snippet": {
-        "publishedAt": "2026-03-03T18:24:44.976201Z",
-        "title": "Divine Voice of the Chosen",
-        "description": "Divine Voice of the Chosen is a spiritual channel delivering powerful divine messages, Jesus Christ revelations, and prophetic insights for the chosen ones.\n\nThis channel is created to awaken your soul, guide your destiny, and reveal hidden truths from heaven.\nIf you found this channel, it is not an accident—this message is meant for you.\n\nHere you will find:\n• God’s urgent messages\n• Jesus Christ divine revelations\n• Chosen One prophetic guidance\n• Spiritual awakening and destiny alignment\n\nSubscribe and stay connected—because heaven is speaking to you through this voice.\n\nGod message, Jesus Christ message, chosen one prophecy, divine message, spiritual awakening, prophetic revelation, heaven speaks, God speaks to you, Jesus divine voice",
-        "resourceId": {
-          "kind": "youtube#channel",
-          "channelId": "UCGbwR08m9RQjOWtVchOODTw"
-        },
-        "channelId": "UCPS2alXY7fcD0IygPmskr8Q",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/ytc/AIdro_kjND8U1TiPEw_nk7wHVRzjEfaU_vW2mZ6uU0PTBL6yiuvUWRvQQNsfIOn_RS_2JkLdcA=s88-c-k-c0x00ffffff-no-rj"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/ytc/AIdro_kjND8U1TiPEw_nk7wHVRzjEfaU_vW2mZ6uU0PTBL6yiuvUWRvQQNsfIOn_RS_2JkLdcA=s240-c-k-c0x00ffffff-no-rj"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/ytc/AIdro_kjND8U1TiPEw_nk7wHVRzjEfaU_vW2mZ6uU0PTBL6yiuvUWRvQQNsfIOn_RS_2JkLdcA=s800-c-k-c0x00ffffff-no-rj"
-          }
-        }
-      },
-      "contentDetails": {
-        "totalItemCount": 12,
+        "totalItemCount": 3725,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -3451,7 +3420,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "xTz5JKEPOR7hI1TJSnH9GBZrqPE",
+      "etag": "pzx3Ypqs_9aos1quFXivFEV1xw4",
       "id": "OIf7h1vXOiTOyLj5P0NffPuRUtDjhHvV_hJRx6o50HQ",
       "snippet": {
         "publishedAt": "2026-05-25T17:34:56.831685Z",
@@ -3475,14 +3444,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 2217,
+        "totalItemCount": 2244,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "rRYbiAd4zrOt8szJRQ3kcJ5RBi4",
+      "etag": "vHMTrc32U0eo14XVoYzVHIsEPHo",
       "id": "OIf7h1vXOiRMhVaVUZpinjX-3ghqCYTU9FGZMJYMaDo",
       "snippet": {
         "publishedAt": "2025-09-18T21:03:43.342558Z",
@@ -3506,14 +3475,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 560,
+        "totalItemCount": 566,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "XsWLzNVlvGwYDLps388gMhv88XQ",
+      "etag": "DTSA_DMJj9WOG4YNBC6cinGIBoU",
       "id": "OIf7h1vXOiRMhVaVUZpinh7Y6D2MjF2yylWPAsw2Aqc",
       "snippet": {
         "publishedAt": "2025-08-17T01:51:02.603279Z",
@@ -3537,7 +3506,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 140,
+        "totalItemCount": 143,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -3575,7 +3544,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "GWYM666qQMJRULWcFS9LidCPemM",
+      "etag": "2_aI6KCSvFoz6Ai6lIfK5wO8hZI",
       "id": "OIf7h1vXOiRMhVaVUZpinsKHpJS9wU9HmkEn31kb5hA",
       "snippet": {
         "publishedAt": "2025-01-10T21:49:15.997569Z",
@@ -3599,14 +3568,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 608,
+        "totalItemCount": 609,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "G_M33_2OmJL4fubvoY04sfN-0Jk",
+      "etag": "1f4rYdRYZap4odocceqHVdafCbI",
       "id": "OIf7h1vXOiRMhVaVUZpinnulmNqscPzNpLjop-x8Onk",
       "snippet": {
         "publishedAt": "2025-06-21T13:44:55.717233Z",
@@ -3630,7 +3599,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1068,
+        "totalItemCount": 1070,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -3730,7 +3699,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "NuC8WrGACTgP34rhKG0zBqhVZ7g",
+      "etag": "9AvjYrE1iwkJFw3X7WLkQCiAz7g",
       "id": "OIf7h1vXOiRYNwGA0E3AWrJpKCJRBaTLnGojl_rPa3E",
       "snippet": {
         "publishedAt": "2026-06-15T14:39:37.389616Z",
@@ -3754,14 +3723,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 607,
+        "totalItemCount": 608,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "Qfq-lyImnoiledqaOOiOr5Lm6pI",
+      "etag": "zIpaagNpz5uRTWQsgWJRA4BIpEc",
       "id": "OIf7h1vXOiRp-6H39UfJ3dR7MFo5F5I5KvndJsfGqm0",
       "snippet": {
         "publishedAt": "2025-02-06T00:20:52.331423Z",
@@ -3785,7 +3754,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 282,
+        "totalItemCount": 281,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -3823,7 +3792,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "R5XFTrH3BCBX-1G604jmywstRQc",
+      "etag": "70j-XDh1MxFx-x9fVvPV3evd6K0",
       "id": "OIf7h1vXOiT-zuYU1AknPWNi1RSxlWZMQlZh1fbvKVk",
       "snippet": {
         "publishedAt": "2025-03-18T23:32:45.389484Z",
@@ -3847,14 +3816,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1768,
+        "totalItemCount": 1771,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "zBEJv4JwIkfsnCWReEle1mSVvz8",
+      "etag": "_1Vz-_WSquonm6xCNrAhPGmvx7c",
       "id": "OIf7h1vXOiRmF7UFqJiY0igqv3H0Ei6xCdkkmsZvt2I",
       "snippet": {
         "publishedAt": "2026-06-14T15:49:41.193166Z",
@@ -3878,19 +3847,19 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 94,
+        "totalItemCount": 98,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "iJtWm4Ll4632vXq7JFZJAvE9MXY",
+      "etag": "q5EilLEhUBOCofz06hbcMCR4RKY",
       "id": "OIf7h1vXOiTOyLj5P0NffGvIcpw1CHESxJWXqQAPCSM",
       "snippet": {
         "publishedAt": "2025-09-27T16:44:57.231776Z",
         "title": "𝓣𝓻𝓪𝓷𝓼𝓬𝓮𝓷𝓭𝓮𝓷𝓽 𝓣𝓪𝓻𝓸𝓽 𓂀 ",
-        "description": "Welcome, Starseed. You didn’t land here by accident.\n\nTell me… are you dreaming, or awakening inside the dream where every character is simply you in another form?\n\nWhere every possibility is a version of you waiting to be remembered…\nconsciousness walks toward itself endlessly — and every opportunity you encounter a manifestation of the One, reaching you through a disguise.\n\n\nWhich facet of yourself will you choose to collapse into your dream landscape?\n\nBecause you’re not just meeting life..\nyou’re meeting yourself, over and over again.\n\nYou are the portal.\nAnd I’m right here with you.. rising, together.\n\n\n𓁧𓆃 Personal Readings:\ntarottwinmoon@gmail.com",
+        "description": "Welcome, Starseed. You didn’t land here by accident.\n\nFreedom begins in awareness, unfolding the fullest expression of your human and divine nature.\n\nA single truth binds our hearts as one. 🧬✨\n\nWhen we return to the heart, we return home. \n\n⸻\n\nTogether, we form a living lattice of consciousness.\n\nEvery shift toward greater lucidity ripples through the field, inviting our fellow space-time travellers to remember what has always been within them.\n\nThank you for holding this field with us.\n\nMay we continue to hold coherence, together.",
         "resourceId": {
           "kind": "youtube#channel",
           "channelId": "UCI_psKPKqpkCNgun4HM_Smg"
@@ -3909,14 +3878,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 706,
+        "totalItemCount": 709,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "9kj3NHJGLKz6J6QCEWKo4bnTUdg",
+      "etag": "ISq5l-N3NrTSifwmhL55yn-f200",
       "id": "OIf7h1vXOiSYYKaloSRPs5V-vNKKsrsAsr5-nzWz_hM",
       "snippet": {
         "publishedAt": "2026-05-30T20:30:10.571354Z",
@@ -3940,14 +3909,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 24,
+        "totalItemCount": 25,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "HIsK1075Hrq29XDf2r2ij2aYRHM",
+      "etag": "leh0YKX3qFSLyY8PvzcWh1RvUGQ",
       "id": "OIf7h1vXOiTOyLj5P0NffBsK0ucJPyYN38VmbNGtgIc",
       "snippet": {
         "publishedAt": "2026-01-27T13:45:30.837689Z",
@@ -3971,14 +3940,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 240,
+        "totalItemCount": 250,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "ipFtgy_vg-0kkvU1Xyih_QqZqto",
+      "etag": "DLx5DgNTYYWs6PwCdnVsNuJ9cJU",
       "id": "OIf7h1vXOiT-zuYU1AknPVnQ6332lNfZvVkpwc2cNOM",
       "snippet": {
         "publishedAt": "2026-01-14T04:47:42.515546Z",
@@ -4002,14 +3971,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 561,
+        "totalItemCount": 564,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "-925PUkoiCq-5nRzSW8P8JOiXyY",
+      "etag": "_aVb-VTLQeT7qew1xQIKuzTefYg",
       "id": "OIf7h1vXOiTOyLj5P0NffDKwRMYmAPs5_h9b135yOvk",
       "snippet": {
         "publishedAt": "2024-12-21T07:44:44.143906Z",
@@ -4033,7 +4002,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1292,
+        "totalItemCount": 1300,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -4102,7 +4071,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "1JBDMDFD9AG8CSVoQThjTbBwKA4",
+      "etag": "xiAU9DH-S1vR60pE-cpoyvdWQDk",
       "id": "OIf7h1vXOiTOyLj5P0NffIPXFeCWe9fIUzSKS2GgkhM",
       "snippet": {
         "publishedAt": "2025-09-28T21:01:56.7669Z",
@@ -4126,14 +4095,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 6715,
+        "totalItemCount": 6793,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "pYMjpijosaiPqiSMOxVpzsdPXqA",
+      "etag": "L9wkryNVwLPGyNu09K2kw2Hjl6o",
       "id": "OIf7h1vXOiRMhVaVUZpinsTHLkV0oeftdDcuVYFKl1c",
       "snippet": {
         "publishedAt": "2025-09-12T00:47:03.880801Z",
@@ -4157,14 +4126,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 2508,
+        "totalItemCount": 2519,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "eWi6Lz3mqbMBnKe6YUKZw21lcd8",
+      "etag": "mN91sl65ZXk9yNTrQaqGle14muY",
       "id": "OIf7h1vXOiRMhVaVUZpinqMpwxp4a_ErAVrOaUG8Zgc",
       "snippet": {
         "publishedAt": "2026-07-29T10:11:51.27119Z",
@@ -4188,14 +4157,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1805,
+        "totalItemCount": 1826,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "pB9m1aHct-oNX-XQWKUz-8RANvE",
+      "etag": "Pch2kc47DjQ6iG69MXbrp8t_w-A",
       "id": "OIf7h1vXOiRHF3hkRxKsdflGlziJtPCWaDKLYSSyw-4",
       "snippet": {
         "publishedAt": "2025-12-29T14:31:43.650876Z",
@@ -4219,14 +4188,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 130,
+        "totalItemCount": 138,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "UonaKIN4VLg65QIUXv7N-GcZztU",
+      "etag": "XNfdfB6EJmdBW4oPiR33_HN0wSY",
       "id": "OIf7h1vXOiRMhVaVUZpinhidaPfcVqWpEG-RcHUKTRE",
       "snippet": {
         "publishedAt": "2026-06-17T16:10:23.275692Z",
@@ -4250,14 +4219,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 5916,
+        "totalItemCount": 5922,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "oG8zyPbJrzJB40Fvbo8gv-AwSuE",
+      "etag": "fk2q-kVSST-Ahta1O-lUMnKI7GQ",
       "id": "OIf7h1vXOiRMhVaVUZpins3ymdCKl_iLUQiqp8xWs70",
       "snippet": {
         "publishedAt": "2024-10-10T16:27:35.060248Z",
@@ -4281,14 +4250,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1811,
+        "totalItemCount": 1821,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "tcoS-ocMjPtUsTEYzcCDW0K4fMk",
+      "etag": "u2Vyl-NEvnA7y8qyx_oereByJc4",
       "id": "OIf7h1vXOiRp-6H39UfJ3Yx5geHQq_1UJ8sAkc2i5sE",
       "snippet": {
         "publishedAt": "2025-09-21T03:59:10.014611Z",
@@ -4312,19 +4281,19 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 186,
+        "totalItemCount": 187,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "bR_VuKCRenSnt2mb2_XvSaUwyX8",
+      "etag": "ICFUI4vG1sLEHrT9x_aU_wQtHHA",
       "id": "OIf7h1vXOiSYYKaloSRPszvSTVENS9yudjdmwKZmUu0",
       "snippet": {
         "publishedAt": "2025-06-04T20:09:39.194099Z",
         "title": "Beinart Notebook",
-        "description": "Editor-at-Large, Jewish Currents. MSNBC Contributor. Professor of Journalism and Political Science, Newmark School of Journalism, CUNY. Fellow, Foundation for Middle East Peace. Frequent contributor to the New York Times\n\nI started writing a newsletter and hosting Zoom interviews because I was frustrated with a lot of what I read about American foreign policy in general and Israel-Palestine in particular. I don’t think the US possesses any inherent right to run the world. If America wants moral authority, it must earn it. And I believe that the best way to secure the safety of the Jewish people, my people, is through equality and justice for Palestinians. I hope these principles foster a different kind of conversation. And I hope you’ll join in.",
+        "description": "Editor-at-Large, Jewish Currents. MSNow Contributor. Professor of Journalism and Political Science, Newmark School of Journalism, CUNY. Fellow, Foundation for Middle East Peace. Frequent contributor to the New York Times.\n\nI started writing a newsletter and hosting Zoom interviews because I was frustrated with a lot of what I read about American foreign policy in general and Israel-Palestine in particular. I don’t think the US possesses any inherent right to run the world. If America wants moral authority, it must earn it. And I believe that the best way to secure the safety of the Jewish people, my people, is through equality and justice for Palestinians. I hope these principles foster a different kind of conversation. And I hope you’ll join in.",
         "resourceId": {
           "kind": "youtube#channel",
           "channelId": "UCLGXczX2Oe96P-GKc3Bv60w"
@@ -4343,7 +4312,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 602,
+        "totalItemCount": 610,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -4381,7 +4350,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "DZWeQA4WGs3cijZvrhtT80LZrjA",
+      "etag": "On0VIQAQGIDyCo6tzNUn01SDQzY",
       "id": "OIf7h1vXOiRMhVaVUZpinnD0ufW1RKN1EoB0dzXgt7w",
       "snippet": {
         "publishedAt": "2025-02-19T20:22:41.040649Z",
@@ -4405,7 +4374,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 309,
+        "totalItemCount": 310,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -4474,7 +4443,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "oLCNGv4zv4qWeYLlkJ7CS8FsEF0",
+      "etag": "eMK6loV1EmvQ9wmnjMCzW4Z0hig",
       "id": "OIf7h1vXOiRMhVaVUZpinrPphdYfDC22901DCxaaO4k",
       "snippet": {
         "publishedAt": "2026-03-26T08:24:44.995139Z",
@@ -4498,7 +4467,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 103,
+        "totalItemCount": 119,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -4536,7 +4505,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "CF5OWzkJx7yQ3QqD9vP4RHGoyt0",
+      "etag": "LGU_Mssd9QJwTNS7-zsPgVeBFjo",
       "id": "OIf7h1vXOiRMhVaVUZpinrikFedZTaywWunxWbsOJw8",
       "snippet": {
         "publishedAt": "2026-02-06T12:46:10.141694Z",
@@ -4560,14 +4529,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1413,
+        "totalItemCount": 1451,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "wNL0A2_-qOrJg6MK3meuNo1HdFg",
+      "etag": "ZbQYWRN3ronM8YHpYF6TejFCs-0",
       "id": "OIf7h1vXOiT-zuYU1AknPRAgMbml4by6aEPXXUcD9nk",
       "snippet": {
         "publishedAt": "2025-01-01T20:44:01.399636Z",
@@ -4591,14 +4560,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 2944,
+        "totalItemCount": 2960,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "miSLVW2zIEhvIlysCsy3ei2eyDY",
+      "etag": "d_TuiaYysJZw8g8Nv62GPuVF2Tk",
       "id": "OIf7h1vXOiSYYKaloSRPs2xRy9qv9XC_HqHQXUG4W98",
       "snippet": {
         "publishedAt": "2026-02-01T06:42:32.195636Z",
@@ -4622,14 +4591,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 4718,
+        "totalItemCount": 4727,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "WX2RSREfecDXeM7fhN3lHev6auw",
+      "etag": "Uph4vde67S6ootenq7JMp65vR_c",
       "id": "OIf7h1vXOiRHF3hkRxKsdSpTw3j47EZWZQsnpImFPPY",
       "snippet": {
         "publishedAt": "2026-02-24T23:20:33.677541Z",
@@ -4653,14 +4622,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 102,
+        "totalItemCount": 103,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "ZRA4jv5DB-jnqMvpz6Z9opJaOAA",
+      "etag": "UqBzxT_Z-ho20qFSeLNr-x2rDeA",
       "id": "OIf7h1vXOiRMhVaVUZpinu-pzTRUtvJIgoSj8wrdIRM",
       "snippet": {
         "publishedAt": "2025-12-18T00:46:35.925788Z",
@@ -4684,14 +4653,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 3692,
+        "totalItemCount": 3701,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "Mgs-6k8fp5MTNYE6QODDqIqBGHw",
+      "etag": "Sc5FjliDVsb_YAyeBJtvHFIIvf8",
       "id": "OIf7h1vXOiRMhVaVUZpinpzwaTfNX76OF0qlYs-ffvU",
       "snippet": {
         "publishedAt": "2024-10-08T15:35:23.844917Z",
@@ -4715,14 +4684,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 846,
+        "totalItemCount": 849,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "93dtiQ-fwxp55594FA-hizLeogk",
+      "etag": "n2xfHPcF5LCyKz4TvUGZzHnEqvk",
       "id": "OIf7h1vXOiT-zuYU1AknPVo9wO-hFMNIScVAtC-jNqU",
       "snippet": {
         "publishedAt": "2026-03-05T17:42:41.329361Z",
@@ -4746,7 +4715,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 168,
+        "totalItemCount": 169,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -4784,7 +4753,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "HznIFdsWcI0G5BeghrXCTkQ_F2g",
+      "etag": "7l6dFAq0c2R1670dqjb4bbJk2L8",
       "id": "OIf7h1vXOiRMhVaVUZpinoElZMQoRoj2cf9zz7d1Rls",
       "snippet": {
         "publishedAt": "2024-09-28T01:05:09.682249Z",
@@ -4808,14 +4777,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 144629,
+        "totalItemCount": 144973,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "kd6IsNJu0hHDD7ZzL7vvN7SCfes",
+      "etag": "tfthzno26N9Q5dqkXyWeOM0zvNQ",
       "id": "OIf7h1vXOiSYYKaloSRPs0N-Q8i53-B0U2DgfofWWhw",
       "snippet": {
         "publishedAt": "2024-12-17T05:29:36.545488Z",
@@ -4839,7 +4808,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1381,
+        "totalItemCount": 1389,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -4908,7 +4877,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "fVlp7TdDLb3TauamDkY6X6ExnbE",
+      "etag": "-wad5BvKJ-o3mUlKKwXIU1jfoWs",
       "id": "OIf7h1vXOiT-zuYU1AknPW8-7WMJ-LNWz5VVY26l_ik",
       "snippet": {
         "publishedAt": "2025-12-11T06:09:59.356956Z",
@@ -4932,19 +4901,19 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1173,
+        "totalItemCount": 1177,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "sQ79siCJF1TE-2s96W97kggv2qk",
+      "etag": "Rz0j4VCMVlkiapC9fmUbdrxMkzQ",
       "id": "OIf7h1vXOiRmF7UFqJiY0t3KaIErUTCjCPRLbRloweU",
       "snippet": {
         "publishedAt": "2024-12-04T18:01:40.925674Z",
         "title": "LolcowQueens",
-        "description": "Tina, Angel and Batgirl are the Queens of the LCU with help from KidBehindACamera\n Member Discord https://www.lolcow.co/login",
+        "description": "Tina and Foxy are the Queens of the LCU with help from KidBehindACamera\n Member Discord https://www.lolcow.co/login",
         "resourceId": {
           "kind": "youtube#channel",
           "channelId": "UCOzrx6iM9qQ4lIzf7BbkuCQ"
@@ -4952,25 +4921,25 @@
         "channelId": "UCPS2alXY7fcD0IygPmskr8Q",
         "thumbnails": {
           "default": {
-            "url": "https://yt3.ggpht.com/ydWzZJEGUm-smiHkaJ6yqZYpTcncIb_w0fAhicGi9FiELsrfFwp2QmRRQscU0PGbuepE6LyGLQ=s88-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/EqCw0Z1rGZt7g5XCHad0a9XxSCptEdkcc_7z37iVW9bA6ZuvqXejTI3nV604psZACSf0OdJegqw=s88-c-k-c0x00ffffff-no-rj"
           },
           "medium": {
-            "url": "https://yt3.ggpht.com/ydWzZJEGUm-smiHkaJ6yqZYpTcncIb_w0fAhicGi9FiELsrfFwp2QmRRQscU0PGbuepE6LyGLQ=s240-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/EqCw0Z1rGZt7g5XCHad0a9XxSCptEdkcc_7z37iVW9bA6ZuvqXejTI3nV604psZACSf0OdJegqw=s240-c-k-c0x00ffffff-no-rj"
           },
           "high": {
-            "url": "https://yt3.ggpht.com/ydWzZJEGUm-smiHkaJ6yqZYpTcncIb_w0fAhicGi9FiELsrfFwp2QmRRQscU0PGbuepE6LyGLQ=s800-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/EqCw0Z1rGZt7g5XCHad0a9XxSCptEdkcc_7z37iVW9bA6ZuvqXejTI3nV604psZACSf0OdJegqw=s800-c-k-c0x00ffffff-no-rj"
           }
         }
       },
       "contentDetails": {
-        "totalItemCount": 306,
+        "totalItemCount": 311,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "xByAtPH6MTxrSIUsKB60egxLQoM",
+      "etag": "gdwtPZZ8zt7UnKHnaqhmPdnTFEU",
       "id": "OIf7h1vXOiRp-6H39UfJ3YiVGBmwVnP2n5SHANU4Wp8",
       "snippet": {
         "publishedAt": "2024-12-26T15:54:03.48133Z",
@@ -4994,14 +4963,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 303,
+        "totalItemCount": 307,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "GPst6yHHUl1yNNc2eTyh0ERDXaI",
+      "etag": "QuoFoN7Q0XevT4TUjQmliKdQNG8",
       "id": "OIf7h1vXOiRMhVaVUZpinmujHrRmfdFey4h-9y8DpQw",
       "snippet": {
         "publishedAt": "2026-01-17T02:02:06.364201Z",
@@ -5025,14 +4994,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 8327,
+        "totalItemCount": 8386,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "62YDAHc4kS1S1rdn4Nb2RUklB1M",
+      "etag": "FBqs6r_APwW8xGOD_eyjaiqRENs",
       "id": "OIf7h1vXOiRYNwGA0E3AWt40GfwlsFTV3Lks5_ZT7V8",
       "snippet": {
         "publishedAt": "2026-05-14T19:31:05.889804Z",
@@ -5056,14 +5025,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1749,
+        "totalItemCount": 1761,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "c7QDlsj7V07vuH7jwWBVzZQhZqA",
+      "etag": "-F9we92YS98KiVEh0by6FxbkMDc",
       "id": "OIf7h1vXOiRMhVaVUZpinh-B0xNf43tUComeAGvcHgI",
       "snippet": {
         "publishedAt": "2025-03-13T21:24:14.944002Z",
@@ -5087,7 +5056,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 20937,
+        "totalItemCount": 21026,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -5156,7 +5125,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "R9xXf9KAJvnkyXLQQRbDwD7tHvQ",
+      "etag": "B851gktvCh-4tx5EccXp1rkWKqo",
       "id": "OIf7h1vXOiRMhVaVUZpins8YH4TePGdApRQp9M7-XZA",
       "snippet": {
         "publishedAt": "2026-05-01T10:01:19.595494Z",
@@ -5180,7 +5149,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 113,
+        "totalItemCount": 120,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -5249,7 +5218,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "DMfFTglZVM9AXkpB1JoAdjBhEaY",
+      "etag": "uG7KjZxsevfN2Ap-pE88wl_7HwQ",
       "id": "OIf7h1vXOiRMhVaVUZpinhVFEia4Lk2opZ7c7ZdAjew",
       "snippet": {
         "publishedAt": "2024-09-24T21:36:44.81007Z",
@@ -5273,7 +5242,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 2640,
+        "totalItemCount": 2647,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -5311,7 +5280,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "mqB0A5sxX13UxQnDpn6KvSAPEY8",
+      "etag": "PeTiEyqPx8-ZHk16N7ByrTk9eCg",
       "id": "OIf7h1vXOiRmF7UFqJiY0uMSSqTwBI7KS4D5ok-PJpE",
       "snippet": {
         "publishedAt": "2025-07-02T22:02:55.786584Z",
@@ -5335,7 +5304,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 993,
+        "totalItemCount": 1003,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -5373,7 +5342,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "ZIRoIix5-WRMvgsBgth-FmVxFO4",
+      "etag": "KD5iKwF9FsSxPDdrBVt0n3AFdwI",
       "id": "OIf7h1vXOiRYNwGA0E3AWsIWoQD5Q9tRdzoZF2Q4QvY",
       "snippet": {
         "publishedAt": "2025-09-12T00:35:16.573831Z",
@@ -5397,14 +5366,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 2338,
+        "totalItemCount": 2427,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "m5j7SMWNNczYm32plbq1dlkLJkM",
+      "etag": "xDO-R_-nhbh3czIcNwPnJj4MnDg",
       "id": "OIf7h1vXOiTOyLj5P0NffPk7cNEDacyhWMvlsdKcGy4",
       "snippet": {
         "publishedAt": "2026-02-26T10:30:00.565093Z",
@@ -5428,14 +5397,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 159,
+        "totalItemCount": 160,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "V3PF-NBvjSY76mCqFXcgPs-AXKU",
+      "etag": "1Pk7ptU7W3bBU5LuV7AvqKFMKEI",
       "id": "OIf7h1vXOiRMhVaVUZpint45kfUS6YqgbyzJASIKh04",
       "snippet": {
         "publishedAt": "2024-09-24T18:03:07.653126Z",
@@ -5459,14 +5428,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 6777,
+        "totalItemCount": 6778,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "peEd-3nwoIiyXzwnkN66dgz2Ip4",
+      "etag": "ZPsJHCBY8J-9yf_s9TYUJgJPL2E",
       "id": "OIf7h1vXOiT-zuYU1AknPffOdcOQzaAtSlc1mAWonHY",
       "snippet": {
         "publishedAt": "2026-02-12T23:04:19.446253Z",
@@ -5490,7 +5459,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 19154,
+        "totalItemCount": 19170,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -5528,7 +5497,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "yLfnc8mJNsQREWR7tecyU9-0XZw",
+      "etag": "7Mr_P2yqoMnovN77c4CH1jdOWAc",
       "id": "OIf7h1vXOiRMhVaVUZpinqDjHLT0-vqTCocJjLBWsPg",
       "snippet": {
         "publishedAt": "2025-03-13T21:24:34.768777Z",
@@ -5552,14 +5521,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 25940,
+        "totalItemCount": 26019,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "uX_soJUvBXh6ELQqscHtrsppcGo",
+      "etag": "HA8Dl6zGQ1LKgQZmpL-oFWDIfdY",
       "id": "OIf7h1vXOiRMhVaVUZpinqGyRsxASjZeX-F8WoxwI_I",
       "snippet": {
         "publishedAt": "2025-01-06T17:25:34.899679Z",
@@ -5583,14 +5552,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 6902,
+        "totalItemCount": 6959,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "pJLprv5DJ6VZPEp734JQWH4YCHw",
+      "etag": "UxEhPBGtn38P5vxHZMW75nCJsmw",
       "id": "OIf7h1vXOiSYYKaloSRPsy94UhC0j3oFko_xeFADf5g",
       "snippet": {
         "publishedAt": "2025-04-05T17:12:28.547123Z",
@@ -5614,14 +5583,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 10252,
+        "totalItemCount": 10308,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "aDJRQSbC0ZL2c2B7Ch-cQb3K4UI",
+      "etag": "dDCBfsTLuXvlsKV7W9czKF4OgOs",
       "id": "OIf7h1vXOiRMhVaVUZping_3_j6EIatEFCWLA8UrPak",
       "snippet": {
         "publishedAt": "2025-08-19T06:20:59.32808Z",
@@ -5645,14 +5614,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 3506,
+        "totalItemCount": 3524,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "SSRk8N3TY1cwsxAWR8iHBc2Sg2Y",
+      "etag": "9wVfIN2OhzATD7393Bn_DOfVTSk",
       "id": "OIf7h1vXOiRHF3hkRxKsdWpMdeQj7VnnXXfyaU1dsg0",
       "snippet": {
         "publishedAt": "2026-05-02T14:40:53.200584Z",
@@ -5676,14 +5645,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 167,
+        "totalItemCount": 180,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "Nj19_lpp3-8Nr6cKyOZNtaKgHnA",
+      "etag": "5tN6IGE7a-P0iIY8Bt7gP12BLzU",
       "id": "OIf7h1vXOiRMhVaVUZpinggDJpu2Wax4DkdccRfn49k",
       "snippet": {
         "publishedAt": "2026-06-04T00:50:50.280574Z",
@@ -5707,14 +5676,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1199,
+        "totalItemCount": 1206,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "Y5uXHNc5uFBQH4moUvhBFJ5qSNM",
+      "etag": "f9iozGR8vbihNOf-WfdpRorFbDg",
       "id": "OIf7h1vXOiSYYKaloSRPsxCk_PFpcs7oWqyT1kxe81U",
       "snippet": {
         "publishedAt": "2026-01-27T06:54:03.496384Z",
@@ -5738,14 +5707,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 232,
+        "totalItemCount": 236,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "FUGzggWs6iLjVSauW8i9nd83W3k",
+      "etag": "h6AyrMl3mC-sQdrLNqq_XJ_OTWs",
       "id": "OIf7h1vXOiRp-6H39UfJ3TybWo3_X2Ghc08_jHWrmoo",
       "snippet": {
         "publishedAt": "2025-02-14T02:44:55.441836Z",
@@ -5758,13 +5727,13 @@
         "channelId": "UCPS2alXY7fcD0IygPmskr8Q",
         "thumbnails": {
           "default": {
-            "url": "https://yt3.ggpht.com/w6p1EYFPsstUYubi4iK367rpUPFAHOn6yRRgjmF-_dwLDR1DwSxt3ntxLoA1j0nneOt6swEXWA=s88-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/qybE1ABcOh9TN2eCzt9GWw2Kaz4c2RoyfpUzfThjoy01Ej_cTtbfmDlCSfAtAiQb-NRO3uISwQ=s88-c-k-c0x00ffffff-no-rj"
           },
           "medium": {
-            "url": "https://yt3.ggpht.com/w6p1EYFPsstUYubi4iK367rpUPFAHOn6yRRgjmF-_dwLDR1DwSxt3ntxLoA1j0nneOt6swEXWA=s240-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/qybE1ABcOh9TN2eCzt9GWw2Kaz4c2RoyfpUzfThjoy01Ej_cTtbfmDlCSfAtAiQb-NRO3uISwQ=s240-c-k-c0x00ffffff-no-rj"
           },
           "high": {
-            "url": "https://yt3.ggpht.com/w6p1EYFPsstUYubi4iK367rpUPFAHOn6yRRgjmF-_dwLDR1DwSxt3ntxLoA1j0nneOt6swEXWA=s800-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/qybE1ABcOh9TN2eCzt9GWw2Kaz4c2RoyfpUzfThjoy01Ej_cTtbfmDlCSfAtAiQb-NRO3uISwQ=s800-c-k-c0x00ffffff-no-rj"
           }
         }
       },
@@ -5776,7 +5745,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "nK9vwcSf4zI5ecywV-ysacYUXuE",
+      "etag": "KitAXQF-bXoUR82dJ1Ss_FS9LSw",
       "id": "OIf7h1vXOiRMhVaVUZpinltK_SjvvANReiha3JZcUMw",
       "snippet": {
         "publishedAt": "2025-12-16T12:42:04.139871Z",
@@ -5800,14 +5769,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 553,
+        "totalItemCount": 524,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "y4YGdTf1NCXVDU6veJumZFJQ7wQ",
+      "etag": "SHDaT8FpX4Q5Vbxe7-g4V1WTrCQ",
       "id": "OIf7h1vXOiRp-6H39UfJ3XNOF9_WgjUGOsRcuj1AMag",
       "snippet": {
         "publishedAt": "2026-06-23T23:02:11.838387Z",
@@ -5831,7 +5800,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 459,
+        "totalItemCount": 466,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -5900,7 +5869,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "QFNabfJoN6Q3QM9wK04QEj9RlSU",
+      "etag": "fCYFltelRDPMSyy5sWwsOSFL5iU",
       "id": "OIf7h1vXOiRmF7UFqJiY0g2pckvQp_EQ7hwJOQjyfsA",
       "snippet": {
         "publishedAt": "2025-12-26T23:33:50.739268Z",
@@ -5924,7 +5893,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 24,
+        "totalItemCount": 27,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -5993,7 +5962,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "ckXALla5YJgQqqYmSP-qcOoQ-r0",
+      "etag": "IZg9zRDu-9Aql3bXVwycnDPWeFo",
       "id": "OIf7h1vXOiTOyLj5P0NffA-iMNH12M29bb5kY3gWcWc",
       "snippet": {
         "publishedAt": "2025-11-28T14:57:51.588813Z",
@@ -6017,19 +5986,19 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 846,
+        "totalItemCount": 847,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "1vGkkrerj0MqIOFmvWh3Ky2XoqQ",
+      "etag": "pr1_VKs8dFwKBiaIExRKl2lwVBQ",
       "id": "OIf7h1vXOiT-zuYU1AknPShfSwYlol1hbeR5f010R04",
       "snippet": {
         "publishedAt": "2025-10-17T22:54:09.265138Z",
-        "title": "MILITARY DEVELOPMENTS",
-        "description": "MILITARY DEVELOPMENTS delivers clear, no-nonsense analysis of global geopolitics, military strategy, and the emerging conflicts shaping today’s world. From real-time battlefield developments to in-depth coverage of defense technology, power shifts, and intelligence dynamics, we turn complex events into concise, factual insights.\n\nWe focus on what truly matters: strategic impact, military capabilities, and the decisions that define global power. just precise briefings for those who want to understand the real stakes behind the headlines.\n\nStay ahead of global conflicts, defense trends, and geopolitical strategy with MILITARY DEVELOPMENTS.",
+        "title": "Hard Law",
+        "description": "Welcome to Hard Law — bringing you real bodycam footage, real encounters, and the facts that matter.\n\nWe take a closer look at real bodycam footage, police encounters, and legal situations to reveal how law and justice unfold in everyday life.\n\nOur goal is to create educational, thought-provoking, and engaging content—not to ridicule, shame, or disrespect anyone involved. The incidents featured on our channel are presented as real-life lessons about accountability, law enforcement, decision-making, and human behavior.\n\nThrough careful editing and thoughtful commentary, we condense hours of footage into the most important, relevant, and compelling moments while adding context and perspective for our viewers. Our content is created with the principles of Fair Use in mind.\n\nSubscribe for real cases, clear context, and truth that can’t be ignored.",
         "resourceId": {
           "kind": "youtube#channel",
           "channelId": "UCWhuArllqkEGCLmw0TT5FQg"
@@ -6037,13 +6006,13 @@
         "channelId": "UCPS2alXY7fcD0IygPmskr8Q",
         "thumbnails": {
           "default": {
-            "url": "https://yt3.ggpht.com/qsgMpzghhS-QKUKt9PNHYKucVbzlNmXN8Aj7SnTx7oPnd3d-50t_LI_r5Q9aaEqgohGK_1y__74=s88-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/iJdn01a6MHSqh86XgUpw7zMI_ZykJgiYzSSyz0xiNPUS9pymYwhLv3UV9h-zfj-uPNe4MM_DDA=s88-c-k-c0x00ffffff-no-rj"
           },
           "medium": {
-            "url": "https://yt3.ggpht.com/qsgMpzghhS-QKUKt9PNHYKucVbzlNmXN8Aj7SnTx7oPnd3d-50t_LI_r5Q9aaEqgohGK_1y__74=s240-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/iJdn01a6MHSqh86XgUpw7zMI_ZykJgiYzSSyz0xiNPUS9pymYwhLv3UV9h-zfj-uPNe4MM_DDA=s240-c-k-c0x00ffffff-no-rj"
           },
           "high": {
-            "url": "https://yt3.ggpht.com/qsgMpzghhS-QKUKt9PNHYKucVbzlNmXN8Aj7SnTx7oPnd3d-50t_LI_r5Q9aaEqgohGK_1y__74=s800-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/iJdn01a6MHSqh86XgUpw7zMI_ZykJgiYzSSyz0xiNPUS9pymYwhLv3UV9h-zfj-uPNe4MM_DDA=s800-c-k-c0x00ffffff-no-rj"
           }
         }
       },
@@ -6055,7 +6024,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "zGcV9UHwX2r74o_rSOQDnV5MwFY",
+      "etag": "IQUdT4mxO15PYULFsKaYnjMqza4",
       "id": "OIf7h1vXOiRMhVaVUZpins35IY8rkWF9z39Xrne97hk",
       "snippet": {
         "publishedAt": "2026-03-08T23:54:20.059617Z",
@@ -6079,14 +6048,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1330,
+        "totalItemCount": 1335,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "WwUgdJME7NiwuVh2MdHgVK4uxno",
+      "etag": "8-DqE9SK6b_nd0xkZgCGxhz_foE",
       "id": "OIf7h1vXOiRHF3hkRxKsdeCoivALLUD_ouxquIm51jc",
       "snippet": {
         "publishedAt": "2025-12-10T12:06:14.71577Z",
@@ -6110,7 +6079,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 256,
+        "totalItemCount": 261,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -6148,12 +6117,12 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "9pp4n7hNLcA3Q4SL_viBRsgHZHs",
+      "etag": "UifBgIS11CNG2I75w2KaZVDBy-E",
       "id": "OIf7h1vXOiRp-6H39UfJ3RQRBpQfReVsXHpeTCEzxPo",
       "snippet": {
         "publishedAt": "2024-09-28T01:54:56.594395Z",
         "title": "WLA",
-        "description": "WELCOME TO OUR CHANNEL\n\nWe are interested in everything African, be it social, cultural, political, arts, entertainment, and more. Like our page and connect with our journalists and readers.\n\n\n\nRemember to subscribe, and ring the notification bell, so that you do not miss any of our videos.\n\nEmail us for News Tips, content submission, ads partnership, collabos, sponsorship or content issues\n\nAll our videos are aimed at Educating, Informing, Reporting, Reviewing, Criticizing & Ranking everything \n~~-~~~-~~-~-\nCOMMENTS\nFeel free to be part of our Happy big Family\nwe welcome all comments that are constructive and meaningful\nHowever, we will NOT condone the following:\n- Racism (including offensive comments based on ethnicity and nationality)\n- Sexism & Homophobia\n- Hate speech & Cyber bullying\n- Derogatory language\n- Religious intolerance\n- Comments inciting violence.\nWe strive to make the our YouTube Channel community a safe and welcoming space for all.\n\nWe  care about our audience.",
+        "description": "**WLA brings you global news, independent analysis, and perspectives often overlooked by mainstream media.**\n\nWe cover Africa, the Middle East, the Global South, BRICS, international conflicts, diplomacy, and shifting global power dynamics. Through breaking news, interviews, live coverage, and presenter-led analysis, we go beyond the headlines to explain what is happening and why it matters.\n\nSubscribe for timely news, thoughtful analysis, and a broader perspective on our changing world.\n\n**Community Guidelines:** We welcome constructive discussion but do not tolerate racism, hate speech, discrimination, bullying, religious intolerance, abusive language, or incitement to violence.\n\n**Business enquiries:** [info@weloveafrica.net]",
         "resourceId": {
           "kind": "youtube#channel",
           "channelId": "UCX80qmC9baw6HXrSjfybdmQ"
@@ -6172,14 +6141,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1677,
+        "totalItemCount": 1686,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "iQ-huHHs2L9ytqVbAtEHAWmyqrs",
+      "etag": "2B16kviu2vDD0y0emkaVkHpZeL0",
       "id": "OIf7h1vXOiRMhVaVUZpinhr_-p6NUPtePcPNg0XZB8I",
       "snippet": {
         "publishedAt": "2024-09-24T17:35:11.282416Z",
@@ -6203,14 +6172,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 141949,
+        "totalItemCount": 142284,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "1PbMK0nu3TsYiCDjWrRvRdzYrkw",
+      "etag": "GBMFsYwp4qmmPkc6uUd9GlVMIUU",
       "id": "OIf7h1vXOiT-zuYU1AknPZ8MEcnw-G8x03vbJBLoxV4",
       "snippet": {
         "publishedAt": "2025-07-24T19:20:42.928549Z",
@@ -6234,14 +6203,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 822,
+        "totalItemCount": 823,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "vDWgDbBzihiURynQ_qwOTLrj_Ts",
+      "etag": "5LTQPKeFloHL0dUpOFEHkHNrujI",
       "id": "OIf7h1vXOiRMhVaVUZpinoC2VQ03stkOxRPy9-UZeMw",
       "snippet": {
         "publishedAt": "2024-10-31T18:32:26.057055Z",
@@ -6265,7 +6234,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 45430,
+        "totalItemCount": 45505,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -6334,7 +6303,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "niVgUB5zwk-p84NGVCDbVfHwXmE",
+      "etag": "09y6SEyqrTiH2h8kC7BKHky7C00",
       "id": "OIf7h1vXOiSYYKaloSRPs0AWwMs3tGqSSZpmpo8wVGw",
       "snippet": {
         "publishedAt": "2025-09-18T13:57:11.273192Z",
@@ -6358,7 +6327,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 3330,
+        "totalItemCount": 3361,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -6458,7 +6427,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "ea6MeMSKPDK-NaqJ0t3s2xB46r4",
+      "etag": "b242zYD3vsmq2XwWBDkDTCqMMok",
       "id": "OIf7h1vXOiRMhVaVUZpintQhBe_tqasyNlnoDrPOtH0",
       "snippet": {
         "publishedAt": "2025-05-08T01:16:21.654532Z",
@@ -6482,7 +6451,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1048,
+        "totalItemCount": 1052,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -6551,7 +6520,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "HzlsDs3BxpfxrnO79FceQHmDDhE",
+      "etag": "KzeZMeDHtm5n2MWd22pvpiaE1Vo",
       "id": "OIf7h1vXOiRMhVaVUZpinj4-R2_4uWhKx_PcNxqeGSY",
       "snippet": {
         "publishedAt": "2025-07-04T17:21:11.204826Z",
@@ -6575,14 +6544,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 221,
+        "totalItemCount": 238,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "Y-zen4nAT04mQxhc3_yRp2TYMx4",
+      "etag": "NRkFpVnC4hyGf64K-ZztArpX9rk",
       "id": "OIf7h1vXOiRMhVaVUZpinlT8nBjHQZpq-9JdTeo0t6E",
       "snippet": {
         "publishedAt": "2024-10-23T03:53:05.780363Z",
@@ -6606,7 +6575,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 3811,
+        "totalItemCount": 3820,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -6675,7 +6644,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "ax5TMZhXomoZWzfxSBRIk4yOPoA",
+      "etag": "HkVcKiHFD_LGRhLPC6yWB4N8brk",
       "id": "OIf7h1vXOiT-zuYU1AknPbj5lDPrBzitrcpJtj5rs3w",
       "snippet": {
         "publishedAt": "2025-02-14T03:55:57.319728Z",
@@ -6699,7 +6668,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 273,
+        "totalItemCount": 274,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -6737,7 +6706,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "h-SQpkt1cU9fKkTpT1dbHUa-69U",
+      "etag": "Q6Sb8JHVpdHif2OG-d9lQzz8DdY",
       "id": "OIf7h1vXOiTOyLj5P0NffMyXG4Rn4UeTJuSfPFH6lv8",
       "snippet": {
         "publishedAt": "2025-05-24T11:33:27.614839Z",
@@ -6761,14 +6730,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 465,
+        "totalItemCount": 468,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "jkUsFG83t04kh01Dd9-qamXBMeg",
+      "etag": "txhExv0Kbph05enzz2C37ghAQsI",
       "id": "OIf7h1vXOiRMhVaVUZpinr4t-CCmT17gYHIaapxxvh4",
       "snippet": {
         "publishedAt": "2025-12-12T15:42:37.721193Z",
@@ -6792,38 +6761,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 3234,
-        "newItemCount": 0,
-        "activityType": "uploads"
-      }
-    },
-    {
-      "kind": "youtube#subscription",
-      "etag": "BrV8OAK3jSpZPflmxUi86otjhs8",
-      "id": "OIf7h1vXOiRHF3hkRxKsdQ7jPsxjCNCHiD5k-V6fDM4",
-      "snippet": {
-        "publishedAt": "2026-01-12T20:55:25.348486Z",
-        "title": "Anointed Journey ",
-        "description": "Hi ! Anointed Journey .\n\nWelcome to Anointed Journey, where destiny unfolds and the extraordinary becomes reality! This channel is dedicated to those who feel the call of a greater purpose—those who know they are destined for something remarkable.\n\nWhether you’re seeking to unlock your true potential, connect with a community of like-minded souls, or dive into the mysteries of the universe, Anointed Journey is your sanctuary. Together, we’ll embrace our unique journeys and illuminate the path to greatness.\n\nSubscribe now Anointed Journey  and step into your destiny—your journey begins here!",
-        "resourceId": {
-          "kind": "youtube#channel",
-          "channelId": "UCapFIax-wQvBHgnoS1FWYXA"
-        },
-        "channelId": "UCPS2alXY7fcD0IygPmskr8Q",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/dM6tzjw19tZ5iZZks3D_W_1CthgijKgEwldPpicGNPjVY2obulKIRpgPdyiZgBOTgz91KG8r=s88-c-k-c0x00ffffff-no-rj"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/dM6tzjw19tZ5iZZks3D_W_1CthgijKgEwldPpicGNPjVY2obulKIRpgPdyiZgBOTgz91KG8r=s240-c-k-c0x00ffffff-no-rj"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/dM6tzjw19tZ5iZZks3D_W_1CthgijKgEwldPpicGNPjVY2obulKIRpgPdyiZgBOTgz91KG8r=s800-c-k-c0x00ffffff-no-rj"
-          }
-        }
-      },
-      "contentDetails": {
-        "totalItemCount": 0,
+        "totalItemCount": 3256,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -6861,7 +6799,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "zkd5NIm8d8y6nkr5oQ8FBgm1q1w",
+      "etag": "VplXqI7Y3aD82FZA3RUZuAbdDAo",
       "id": "OIf7h1vXOiRmF7UFqJiY0kImIXmun8Tve2Fpq1vkYSU",
       "snippet": {
         "publishedAt": "2026-01-12T01:58:27.261973Z",
@@ -6885,14 +6823,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 175,
+        "totalItemCount": 176,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "LtGKyKpyHtTCg24kzsWEHEtBQe8",
+      "etag": "chNkhZkI52TEGfbRkkBJw7tm4-o",
       "id": "OIf7h1vXOiSYYKaloSRPswW-5Ynz5DmboyTlqk14gLw",
       "snippet": {
         "publishedAt": "2025-01-07T19:51:50.867368Z",
@@ -6916,7 +6854,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 4814,
+        "totalItemCount": 4841,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -6954,7 +6892,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "VQFRI5Y4wxzPWG8PHPDMofQVeRI",
+      "etag": "QGQlW1md5HQjXl5OXS_R1RdFokw",
       "id": "OIf7h1vXOiRMhVaVUZpinnzng2TfNn4bAfMlp-NOXn4",
       "snippet": {
         "publishedAt": "2024-12-01T07:53:09.672903Z",
@@ -6978,14 +6916,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 227,
+        "totalItemCount": 228,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "_gr2TcfYzur3LD1v9kj_V3y0qtU",
+      "etag": "qMVEM8Y9u4Pn-fVst8OP4m4RFxo",
       "id": "OIf7h1vXOiRMhVaVUZpinhZ_8NFBUGKnCJsqiPkuJzQ",
       "snippet": {
         "publishedAt": "2026-02-07T08:51:22.067028Z",
@@ -7009,14 +6947,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 261,
+        "totalItemCount": 263,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "j6Xbzwna5ahO_qngGzD4tQO2LYs",
+      "etag": "8NCzDPXAioh9ZzjVzdrXs7dPECE",
       "id": "OIf7h1vXOiRMhVaVUZpintlPo_9xDZQwtStCDKcAIeQ",
       "snippet": {
         "publishedAt": "2024-10-03T21:10:18.690139Z",
@@ -7040,14 +6978,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1892,
+        "totalItemCount": 1893,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "yjBNik-dcPrbPyIF5hAKImR2g0U",
+      "etag": "raepWPcARdzWOR0JcQ4B1vamIvk",
       "id": "OIf7h1vXOiRMhVaVUZpinqpCpqtCmdTkB3waEln0RJo",
       "snippet": {
         "publishedAt": "2025-09-02T21:15:51.094062Z",
@@ -7071,7 +7009,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 3527,
+        "totalItemCount": 3534,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -7140,7 +7078,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "lVtyk13NPdQEIRwdNFwAhKUTGp4",
+      "etag": "i29VRNn0U9jUBOdCkMRKN8KPP14",
       "id": "OIf7h1vXOiRMhVaVUZpinqULwY6hZ3tSIThWwTgX-2M",
       "snippet": {
         "publishedAt": "2024-11-28T17:51:51.773469Z",
@@ -7164,7 +7102,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1475,
+        "totalItemCount": 1476,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -7233,7 +7171,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "zWn9UD83NQ0BcTSCSuIWl-60QkA",
+      "etag": "9if9HhE8QgvsKlC94gR4EaIipGw",
       "id": "OIf7h1vXOiRp-6H39UfJ3WNfRs5p9mDD6EDFsUBXT9U",
       "snippet": {
         "publishedAt": "2026-05-01T21:43:04.222651Z",
@@ -7257,14 +7195,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 568,
+        "totalItemCount": 571,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "yZHEcvLzzRS1gTqPhkGgExomZN4",
+      "etag": "356MM5erLSXIztRoroBzbMnodYk",
       "id": "OIf7h1vXOiRMhVaVUZpinueZdxBq3IM8cOsZj9KivNE",
       "snippet": {
         "publishedAt": "2024-09-24T17:35:05.015301Z",
@@ -7288,14 +7226,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 98221,
+        "totalItemCount": 98523,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "VSuqAWnFWtkAh5YJRvv0x4S4Svw",
+      "etag": "xwo7M0wFolOncLYOBsaMiRNtNx4",
       "id": "OIf7h1vXOiRYNwGA0E3AWhvkOfYV_MyF7hQPN0Pynqw",
       "snippet": {
         "publishedAt": "2024-10-10T10:47:32.199409Z",
@@ -7319,14 +7257,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 606,
+        "totalItemCount": 608,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "1Evt6PYe2hDTHhmmQidmDSQYHfc",
+      "etag": "274kDxAJkgli-0YTJUzNazXU2fI",
       "id": "OIf7h1vXOiRmF7UFqJiY0vx6Zur-zblfuDIGC3vQuGE",
       "snippet": {
         "publishedAt": "2025-10-02T21:42:16.362867Z",
@@ -7350,7 +7288,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 191,
+        "totalItemCount": 192,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -7419,7 +7357,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "qTZ2h5ThXLwRehtSdjzrkcwiBLg",
+      "etag": "BgKrBjhb98IC3EITijdCq5o_Fq8",
       "id": "OIf7h1vXOiSYYKaloSRPs0JNyUQgC9yFQ5-zzhUg3os",
       "snippet": {
         "publishedAt": "2025-10-12T17:09:14.917266Z",
@@ -7443,14 +7381,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 241,
+        "totalItemCount": 243,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "eBWYNJQCWKFdtCC7yiz5dZoLHKA",
+      "etag": "5yIlX7qGoUYN3_I0EtGiWJPztJY",
       "id": "OIf7h1vXOiRMhVaVUZpinsjQffTzdQmhsKTErC9Ly7k",
       "snippet": {
         "publishedAt": "2026-04-24T19:32:49.656035Z",
@@ -7474,14 +7412,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 2564,
+        "totalItemCount": 2572,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "6faZUYg8sNPcC-mleRJnHi0CoIU",
+      "etag": "Gj_f_4LyKSZeNCBMW-9L6Osdj6U",
       "id": "OIf7h1vXOiRmF7UFqJiY0oAMK2zxtXxyh-l8VM-B9ZM",
       "snippet": {
         "publishedAt": "2024-12-13T17:32:42.381531Z",
@@ -7505,7 +7443,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1420,
+        "totalItemCount": 1423,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -7543,7 +7481,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "N8AxCUVcCeJDV3LUlDlyp_Bjl9A",
+      "etag": "aNlXNDkCQpncuouriK4DC1SvbjM",
       "id": "OIf7h1vXOiRYNwGA0E3AWp_ZkL8ysBR9rdk6Chn6yY4",
       "snippet": {
         "publishedAt": "2025-09-27T23:23:11.623359Z",
@@ -7556,25 +7494,25 @@
         "channelId": "UCPS2alXY7fcD0IygPmskr8Q",
         "thumbnails": {
           "default": {
-            "url": "https://yt3.ggpht.com/ytc/AIdro_mgPq0BRemL_gsNBzPrJTqG1Y4omm6QQzQ8dDjmJ1yGH6I=s88-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/klT5_IdLBI2K0CCE_-FNWTvh-Gftg-b047b1Rf65KLSvHN1KoJhjUxB4eaU5KNs4CCT53UmLFA=s88-c-k-c0x00ffffff-no-rj"
           },
           "medium": {
-            "url": "https://yt3.ggpht.com/ytc/AIdro_mgPq0BRemL_gsNBzPrJTqG1Y4omm6QQzQ8dDjmJ1yGH6I=s240-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/klT5_IdLBI2K0CCE_-FNWTvh-Gftg-b047b1Rf65KLSvHN1KoJhjUxB4eaU5KNs4CCT53UmLFA=s240-c-k-c0x00ffffff-no-rj"
           },
           "high": {
-            "url": "https://yt3.ggpht.com/ytc/AIdro_mgPq0BRemL_gsNBzPrJTqG1Y4omm6QQzQ8dDjmJ1yGH6I=s800-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/klT5_IdLBI2K0CCE_-FNWTvh-Gftg-b047b1Rf65KLSvHN1KoJhjUxB4eaU5KNs4CCT53UmLFA=s800-c-k-c0x00ffffff-no-rj"
           }
         }
       },
       "contentDetails": {
-        "totalItemCount": 1764,
+        "totalItemCount": 1773,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "MufkYDiQpvVTcRl7amT1XT8D6RY",
+      "etag": "QbOF4s__bxLGSqjGBzqypbl9qEs",
       "id": "OIf7h1vXOiRHF3hkRxKsdXAVViwfuv1EHedih7h5-I0",
       "snippet": {
         "publishedAt": "2026-01-31T11:29:04.364076Z",
@@ -7598,7 +7536,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 43,
+        "totalItemCount": 45,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -7667,7 +7605,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "dupbS_lqswvoB4P4sjKqMCpB_Fs",
+      "etag": "GFVoGZrNKp2s3ffRBF275aZdCCA",
       "id": "OIf7h1vXOiRHF3hkRxKsddfjoevlsmZK0OhfmhYj1aw",
       "snippet": {
         "publishedAt": "2026-07-19T00:47:46.417265Z",
@@ -7691,7 +7629,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 147,
+        "totalItemCount": 167,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -7729,7 +7667,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "6GrPJNi8ntQEemqsV9684i000LQ",
+      "etag": "53xrVOAGRuGlo0PRT0BXMxYcb1A",
       "id": "OIf7h1vXOiRMhVaVUZpinpkDuqeq6HIY85J4muyudDg",
       "snippet": {
         "publishedAt": "2024-10-26T11:52:22.883943Z",
@@ -7753,14 +7691,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 154428,
+        "totalItemCount": 154650,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "WNp6hBFU6sSlcHxkA3OeFU8Nois",
+      "etag": "jNM5r1PSDdFxTqvKhMAZ52GoWPU",
       "id": "OIf7h1vXOiRMhVaVUZpinjJCmgxoVQCoJTylCDc53Vg",
       "snippet": {
         "publishedAt": "2026-07-26T21:37:29.620737Z",
@@ -7784,19 +7722,19 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 692,
+        "totalItemCount": 708,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "uBwiiAAT7xJrazdBZ7w0xEauBgY",
+      "etag": "9P20yHHf_GRXdpuu3F3wQheZX7M",
       "id": "OIf7h1vXOiRp-6H39UfJ3VxjwhgTH20SPHMspCwPByo",
       "snippet": {
         "publishedAt": "2025-01-30T18:35:05.338302Z",
         "title": "ironmouse",
-        "description": "The official channel of that weird pink haired Puerto Rican demon vtuber ironmouse\n\nTwitter: https://twitter.com/ironmouse\nTwitch: https://www.twitch.tv/ironmouse\nInstagram: https://www.instagram.com/ironmouseparty\nPatreon: https://www.patreon.com/ironmouse",
+        "description": "The official channel of that weird pink haired Puerto Rican demon vtuber ironmouse",
         "resourceId": {
           "kind": "youtube#channel",
           "channelId": "UChgPVLjqugDQpRLWvC7zzig"
@@ -7815,14 +7753,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1898,
+        "totalItemCount": 1916,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "KTl5ZZN_8PmVIWEeDTAs58oyHdM",
+      "etag": "TBT2ffdB8bEKcnkT0zY3BBbQ_xk",
       "id": "OIf7h1vXOiRMhVaVUZpinnpYdm41AGFqwnf_pBga35U",
       "snippet": {
         "publishedAt": "2025-07-30T15:06:17.326861Z",
@@ -7846,14 +7784,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 5962,
+        "totalItemCount": 5979,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "BhlQ520OE-3pTwOIh0i89A2hlDk",
+      "etag": "Rkez13fIwE1ZkAAezqKprbSQvkA",
       "id": "OIf7h1vXOiRMhVaVUZpinuQt1BXYgoQDrfrgUbLge9g",
       "snippet": {
         "publishedAt": "2024-10-02T22:10:59.590982Z",
@@ -7877,7 +7815,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1527,
+        "totalItemCount": 1530,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -7946,7 +7884,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "nJ2Jp4r-9JZNGjX8pEqEecL9M7E",
+      "etag": "O7nmkPfxwGAEm5p3xJGBZXKQ0KQ",
       "id": "OIf7h1vXOiRMhVaVUZpinmZZh-LC8uaF7bs2DTYBXKg",
       "snippet": {
         "publishedAt": "2025-12-06T00:26:17.376079Z",
@@ -7970,14 +7908,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 95,
+        "totalItemCount": 98,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "fk9YrvtF3hFX8WQoxpXFBi6cUEQ",
+      "etag": "v-5WoA4fBh3UbyVJczRvrwhyLGc",
       "id": "OIf7h1vXOiRp-6H39UfJ3dMY1LTe6lxNngn9yux5rkI",
       "snippet": {
         "publishedAt": "2024-10-30T16:13:03.773847Z",
@@ -8001,7 +7939,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1401,
+        "totalItemCount": 1404,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -8070,7 +8008,38 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "pXHiWmqOxk8nbwm_VQuncpdPQRg",
+      "etag": "_-IiODRNTraQycMdYgDkWLhy6FU",
+      "id": "OIf7h1vXOiT-zuYU1AknPcFJftxF1KUMdVhbQpmtypA",
+      "snippet": {
+        "publishedAt": "2026-08-06T23:47:22.402255Z",
+        "title": "Stuff Made Here",
+        "description": "I've been building things for as long as I can remember. It all started when my dad exposed me to plastic model building and soldering when I was around 4 years old. That set me on a path to building increasingly complex things and becoming an engineer. My goal is to do the same for as many people as possible by exposing them to the joy of engineering, fabricating and creating things out of nothing. If I'm lucky a few people may become engineers, which would be great for the world. Engineering is awesome.",
+        "resourceId": {
+          "kind": "youtube#channel",
+          "channelId": "UCj1VqrHhDte54oLgPG4xpuQ"
+        },
+        "channelId": "UCPS2alXY7fcD0IygPmskr8Q",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mzfzJ9E1WEzyt1YlPXemHOwGBBnVCKzXva_mzmS5qqMg=s88-c-k-c0x00ffffff-no-rj"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mzfzJ9E1WEzyt1YlPXemHOwGBBnVCKzXva_mzmS5qqMg=s240-c-k-c0x00ffffff-no-rj"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mzfzJ9E1WEzyt1YlPXemHOwGBBnVCKzXva_mzmS5qqMg=s800-c-k-c0x00ffffff-no-rj"
+          }
+        }
+      },
+      "contentDetails": {
+        "totalItemCount": 41,
+        "newItemCount": 0,
+        "activityType": "uploads"
+      }
+    },
+    {
+      "kind": "youtube#subscription",
+      "etag": "GiUtpFzg6HlW3MtK_uI1zZ3xO1w",
       "id": "OIf7h1vXOiRp-6H39UfJ3a13P6fj954rCCU5guj2slg",
       "snippet": {
         "publishedAt": "2025-12-10T00:22:25.359195Z",
@@ -8094,7 +8063,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 7766,
+        "totalItemCount": 7798,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -8163,7 +8132,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "LqhHlEugzgn2pAvAw2483L9UUz0",
+      "etag": "nN5lxz9RSOe7zbIZZP8d4cBQpJc",
       "id": "OIf7h1vXOiSYYKaloSRPs_whk5QFTl54icgpUvY22F4",
       "snippet": {
         "publishedAt": "2025-09-30T17:44:53.76099Z",
@@ -8187,14 +8156,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 4254,
+        "totalItemCount": 4274,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "tI9DJMlUSzC24UGf2W0YukQu_Cg",
+      "etag": "tzWS9OSSDVOG-e6cYslAj8Z9bzQ",
       "id": "OIf7h1vXOiTOyLj5P0NffKWmXv-LZLfMhfnJwMMODr4",
       "snippet": {
         "publishedAt": "2026-06-24T19:03:14.115372Z",
@@ -8218,14 +8187,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 2693,
+        "totalItemCount": 2715,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "rDFgtoAwglOjD6ia-oCNXxuvU4o",
+      "etag": "3VoPn2zalsuJTbOZfOZ_FgT0lGg",
       "id": "OIf7h1vXOiT-zuYU1AknPchB1zDYzJtxxmSEnQUpgvc",
       "snippet": {
         "publishedAt": "2026-04-29T16:07:06.24464Z",
@@ -8249,14 +8218,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1538,
+        "totalItemCount": 1545,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "8PvIdBe3BFXgeSJP5uT-L0r04gQ",
+      "etag": "P6v-10ij-BDjwoMjOPy_LqDXFoI",
       "id": "OIf7h1vXOiRMhVaVUZpintJy0k-EvC0VKemNxDS6ADM",
       "snippet": {
         "publishedAt": "2025-01-06T02:28:03.764486Z",
@@ -8280,7 +8249,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1139,
+        "totalItemCount": 1141,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -8318,7 +8287,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "httjBPhhFYI_BxreJLjXXVRH7Tw",
+      "etag": "U9rMMFgYEUiJtc5jyGEbwvuQYAg",
       "id": "OIf7h1vXOiRMhVaVUZpinj-je55g4hsIZ2I3QZeKYLo",
       "snippet": {
         "publishedAt": "2026-01-11T23:53:36.522463Z",
@@ -8342,14 +8311,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 34224,
+        "totalItemCount": 34323,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "altpOuKREcwL4BUYTzhltODkEP0",
+      "etag": "bFJRKjkw5FXPtULQAlgZHrV9aDI",
       "id": "OIf7h1vXOiRMhVaVUZpinnWxmmctaGkczwMEnSPThSs",
       "snippet": {
         "publishedAt": "2024-09-24T17:32:59.801097Z",
@@ -8373,14 +8342,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 24100,
+        "totalItemCount": 24136,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "lcg4Xzyfx_mawokFUqdBMKEzf3U",
+      "etag": "QoVlAaxJ1Y8llXcJxLzhaFlr4iQ",
       "id": "OIf7h1vXOiRMhVaVUZpinglLPAqew_lPOlqBPEsAHZ8",
       "snippet": {
         "publishedAt": "2024-10-07T18:10:31.159368Z",
@@ -8404,14 +8373,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 4271,
+        "totalItemCount": 4287,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "EMvjpzGHHJS9RG1RsRKfDRSk9RE",
+      "etag": "dQyH6L5Vg6UQ7lvLf5wlawoRC0I",
       "id": "OIf7h1vXOiRmF7UFqJiY0hQngKI3iOJwVD2MbRdKwJ8",
       "snippet": {
         "publishedAt": "2025-10-08T22:25:09.868587Z",
@@ -8435,19 +8404,19 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 30,
+        "totalItemCount": 32,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "xzjqoJvbLqKbnPpI7mgHybpGD3Q",
+      "etag": "Qf9fgrT9u55JQMtIu6yBnN1T-Qc",
       "id": "OIf7h1vXOiTOyLj5P0NffDbg-C7Am9WVCl46lcsXYr0",
       "snippet": {
         "publishedAt": "2025-10-11T16:39:35.668297Z",
         "title": "Victoria",
-        "description": "my YouTube channel 🙌❤️‍🔥 🙏🙏🤗I love Jesus Christ and animals and am happy and taken and free in name of Jesus holy spirit amazing and love nature",
+        "description": "🙌❤️‍🔥 🙏🙏🤗I love Jesus Christ and animals and am happy and taken and free in name of Jesus holy spirit amazing and love nature and my testimony of Jesus what I bin through 🔥",
         "resourceId": {
           "kind": "youtube#channel",
           "channelId": "UCm0U-mTgQ3AWrdNqj0z0w6w"
@@ -8466,14 +8435,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1412,
+        "totalItemCount": 1420,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "TFJM_G_O0uqVvFfj-Mr5qsN05iY",
+      "etag": "XdFc0TYyFgGdoz_RDNnQgsp2d6Q",
       "id": "OIf7h1vXOiRYNwGA0E3AWtABeziMAVEfitq_gR4S_JE",
       "snippet": {
         "publishedAt": "2025-07-15T20:37:48.572311Z",
@@ -8497,14 +8466,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 4051,
+        "totalItemCount": 4064,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "_ygoKzVlgb1GymTzRtlUZUpzVgk",
+      "etag": "0slLLxF0EagWVU9anRSkpj12AIY",
       "id": "OIf7h1vXOiRMhVaVUZpinjbbic9_d0GPhC3s_lH9pi0",
       "snippet": {
         "publishedAt": "2026-03-10T09:22:42.02491Z",
@@ -8528,14 +8497,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 11,
+        "totalItemCount": 13,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "fk0z1WCSuRbxRrk69DxazJvKDUk",
+      "etag": "gqiS0rwb8nWxHb2mEmPXb8xSGM4",
       "id": "OIf7h1vXOiRYNwGA0E3AWjHzYgafNLA5tpPU5E0j-sI",
       "snippet": {
         "publishedAt": "2026-02-09T06:41:28.284424Z",
@@ -8559,14 +8528,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 2035,
+        "totalItemCount": 2039,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "kpAeZwWtISUFluavDgNlv-TI-uA",
+      "etag": "UR_quevsm0PJC1DEBCQV023szYk",
       "id": "OIf7h1vXOiRMhVaVUZpinsL1xxpW5aAHkN7VQT6zy3w",
       "snippet": {
         "publishedAt": "2025-02-07T10:09:21.378791Z",
@@ -8590,7 +8559,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 830,
+        "totalItemCount": 832,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -8628,7 +8597,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "YC1HX0zzOb8VNIaITSX7SD47NwE",
+      "etag": "U3JpBgKD1zzg-JXb2JsiRStlD5Y",
       "id": "OIf7h1vXOiRHF3hkRxKsdVkrBahWeYJVekQnCPWeR_k",
       "snippet": {
         "publishedAt": "2026-01-12T02:47:40.564624Z",
@@ -8652,14 +8621,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 822,
+        "totalItemCount": 841,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "Fp-potSNKUW_DcZV8pnmhKz94oU",
+      "etag": "0ir2zJvJqqaIAuMNLU1IxPw8C40",
       "id": "OIf7h1vXOiRMhVaVUZpinmbWJmgpXgn4kt5fgVJxYJE",
       "snippet": {
         "publishedAt": "2026-01-08T22:46:22.588039Z",
@@ -8683,7 +8652,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 5870,
+        "totalItemCount": 5903,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -8721,7 +8690,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "DXFPk9yJ3XIKl9zCY2CNO7ISFZ4",
+      "etag": "fE7ZgaM1wVhRyN3hxgdxVaQfHk4",
       "id": "OIf7h1vXOiTOyLj5P0NffHGNsFMdrD3McNlexLgjYTU",
       "snippet": {
         "publishedAt": "2024-12-24T21:14:47.889906Z",
@@ -8745,14 +8714,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 176,
+        "totalItemCount": 180,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "8rzXC6ib1tn8dwexF99lvLI9mYk",
+      "etag": "O_UclT950blZUNSHDCsG3Ar5DFE",
       "id": "OIf7h1vXOiRMhVaVUZpinie6vI5SaybKB4nEV9MfTlA",
       "snippet": {
         "publishedAt": "2026-01-19T16:29:44.536555Z",
@@ -8776,14 +8745,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 4029,
+        "totalItemCount": 4033,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "KISyvsApu9GHurhZg1iTvWkFnIg",
+      "etag": "Pb0NUM-xUkhp8-LyTuMZhB-UkjE",
       "id": "OIf7h1vXOiRHF3hkRxKsdQhqpR2dygZacSwZoBzQzKA",
       "snippet": {
         "publishedAt": "2026-02-25T18:40:04.551076Z",
@@ -8807,7 +8776,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 6,
+        "totalItemCount": 3,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -8845,7 +8814,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "qIbMizlYDi-Pp0-wR7yNSx9EroQ",
+      "etag": "C52tHOqEkZ7LcwtDnVlEZyLKoHQ",
       "id": "OIf7h1vXOiSYYKaloSRPsywN6C4sKX5APqJPKYwlNiw",
       "snippet": {
         "publishedAt": "2026-05-23T17:31:23.250336Z",
@@ -8869,14 +8838,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 5125,
+        "totalItemCount": 5208,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "Ffp-7QDtxIMgN1ULlOQGR6rIrrA",
+      "etag": "c-A5NTdpYI3h6XWWuFk0L3X9SMM",
       "id": "OIf7h1vXOiT-zuYU1AknPSWAfVpA6O2D6zopUWmm7Kg",
       "snippet": {
         "publishedAt": "2026-03-18T02:20:15.364387Z",
@@ -8900,7 +8869,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 331,
+        "totalItemCount": 337,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -8938,7 +8907,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "UZ5VytAEXSflJ35UdNJxMyI9W20",
+      "etag": "EDIZNByiJlrWN_2BWFAd-x5LH0k",
       "id": "OIf7h1vXOiSYYKaloSRPs2iqqi8cTwV3EcbArJg0NVo",
       "snippet": {
         "publishedAt": "2024-11-03T14:47:47.507876Z",
@@ -8962,14 +8931,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 2011,
+        "totalItemCount": 2022,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "Ot0Y3qzSwACw_8dt7h5zWVVYknI",
+      "etag": "4ZQE5UamPcolulgAnUyBbYoOp5c",
       "id": "OIf7h1vXOiRMhVaVUZpinlW3QBgcsaROaurF_Uf5pVU",
       "snippet": {
         "publishedAt": "2025-09-23T14:07:38.114446Z",
@@ -8993,14 +8962,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1301,
+        "totalItemCount": 1307,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "4Jq0Q1PV3KsBoDmFpCisLGll5FM",
+      "etag": "o_IpVUBc0-BeZX-ZGFJ_6jGbi1E",
       "id": "OIf7h1vXOiRp-6H39UfJ3dTMvDHyc5ZvJng4-S-t7mc",
       "snippet": {
         "publishedAt": "2025-12-31T22:41:25.062375Z",
@@ -9024,14 +8993,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 192,
+        "totalItemCount": 194,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "8davgoer8V9tXYZ0T9sO6CV0Sp0",
+      "etag": "G-JhUFhaph-1YVmUSmU5jMwZpLM",
       "id": "OIf7h1vXOiT-zuYU1AknPTUUtBaRKbDEXZSSutsME24",
       "snippet": {
         "publishedAt": "2026-01-11T23:52:41.945376Z",
@@ -9055,14 +9024,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 5042,
+        "totalItemCount": 5079,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "SvzW57LcqK71rF-44srfpcvorbA",
+      "etag": "HVrSHHB9uix4z1TK0ye6iA-hnAw",
       "id": "OIf7h1vXOiRp-6H39UfJ3ZfgDYFuLHHe1HBUB4Hgfs0",
       "snippet": {
         "publishedAt": "2026-01-27T14:17:03.442839Z",
@@ -9086,14 +9055,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 38280,
+        "totalItemCount": 38942,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "nuQdAucEqtHA9ixEScbYeG4t_CU",
+      "etag": "Dsof2nvEXKpK5ovj6xX6UJ248a8",
       "id": "OIf7h1vXOiRYNwGA0E3AWhkfj0dr1bt0-ajiMXx37Bk",
       "snippet": {
         "publishedAt": "2026-02-02T04:52:41.414249Z",
@@ -9117,7 +9086,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1010,
+        "totalItemCount": 1027,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -9217,7 +9186,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "EDHJw6CiFJXcDPfWq7SC2WgTkkA",
+      "etag": "EoB98qPwo9tN66Kgqb0cddlFwMc",
       "id": "OIf7h1vXOiRYNwGA0E3AWlvGmGVMGZOnrIQxL_w3wYI",
       "snippet": {
         "publishedAt": "2025-09-17T08:33:38.814114Z",
@@ -9241,7 +9210,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 4827,
+        "totalItemCount": 4851,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -9279,7 +9248,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "F9ZC2DY7_dCzD3AtsjpjgyvdZxE",
+      "etag": "XUz1UEOHSgcJiev3i8Qqnt_ev9c",
       "id": "OIf7h1vXOiRp-6H39UfJ3eI98KIVy6Vqg-wVszi3aaE",
       "snippet": {
         "publishedAt": "2025-12-09T19:55:19.98512Z",
@@ -9303,14 +9272,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 448,
+        "totalItemCount": 450,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "RRH1nf9u-e5wBjSLVHEAeuMWZDA",
+      "etag": "PZz4i9LsST-kP5SUkvk15Uk3qlI",
       "id": "OIf7h1vXOiT-zuYU1AknPZzCKHASAxCzcurbCD4Pb74",
       "snippet": {
         "publishedAt": "2025-12-03T14:53:36.393513Z",
@@ -9334,14 +9303,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 5,
+        "totalItemCount": 10,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "bO7ThnpVfNO6uX95-JQ_UPoEIp0",
+      "etag": "ipDYAj2ae-yBeqyZ1A7_X4WxHgo",
       "id": "OIf7h1vXOiRYNwGA0E3AWnyCdX48dv8bdFHBcouRzZU",
       "snippet": {
         "publishedAt": "2024-12-26T08:32:51.484852Z",
@@ -9365,14 +9334,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 911,
+        "totalItemCount": 916,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "Yqni_8D6FfjsSogarySTjwuJP_g",
+      "etag": "PlkUpaUWdb0a8I8G0fpbD8yAIjc",
       "id": "OIf7h1vXOiRMhVaVUZpinhALEQyUfSFPjH4RwhlCAu4",
       "snippet": {
         "publishedAt": "2025-10-12T22:57:01.985764Z",
@@ -9396,14 +9365,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 504,
+        "totalItemCount": 505,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "5Xm4KzHGxpI6r8IMbkVHZHEGALk",
+      "etag": "TJpEjvY699s4VlGO901OWNhuSpM",
       "id": "OIf7h1vXOiT-zuYU1AknPVYZ_rQmpxhDiFFZNkzHNe4",
       "snippet": {
         "publishedAt": "2026-01-26T14:12:29.573879Z",
@@ -9427,7 +9396,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 62854,
+        "totalItemCount": 63337,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -9465,7 +9434,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "hvXcUpEi4N7ihIXFJeNvCK9T8Io",
+      "etag": "zzkGxGPZfBTaFjmsXF0bLqOPSlg",
       "id": "OIf7h1vXOiRMhVaVUZpinidyZKkJ_2z66QSS--GP8Vo",
       "snippet": {
         "publishedAt": "2026-01-11T23:51:13.60839Z",
@@ -9478,25 +9447,25 @@
         "channelId": "UCPS2alXY7fcD0IygPmskr8Q",
         "thumbnails": {
           "default": {
-            "url": "https://yt3.ggpht.com/itIUT5MXusrhjM9iwooQGNmcGtxvQcuqZt0pGlTY0XR9W4vov6vntOIO_YTHzUd3aMy8aJluEw=s88-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/Mh1-9QkVy3GhCI5Id5-M94IFQxj1AL63BWZ-g_Yovk-MKdB1UtHDJa8vD7VtmGrFy2oN2CzgZw=s88-c-k-c0x00ffffff-no-rj"
           },
           "medium": {
-            "url": "https://yt3.ggpht.com/itIUT5MXusrhjM9iwooQGNmcGtxvQcuqZt0pGlTY0XR9W4vov6vntOIO_YTHzUd3aMy8aJluEw=s240-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/Mh1-9QkVy3GhCI5Id5-M94IFQxj1AL63BWZ-g_Yovk-MKdB1UtHDJa8vD7VtmGrFy2oN2CzgZw=s240-c-k-c0x00ffffff-no-rj"
           },
           "high": {
-            "url": "https://yt3.ggpht.com/itIUT5MXusrhjM9iwooQGNmcGtxvQcuqZt0pGlTY0XR9W4vov6vntOIO_YTHzUd3aMy8aJluEw=s800-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/Mh1-9QkVy3GhCI5Id5-M94IFQxj1AL63BWZ-g_Yovk-MKdB1UtHDJa8vD7VtmGrFy2oN2CzgZw=s800-c-k-c0x00ffffff-no-rj"
           }
         }
       },
       "contentDetails": {
-        "totalItemCount": 3954,
+        "totalItemCount": 3980,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "aMgQUyZ81g6YxbiWhV8pjxKpvc8",
+      "etag": "UojB7xMqb3Jyj9a018yTS2qJNAo",
       "id": "OIf7h1vXOiRMhVaVUZpinsyXt4FLoAcAcPsGPsSsv2E",
       "snippet": {
         "publishedAt": "2025-10-08T09:46:28.239418Z",
@@ -9520,7 +9489,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1,
+        "totalItemCount": 8,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -9558,7 +9527,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "MqsQ49ehD4q4qcbkQTWNa6qa_xI",
+      "etag": "ljM9FdJDmEQerPA1tpmgj7MF-b8",
       "id": "OIf7h1vXOiRmF7UFqJiY0o8mshymlKNSPEFXf2O2kI8",
       "snippet": {
         "publishedAt": "2026-06-11T20:31:46.945881Z",
@@ -9582,14 +9551,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 44,
+        "totalItemCount": 47,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "HjGUXj6GZoOEPVFNE8XdXa6iZJ4",
+      "etag": "fRskRssJ55-1Vu7DGbN_Mf223TE",
       "id": "OIf7h1vXOiRMhVaVUZpinhZIDEH-EkNIDNLftxJmF8o",
       "snippet": {
         "publishedAt": "2024-09-24T17:33:27.561882Z",
@@ -9613,7 +9582,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 5827,
+        "totalItemCount": 5849,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -9651,7 +9620,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "4BU4R9k7M3CLcdoAGAIcKlM2O9k",
+      "etag": "HJd08RLQvsIxqz8kIkZv5AEfQ2o",
       "id": "OIf7h1vXOiRMhVaVUZpinmpX-TSUoay8IlMdr6w2V_s",
       "snippet": {
         "publishedAt": "2024-10-10T16:27:45.072233Z",
@@ -9675,14 +9644,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 3795,
+        "totalItemCount": 3802,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "Sea7_XHGj4yIUBGlG4ALAsDEFyQ",
+      "etag": "aHp_xYhUuWLsjSLZCN3YWN5gyE8",
       "id": "OIf7h1vXOiRYNwGA0E3AWj1MJt0j0cFJpX7H9RJxRG0",
       "snippet": {
         "publishedAt": "2026-01-07T14:48:10.253452Z",
@@ -9706,7 +9675,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 4962,
+        "totalItemCount": 4984,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -9806,7 +9775,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "HMBr-SpIVboo2W8GLoKi5u7YH-Y",
+      "etag": "TTgoQmnFUbRhdGa5XBbLOObGN7I",
       "id": "OIf7h1vXOiRMhVaVUZpinuOIFELcQ2fBmNZdakyL9C8",
       "snippet": {
         "publishedAt": "2026-01-27T14:33:09.222856Z",
@@ -9830,7 +9799,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 18524,
+        "totalItemCount": 18557,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -9868,7 +9837,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "4lg6wI7_ufjEZUHzyEo2zWh8lAA",
+      "etag": "ovnAZcxsE3gr5eMfU7tMSWy2NHU",
       "id": "OIf7h1vXOiRYNwGA0E3AWjksGmJghqgcIyTVe-H2RCU",
       "snippet": {
         "publishedAt": "2024-11-05T11:04:22.792737Z",
@@ -9892,7 +9861,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 1805,
+        "totalItemCount": 1817,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -9930,7 +9899,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "DzcgCig1_GTovnQU_Z214li1eh8",
+      "etag": "Q0yvlEFXa5l3g8XQ3jh5KTElmWc",
       "id": "OIf7h1vXOiRMhVaVUZpini8hP2DKAycwgQnAI1VrXoI",
       "snippet": {
         "publishedAt": "2026-01-27T14:19:16.175255Z",
@@ -9954,7 +9923,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 185301,
+        "totalItemCount": 185530,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -9992,7 +9961,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "hFoEnrKN9XEfode9NagNgI4E85k",
+      "etag": "j90zAan6or4Jrw9fm6MpfeO2LRw",
       "id": "OIf7h1vXOiRMhVaVUZpinl4CA0KpppaJd19oq8fHr7I",
       "snippet": {
         "publishedAt": "2026-03-15T19:28:23.510701Z",
@@ -10016,14 +9985,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 449,
+        "totalItemCount": 451,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "gN1wFv_22rIs-Z_9wgeGJ9L8Fsc",
+      "etag": "2EQUncgQIcccSWflyBGtzjDQiOA",
       "id": "OIf7h1vXOiRMhVaVUZpinqxy5Qsqs8BkUthB_hLKd4Y",
       "snippet": {
         "publishedAt": "2026-01-11T23:52:59.348273Z",
@@ -10047,7 +10016,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 44112,
+        "totalItemCount": 44190,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -10116,7 +10085,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "wH8jP5Jauw4e7dE6KS0DM11krlo",
+      "etag": "XNxdSe-GZv1XuMRt45ARm58Y1C0",
       "id": "OIf7h1vXOiRHF3hkRxKsdRjQeDea3zrGtnt1TuHSt2Y",
       "snippet": {
         "publishedAt": "2026-02-26T11:37:06.846421Z",
@@ -10140,14 +10109,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 93,
+        "totalItemCount": 95,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "42SO8RfnN88n3njJPhc69v6_EQg",
+      "etag": "biP4WUaRR18f_DRWO27TVJk7OUs",
       "id": "OIf7h1vXOiRMhVaVUZpinmiOBW9cqgfT-ZojnuwPDqI",
       "snippet": {
         "publishedAt": "2024-10-31T18:51:27.598603Z",
@@ -10171,14 +10140,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 766,
+        "totalItemCount": 770,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "njMFvjMcLFomaJnqWAjb6MY-Zx0",
+      "etag": "0S3TXDnF0FM5hcjGjcv6WxvMQk0",
       "id": "OIf7h1vXOiRMhVaVUZpinqDHAsr9UntgIca3FEC4F0A",
       "snippet": {
         "publishedAt": "2024-10-13T04:23:22.884528Z",
@@ -10202,7 +10171,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 298,
+        "totalItemCount": 299,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -10240,7 +10209,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "uOilutAOcGd-Y7mXFn2YTiQz_mc",
+      "etag": "Yj06_aRa4UaOdWKPCj-PQLr65V0",
       "id": "OIf7h1vXOiSYYKaloSRPs9raWoD2dsFUZY0t4I0-hlo",
       "snippet": {
         "publishedAt": "2026-02-16T22:30:54.420652Z",
@@ -10264,7 +10233,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 578,
+        "totalItemCount": 580,
         "newItemCount": 0,
         "activityType": "uploads"
       }
@@ -10302,7 +10271,7 @@
     },
     {
       "kind": "youtube#subscription",
-      "etag": "BDicUIQhiAR0gJiEpZrEuYaYdhk",
+      "etag": "anE4-TJ_w8b8fN49UZyz2Jy8WxM",
       "id": "OIf7h1vXOiRMhVaVUZpint9itmKsvwwKVafwI1pho00",
       "snippet": {
         "publishedAt": "2025-07-11T21:15:59.776441Z",
@@ -10315,25 +10284,25 @@
         "channelId": "UCPS2alXY7fcD0IygPmskr8Q",
         "thumbnails": {
           "default": {
-            "url": "https://yt3.ggpht.com/4lLm7if3eYeV8UZvmyCNnLDOkRKq0ihuPirpUdBbnsdkutpcHuTGCDmMDnwoAMOqjc84pGYUfzA=s88-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/FrHH-6JBZ_C3R-pz6WWmrS9wKVhnaf7CD5nkhAtSbX8XzmPG_0NGmqHvCn5TEZHX6Sl0-JgEIw=s88-c-k-c0x00ffffff-no-rj"
           },
           "medium": {
-            "url": "https://yt3.ggpht.com/4lLm7if3eYeV8UZvmyCNnLDOkRKq0ihuPirpUdBbnsdkutpcHuTGCDmMDnwoAMOqjc84pGYUfzA=s240-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/FrHH-6JBZ_C3R-pz6WWmrS9wKVhnaf7CD5nkhAtSbX8XzmPG_0NGmqHvCn5TEZHX6Sl0-JgEIw=s240-c-k-c0x00ffffff-no-rj"
           },
           "high": {
-            "url": "https://yt3.ggpht.com/4lLm7if3eYeV8UZvmyCNnLDOkRKq0ihuPirpUdBbnsdkutpcHuTGCDmMDnwoAMOqjc84pGYUfzA=s800-c-k-c0x00ffffff-no-rj"
+            "url": "https://yt3.ggpht.com/FrHH-6JBZ_C3R-pz6WWmrS9wKVhnaf7CD5nkhAtSbX8XzmPG_0NGmqHvCn5TEZHX6Sl0-JgEIw=s800-c-k-c0x00ffffff-no-rj"
           }
         }
       },
       "contentDetails": {
-        "totalItemCount": 411,
+        "totalItemCount": 415,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "reB3uZXh5wVCtg7LlYJjHSUdfx8",
+      "etag": "-K7UBFNlOzOl4BVG8nYDqkNen1Y",
       "id": "OIf7h1vXOiRHF3hkRxKsdXm0tFS82gMvTLjl1tXaxxY",
       "snippet": {
         "publishedAt": "2026-01-27T14:32:25.232562Z",
@@ -10357,14 +10326,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 13201,
+        "totalItemCount": 13398,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "mqMm-AMXfRLkS2tzxYDJx7KZxhQ",
+      "etag": "AJ66a6Ts3YEx2dn4PXSnH52GgD0",
       "id": "OIf7h1vXOiT-zuYU1AknPW7DEUl0IwyuKcF1DjpJrvw",
       "snippet": {
         "publishedAt": "2025-09-28T21:25:09.452144Z",
@@ -10388,14 +10357,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 5581,
+        "totalItemCount": 5671,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "GQ52B0hkLbduoOM_Ao4WW1e3JIQ",
+      "etag": "vmDgNSb7Oi0pDAqEo32JqScld2s",
       "id": "OIf7h1vXOiRmF7UFqJiY0maZfTSQKiMq_seO5F3RYJs",
       "snippet": {
         "publishedAt": "2026-07-29T06:25:17.253473Z",
@@ -10419,14 +10388,14 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 322,
+        "totalItemCount": 324,
         "newItemCount": 0,
         "activityType": "uploads"
       }
     },
     {
       "kind": "youtube#subscription",
-      "etag": "AhfQ5oZM-J0vAjla7Xwcn_AkowE",
+      "etag": "_1GYqceHjaQQrf3WiNCzmDZksjI",
       "id": "OIf7h1vXOiRMhVaVUZpiniMyG0SDEk0J02JSjl4Ufvs",
       "snippet": {
         "publishedAt": "2024-09-24T17:33:42.813913Z",
@@ -10450,7 +10419,7 @@
         }
       },
       "contentDetails": {
-        "totalItemCount": 3630,
+        "totalItemCount": 3634,
         "newItemCount": 0,
         "activityType": "uploads"
       }
