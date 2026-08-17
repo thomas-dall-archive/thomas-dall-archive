@@ -5,6 +5,7 @@ date: 2026-08-17
 youtube_id: "IYBe1UsmRbA"
 channel: 'Thomas Dall Archive'
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-08-17-thomas-dall-tim-dooley-yells-at-neighbor-iybe1usmrba"
 ---
 
 ### Video Information
