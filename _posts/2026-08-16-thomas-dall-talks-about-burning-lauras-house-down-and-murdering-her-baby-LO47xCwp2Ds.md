@@ -5,6 +5,7 @@ date: 2026-08-16
 youtube_id: "LO47xCwp2Ds"
 channel: 'Jan Dall'
 category: ["Thomas", "Jan Dall"]
+ia_id: "thomas-dall-archive-2026-08-16-thomas-dall-talks-about-burning-laura-lo47xcwp2ds"
 ---
 
 ### Video Information

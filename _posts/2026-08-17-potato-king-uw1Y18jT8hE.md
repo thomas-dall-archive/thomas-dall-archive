@@ -5,6 +5,7 @@ date: 2026-08-17
 youtube_id: "uw1Y18jT8hE"
 channel: 'Duxzenji'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-08-17-potato-king-uw1y18jt8he"
 ---
 
 ### Video Information
