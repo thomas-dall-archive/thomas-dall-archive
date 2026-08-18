@@ -254,7 +254,7 @@ A significant portion of the evidence regarding Thomas Dall / Tim Dooley is diff
 ### Verified Account Terminations and Past Platforms
 The subject has been deplatformed from the following services for conduct that violates universal safety standards, specifically regarding harassment, graphic threats, the targeting of individuals, and hate speech.
 
-* **Twitch:** Multiple accounts (e.g., **jeffbezosofficial**, **currentworldevents**, **cantescapefate**, **PotatoOfLife /(August 2026/)**) permanently suspended for "Abusive Behavior" and "Harassment".
+* **Twitch:** Multiple accounts (e.g., **jeffbezosofficial**, **currentworldevents**, **cantescapefate**, **PotatoOfLife (August 2026)**) permanently suspended for "Abusive Behavior" and "Harassment".
 * **YouTube:** Frequent channel (e.g., **invisible man**, **8mbit**, **RationalPotato**) terminations resulting in the loss of primary source broadcasts.
 * **X (Twitter):** Historical account **Kittystyle420** suspended following targeted harassment campaigns and TOS-breaking rhetoric.
 * **Kick.com:** Permanent removal of account **potato69** following broadcasts involving prohibited threats and hostile conduct.
