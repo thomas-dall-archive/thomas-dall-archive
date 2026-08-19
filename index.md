@@ -254,8 +254,8 @@ A significant portion of the evidence regarding Thomas Dall / Tim Dooley is diff
 ### Verified Account Terminations and Past Platforms
 The subject has been deplatformed from the following services for conduct that violates universal safety standards, specifically regarding harassment, graphic threats, the targeting of individuals, and hate speech.
 
-* **Twitch:** Multiple accounts (e.g., **jeffbezosofficial**, **currentworldevents**, **cantescapefate**, **PotatoOfLife (August 2026)**) permanently suspended for "Abusive Behavior" and "Harassment".
-* **YouTube:** Frequent channel (e.g., **invisible man**, **8mbit**, **RationalPotato**) terminations resulting in the loss of primary source broadcasts.
+* **Twitch:** Multiple accounts (e.g., **jeffbezosofficial**, **currentworldevents**, **cantescapefate**) permanently suspended for "Abusive Behavior" and "Harassment".
+* **YouTube:** Frequent channel (e.g., **invisible man, 8mbit, RationalPotato, PotatoOfLife (August 2026)** ) terminations resulting in the loss of primary source broadcasts.
 * **X (Twitter):** Historical account **Kittystyle420** suspended following targeted harassment campaigns and TOS-breaking rhetoric.
 * **Kick.com:** Permanent removal of account **potato69** following broadcasts involving prohibited threats and hostile conduct.
 * **Rumble.com:** Account **Potatoism** terminated for violations involving hate speech and inciting behavior.
@@ -346,3 +346,4 @@ The information contained in this archive is compiled from **publicly available 
 2. **Factuality:** Every claim is supported by direct primary source evidence. This site does not host "opinions," but rather indexes the subject’s own public admissions.
 3. **No Harassment:** This archive is a passive documentation project. It does not encourage or facilitate contact with the subject or any third parties mentioned herein.
 4. **Fair Use:** Video snippets and transcripts are utilized under Fair Use for the purposes of criticism, comment, and news reporting.
+
