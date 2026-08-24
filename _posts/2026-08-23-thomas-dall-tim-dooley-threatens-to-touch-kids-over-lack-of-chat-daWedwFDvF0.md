@@ -5,6 +5,7 @@ date: 2026-08-23
 youtube_id: "daWedwFDvF0"
 channel: 'Thomas Dall Archive'
 category: ["Thomas", "Thomas Dall Archive"]
+ia_id: "thomas-dall-archive-2026-08-23-thomas-dall-tim-dooley-threatens-to-touch-kids-over-lack-of-chat-dawe"
 ---
 
 ### Video Information
