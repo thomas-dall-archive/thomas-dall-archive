@@ -5,6 +5,7 @@ date: 2026-08-30
 youtube_id: "h7utlqVbcA0"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-08-30-timbo-copes-with-being-ignored-h7utlqvbca0"
 ---
 
 ### Video Information
