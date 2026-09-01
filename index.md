@@ -67,7 +67,7 @@ The following accounts are the primary verified outlets for the subject. These l
 
 * **YouTube:** [The Potato of Life (Banned Aug 2026)](https://www.youtube.com/@PotatoOfLife)
 * **YouTube:** [Tim Dooley (Ban Evasion Account)](https://www.youtube.com/@TheGodFatherTim)
-* **X (Twitter):** [@Rational_Potato](https://x.com/Rational_Potato))
+* **X (Twitter):** [@Rational_Potato](https://x.com/Rational_Potato)
 
 ---
 
