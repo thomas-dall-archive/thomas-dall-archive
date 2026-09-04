@@ -5,6 +5,7 @@ date: 2026-06-22
 youtube_id: "3EPAHhPuShw"
 channel: 'One-Six-Four-One-Seven'
 category: ["Thomas", "One-Six-Four-One-Seven"]
+ia_id: "thomas-dall-archive-2026-06-22-thomas-dall-tim-dooleypotato-of-life-has-negative-music-ability-3epah"
 ---
 
 ### Video Information

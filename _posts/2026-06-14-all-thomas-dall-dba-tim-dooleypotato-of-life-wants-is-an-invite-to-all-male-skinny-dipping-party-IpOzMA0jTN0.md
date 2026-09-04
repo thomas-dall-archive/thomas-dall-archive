@@ -5,6 +5,7 @@ date: 2026-06-14
 youtube_id: "IpOzMA0jTN0"
 channel: 'One-Six-Four-One-Seven'
 category: ["Thomas", "One-Six-Four-One-Seven"]
+ia_id: "thomas-dall-archive-2026-06-14-all-thomas-dall-dba-tim-dooleypotato-of-life-wants-is-an-invite-to-al"
 ---
 
 ### Video Information

@@ -5,6 +5,7 @@ date: 2026-07-07
 youtube_id: "bzaarT46dvY"
 channel: 'One-Six-Four-One-Seven'
 category: ["Thomas", "One-Six-Four-One-Seven"]
+ia_id: "thomas-dall-archive-2026-07-07-thomas-dall-tim-dooleypotato-of-life-tells-chatgpt-he-bzaart46dvy"
 ---
 
 ### Video Information

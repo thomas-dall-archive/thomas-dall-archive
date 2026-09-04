@@ -5,6 +5,7 @@ date: 2026-06-13
 youtube_id: "FjgO8QKjNzY"
 channel: 'One-Six-Four-One-Seven'
 category: ["Thomas", "One-Six-Four-One-Seven"]
+ia_id: "thomas-dall-archive-2026-06-13-the-worst-person-you-fjgo8qkjnzy"
 ---
 
 ### Video Information
