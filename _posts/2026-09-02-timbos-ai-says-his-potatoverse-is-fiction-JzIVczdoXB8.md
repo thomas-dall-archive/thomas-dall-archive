@@ -5,6 +5,7 @@ date: 2026-09-02
 youtube_id: "JzIVczdoXB8"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-09-02-timbo-jzivczdoxb8"
 ---
 
 ### Video Information
