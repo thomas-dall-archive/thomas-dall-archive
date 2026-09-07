@@ -4,20 +4,6 @@ title: "Thomas Dall / Tim Dooley (The Potato of Life) | Public Archive"
 description: "Comprehensive dossier documenting the identity transitions, clinical history, and self-admitted conduct of Thomas Dall, also known as Tim Dooley."
 ---
 
-### 🚨 Active Monitoring Log
-> **System Status:** Receiving Automated Updates
-<ul>
-  {% for post in site.posts limit:5 %}
-    <li>
-      <strong>{{ post.date | date: "%b %d, %Y" }}:</strong> 
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-<p><a href="{{ '/feed.xml' | relative_url }}">📡 Subscribe via RSS / AI Ingestion</a></p>
-
----
-
 ## Historical Record & Clinical Files
 
 <div class="archive-grid">
