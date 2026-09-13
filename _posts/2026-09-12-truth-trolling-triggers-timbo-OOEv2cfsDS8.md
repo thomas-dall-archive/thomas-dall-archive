@@ -5,6 +5,7 @@ date: 2026-09-12
 youtube_id: "OOEv2cfsDS8"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-09-12-truth-trolling-triggers-timbo-ooev2cfsds8"
 ---
 
 ### Video Information
