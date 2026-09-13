@@ -5,6 +5,7 @@ date: 2026-09-13
 youtube_id: "YtantfQtNjw"
 channel: 'Dim Tooley'
 category: ["Thomas", "Dim Tooley"]
+ia_id: "thomas-dall-archive-2026-09-13-thomas-dall-gets-invited-to-memphis-verbally-assaults-a-woman-then-ge"
 ---
 
 ### Video Information
