@@ -5,6 +5,7 @@ date: 2026-09-15
 youtube_id: "xgYs777KwG0"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-09-15-timbotoa-erupts-at-woman-on-her-own-panel-xgys777kwg0"
 ---
 
 ### Video Information

@@ -5,6 +5,7 @@ date: 2026-09-15
 youtube_id: "sR3l48STzOI"
 channel: '420Moon☪️💚'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-09-15-truthtellers-91526-sr3l48stzoi"
 ---
 
 ### Video Information
