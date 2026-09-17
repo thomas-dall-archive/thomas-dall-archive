@@ -5,6 +5,7 @@ date: 2026-09-16
 youtube_id: "yHhuXwjL8D8"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-09-16-timbotoa-erupts-again-plays-victim-yhhuxwjl8d8"
 ---
 
 ### Video Information
