@@ -5,6 +5,7 @@ date: 2026-09-23
 youtube_id: "tlhOfSATqW4"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-09-23-timbotoa-erupts-at-neighbors-lolcow-looking-to-make-friends-tlhofsatq"
 ---
 
 ### Video Information

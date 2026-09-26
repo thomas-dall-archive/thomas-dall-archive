@@ -5,6 +5,7 @@ date: 2026-09-21
 youtube_id: "MqPGhf2v4w4"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-09-21-timbo-blows-off-new-community-to-have-tweet-battle-then-can-mqpghf2v4"
 ---
 
 ### Video Information
