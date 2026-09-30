@@ -5,6 +5,7 @@ date: 2026-09-30
 youtube_id: "WHotJUmGtqs"
 channel: '420Moon☪️💚'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-09-30-twitterss-92926-whotjumgtqs"
 ---
 
 ### Video Information

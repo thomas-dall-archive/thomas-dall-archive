@@ -5,6 +5,7 @@ date: 2026-09-29
 youtube_id: "8SjHm24bmmk"
 channel: '420Moon☪️💚'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-09-29-dim-tooley-txt-91826-8sjhm24bmmk"
 ---
 
 ### Video Information
