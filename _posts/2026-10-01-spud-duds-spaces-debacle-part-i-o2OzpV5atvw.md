@@ -5,6 +5,7 @@ date: 2026-10-01
 youtube_id: "o2OzpV5atvw"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-10-01-spud-dud-o2ozpv5atvw"
 ---
 
 ### Video Information
