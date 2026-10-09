@@ -5,6 +5,7 @@ date: 2026-10-08
 youtube_id: "x13w4nKeWxE"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-10-08-timbo-too-dumb-to-understand-ai-again-x13w4nkewxe"
 ---
 
 ### Video Information

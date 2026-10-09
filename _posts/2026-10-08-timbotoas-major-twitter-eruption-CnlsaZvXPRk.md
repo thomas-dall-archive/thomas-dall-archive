@@ -5,6 +5,7 @@ date: 2026-10-08
 youtube_id: "CnlsaZvXPRk"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-10-08-timbotoa-cnlsazvxprk"
 ---
 
 ### Video Information

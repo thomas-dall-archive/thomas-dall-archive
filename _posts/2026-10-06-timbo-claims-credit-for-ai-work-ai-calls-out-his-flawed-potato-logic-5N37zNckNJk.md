@@ -5,6 +5,7 @@ date: 2026-10-06
 youtube_id: "5N37zNckNJk"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-10-06-timbo-claims-credit-for-ai-work-ai-calls-out-his-flawed-potato-logic-"
 ---
 
 ### Video Information
