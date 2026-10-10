@@ -5,6 +5,7 @@ date: 2026-09-27
 youtube_id: "Lt9AUVoYIvY"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-09-27-timbo-repays-kindness-with-selfishness-lt9auvoyivy"
 ---
 
 ### Video Information

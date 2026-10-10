@@ -5,6 +5,7 @@ date: 2026-10-09
 youtube_id: "R4z0XHD-mMc"
 channel: '420Moon☪️💚'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-10-09-mbmmissionary-r4z0xhd-mmc"
 ---
 
 ### Video Information
