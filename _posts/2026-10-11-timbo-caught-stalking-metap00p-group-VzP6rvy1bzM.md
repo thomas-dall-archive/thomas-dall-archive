@@ -5,6 +5,7 @@ date: 2026-10-11
 youtube_id: "VzP6rvy1bzM"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-10-11-timbo-caught-stalking-metap00p-group-vzp6rvy1bzm"
 ---
 
 ### Video Information
