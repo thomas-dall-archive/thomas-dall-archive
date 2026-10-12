@@ -5,6 +5,7 @@ date: 2026-10-11
 youtube_id: "_4iRxf6MmPc"
 channel: '420Moon☪️💚'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-10-11-twitters-and-10826--4irxf6mmpc"
 ---
 
 ### Video Information

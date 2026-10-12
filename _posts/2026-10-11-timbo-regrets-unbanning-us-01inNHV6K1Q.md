@@ -5,6 +5,7 @@ date: 2026-10-11
 youtube_id: "01inNHV6K1Q"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-10-11-timbo-regrets-unbanning-us-01innhv6k1q"
 ---
 
 ### Video Information
