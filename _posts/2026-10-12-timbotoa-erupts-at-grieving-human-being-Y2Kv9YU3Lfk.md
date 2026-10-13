@@ -5,6 +5,7 @@ date: 2026-10-12
 youtube_id: "Y2Kv9YU3Lfk"
 channel: 'Roboto San'
 category: ["commentary"]
+ia_id: "thomas-dall-archive-2026-10-12-timbotoa-erupts-at-grieving-human-being-y2kv9yu3lfk"
 ---
 
 ### Video Information
