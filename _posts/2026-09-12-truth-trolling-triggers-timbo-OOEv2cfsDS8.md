@@ -6,6 +6,8 @@ youtube_id: "OOEv2cfsDS8"
 channel: 'Roboto San'
 category: ["commentary"]
 ia_id: "thomas-dall-archive-2026-09-12-truth-trolling-triggers-timbo-ooev2cfsds8"
+ia_id: "thomas-dall-archive-2024-12-03-potato-lenemegow-8"
+ia_id: "thomas-dall-archive-2025-01-20-kittystyle-tim-dooley-paternal-ctpgggvrf-8"
 ---
 
 ### Video Information
